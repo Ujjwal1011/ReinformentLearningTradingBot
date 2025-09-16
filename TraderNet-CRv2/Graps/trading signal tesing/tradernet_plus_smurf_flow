@@ -1,0 +1,26 @@
+// TraderNet + Smurf Agent Flow
+digraph TraderNet_Plus_Smurf {
+	fontsize=16 label="Diagram 2: TraderNet + Smurf Mechanism" labelloc=t pad=0.5 rankdir=LR
+	MarketData [label="Crypto Market Data
+(Features, Prices)" fillcolor=lightblue shape=cylinder style=filled]
+	subgraph cluster_decision {
+		color=lightgrey label="Decision Logic" style=filled
+		SmurfAgent [label="Smurf DRL Agent
+- Policy π_smurf(S) -> A_smurf" fillcolor=lightcoral shape=Mdiamond style=filled]
+		TraderNetAgent [label="TraderNet DRL Agent
+- Policy π_tn(S) -> A_tn" fillcolor=palegreen shape=Mdiamond style=filled]
+		DecisionPoint [label="Smurf Override Logic" fillcolor=moccasin shape=diamond style=filled]
+	}
+	FinalAction [label="System Action
+(Buy/Sell/System Hold)" fillcolor=lightyellow shape=ellipse style=filled]
+	Broker [label="Simulated Broker
+(Execute Action, Calculate PNL)" fillcolor=lightgrey shape=component style=filled]
+	SystemReward [label="System Reward/PNL" fillcolor=lightpink shape=parallelogram style=filled]
+	MarketData -> SmurfAgent [label="State (S)"]
+	MarketData -> TraderNetAgent [label="State (S)"]
+	SmurfAgent -> DecisionPoint [label="A_smurf (Override?)"]
+	TraderNetAgent -> DecisionPoint [label="A_tn (Proposed)"]
+	DecisionPoint -> FinalAction [label=Determines]
+	FinalAction -> Broker
+	Broker -> SystemReward
+}

@@ -1,0 +1,81 @@
+// RL Training Pipelines for TraderNet and Smurf
+digraph RL_Training_Pipelines {
+	fontsize=20 label="TraderNet & Smurf Agent Training Pipelines" labelloc=t rankdir=TB
+	DATA_PREPROCESSED_CSVS [label="Preprocessed Datasets (CSVs)
+(from download_datasets.py & config.py)" fillcolor=lightyellow shape=folder style=filled]
+	subgraph cluster_env_setup_shared {
+		color=lightgrey label="Shared Environment Setup Steps (within each .ipynb)" rank=same style=filled
+		LOAD_CSVS [label="1. Load CSVs
+(config.regression_features)" shape=box]
+		SCALER [label="2. MinMaxScaler
+(sklearn)" shape=box]
+		TIME_FRAMES [label="3. Timeframe Creation
+(numpy slicing)" shape=box]
+		TF_PY_ENV_SHARED [label="7. TFPyEnvironment
+(tf_agents)" shape=box]
+		LOAD_CSVS -> SCALER
+		SCALER -> TIME_FRAMES
+	}
+	subgraph cluster_tradernet_pipeline {
+		color=palegreen1 label="train_tradernet.ipynb Pipeline" style=filled
+		TRAIN_TRADERNET_NB [label="train_tradernet.ipynb" shape=note]
+		TRADERNET_REWARD_FN [label="4a. Base Reward Function
+(MarketLimitOrderRF / MarketOrderRF)" fillcolor=lightpink shape=septagon style=filled]
+		TRADERNET_TRADING_ENV [label="5a. TradingEnvironment
+(states, reward_fn, metrics)" fillcolor=moccasin shape=house style=filled]
+		TRADERNET_TF_ENV_WRAP [label="6a. TFTradingEnvironment" shape=box]
+		TRADERNET_AGENT_DEF [label="8a. Define TraderNet Agent
+(DQNAgent / PPOAgent)" fillcolor=lightskyblue shape=ellipse style=filled]
+		TRADERNET_INIT [label="9a. Initialize Agent
+(agent.initialize())" shape=box]
+		TRADERNET_TRAIN_LOOP [label="10a. Training Loop
+(agent.train())
+- Collect Experience
+- Update Policy" fillcolor=lightgoldenrod shape=Mdiamond style=filled]
+		TRADERNET_CHECKPOINTS [label="11a. Save Checkpoints (TraderNet)
+(database/storage/checkpoints/tradernet/)" fillcolor=tan shape=folder style=filled]
+		TRAIN_TRADERNET_NB -> TRADERNET_REWARD_FN [label="defines/uses"]
+		TRADERNET_REWARD_FN -> TRADERNET_TRADING_ENV [label=reward_fn]
+		TRADERNET_TRADING_ENV -> TRADERNET_TF_ENV_WRAP
+		TRADERNET_TF_ENV_WRAP -> TF_PY_ENV_SHARED [label="wraps to create tf_train_env, tf_eval_env"]
+		TRAIN_TRADERNET_NB -> TRADERNET_AGENT_DEF [label="defines/uses"]
+		TRADERNET_AGENT_DEF -> TRADERNET_INIT
+		TRADERNET_INIT -> TRADERNET_TRAIN_LOOP
+		TF_PY_ENV_SHARED -> TRADERNET_TRAIN_LOOP [label="interacts with"]
+		TRADERNET_TRAIN_LOOP -> TRADERNET_CHECKPOINTS
+	}
+	subgraph cluster_smurf_pipeline {
+		color=lightcyan label="train_smurf.ipynb Pipeline" style=filled
+		TRAIN_SMURF_NB [label="train_smurf.ipynb" shape=note]
+		SMURF_BASE_REWARD_FN [label="4b. Base Reward Function
+(MarketLimitOrderRF / MarketOrderRF)" fillcolor=lightpink shape=septagon style=filled]
+		SMURF_REWARD_FN_WRAP [label="4c. SmurfRewardFunction
+(wraps base RF to modify HOLD reward)" fillcolor=salmon shape=septagon style=filled]
+		SMURF_TRADING_ENV [label="5b. TradingEnvironment
+(states, smurf_reward_fn, metrics)" fillcolor=moccasin shape=house style=filled]
+		SMURF_TF_ENV_WRAP [label="6b. TFTradingEnvironment" shape=box]
+		SMURF_AGENT_DEF [label="8b. Define Smurf Agent
+(DQNAgent / PPOAgent)" fillcolor=lightskyblue shape=ellipse style=filled]
+		SMURF_INIT [label="9b. Initialize Agent
+(agent.initialize())" shape=box]
+		SMURF_TRAIN_LOOP [label="10b. Training Loop
+(agent.train())
+- Collect Experience
+- Update Policy" fillcolor=lightgoldenrod shape=Mdiamond style=filled]
+		SMURF_CHECKPOINTS [label="11b. Save Checkpoints (Smurf)
+(database/storage/checkpoints/smurf/)" fillcolor=tan shape=folder style=filled]
+		TRAIN_SMURF_NB -> SMURF_BASE_REWARD_FN [label="defines/uses"]
+		SMURF_BASE_REWARD_FN -> SMURF_REWARD_FN_WRAP [label="is wrapped by"]
+		SMURF_REWARD_FN_WRAP -> SMURF_TRADING_ENV [label=reward_fn]
+		SMURF_TRADING_ENV -> SMURF_TF_ENV_WRAP
+		SMURF_TF_ENV_WRAP -> TF_PY_ENV_SHARED [label="wraps to create tf_train_env, tf_eval_env"]
+		TRAIN_SMURF_NB -> SMURF_AGENT_DEF [label="defines/uses"]
+		SMURF_AGENT_DEF -> SMURF_INIT
+		SMURF_INIT -> SMURF_TRAIN_LOOP
+		TF_PY_ENV_SHARED -> SMURF_TRAIN_LOOP [label="interacts with"]
+		SMURF_TRAIN_LOOP -> SMURF_CHECKPOINTS
+	}
+	DATA_PREPROCESSED_CSVS -> LOAD_CSVS
+	TIME_FRAMES -> TRAIN_TRADERNET_NB [label="provides states" style=dashed]
+	TIME_FRAMES -> TRAIN_SMURF_NB [label="provides states" style=dashed]
+}

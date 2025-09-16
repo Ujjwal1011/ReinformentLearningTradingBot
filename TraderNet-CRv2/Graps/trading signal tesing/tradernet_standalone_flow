@@ -1,0 +1,20 @@
+// Standalone TraderNet Agent Flow
+digraph TraderNet_Standalone {
+	fontsize=16 label="Diagram 1: Standalone TraderNet Agent" labelloc=t pad=0.5 rankdir=LR
+	MarketData [label="Crypto Market Data
+(Features, Prices)" fillcolor=lightblue shape=cylinder style=filled]
+	TraderNetAgent [label="TraderNet DRL Agent
+(PPO/DQN)
+- Learns Policy π(S) -> A" fillcolor=palegreen shape=Mdiamond style=filled]
+	Action [label="Action
+(Buy/Sell/Hold)" fillcolor=lightyellow shape=ellipse style=filled]
+	Broker [label="Simulated Broker
+(Execute Action, Calculate PNL)" fillcolor=lightgrey shape=component style=filled]
+	Reward [label="Reward Signal
+(Financial Objective)" fillcolor=lightpink shape=parallelogram style=filled]
+	MarketData -> TraderNetAgent [label="State (S)"]
+	TraderNetAgent -> Action [label=Decides]
+	Action -> Broker
+	Broker -> Reward [label=Generates]
+	Reward -> TraderNetAgent [label="Learns From (R)"]
+}

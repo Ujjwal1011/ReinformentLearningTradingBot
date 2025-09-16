@@ -1,0 +1,57 @@
+// RL Training Pipeline for Smurf Agent
+digraph RL_Smurf_Training_Pipeline {
+	fontsize=20 label="Smurf Agent Training Pipeline (train_smurf.ipynb)" labelloc=t rankdir=TB
+	DATA_PREPROCESSED_CSVS [label="Preprocessed Datasets (CSVs)
+(from download_datasets.py & config.py)" fillcolor=lightyellow shape=folder style=filled]
+	subgraph cluster_env_setup_smurf {
+		color=lightgrey label="Environment Setup (in train_smurf.ipynb)" style=filled
+		LOAD_CSVS_SM [label="1. Load CSVs
+(config.regression_features)" shape=box]
+		SCALER_SM [label="2. MinMaxScaler
+(sklearn)" shape=box]
+		TIME_FRAMES_SM [label="3. Timeframe Creation
+(numpy slicing)" shape=box]
+		BASE_REWARD_FN_SM [label="4a. Define Base Reward Function
+(MarketLimitOrderRF / MarketOrderRF)" fillcolor=lightpink shape=septagon style=filled]
+		SMURF_REWARD_FN_SM [label="4b. Wrap with SmurfRewardFunction
+(modifies HOLD reward)" fillcolor=salmon shape=septagon style=filled]
+		TRADING_ENV_SM [label="5. TradingEnvironment
+(states, smurf_reward_fn, metrics)" fillcolor=moccasin shape=house style=filled]
+		TF_ENV_WRAP_SM [label="6. TFTradingEnvironment" shape=box]
+		TF_PY_ENV_SM [label="7. TFPyEnvironment (for training & eval)
+(tf_agents)" shape=box]
+		LOAD_CSVS_SM -> SCALER_SM
+		SCALER_SM -> TIME_FRAMES_SM
+		BASE_REWARD_FN_SM -> SMURF_REWARD_FN_SM [label="is wrapped by"]
+		TIME_FRAMES_SM -> TRADING_ENV_SM [label="provides states"]
+		SMURF_REWARD_FN_SM -> TRADING_ENV_SM [label="provides reward_fn"]
+		TRADING_ENV_SM -> TF_ENV_WRAP_SM
+		TF_ENV_WRAP_SM -> TF_PY_ENV_SM
+	}
+	SMURF_NB [label="train_smurf.ipynb" fillcolor=lightcyan shape=note style=filled]
+	subgraph cluster_agent_train_smurf {
+		color=lightskyblue label="Smurf Agent Training Logic" style=filled
+		AGENT_DEF_SM [label="8. Define Smurf Agent
+(DQNAgent / PPOAgent)" shape=ellipse]
+		AGENT_INIT_SM [label="9. Initialize Agent
+(agent.initialize())" shape=box]
+		TRAIN_LOOP_SM [label="10. Training Loop (agent.train())
+   - Agent interacts with TFPyEnvironment
+   - Collects Experience (Replay Buffer)
+   - Policy Updates (Actor/Critic Networks)" fillcolor=lightgoldenrod shape=Mdiamond style=filled]
+		EVAL_LOOP_SM [label="   - Periodic Evaluation in TFPyEnvironment (eval_env)" shape=box style=dashed]
+		CHECKPOINTS_SM [label="11. Save Checkpoints (Smurf)
+(database/storage/checkpoints/smurf/)" fillcolor=tan shape=folder style=filled]
+		RESULTS_SM [label="12. Training/Evaluation Metrics (CSVs for plotting)
+(experiments/smurf/)" fillcolor=lightgoldenrod2 shape=folder style=filled]
+		AGENT_DEF_SM -> AGENT_INIT_SM
+		AGENT_INIT_SM -> TRAIN_LOOP_SM
+		TRAIN_LOOP_SM -> EVAL_LOOP_SM [style=dashed]
+		TRAIN_LOOP_SM -> CHECKPOINTS_SM [label="saves model"]
+		TRAIN_LOOP_SM -> RESULTS_SM [label="logs metrics"]
+	}
+	DATA_PREPROCESSED_CSVS -> LOAD_CSVS_SM
+	SMURF_NB -> BASE_REWARD_FN_SM [label=configures]
+	SMURF_NB -> AGENT_DEF_SM [label=configures]
+	TF_PY_ENV_SM -> TRAIN_LOOP_SM [label="provides train_env & eval_env"]
+}

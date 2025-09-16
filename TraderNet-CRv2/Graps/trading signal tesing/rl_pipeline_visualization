@@ -1,0 +1,122 @@
+// RL Pipeline for TraderNet-CRv2
+digraph RL_Pipeline_TraderNet_CRv2 {
+	fontsize=20 label="TraderNet-CRv2 RL Pipeline Conceptual Flow" labelloc=t rankdir=TB
+	DATA_RAW [label="Raw Crypto Market Data
+(e.g., CoinAPI)" fillcolor=lightgoldenrodyellow shape=cylinder style=filled]
+	DATA_GTRENDS [label="Google Trends Data" fillcolor=lightgoldenrodyellow shape=cylinder style=filled]
+	DOWNLOAD_SCRIPT [label="download_datasets.py
+(config.py)" fillcolor=lightblue shape=parallelogram style=filled]
+	DATA_PREPROCESSED_CSVS [label="Preprocessed Datasets (CSVs)
+(database/storage/datasets/)" fillcolor=lightyellow shape=folder style=filled]
+	subgraph cluster_env_setup {
+		color=lightgrey label="Environment Setup & Feature Engineering (Common in .ipynb files)" style=filled
+		LOAD_CSVS [label="Load CSVs
+(config.regression_features)" shape=box]
+		SCALER [label="MinMaxScaler
+(sklearn)" shape=box]
+		"TIME FRAMES" [label="Timeframe Creation
+(numpy slicing)" shape=box]
+		REWARD_FN [label="Reward Function Definition
+(MarketLimitOrderRF, MarketOrderRF,
+SmurfRewardFunction)" fillcolor=lightpink shape=septagon style=filled]
+		TRADING_ENV [label="TradingEnvironment
+(environments/environment.py)" fillcolor=moccasin shape=house style=filled]
+		TF_ENV_WRAP [label="TFTradingEnvironment /
+TFRuleTradingEnvironment" shape=box]
+		TF_PY_ENV [label="TFPyEnvironment
+(tf_agents)" shape=box]
+		LOAD_CSVS -> SCALER
+		SCALER -> "TIME FRAMES"
+		"TIME FRAMES" -> TRADING_ENV [label=states]
+		REWARD_FN -> TRADING_ENV [label=reward_fn]
+		TRADING_ENV -> TF_ENV_WRAP
+		TF_ENV_WRAP -> TF_PY_ENV
+	}
+	TRAIN_TRADERNET_NB [label="train_tradernet.ipynb" fillcolor=palegreen shape=note style=filled]
+	TRAIN_SMURF_NB [label="train_smurf.ipynb" fillcolor=palegreen shape=note style=filled]
+	subgraph cluster_tradernet_agent {
+		color=lightskyblue label="TraderNet Agent Logic (PPO/DQN)" style=filled
+		TRADERNET_AGENT_DEF [label="DQNAgent / PPOAgent
+(agents/tfagents/)" shape=ellipse]
+		TRADERNET_POLICY [label="TraderNet Policy" shape=ellipse]
+		TRADERNET_TRAIN_LOOP [label="Training Loop
+(agent.train())" shape=box]
+		TRADERNET_CHECKPOINTS [label="Checkpoints (TraderNet)
+(database/storage/checkpoints/tradernet/)" fillcolor=tan shape=folder style=filled]
+		TRADERNET_AGENT_DEF -> TRADERNET_POLICY
+		TRADERNET_POLICY -> TRADERNET_TRAIN_LOOP [label=collect_policy]
+		TRADERNET_TRAIN_LOOP -> TRADERNET_AGENT_DEF [label=updates]
+		TRADERNET_TRAIN_LOOP -> TRADERNET_CHECKPOINTS [label=saves]
+	}
+	subgraph cluster_smurf_agent {
+		color=lightskyblue label="Smurf Agent Logic (PPO/DQN)" style=filled
+		SMURF_AGENT_DEF [label="DQNAgent / PPOAgent
+(agents/tfagents/)" shape=ellipse]
+		SMURF_POLICY [label="Smurf Policy" shape=ellipse]
+		SMURF_TRAIN_LOOP [label="Training Loop
+(agent.train())" shape=box]
+		SMURF_REWARD_FN [label="SmurfRewardFunction
+(wraps base RF)" fillcolor=lightpink shape=septagon style=filled]
+		SMURF_CHECKPOINTS [label="Checkpoints (Smurf)
+(database/storage/checkpoints/smurf/)" fillcolor=tan shape=folder style=filled]
+		SMURF_AGENT_DEF -> SMURF_POLICY
+		SMURF_POLICY -> SMURF_TRAIN_LOOP [label=collect_policy]
+		SMURF_TRAIN_LOOP -> SMURF_AGENT_DEF [label=updates]
+		SMURF_TRAIN_LOOP -> SMURF_CHECKPOINTS [label=saves]
+		SMURF_REWARD_FN -> SMURF_TRAIN_LOOP [label="provides rewards"]
+	}
+	INTEGRATION_NB [label="integration.ipynb" fillcolor=lightcoral shape=note style=filled]
+	TRADERNET_EVAL_NB [label="tradernet_eval.ipynb" fillcolor=lightcoral shape=note style=filled]
+	NCONSECUTIVE_NB [label="n_consecutive.ipynb" fillcolor=lightcoral shape=note style=filled]
+	SMURFING_EVAL_NB [label="smurfing.ipynb" fillcolor=lightcoral shape=note style=filled]
+	subgraph cluster_eval_logic {
+		color=lightgrey label="Evaluation Loop (in .ipynb files)" style=filled
+		LOAD_POLICIES [label="Load Policies
+(from Checkpoints)" shape=box]
+		SIMULATE [label="Simulate Trading in Env
+(env.step(action))" shape=box]
+		CALC_METRICS [label="Calculate Metrics
+(PNL, Sharpe, etc.)" shape=Mrecord]
+		EVAL_RESULTS [label="Results
+(CSVs, Plots)" fillcolor=lightgreen shape=folder style=filled]
+		LOAD_POLICIES -> SIMULATE [label="provides policy"]
+		SIMULATE -> CALC_METRICS [label="generates trajectory data"]
+		CALC_METRICS -> EVAL_RESULTS
+	}
+	NCONSECUTIVE_RULE [label="NConsecutive Rule
+(rules/nconsecutive.py)" fillcolor=lightcyan shape=parallelogram style=filled]
+	INTEGRATED_AGENT_LOGIC [label="Integrated Agent Logic
+(TraderNet + Smurf Override)" fillcolor=mediumpurple1 shape=Mdiamond style=filled]
+	DATA_RAW -> DOWNLOAD_SCRIPT
+	DATA_GTRENDS -> DOWNLOAD_SCRIPT
+	DOWNLOAD_SCRIPT -> DATA_PREPROCESSED_CSVS
+	DATA_PREPROCESSED_CSVS -> LOAD_CSVS
+	TF_PY_ENV -> TRAIN_TRADERNET_NB [label="train_env, eval_env"]
+	TRAIN_TRADERNET_NB -> TRADERNET_TRAIN_LOOP [label=triggers]
+	TF_PY_ENV -> TRAIN_SMURF_NB [label="train_env, eval_env (with SmurfRewardFunction)"]
+	TRAIN_SMURF_NB -> SMURF_TRAIN_LOOP [label=triggers]
+	REWARD_FN -> SMURF_REWARD_FN [label="is wrapped by" style=dashed]
+	TF_PY_ENV -> INTEGRATION_NB [label="eval_env (TFRuleTradingEnv)"]
+	TRADERNET_CHECKPOINTS -> LOAD_POLICIES [label="TraderNet policy"]
+	SMURF_CHECKPOINTS -> LOAD_POLICIES [label="Smurf policy"]
+	INTEGRATION_NB -> INTEGRATED_AGENT_LOGIC [label=defines]
+	LOAD_POLICIES -> INTEGRATED_AGENT_LOGIC [label="feeds policies to"]
+	INTEGRATED_AGENT_LOGIC -> SIMULATE [label="provides action"]
+	NCONSECUTIVE_RULE -> TF_ENV_WRAP [label="is used by (for integration.ipynb)" style=dashed]
+	INTEGRATION_NB -> EVAL_RESULTS [label=generates]
+	TF_PY_ENV -> TRADERNET_EVAL_NB [label="eval_env (TFTradingEnv)"]
+	TRADERNET_CHECKPOINTS -> TRADERNET_EVAL_NB [label="loads policy"]
+	TRADERNET_EVAL_NB -> SIMULATE [label="evaluates TraderNet"]
+	TRADERNET_EVAL_NB -> EVAL_RESULTS [label=generates]
+	TF_PY_ENV -> NCONSECUTIVE_NB [label="eval_env (TFRuleTradingEnv)"]
+	TRADERNET_CHECKPOINTS -> NCONSECUTIVE_NB [label="loads policy"]
+	NCONSECUTIVE_RULE -> NCONSECUTIVE_NB [label="applies rule via env wrapper"]
+	NCONSECUTIVE_NB -> SIMULATE [label="evaluates TraderNet + Rule"]
+	NCONSECUTIVE_NB -> EVAL_RESULTS [label=generates]
+	TF_PY_ENV -> SMURFING_EVAL_NB [label="eval_env (TFTradingEnv)"]
+	TRADERNET_CHECKPOINTS -> SMURFING_EVAL_NB [label="loads TraderNet policy"]
+	SMURF_CHECKPOINTS -> SMURFING_EVAL_NB [label="loads Smurf policy"]
+	SMURFING_EVAL_NB -> SIMULATE [label="evaluates TraderNet + Smurf logic"]
+	SMURFING_EVAL_NB -> EVAL_RESULTS [label=generates]
+	TF_PY_ENV -> SIMULATE [label="provides env for simulation"]
+}

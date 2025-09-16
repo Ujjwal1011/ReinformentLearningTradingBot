@@ -1,0 +1,28 @@
+// TraderNet with N-Consecutive Rule Flow
+digraph TraderNet_Plus_NConsecutive {
+	fontsize=16 label="Diagram: TraderNet + N-Consecutive Rule (The Cautious Smart Trader)" labelloc=t pad=0.5 rankdir=LR
+	MarketData [label="Crypto Market Data
+(Features, Prices)" fillcolor=lightblue shape=cylinder style=filled]
+	TraderNetAgent [label="TraderNet DRL Agent
+(PPO/DQN)
+- Learns Policy π(S) -> A_proposed" fillcolor=palegreen shape=Mdiamond style=filled]
+	ProposedAction [label="Proposed Action
+(Buy/Sell/Hold from TraderNet)" fillcolor=lemonchiffon shape=ellipse style=filled]
+	NConsecutiveRule [label="N-Consecutive Rule Filter
+- Checks history of N proposed actions
+- Enforces consistency" fillcolor=lightcyan shape=parallelogram style=filled]
+	FinalAction [label="Final System Action
+(Buy/Sell/Forced Hold)" fillcolor=lightyellow shape=ellipse style=filled]
+	Broker [label="Simulated Broker
+(Execute Final Action, Calculate PNL)" fillcolor=lightgrey shape=component style=filled]
+	Reward [label="Reward Signal
+(Based on Final Action)" fillcolor=lightpink shape=parallelogram style=filled]
+	MarketData -> TraderNetAgent [label="State (S)"]
+	TraderNetAgent -> ProposedAction [label="Decides A_proposed"]
+	ProposedAction -> NConsecutiveRule [label="Input to Rule"]
+	NConsecutiveRule -> FinalAction [label="Filtered Action"]
+	FinalAction -> Broker
+	Broker -> Reward [label=Generates]
+	Reward -> TraderNetAgent [label="Learns From (R)
+(based on what was actually executed)"]
+}

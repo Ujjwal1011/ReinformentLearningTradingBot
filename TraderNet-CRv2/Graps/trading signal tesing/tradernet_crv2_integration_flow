@@ -1,0 +1,31 @@
+// Full TraderNet-CRv2 System Flow
+digraph TraderNet_CRv2_Integration {
+	fontsize=16 label="Diagram 3: TraderNet-CRv2 (Full Integration)" labelloc=t pad=0.5 rankdir=LR
+	MarketData [label="Crypto Market Data
+(Features, Prices)" fillcolor=lightblue shape=cylinder style=filled]
+	subgraph cluster_decision_crv2 {
+		color=lightgrey label="Multi-Stage Decision Logic" style=filled
+		SmurfAgent [label="1. Smurf DRL Agent
+- Policy π_smurf(S) -> A_smurf" fillcolor=lightcoral shape=Mdiamond style=filled]
+		TraderNetAgent [label="2. TraderNet DRL Agent
+- Policy π_tn(S) -> A_tn" fillcolor=palegreen shape=Mdiamond style=filled]
+		SmurfOverrideLogic [label="Smurf Override Logic" fillcolor=moccasin shape=diamond style=filled]
+		ActionBeforeNConsec [label="Action after Smurf" fillcolor=lemonchiffon shape=ellipse style=filled]
+		NConsecutiveRule [label="3. N-Consecutive Rule
+(Filter based on history)" fillcolor=lightcyan shape=parallelogram style=filled]
+	}
+	FinalAction [label="System Action
+(Buy/Sell/System Hold)" fillcolor=lightyellow shape=ellipse style=filled]
+	Broker [label="Simulated Broker
+(Execute Action, Calculate PNL)" fillcolor=lightgrey shape=component style=filled]
+	SystemReward [label="System Reward/PNL" fillcolor=lightpink shape=parallelogram style=filled]
+	MarketData -> SmurfAgent [label="State (S)"]
+	MarketData -> TraderNetAgent [label="State (S)"]
+	SmurfAgent -> SmurfOverrideLogic [label=A_smurf]
+	TraderNetAgent -> SmurfOverrideLogic [label=A_tn]
+	SmurfOverrideLogic -> ActionBeforeNConsec [label=Determines]
+	ActionBeforeNConsec -> NConsecutiveRule [label="Input Action"]
+	NConsecutiveRule -> FinalAction [label="Filtered Action"]
+	FinalAction -> Broker
+	Broker -> SystemReward
+}
