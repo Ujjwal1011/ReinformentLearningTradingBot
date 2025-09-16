@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1557758049766498304",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major blockchain event announcement with high relevance to crypto communities. Breaking news format and hashtag usage increase shareability."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific timeline for a landmark technical event in blockchain technology with industry-wide implications."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement presented factually without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The Ethereum Merge represents a fundamental protocol change that will remain relevant in blockchain discussions for years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1557756201827532800",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Official confirmation of a major technical milestone from a reputable source, likely to be widely shared in financial tech circles."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Authoritative statement about a pivotal moment in blockchain infrastructure development."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual presentation without emotional language or commentary."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Historic protocol change that will be referenced in blockchain literature indefinitely."
+      }
+    }
+  },
+  {
+    "tweet_id": "1557753518282473472",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Combines breaking news format with technical details (TTD number) and celebratory emoji, appealing to both general and technical audiences."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Contains specific technical parameters and timeline for a major infrastructure upgrade."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Primarily factual content with a neutral calendar emoji."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Technical details ensure long-term reference value for developers and researchers."
+      }
+    }
+  },
+  {
+    "tweet_id": "1557747849357430784",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Important update but presented as tentative, with moderate engagement compared to official sources."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides timeline information about a major blockchain event from an Ethereum-focused account."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive anticipation conveyed through panda emoji and 'The Merge is coming' phrasing."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Part of permanent blockchain history despite tentative wording."
+      }
+    }
+  },
+  {
+    "tweet_id": "1557582864962576384",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Sarcastic commentary about a project might resonate in NFT communities but lacks broad appeal."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Primarily opinion-based criticism without substantive information about the project."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative sentiment expressed through mocking capitalization and accusation of poor research."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Context-specific critique likely to lose relevance as new projects emerge."
+      }
+    }
+  },
+  {
+    "tweet_id": "1557549548012068864",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Price update relevant to crypto traders, but lacks context or analysis to drive broader sharing."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Basic market data point without supporting analysis or source attribution."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral price reporting without positive/negative commentary."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Price points become outdated quickly in volatile crypto markets."
+      }
+    }
+  },
+  {
+    "tweet_id": "1557546343052230656",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Significant technical milestone in blockchain development, likely shared within developer communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Documents successful completion of critical testnet phase preceding mainnet upgrade."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Implied positive assessment through 'successfully' descriptor."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Testnet success remains relevant as part of Ethereum's upgrade history."
+      }
+    }
+  },
+  {
+    "tweet_id": "1557544104031973377",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Technical update with celebratory tone (panda emoji) appeals to Ethereum enthusiasts."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Clear progression update in Ethereum's transition roadmap with technical specificity."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive anticipation for mainnet merge conveyed through emoji and exclamation."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Documents a key preparatory phase for the main event, maintaining relevance through transition period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1557543521875140615",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "High-engagement breaking news about successful technical implementation from major crypto news account."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Concrete confirmation of critical infrastructure milestone from authoritative source."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Implied positive assessment through 'successfully' descriptor."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Permanent part of Ethereum's technical history though superseded by mainnet merge."
+      }
+    }
+  },
+  {
+    "tweet_id": "1557533155480969216",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Market cap milestone relevant to investors, but lacks unique analysis to drive extended sharing."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides verifiable market data point with clear numerical value."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Implied positive sentiment through 'reclaimed' suggesting recovery."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Market cap figures fluctuate frequently in crypto markets, limiting long-term relevance."
+      }
+    }
+  }
+]

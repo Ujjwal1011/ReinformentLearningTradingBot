@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1520851538033348608",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Direct comparison of major cryptocurrencies with strong opinions likely to spark debates in crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific criticisms of blockchain performance but lacks verifiable data sources."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Strong negative sentiment toward altcoins balanced by positive Bitcoin endorsement."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Ongoing blockchain debates maintain relevance, but specific criticisms may become dated."
+      }
+    }
+  },
+  {
+    "tweet_id": "1520813603758088192",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Community-focused message with moderate engagement potential within Ethereum circles."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "General statement about community ethos without concrete information."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong positive sentiment about collaboration and collective improvement."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Generic inspirational message likely to fade with daily content flow."
+      }
+    }
+  },
+  {
+    "tweet_id": "1520806712256593925",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Repetition of popular blockchain criticism format with Bitcoin advocacy."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Restates known blockchain characteristics without new data."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Negative comparison of altcoins with positive Bitcoin framing."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Standard crypto commentary lifespan of 1-2 days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1520782407963607041",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Controversial claim about $100M loss likely to spread in crypto circles."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Specific allegations about contract development and VC actions."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Strong negative sentiment toward Yuga and VCs."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Significant financial claim may sustain discussion for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1520650322502643712",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "News link with multiple hashtags but generic market commentary."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Market summary with external link but no original analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting tone without clear emotional valence."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Time-bound market analysis becomes irrelevant quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1520621310002741248",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Confrontational tone and emojis may drive engagement in crypto communities."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Opinion piece about responsibility without factual content."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative judgment toward users' complaint behavior."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Specific event-related blame game with short relevance window."
+      }
+    }
+  },
+  {
+    "tweet_id": "1520618758678667265",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Detailed critique of specific contract issues likely to spread in developer circles."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Concrete technical details about contract optimization and KYC processes."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Critical tone regarding corporate responsibility."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Technical critique remains relevant for ongoing contract development discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1520616316175929344",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Concise criticism format with brand mention may gain traction."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Makes claims about contract quality without evidence."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative assessment of corporate accountability."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Brief callout likely overshadowed by longer analyses."
+      }
+    }
+  },
+  {
+    "tweet_id": "1520613749119283200",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Direct challenge to corporate decision-making may engage niche audiences."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Raises valid questions about chain governance without supporting details."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Strong negative attribution of blame."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Governance questions remain relevant for weeks in crypto spaces."
+      }
+    }
+  },
+  {
+    "tweet_id": "1520612364839661568",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Official response to controversy with high engagement metrics."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides concrete resolution plan for transaction issues."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral corporate communication with apology elements."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Refund policy announcement remains relevant until implementation."
+      }
+    }
+  }
+]

@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1732109682070913155",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Explains MetisDAO's platform but lacks a strong hook for wider sharing."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides technical details about MetisDAO's features."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive tone about MetisDAO's benefits."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for a few weeks as it's a specific project update."
+}
+}
+},
+{
+"tweet_id": "1732108789413707809",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "Technical discussion unlikely to go viral."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides insight into Ethereum's event logs."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral critique of Ethereum's approach."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a day as it's a specific technical issue."
+}
+}
+},
+{
+"tweet_id": "1732108179226370293",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Announcement with potential for niche community sharing."
+},
+"informative_value": {
+"score": 8,
+"justification": "Details a new methodology and rating system."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive about the new initiative."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Relevant for weeks as it's a foundational update."
+}
+}
+},
+{
+"tweet_id": "1732105828323426795",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Niche interest in NFTs, limited virality."
+},
+"informative_value": {
+"score": 5,
+"justification": "Reports on an NFT purchase."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral report on the transaction."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant for a few days as it's a specific sale."
+}
+}
+},
+{
+"tweet_id": "1732105526631129478",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Engages a community with a clear strategy."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides price analysis and strategy."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Positive about the strategy's success."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for weeks as it's a crypto discussion."
+}
+}
+},
+{
+"tweet_id": "1732105447866499255",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "General crypto news, moderate sharing."
+},
+"informative_value": {
+"score": 6,
+"justification": "Compares Bitcoin and Ethereum dominance."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral comparison."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a day as it's a news update."
+}
+}
+},
+{
+"tweet_id": "1732104891600949749",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Niche interest in NFTs, limited virality."
+},
+"informative_value": {
+"score": 5,
+"justification": "Personal update on NFT minting."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive about the project."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant for a few days as it's a specific project."
+}
+}
+},
+{
+"tweet_id": "1732103030659580335",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Crypto advice with broad appeal."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides investment advice."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Positive and encouraging."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Relevant for months as it's a strategy discussion."
+}
+}
+},
+{
+"tweet_id": "1732101559964901868",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "News update, moderate sharing."
+},
+"informative_value": {
+"score": 6,
+"justification": "Reports on Ethereum's price."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral news announcement."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a day as it's a price update."
+}
+}
+},
+{
+"tweet_id": "1732099534770012345",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Shares crypto journey, niche interest."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides investment results and analysis."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive about Ethereum's potential."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for weeks as it's a crypto discussion."
+}
+}
+}
+]

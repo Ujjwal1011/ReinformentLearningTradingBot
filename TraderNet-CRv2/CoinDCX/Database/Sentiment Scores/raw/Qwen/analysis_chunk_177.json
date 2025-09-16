@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1732302743748919701",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Promotion of free tokens can attract attention within crypto communities, though not globally viral."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Provides information about a giveaway but lacks depth."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment due to offering free tokens."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Impact is short-term, relevant until the giveaway ends."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732298798968529307",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Targeted to crypto community, potential for moderate sharing."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Details blockchain updates and airdrop, useful for enthusiasts."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive sentiment about upcoming events."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant until the airdrop occurs, then fades."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732270781491728791",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Informative but not likely to go viral beyond niche audiences."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Explains game integrations, useful for gamers and developers."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, factual information."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Impact lasts a few days as it's about current developments."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732256818364354578",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High engagement and relevance in crypto circles."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides critical information about Bitcoin and Ethereum tech."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, discussing technical changes."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Long-term impact as it's about foundational tech."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732256299641950398",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Tutorial content, shares within AI and crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Educational guide on creating AI art."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive, encouraging creativity."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Medium-term, relevant as long as the tools are popular."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732255842395951458",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Important for crypto investors, moderate sharing."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Details regulatory decisions affecting ETFs."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, factual update."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Impact until SEC decisions are made."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732251780807827599",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "High engagement, relevant in DeFi community."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Discusses modular plays and Eigenlayer."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive, exploring opportunities."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Medium to long-term impact as it's about ongoing developments."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732247535476150496",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Important for investors, moderate sharing."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Updates on SEC decisions affecting ETFs."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, factual information."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Impact until decisions are made."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732238865405297085",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Market movement news, relevant to traders."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Details whale activity affecting markets."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, factual report."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term impact as it's a one-time event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732232835304673405",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Discusses price movements, relevant to traders."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides analysis on Ethereum's market trends."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, discussing market dynamics."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Impact lasts a few days as it's about current trends."
+      }
+    }
+  }
+]

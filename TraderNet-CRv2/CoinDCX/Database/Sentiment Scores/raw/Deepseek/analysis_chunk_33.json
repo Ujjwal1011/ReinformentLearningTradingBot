@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1463270358681858051",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Bold price prediction with cryptocurrency focus could generate discussion within crypto communities, but lacks concrete evidence for wider appeal."
+},
+"informative_value": {
+"score": 3,
+"justification": "Speculative statement without supporting data or context about market conditions."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Optimistic tone about Ethereum's growth potential using 'snap to $10,000' phrasing."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Price predictions become irrelevant once the predicted date passes or market conditions change."
+}
+}
+},
+{
+"tweet_id": "1463173704402317315",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Educational content about Ethereum scaling solutions from a major platform (Coinbase) likely to be shared within crypto communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides structured analysis of layer 1/2 solutions with link to detailed resource."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Neutral explanatory tone with optimistic undercurrent about solving gas fee issues."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Scaling solutions remain relevant for months as Ethereum development continues."
+}
+}
+},
+{
+"tweet_id": "1462857250146594816",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Data-driven comparison of blockchain projects appeals to developer community but lacks mass appeal elements."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides specific metrics about project distribution across chains with clear timeframe."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral presentation of data with implied commentary through 'Follow the DEVS' conclusion."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Developer activity metrics remain relevant for weeks in fast-moving crypto space."
+}
+}
+},
+{
+"tweet_id": "1462803733155356683",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Contrarian investment take might resonate within crypto circles but lacks unique insight."
+},
+"informative_value": {
+"score": 3,
+"justification": "Personal sentiment about market conditions without substantive analysis."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive outlook expressed through 'makes me want to buy more' despite acknowledging FUD."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Tied to transient market sentiment that changes rapidly."
+}
+}
+},
+{
+"tweet_id": "1462664386196086785",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Defensive stance on Ethereum scaling could spark debates within crypto community."
+},
+"informative_value": {
+"score": 4,
+"justification": "Asserts position without providing evidence beyond linked content."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "Negative tone towards Ethereum critics implied through sarcastic 'Imagine thinking' framing."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevance depends on ongoing scaling debates rather than permanent resolution."
+}
+}
+},
+{
+"tweet_id": "1462527056164577283",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Humorous analogy might see limited sharing but lacks broad viral elements."
+},
+"informative_value": {
+"score": 2,
+"justification": "No substantive information beyond mocking other tweets."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Amused tone with laughing emoji, though targets others' complaints."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Joke tied to transient social media behavior patterns."
+}
+}
+},
+{
+"tweet_id": "1462464440738091012",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Controversial developer count comparison likely to spark discussion in developer communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides ranked data with market cap comparison and source link."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral data presentation with warning about ignoring trends."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Developer activity metrics remain relevant for weeks in tech evaluation."
+}
+}
+},
+{
+"tweet_id": "1462365131761983494",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Specific scaling roadmap from Ethereum researcher attracts crypto community interest."
+},
+"informative_value": {
+"score": 7,
+"justification": "Concrete technical projections about scaling milestones."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Optimistic outlook on Ethereum's technical capabilities."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Multi-year roadmap gives long-term relevance if projections hold."
+}
+}
+},
+{
+"tweet_id": "1462323649566982147",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Cryptic comparison between Bitcoin and Ethereum cities lacks clear viral hook."
+},
+"informative_value": {
+"score": 3,
+"justification": "No substantive information beyond hashtag and link."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral comparison without explicit sentiment indicators."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Depends on linked content's relevance which isn't specified."
+}
+}
+},
+{
+"tweet_id": "1462286930356277256",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Positive vision for Ethereum accessibility could resonate with community values."
+},
+"informative_value": {
+"score": 3,
+"justification": "General statement of values without concrete plans or data."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "Strong positive emotion with 'love' repetition and heart emoji."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Evergreen sentiment but lacks specific mechanisms for lasting impact."
+}
+}
+}
+]

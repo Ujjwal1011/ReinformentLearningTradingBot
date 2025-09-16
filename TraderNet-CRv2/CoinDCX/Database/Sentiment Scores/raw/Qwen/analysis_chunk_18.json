@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1437862296827613188",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet discusses a significant event (Solana crashing) which is likely to be shared within crypto communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides information about a tech crash, though it's a statement rather than detailed analysis."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Negative sentiment towards Solana's claims."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days as it's tied to a specific event."
+}
+}
+},
+{
+"tweet_id": "1437847825572892672",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Engaging question about tech products, likely shared among Apple and crypto enthusiasts."
+},
+"informative_value": {
+"score": 5,
+"justification": "Compares products but lacks detailed information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, presenting options without bias."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a day or two around the Apple event."
+}
+}
+},
+{
+"tweet_id": "1437774633969885189",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Crypto predictions can generate interest among investors."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides specific price targets, useful for investors."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive outlook on crypto prices."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Remains relevant as crypto prices fluctuate."
+}
+}
+},
+{
+"tweet_id": "1437445755472601090",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Personal goal in Spanish, less likely to go viral."
+},
+"informative_value": {
+"score": 3,
+"justification": "Minimal info, personal anecdote."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive goal-setting."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short-term relevance as it's a personal target."
+}
+}
+},
+{
+"tweet_id": "1437411853961936896",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Involves a major company, likely shared."
+},
+"informative_value": {
+"score": 7,
+"justification": "Discusses potential crypto adoption by Walmart."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral presentation of options."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Ongoing relevance as crypto adoption evolves."
+}
+}
+},
+{
+"tweet_id": "1437281199731449856",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Opinion on crypto, moderate sharing."
+},
+"informative_value": {
+"score": 5,
+"justification": "Compares Solana and Ethereum."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral observation."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days as it's a specific opinion."
+}
+}
+},
+{
+"tweet_id": "1437271588429258755",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Direct question, likely to generate replies."
+},
+"informative_value": {
+"score": 5,
+"justification": "Raises a common topic without details."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral question."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days as it's a specific query."
+}
+}
+},
+{
+"tweet_id": "1437135725611393029",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Discusses legal issues in crypto, may be shared."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides context on legal actions in crypto."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral presentation of facts."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Ongoing relevance as legal cases proceed."
+}
+}
+},
+{
+"tweet_id": "1436949520835911683",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Technical discussion, shared among experts."
+},
+"informative_value": {
+"score": 8,
+"justification": "Details blockchain throughput issues."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Negative on project capabilities."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Remains relevant as tech evolves."
+}
+}
+},
+{
+"tweet_id": "1436742655724167181",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Opinion on NFTs, likely shared among crypto circles."
+},
+"informative_value": {
+"score": 6,
+"justification": "Shares personal experience with crypto."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Negative on NFTs."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevant for a few weeks as NFTs are discussed."
+}
+}
+}
+]

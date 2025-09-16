@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1477587926011756545",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet is a moderately engaging question from a high‑profile user, likely to spark discussion within the crypto community but not expected to go globally viral."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "The tweet is a personal query and does not provide new factual information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral, simply asking a question without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The tweet may remain relevant for a day or two as people discuss the decision, but it will fade quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1477553288199516160",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "The tweet poses a question about a surprising phenomenon and is likely to generate some discussion, but it lacks a strong hook or meme to go viral."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "The tweet references a phenomenon but offers no new data or explanation, so its informational content is limited."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The use of 'amazing' indicates a mildly positive tone, while the rest of the tweet is neutral."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The discussion about the phenomenon may last a few days, but it will not remain relevant long-term."
+      }
+    }
+  },
+  {
+    "tweet_id": "1477402772215586820",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Vitalik Buterin’s tweet about Ethereum’s new sharding design is likely to be widely shared by the crypto community, giving it high virality potential."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet provides factual information about Ethereum research priorities and a new sharding design, making it highly informative."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral and factual, with no strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The topic of sharding and Ethereum’s design will remain relevant for months, giving it a medium to long duration."
+      }
+    }
+  },
+  {
+    "tweet_id": "1477402770231676929",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "A personal reflection from Vitalik on software complexity is likely to attract some retweets within the developer community, but it is not a viral meme."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "The tweet offers insight into software development challenges, providing moderate informational value."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "The tweet expresses regret and a negative tone, but not extreme negativity."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The reflection may spark discussion for a few weeks, but it will not remain relevant indefinitely."
+      }
+    }
+  },
+  {
+    "tweet_id": "1477324561368723456",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet predicts a major crypto event involving Ripple and the SEC, which is likely to be widely shared and discussed, giving it high virality potential."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "The tweet is speculative and not verified, so its informational value is moderate."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "The tweet has a slightly negative tone toward the SEC, but overall remains neutral."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The Ripple vs SEC case will be relevant for months, giving it a medium duration."
+      }
+    }
+  }
+]

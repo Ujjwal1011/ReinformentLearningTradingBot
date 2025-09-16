@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1497624510631059459",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Breaking news about a significant event (Ukraine accepting crypto donations) is likely to be widely shared, especially in crypto communities."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides important, newsworthy information about a critical situation involving cryptocurrency donations."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Positive sentiment as it's about supporting a cause, though the context is serious."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Remains relevant as the situation in Ukraine is ongoing and of global concern."
+}
+}
+},
+{
+"tweet_id": "1497606742724816898",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Complaint about gas fees and mention of an alternative may get some attention but lacks a strong hook."
+},
+"informative_value": {
+"score": 4,
+"justification": "Minimal information; more of a personal complaint with a link."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "Negative sentiment due to frustration with gas fees."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a short period until the issue is addressed."
+}
+}
+},
+{
+"tweet_id": "1497594592438497282",
+"analysis": {
+"virality_potential": {
+"score": 10,
+"justification": "Official call for crypto donations in a crisis is highly likely to go viral."
+},
+"informative_value": {
+"score": 10,
+"justification": "Critical, primary-source information about a significant event."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Positive sentiment as it's a call to support, though the context is serious."
+},
+"duration_of_impact": {
+"score": 10,
+"justification": "Timeless as it's a historic event with ongoing relevance."
+}
+}
+},
+{
+"tweet_id": "1497560311494320130",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Fun fact about Ethereum's creator may get some shares but isn't viral."
+},
+"informative_value": {
+"score": 4,
+"justification": "Minimal information; just a trivia fact."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment, just a fun fact."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a short time as it's a light-hearted fact."
+}
+}
+},
+{
+"tweet_id": "1497420614746841090",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Discusses NFT trends, which may interest crypto communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides data on NFT sales decline and Google Trends."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment, presenting factual data."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Remains relevant for a few weeks as NFTs are a current topic."
+}
+}
+},
+{
+"tweet_id": "1497178495658647556",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Lists major companies using Ethereum, likely to be shared in crypto circles."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides credible information about Ethereum adoption."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment highlighting Ethereum's adoption."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Remains relevant for weeks as it's about ongoing trends."
+}
+}
+},
+{
+"tweet_id": "1496491000113639429",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Breaking news about Opera integrating Ethereum's Layer 2 is likely to be shared."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides information on a significant tech development."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment about bringing DeFi to more users."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Remains relevant for weeks as it's a specific update."
+}
+}
+},
+{
+"tweet_id": "1496379980963803136",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Discusses stablecoin growth, which may interest crypto communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides data on stablecoin issuance jumps."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment, presenting factual data."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Remains relevant for weeks as stablecoins are a current topic."
+}
+}
+},
+{
+"tweet_id": "1496286132820221955",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Compliment to Vitalik may get some shares but isn't viral."
+},
+"informative_value": {
+"score": 4,
+"justification": "Minimal information; just a compliment."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment in praising Vitalik."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a short time as it's a personal praise."
+}
+}
+},
+{
+"tweet_id": "1496177095453683719",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Critique of crypto asset values may get attention in crypto communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides market cap data but is opinion-based."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "Negative sentiment criticizing the value of crypto assets."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a short time as it's a critique that may fade."
+}
+}
+}
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1735337367341318443",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news from a major financial institution about cryptocurrency performance has high sharing potential, especially within crypto communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides specific, actionable market analysis from a credible source with clear implications for investors."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of financial analysis without explicit emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Price predictions typically remain relevant for months but may be superseded by new market data."
+      }
+    }
+  },
+  {
+    "tweet_id": "1735088803440623908",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Technical guide for crypto transactions has niche appeal but limited mainstream sharing potential."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific instructions for asset conversion with platform links, though requires prior crypto knowledge."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral instructional content without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Technical guides remain relevant as long as the described process remains valid."
+      }
+    }
+  },
+  {
+    "tweet_id": "1735064692035305638",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Technical discussion of blockchain fees appeals primarily to developers and crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Highlights specific platform capabilities with comparative fee analysis."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Implies criticism through comparison of fee structures."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Fee structures frequently change in crypto ecosystems, limiting long-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1734787856667676803",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Airdrop announcements often generate significant engagement in crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides clear instructions for claiming digital assets with official links."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral instructional content without emotional bias."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevance lasts through the airdrop claim period and subsequent discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1734700911719555580",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Community reward programs often drive engagement within specific user bases."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Announces a new platform feature with implications for user participation."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone through words like 'welcome' and 'success' with celebratory emoji."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Points programs typically maintain relevance through their operational period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1734319056138711351",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Political commentary on cryptocurrency regulation has high sharing potential in crypto circles."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Highlights specific legislative developments with implications for blockchain technology."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Strong negative language ('totalitarian', 'darkest path') expressing opposition."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Legislative proposals can remain relevant for years depending on political processes."
+      }
+    }
+  },
+  {
+    "tweet_id": "1733921289482473736",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Relatable anecdote about crypto fees may resonate with novice investors."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Illustrates fee challenges but lacks new data or solutions."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Implies frustration through demonstration of financial loss."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Fee discussions remain topical but specific examples become outdated quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1733391766278001126",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Single-word tweet lacks inherent virality drivers beyond possible community in-jokes."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Contains no substantive information beyond mentioning a cryptocurrency."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Completely neutral statement without emotional content."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Instantaneously irrelevant beyond momentary reactions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1733276402433339489",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Technical comparison between blockchain platforms has niche appeal."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific technical criticisms of platform features."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Critical tone through repeated emphasis on stability issues."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Technical critiques remain relevant until platform improvements are made."
+      }
+    }
+  },
+  {
+    "tweet_id": "1733187906750054778",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news about market leadership changes in NFTs has high sharing potential."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Reports verifiable market data with platform comparison."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of market statistics."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Market leadership stats remain relevant until next significant volume shift."
+      }
+    }
+  }
+]

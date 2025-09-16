@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1747938854131359750",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet is a positive update about Ethereum's performance, which could resonate with the crypto community, but it's not breaking news."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet provides a brief update on Ethereum's performance but lacks detailed information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses a positive sentiment with the use of 'New highs.'"
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to the current moment and may lose impact as new updates emerge."
+}
+}
+},
+{
+"tweet_id": "1747715395614867735",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet discusses Ethereum's future with specific points, which could generate interest within the crypto community."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides credible information about Ethereum's ecosystem and future developments."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet presents a neutral, factual tone about Ethereum's future."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance will last for a few weeks as it discusses ongoing developments in Ethereum."
+}
+}
+},
+{
+"tweet_id": "1747616260073107592",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet makes a sensational claim about Vitalik Buterin, which could generate significant attention and shares."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet's claim is unverified and lacks credible sources, reducing its informative value."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet's sentiment is neutral, as it presents a claim without strong emotional language."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is short-term, as it pertains to a personal matter that may not have long-term implications."
+}
+}
+},
+{
+"tweet_id": "1747588499304313009",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet is a technical update about Ethereum's block number, which may not appeal to a broad audience."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet provides a factual update about Ethereum's block number, which is relevant to technical users."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet presents a neutral, factual tone without strong emotional language."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to the specific moment and may lose impact as new blocks are added."
+}
+}
+},
+{
+"tweet_id": "1747460769787138198",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet makes a serious accusation involving Vitalik Buterin and the SEC, which could generate significant attention and shares."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides a detailed accusation with links to leaked documents, which adds credibility."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The tweet expresses a negative sentiment by accusing Vitalik Buterin of coordinating with the SEC."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance will last for several weeks as it pertains to a significant legal issue."
+}
+}
+},
+{
+"tweet_id": "1747246914104680785",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet discusses price increases in Ethereum-related tokens, which could generate interest among crypto investors."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet provides a brief update on price movements but lacks detailed analysis."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses a positive sentiment with the use of 'Epic.'"
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to the current moment and may lose impact as new price updates emerge."
+}
+}
+},
+{
+"tweet_id": "1747185269688709488",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet is in Turkish and discusses Vitalik Buterin's walk, which may not appeal to a broad international audience."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet provides a factual update about Vitalik Buterin's walk but lacks detailed information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet presents a neutral, factual tone without strong emotional language."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to the specific moment and may lose impact as new updates emerge."
+}
+}
+},
+{
+"tweet_id": "1747019861476434006",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet asks CoinMarketCap to list HEX correctly, which may generate interest among HEX holders but is unlikely to go viral."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides information about HEX's rankings on different chains and its age."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "The tweet expresses a moderately negative sentiment by criticizing CoinMarketCap's listing practices."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance will last for several weeks as it pertains to HEX's ongoing listing issues."
+}
+}
+},
+{
+"tweet_id": "1746966264969380089",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet predicts a price target for Ethereum, which could generate interest among crypto investors."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet provides a price prediction but lacks detailed analysis."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses a positive sentiment with the use of '$12k is coming.'"
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to the current moment and may lose impact as new price predictions emerge."
+}
+}
+},
+{
+"tweet_id": "1746805417576112287",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet discusses Cathie Wood's expectations for Ethereum, which could generate interest among crypto investors."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides a credible source for Cathie Wood's expectations about Ethereum's performance."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses a positive sentiment by highlighting Cathie Wood's expectations."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance will last for several weeks as it pertains to future price expectations."
+}
+}
+}
+]

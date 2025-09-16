@@ -1,0 +1,107 @@
+[
+{
+  "tweet_id": "1539392566994644992",
+  "analysis": {
+    "virality_potential": {
+      "score": 6,
+      "justification": "The tweet shares a concise, intriguing fact about a prominent figure in the crypto space, likely to resonate with Ethereum enthusiasts and be shared within that community, but it lacks a breaking news hook or meme, so it remains in the medium range."
+    },
+    "informative_value": {
+      "score": 6,
+      "justification": "It provides a factual detail about Vitalik Buterin's age when writing the whitepaper, offering a concrete piece of knowledge that adds value to the conversation."
+    },
+    "sentiment_polarity": {
+      "score": 5,
+      "justification": "The tone is neutral and factual, with no strong emotional language."
+    },
+    "duration_of_impact": {
+      "score": 8,
+      "justification": "The fact about Vitalik's age is timeless and can be referenced for years, giving it a long‑term relevance."
+    }
+  }
+},
+{
+  "tweet_id": "1539292126105706496",
+  "analysis": {
+    "virality_potential": {
+      "score": 7,
+      "justification": "The tweet promotes an 8‑week program with emojis and a call to action, appealing to the Arbitrum community and encouraging shares, placing it in the medium‑high range."
+    },
+    "informative_value": {
+      "score": 6,
+      "justification": "It outlines the program's duration and focus on Ethereum’s L2, providing useful context for interested participants."
+    },
+    "sentiment_polarity": {
+      "score": 7,
+      "justification": "The enthusiastic language and emojis convey a positive, upbeat tone."
+    },
+    "duration_of_impact": {
+      "score": 6,
+      "justification": "The program lasts eight weeks, so the tweet remains relevant for that period, giving it a medium duration score."
+    }
+  }
+},
+{
+  "tweet_id": "1539189397446344706",
+  "analysis": {
+    "virality_potential": {
+      "score": 5,
+      "justification": "A simple update about a follow/unfollow action is unlikely to spark widespread sharing beyond a niche audience, placing it in the low‑medium range."
+    },
+    "informative_value": {
+      "score": 3,
+      "justification": "It states a factual change in a follower relationship, but offers minimal context or broader relevance."
+    },
+    "sentiment_polarity": {
+      "score": 5,
+      "justification": "The tweet is neutral, lacking any emotional expression."
+    },
+    "duration_of_impact": {
+      "score": 3,
+      "justification": "The relevance fades quickly once the follow status stabilizes, so it has a short duration impact."
+    }
+  }
+},
+{
+  "tweet_id": "1539090118182674433",
+  "analysis": {
+    "virality_potential": {
+      "score": 8,
+      "justification": "The sensational claim that Vitalik is alive verified by blockchain is likely to attract attention and shares, earning a high virality score."
+    },
+    "informative_value": {
+      "score": 4,
+      "justification": "While it presents a claim, it lacks verification from a primary source, so its informational value is limited."
+    },
+    "sentiment_polarity": {
+      "score": 7,
+      "justification": "The tweet uses a positive, sensational tone, reflecting a moderately positive sentiment."
+    },
+    "duration_of_impact": {
+      "score": 4,
+      "justification": "Such rumors are typically short‑lived and quickly debunked, giving it a short duration score."
+    }
+  }
+},
+{
+  "tweet_id": "1538926926068338688",
+  "analysis": {
+    "virality_potential": {
+      "score": 7,
+      "justification": "A new all‑time high in Ethereum addresses is a noteworthy metric that can be shared widely among crypto communities, placing it in the medium‑high range."
+    },
+    "informative_value": {
+      "score": 8,
+      "justification": "The tweet provides a concrete statistic that informs readers about Ethereum adoption, giving it a high informational score."
+    },
+    "sentiment_polarity": {
+      "score": 5,
+      "justification": "The tone is neutral, simply reporting a fact."
+    },
+    "duration_of_impact": {
+      "score": 6,
+      "justification": "The metric remains relevant for a period of time as a benchmark, but it will eventually be superseded, giving it a medium duration score."
+    }
+  }
+}
+]

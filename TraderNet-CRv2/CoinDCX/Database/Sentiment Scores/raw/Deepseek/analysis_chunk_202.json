@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1732126697389208042",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Intriguing emoji use and link create curiosity, likely to be shared within crypto communities but lacks explicit viral hooks."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "No contextual information provided beyond a cryptic message and link."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Emojis suggest excitement/shock but lack explicit emotional context."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance depends on linked content's nature - likely short-term without ongoing discussion."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732126663486353776",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major regulatory news about Ethereum ETF likely to spread quickly in financial/crypto circles."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Concrete regulatory action reported from official source (SEC)."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of factual information without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "ETF decisions have medium-term market implications and ongoing discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732125428603814218",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Technical blockchain discussion appealing to niche audience but limited broad appeal."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides insight into Ethereum's design philosophy regarding onchain data."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Analytical tone without clear positive/negative emotional indicators."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Ongoing relevance to fundamental blockchain architecture discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732125383724572817",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Niche financial service announcement with minimal engagement signals."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Specific ENS domain loan listing but lacks broader context or details."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral business transaction announcement."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance limited to active loan period or immediate ENS community."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732124936343519262",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Vague tag-along post without original content or clear value proposition."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No actual information conveyed beyond attention-seeking emojis."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Fire emojis indicate positive excitement about unspecified content."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Immediately irrelevant without context for the referenced material."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732123927575413080",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major platform integration announcement with strong engagement metrics."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific technical milestone achievement in blockchain interoperability."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Enthusiastic language ('historic day', 'congratulations') shows strong positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Long-term implications for Ethereum/ICP ecosystem integration."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732123893190602840",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High-value NFT transaction news with inherent interest in crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Specific market data point with transaction details and valuation."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of market activity without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Transaction remains part of permanent NFT market history with medium-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732123248752529766",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Comparative analysis between blockchain projects could spark community discussions."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Opinion-based comparison without supporting data or analysis."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive language ('quality is great') with optimistic projections."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevance tied to current NFT market trends rather than lasting impact."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732121318236225625",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Product announcement with strong engagement and notable collaborators."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Clear explanation of service functionality and integration partners."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive promotional tone emphasizing capabilities."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Ongoing relevance as long as the attestation service remains active."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732121007551291465",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Technical thread about ZK rollups appeals to Ethereum developer community."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Detailed explanation of technical integration with multiple Layer 2 solutions."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral technical description without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Lasting relevance to Ethereum scaling solution discussions."
+      }
+    }
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1678952026372284416",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet discusses a significant development in cryptocurrency, which is likely to be shared among crypto enthusiasts and news outlets."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "The tweet provides detailed information about Brazil's central bank digital currency, which is a credible and newsworthy development."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, simply reporting facts without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The tweet discusses a significant development that will remain relevant for weeks or months as the implementation progresses."
+      }
+    }
+  },
+  {
+    "tweet_id": "1677919715375677441",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet highlights significant price drops in Bitcoin and Ethereum, which is likely to be shared among crypto traders and investors."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "The tweet provides specific price data, which is useful for traders but lacks deeper analysis."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "The tweet expresses concern about price drops, indicating negative sentiment."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The tweet's relevance is tied to the specific price changes, which may lose relevance as prices stabilize."
+      }
+    }
+  },
+  {
+    "tweet_id": "1697298361110417841",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet announces a significant product launch, which is likely to be shared among tech and crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "The tweet provides information about a new product, which is useful for tech enthusiasts."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tweet expresses excitement about the product launch, indicating positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tweet's relevance will last for days or weeks as the product is discussed and reviewed."
+      }
+    }
+  },
+  {
+    "tweet_id": "1697247082208448904",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "The tweet discusses a significant legal ruling, which is likely to be widely shared among crypto communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "The tweet provides detailed information about a legal ruling, which is credible and newsworthy."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet expresses positive sentiment about the ruling, indicating support for the crypto community."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The tweet's relevance will last for months or years as the ruling impacts the crypto industry."
+      }
+    }
+  },
+  {
+    "tweet_id": "1696936577925091493",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet announces a new service feature, which is likely to be shared among crypto users."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "The tweet provides information about a new service feature, which is useful for crypto users."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet expresses positive sentiment about the new feature."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tweet's relevance will last for days or weeks as the feature is discussed and adopted."
+      }
+    }
+  },
+  {
+    "tweet_id": "1696567510324178954",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet discusses a significant market move, which is likely to be shared among crypto traders."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "The tweet provides information about a market move, which is useful for traders."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet expresses positive sentiment about the market move."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The tweet's relevance is tied to the specific market event, which may lose relevance as market conditions change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1708095471292764297",
+    "analysis": {
+      "virality_potential": {
+        "score": 10,
+        "justification": "The tweet is from Vitalik Buterin, a highly influential figure in the crypto community, and discusses a significant topic, which is likely to be widely shared."
+      },
+      "informative_value": {
+        "score": 10,
+        "justification": "The tweet provides deep insights into Ethereum's development, which is highly informative and relevant to the crypto community."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, simply posing a question for discussion."
+      },
+      "duration_of_impact": {
+        "score": 10,
+        "justification": "The tweet's relevance will last for many years as it discusses foundational aspects of Ethereum's development."
+      }
+    }
+  },
+  {
+    "tweet_id": "1707888396171977036",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "The tweet announces a significant donation, which is likely to be widely shared among crypto communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "The tweet provides detailed information about a significant donation, which is credible and newsworthy."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tweet expresses positive sentiment about the donation and gratitude towards the Ethereum community."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "The tweet's relevance will last for years as the donation will have long-term impacts on the Ethereum ecosystem."
+      }
+    }
+  },
+  {
+    "tweet_id": "1707474363589509327",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet announces a significant product launch, which is likely to be shared among crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "The tweet provides information about a new ETF product, which is useful for investors."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet expresses positive sentiment about the ETF approval."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The tweet's relevance will last for weeks or months as the ETF is discussed and traded."
+      }
+    }
+  },
+  {
+    "tweet_id": "1707455768578945362",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet provides a technical comparison between Solana and Ethereum, which is likely to be shared among tech enthusiasts."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "The tweet provides detailed technical information, which is useful for developers and tech enthusiasts."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, simply presenting facts without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tweet's relevance will last for weeks or months as the discussion around blockchain scalability continues."
+      }
+    }
+  }
+]

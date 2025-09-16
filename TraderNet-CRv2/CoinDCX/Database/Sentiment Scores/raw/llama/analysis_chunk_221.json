@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1744763767580442749",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet mentions multiple blockchain projects, which might generate interest within specific crypto communities, but lacks a strong hook for broader virality."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet provides minimal information, only mentioning project names with a link, offering no context or summary."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet's sentiment is neutral, as it simply lists project names without expressing any emotion or opinion."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to the projects' current development phase, making its impact relatively short-term."
+}
+}
+},
+{
+"tweet_id": "1744725267531354322",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The significant amount of USDT minted could spark interest and discussions within the crypto community, potentially leading to shares and retweets."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides specific, newsworthy information about a large USDT mint, including the exact amount and a link to more details."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet's sentiment is neutral, as it reports on a factual event without expressing any emotion or opinion."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is short-term, as the news of the USDT mint will likely lose significance within a day or two."
+}
+}
+},
+{
+"tweet_id": "1744343399417737266",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The integration of zkSync transactions on Etherscan could generate significant interest and excitement within the Ethereum and broader crypto communities."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides valuable information about a new feature on Etherscan, including a link for users to explore, making it highly informative."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses a positive sentiment, indicated by the use of 'Explorooors' and 'Dive in,' showing enthusiasm for the new feature."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet's relevance will last for days or weeks, as users explore the new feature and discuss its implications."
+}
+}
+},
+{
+"tweet_id": "1743862598259662967",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The tweet's irony and critique of a well-known figure in the crypto space (Brian Armstrong) could lead to widespread sharing and discussion."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides some context about Brian Armstrong's past actions, but its primary focus is on expressing an opinion rather than informing."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The tweet expresses a strongly negative sentiment towards Brian Armstrong's actions and perceived hypocrisy."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance could last for days, as the critique of a prominent figure may spark ongoing discussions and debates."
+}
+}
+},
+{
+"tweet_id": "1742935389776826410",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Similar to the other USDT mint tweet, this significant amount could spark interest and discussions within the crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "Like the previous similar tweet, this one provides specific, newsworthy information about a large USDT mint, including the exact amount and a link."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "This tweet's sentiment is also neutral, reporting on a factual event without expressing emotion or opinion."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Again, the relevance of this tweet is short-term, as the news will likely lose significance within a day or two."
+}
+}
+},
+{
+"tweet_id": "1742915310272041059",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The announcement of a coin distribution change to align with community preferences could generate significant interest and positive responses."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet clearly explains the change, the reason for it (community feedback), and provides practical information for affected users."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses a positive sentiment, highlighting the alignment with community preferences and the ease of use for users."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance will last for days, as the community adjusts to the change and discusses its implications."
+}
+}
+},
+{
+"tweet_id": "1742556449601949833",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The mention of collaborations across chains and the careful distribution to prevent bots could spark interest within the NFT or crypto communities."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet provides some information about the project's activities but lacks specific details or clear explanations."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet expresses a moderately positive sentiment, indicated by the phrase 'the rumbles are growing,' showing anticipation or excitement."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance could last for days, as the mentioned collaborations and distribution method may spark ongoing discussions."
+}
+}
+},
+{
+"tweet_id": "1742531614306124268",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The comparison of costs between Ethereum and the mentioned platform, combined with the rhetorical question, could lead to widespread sharing and discussion."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides a specific comparison that informs users about a potential cost-saving alternative, though it lacks detailed context."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses a strongly positive sentiment towards the mentioned platform, implied through the comparison and the question about hating money."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet's relevance will last for days or weeks, as users discuss and compare the costs of different platforms."
+}
+}
+},
+{
+"tweet_id": "1742344805664084232",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The comparison of PulseChain to Ethereum, highlighting significant advantages, could generate substantial interest and sharing within the crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides specific, comparative information about PulseChain's benefits, including lower fees and higher throughput, making it informative."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The tweet expresses an extremely positive sentiment towards PulseChain, emphasizing its advantages over Ethereum."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The tweet's relevance will last for weeks or months, as the comparison sparks ongoing discussions about the merits of PulseChain."
+}
+}
+},
+{
+"tweet_id": "1741821074239615181",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The list of 'Solana Killers' could generate significant interest and discussion within the crypto community, especially with the inclusion of a poll."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides a list of projects but lacks detailed information or context about why they are considered 'Solana Killers'."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet's sentiment is neutral, as it presents a list without expressing a clear opinion or emotion."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet's relevance will last for days or weeks, as the community discusses and votes on the listed projects."
+}
+}
+}
+]

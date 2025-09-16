@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1472196286271180803",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Announces a major Ethereum protocol change likely to generate significant interest in crypto communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides critical technical information about Ethereum's consensus mechanism transition."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement without explicit emotional language."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "PoS transition represents a fundamental, long-term change for Ethereum."
+      }
+    }
+  },
+  {
+    "tweet_id": "1472002040230469632",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Spanish-language content about Ethereum's creator has limited global reach potential."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides biographical information but lacks technical details or news value."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone presenting factual information."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Standard biographical content with average relevance lifespan."
+      }
+    }
+  },
+  {
+    "tweet_id": "1471967904090386434",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Technical milestone announcement likely to circulate within developer communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides concrete information about Ethereum testnet progress."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual announcement without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Testnet launch maintains relevance until mainnet implementation."
+      }
+    }
+  },
+  {
+    "tweet_id": "1471881075148443654",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Humorous crypto-related dream scenario with some shareability potential."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Personal anecdote without factual information."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Expresses negative emotions through nightmare framing."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Joke content with short-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1471451598404608009",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Corporate endorsement from Microsoft executive boosts share potential."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Reports notable industry figure's positive outlook with source link."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment through 'bullish' characterization."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Corporate endorsements maintain relevance for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1471293227626078208",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Critical opinion may spark limited debate within crypto circles."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Personal opinion without supporting data or context."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative assessment of Ethereum's performance."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Criticism tied to current network status, relevance until improvements."
+      }
+    }
+  },
+  {
+    "tweet_id": "1471240502691385347",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Opinion statement with moderate share potential among crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Subjective assessment without supporting arguments."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive characterization using 'most interesting'."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Opinion tweet with standard engagement lifespan."
+      }
+    }
+  },
+  {
+    "tweet_id": "1471238658736930820",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Technical thread on MEV/Flashbots likely to circulate in developer communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides educational content about complex Ethereum mechanics."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive framing through 'very cool stuff'."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Technical analysis maintains relevance for weeks in developer circles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1471178240643448837",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Major partnership announcement with high engagement metrics."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Details significant platform migration and environmental claims."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Enthusiastic tone with emojis and 'future looks good' statement."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Partnership impacts and carbon-neutral claims have long-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1471173109998882819",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Developer tool announcement likely to spread in technical communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Introduces a practical development tool with source link."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral problem-solution presentation."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Tool relevance depends on developer adoption over months."
+      }
+    }
+  }
+]

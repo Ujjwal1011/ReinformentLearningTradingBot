@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1506702992208273415",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Significant financial milestone comparing crypto to traditional banking institution, likely to generate broad interest."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides concrete market cap comparison with verifiable financial implications."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral statement of fact without explicit emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Market cap comparisons remain relevant for financial discussions but may be superseded by new data."
+      }
+    }
+  },
+  {
+    "tweet_id": "1506699690473099265",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Industry event recap with limited appeal beyond crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Personal experience sharing without concrete data or news."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone with words like 'pleasant' and comparisons to 'early days' enthusiasm."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Event-specific content with relevance fading post-summit."
+      }
+    }
+  },
+  {
+    "tweet_id": "1506661012988063746",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Partnership news with multiple trending hashtags targeting crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Reports verified partnership but lacks original analysis or context."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Implied positive sentiment through price action description ('soaring')."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Partnership relevance lasts through initial implementation phase."
+      }
+    }
+  },
+  {
+    "tweet_id": "1506548697689063429",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major platform partnership announcement with strong engagement metrics."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Details specific technical implementation (L2 solution) with partner attribution."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Enthusiastic tone with repeated 'Power to' statements and blue heart emoji."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Strategic partnership likely to remain relevant through product lifecycle."
+      }
+    }
+  },
+  {
+    "tweet_id": "1506441398601408516",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Price prediction from influencer attracts crypto community interest."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Speculative statement without supporting data or analysis."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong bullish sentiment with 'EXPLODE' capitalization."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Price predictions lose relevance once market moves significantly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1506277389910872066",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Historical reference with moderate engagement potential."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Lacks context about subject or significance of timeline."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral historical statement without emotional valence."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Nostalgic content with limited ongoing relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1506242165764235271",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Regulatory news affecting major cryptocurrencies from trusted source."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific policy information with country-level impact."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual reporting without explicit sentiment."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Regulatory decisions influence markets until policy changes."
+      }
+    }
+  },
+  {
+    "tweet_id": "1506238649557471242",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Novel application of crypto in geopolitical context with humanitarian angle."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Quantified impact ($100M) with real-world crisis relevance."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of facts despite emotional context."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Historic case study for crypto's role in conflict zones."
+      }
+    }
+  },
+  {
+    "tweet_id": "1506002002949591042",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Provocative statement from prominent figure criticizing NFT trends."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Captures philosophical stance on crypto's purpose from primary source."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Constructive criticism presented neutrally."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Conceptual discussion about crypto's purpose has lasting relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1505995779240079365",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Strong prediction from influencer capitalizes on market optimism."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Unsubstantiated price prediction without analysis."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Extremely bullish sentiment with 'EXPLODE' emphasis."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Time-bound prediction loses relevance after target period."
+      }
+    }
+  }
+]

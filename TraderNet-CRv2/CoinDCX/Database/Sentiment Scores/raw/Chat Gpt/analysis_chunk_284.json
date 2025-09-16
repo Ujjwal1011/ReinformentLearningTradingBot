@@ -1,0 +1,107 @@
+[
+{
+"tweet_id":"1590229401312333827",
+"analysis":{
+"virality_potential":{
+"score":6,
+"justification":"The tweet targets a specific community (Japanese crypto beginners) and includes a hook (question) but limited to language, so moderate virality"
+},
+"informative_value":{
+"score":5,
+"justification":"The tweet introduces a thread that will provide explanation, but the tweet itself contains minimal information"
+},
+"sentiment_polarity":{
+"score":4,
+"justification":"The tweet expresses shock and concern about market crash, but not strong negative emotion"
+},
+"duration_of_impact":{
+"score":6,
+"justification":"The thread will remain relevant for days or weeks as people discuss the crash"
+}
+}
+},
+{
+"tweet_id":"1589978671498264583",
+"analysis":{
+"virality_potential":{
+"score":8,
+"justification":"Breaking news about FTX withdrawal stoppage, likely to be shared widely"
+},
+"informative_value":{
+"score":8,
+"justification":"Provides real-time information about FTX withdrawal status"
+},
+"sentiment_polarity":{
+"score":5,
+"justification":"Neutral factual statement"
+},
+"duration_of_impact":{
+"score":5,
+"justification":"Event will be relevant for a short period until resolved"
+}
+}
+},
+{
+"tweet_id":"1589773604291772416",
+"analysis":{
+"virality_potential":{
+"score":5,
+"justification":"Positive tweet praising a VC, moderate virality"
+},
+"informative_value":{
+"score":4,
+"justification":"Opinion, not new info"
+},
+"sentiment_polarity":{
+"score":8,
+"justification":"Strong positive tone praising"
+},
+"duration_of_impact":{
+"score":5,
+"justification":"General observation, moderate relevance"
+}
+}
+},
+{
+"tweet_id":"1589739389545914368",
+"analysis":{
+"virality_potential":{
+"score":6,
+"justification":"Product announcement, moderate virality"
+},
+"informative_value":{
+"score":7,
+"justification":"Provides technical details and links"
+},
+"sentiment_polarity":{
+"score":6,
+"justification":"Positive tone about product"
+},
+"duration_of_impact":{
+"score":7,
+"justification":"Helios is a new tool, relevant for a while"
+}
+}
+},
+{
+"tweet_id":"1589646941465763840",
+"analysis":{
+"virality_potential":{
+"score":8,
+"justification":"Breaking legal precedent, high virality"
+},
+"informative_value":{
+"score":9,
+"justification":"Provides legal analysis and link"
+},
+"sentiment_polarity":{
+"score":3,
+"justification":"Negative sentiment about legal precedent"
+},
+"duration_of_impact":{
+"score":9,
+"justification":"Legal precedent, long-term relevance"
+}
+}
+}
+]

@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1474580983596912641",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet contains a humorous anecdote about a drunk Ethereum person, which can resonate with Spanish-speaking crypto communities. The user has a large following, and the tweet received over 11k likes, indicating moderate shareability. However, it is a localized event and unlikely to go global, so it scores medium."
+},
+"informative_value": {
+"score": 1,
+"justification": "The tweet is a comedic personal observation with no factual or educational content, so it scores very low."
+},
+"sentiment_polarity": {
+"score": 1,
+"justification": "The tweet uses insulting language towards people, expressing negative sentiment, so it scores very negative."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "The event is a one-time incident and the tweet will likely lose relevance quickly, so it scores very short."
+}
+}
+},
+{
+"tweet_id": "1474568678242934792",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "A local comedic anecdote about a joke, with a small following but decent engagement. It may spread within local Spanish-speaking communities but not beyond, so medium."
+},
+"informative_value": {
+"score": 1,
+"justification": "No factual content, just a joke, so very low."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet is humorous and positive, so moderately positive."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Local anecdote, short-lived relevance, so short."
+}
+}
+},
+{
+"tweet_id": "1474530617165504514",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "A giveaway of 5 Ethereum ($20k) is a strong incentive that attracts many retweets and likes, indicating high shareability. The tweet has huge engagement, so high."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet is a call to action for a giveaway, not informative, so low."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The tweet expresses gratitude and excitement, so very positive."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The giveaway is time-limited but the tweet may remain relevant for a while, so medium."
+}
+}
+},
+{
+"tweet_id": "1474468752381075459",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet presents investment returns, which can interest many crypto and finance followers. The user has a large following and the tweet has moderate engagement, so medium."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides factual data on investment performance, so high."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, presenting facts, so neutral."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The data is evergreen for a 5-year period, so medium."
+}
+}
+},
+{
+"tweet_id": "1474440094861901826",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "A giveaway of 200,000 TL with instructions to follow and retweet is a strong incentive. The tweet has high engagement, so high."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet is a promotional instruction, not informative, so low."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet is positive, encouraging participation, so moderately positive."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The giveaway is time-limited, so short."
+}
+}
+}
+]

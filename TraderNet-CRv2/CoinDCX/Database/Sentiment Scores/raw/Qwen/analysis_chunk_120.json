@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1559926476543246337",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet provides a significant financial insight about Ethereum's merge and its impact on Coinbase, which is likely to be shared within crypto communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet offers a credible financial analysis from JPMorgan, providing valuable information about Ethereum's merge and its implications."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The sentiment is positive, highlighting a potential revenue opportunity for Coinbase."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet's impact will last as it pertains to a major event in the crypto space, likely generating discussion for weeks."
+}
+}
+},
+{
+"tweet_id": "1559824950164348931",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet is a meme-like statement about crypto trends, which can be highly shareable within crypto communities."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet is not particularly informative, as it's more of a joke than a factual statement."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The sentiment is neutral, as the tweet is more of a statement than an emotional one."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's impact is short-term, as it's tied to a specific trend."
+}
+}
+},
+{
+"tweet_id": "1559727104903757826",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet provides advice on the Ethereum merge, which is likely to be shared among Ethereum enthusiasts."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet offers useful information about the Ethereum merge and advice for both beginners and experts."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The sentiment is positive, as the tweet is encouraging and provides helpful advice."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's impact will last for days or weeks, as it pertains to an upcoming event."
+}
+}
+},
+{
+"tweet_id": "1559357892645437440",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet expresses a strong opinion about potential censorship, which can drive engagement within the Ethereum community."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides information about a critical issue in the Ethereum community."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "The sentiment is moderately negative, as the tweet expresses concern about potential censorship."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's impact will last for days or weeks, as it pertains to a significant topic."
+}
+}
+},
+{
+"tweet_id": "1559336657463422977",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet is a link to a comparison between Ethereum and Ethereum 2.0, which may not be widely shared without additional context."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet provides a link to a comparison, but lacks context or detailed information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The sentiment is neutral, as the tweet is a simple link without strong emotional language."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's impact is short-term, as it's a link to a comparison without additional context."
+}
+}
+},
+{
+"tweet_id": "1559151590031900672",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet announces a significant event involving Argentina running Ethereum nodes, which is likely to be widely shared."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides critical information about a country's adoption of Ethereum technology."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The sentiment is positive, as the tweet highlights a significant development."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The tweet's impact will last for months or years, as it's a policy decision with long-term implications."
+}
+}
+},
+{
+"tweet_id": "1559150231639539714",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet announces a significant event involving Argentina running Ethereum nodes, which is likely to be widely shared in Spanish-speaking communities."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides critical information about a country's adoption of Ethereum technology."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The sentiment is positive, as the tweet highlights a significant development."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The tweet's impact will last for months or years, as it's a policy decision with long-term implications."
+}
+}
+},
+{
+"tweet_id": "1558961992336977920",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet compares Ethereum and Bitcoin aging, which is likely to be shared among crypto enthusiasts."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides a thought-provoking comparison of two major cryptocurrencies."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The sentiment is neutral, as the tweet is a factual comparison without strong emotional language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's impact will last for days or weeks, as it's a long-term discussion topic."
+}
+}
+},
+{
+"tweet_id": "1558959277821362176",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet is a personal statement about selling Ethereum, which may not be widely shared."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet provides minimal information, as it's a personal anecdote."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The sentiment is positive, as the tweet expresses confidence in Ethereum's potential."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's impact is short-term, as it's a personal statement without broader implications."
+}
+}
+},
+{
+"tweet_id": "1558840556289146884",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet lists top cryptocurrencies, which may not be widely shared without additional context."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides a list of top cryptocurrencies, which is somewhat informative."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The sentiment is neutral, as the tweet is a factual list without strong emotional language."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's impact is short-term, as it's a standard list without deeper analysis."
+}
+}
+}
+]

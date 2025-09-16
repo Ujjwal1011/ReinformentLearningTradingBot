@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1538252846403035138",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Call-to-action format with crypto hashtags could engage communities, but lacks unique content for broader virality."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "No factual content - purely opinion-based engagement bait about market sentiment."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone despite bear market reference - expresses hope rather than strong emotion."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Tied to momentary market sentiment rather than lasting information."
+      }
+    }
+  },
+  {
+    "tweet_id": "1538178152358457344",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking price milestone news likely to be widely shared in financial/crypto circles."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Specific price data points with market context, though lacks deeper analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of market movements without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Price thresholds become outdated quickly in volatile markets."
+      }
+    }
+  },
+  {
+    "tweet_id": "1538146985345093632",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Urgent market update format ('BROKEN NEWS') increases shareability potential."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides precise price points and percentage declines with timestamp."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual reporting without emotional language or commentary."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to immediate market conditions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1538092349783429120",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Controversial critique of mainstream media with verifiable price data drives engagement."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Combines market data with media criticism, though opinion-heavy."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Strong negative tone ('collapsed', 'bad investment advice', 'pumped')"
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Critique of media coverage remains relevant beyond immediate price movements."
+      }
+    }
+  },
+  {
+    "tweet_id": "1538072054494375937",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Technical analysis validation appeals to trading communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides market analysis context but focuses on personal validation."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Confident tone celebrating accurate prediction ('truth of charts')."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Market predictions have standard relevance cycle."
+      }
+    }
+  },
+  {
+    "tweet_id": "1538053229870731265",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Historic price milestone likely to be widely referenced."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Clear historical comparison with verifiable data point."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral statement of fact without commentary."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Historic comparisons remain relevant in market analysis."
+      }
+    }
+  },
+  {
+    "tweet_id": "1537861363233656832",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Large transaction case study demonstrates blockchain value proposition."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific transaction metrics with infrastructure commentary."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Implied positive tone about blockchain efficiency."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Transaction case studies remain relevant for technology discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1537421727625580545",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Major stablecoin launch news important to crypto ecosystem."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Official product announcement with technical details and timeline."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral corporate announcement tone."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Product launches influence ongoing market infrastructure."
+      }
+    }
+  },
+  {
+    "tweet_id": "1537410558089211904",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Founder's market perspective from influential figure."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Newsworthy statement about crypto's role, though lacks data."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral assessment of crypto's position."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Founder perspectives remain reference points long-term."
+      }
+    }
+  },
+  {
+    "tweet_id": "1537371918495625216",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Provocative investment question format drives engagement."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Personal action without supporting data or context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Challenge format presents neutral debate premise."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Engagement-focused content with standard lifespan."
+      }
+    }
+  }
+]

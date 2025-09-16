@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1557758049766498304",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet uses a breaking‑news style \"JUST IN\" and a popular #Ethereum hashtag, has high engagement (6873 likes, 1284 retweets) and originates from an account with 3.4 M followers, giving it strong sharing potential within the crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "It conveys a concrete, newsworthy fact—the estimated date of the Ethereum merge—providing timely information that many users are seeking."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The language is factual and neutral; there is no strong positive or negative emotional wording."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The scheduled date remains relevant for weeks leading up to the merge and serves as a reference point afterward, giving the tweet medium‑to‑long lasting relevance."
+}
+}
+},
+{
+"tweet_id": "1557756201827532800",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Labelled \"OFFICIAL\" and containing the same schedule, the tweet earned 8995 likes and 2027 retweets from an account with over 400 k followers, indicating high potential for sharing across crypto audiences."
+},
+"informative_value": {
+"score": 8,
+"justification": "It delivers a clear, factual announcement of the merge date, which is a key piece of information for the community."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The wording is neutral and informational, lacking emotive language."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The date information stays relevant for weeks before the event and continues to be referenced after, giving it medium‑to‑long impact."
+}
+}
+},
+{
+"tweet_id": "1557753518282473472",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The \"BREAKING\" label, inclusion of a technical TTD number, and high engagement (13675 likes, 2940 retweets) from an account with 322 k followers make this tweet highly shareable within the crypto niche."
+},
+"informative_value": {
+"score": 9,
+"justification": "It provides both the merge schedule and a specific target‑difficulty figure, offering detailed, actionable information for enthusiasts and analysts."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is primarily factual; the calendar emoji adds a neutral tone without strong emotion."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Technical details like the TTD value may be referenced for weeks or months, and the schedule remains relevant until the merge, giving the tweet a long‑term relevance."
+}
+}
+},
+{
+"tweet_id": "1557747849357430784",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tentative phrasing and modest engagement (1912 likes, 283 retweets) from an account with ~290 k followers suggest moderate sharing potential, mainly within interested circles."
+},
+"informative_value": {
+"score": 7,
+"justification": "It conveys the approximate merge date, albeit with a tentative qualifier, still providing useful information."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The panda emoji adds a light, positive tone, indicating mild optimism about the upcoming merge."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The information stays relevant for the weeks leading up to the merge but lacks the urgency of earlier announcements, resulting in medium‑term relevance."
+}
+}
+},
+{
+"tweet_id": "1557582864962576384",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The cautionary message uses a striking mixed‑case style and targets a popular NFT marketplace, earning 2481 likes and 377 retweets from an account with over 2 M followers, giving it decent shareability within the NFT community."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet mainly offers a warning and opinion without concrete factual details about the project, limiting its informational depth."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The tone is critical, highlighting a negative outcome for those who \"don't DYOR,\" reflecting strong negative sentiment toward the project."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The warning is tied to a specific, time‑sensitive discussion about a project and is unlikely to stay relevant beyond the immediate controversy."
+}
+}
+}
+]

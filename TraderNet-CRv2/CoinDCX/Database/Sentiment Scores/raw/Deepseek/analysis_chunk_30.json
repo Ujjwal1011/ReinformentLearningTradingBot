@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1445788346677018631",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Bold prediction about Ethereum scarcity could generate interest in crypto communities, but lacks concrete evidence for broader appeal."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Makes a speculative claim without supporting data or context about Ethereum's future supply."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Expresses optimistic outlook about Ethereum's future value through words like 'extremely rare'."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Long-term prediction could remain relevant for months in crypto discussions, but dependent on market movements."
+      }
+    }
+  },
+  {
+    "tweet_id": "1445525651872632836",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Combination of crypto prices with relatable humor (Oreos) could resonate within crypto communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Primarily price updates without context or analysis, combined with a personal anecdote."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong positive sentiment conveyed through 'All is good in the world' conclusion."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Price references become outdated quickly; humor element has short-term appeal."
+      }
+    }
+  },
+  {
+    "tweet_id": "1445507710326231046",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Cultural commentary linking hip-hop and crypto could spark discussions in niche communities."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Opinion-based analysis of cultural trends rather than factual information."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Moderately positive assessment of OG rappers' adaptability."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Cultural analysis could remain relevant as NFT adoption evolves."
+      }
+    }
+  },
+  {
+    "tweet_id": "1445505226576781314",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Alarming claim about blockchain security could spread quickly in crypto circles."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific technical claim about network security with potential real-world implications."
+      },
+      "sentiment_polarity": {
+        "score": 0,
+        "justification": "Extremely negative implication of attacking a blockchain network."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Immediate concern but impact duration depends on attack verification and resolution."
+      }
+    }
+  },
+  {
+    "tweet_id": "1445463549740941320",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Real-world crypto use case (car purchase) could interest adoption-focused communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Personal transaction announcement without broader context or verification."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive demonstration of crypto utility through personal success story."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Single transaction example loses relevance quickly without ongoing narrative."
+      }
+    }
+  },
+  {
+    "tweet_id": "1445450451499962369",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Listing major corporate adopters could generate excitement in crypto and business communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific examples of Ethereum adoption by recognized institutions."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of factual information without overt emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Corporate adoption remains relevant as Ethereum ecosystem evolves."
+      }
+    }
+  },
+  {
+    "tweet_id": "1445418287156932608",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Creative analogy could resonate with crypto enthusiasts familiar with Ethereum's challenges."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Metaphorical comparison rather than concrete information or analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Mixed assessment acknowledging both flaws and strengths without strong emotion."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Memorable analogy could persist in Ethereum community discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1444836739051311108",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Comparative statistics could spread within crypto communities as adoption metric."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific wallet count comparison between two blockchain networks."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of data with implied optimism through 'still early' comment."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Adoption metrics remain relevant until significantly updated."
+      }
+    }
+  },
+  {
+    "tweet_id": "1443976348599414790",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Bold claim about internet infrastructure could generate discussion in tech/crypto circles."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Vague statement about potential impact without technical details or evidence."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Very positive assertion using transformative language ('change the entire internet')."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Conceptual claim about infrastructure could remain relevant as technology develops."
+      }
+    }
+  },
+  {
+    "tweet_id": "1443948426908127239",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Technical analysis with price prediction could spread among trading communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific market analysis with chart reference, though speculative."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Moderately positive outlook through terms like 'luscious charts' and 'lovely consolidation'."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Market predictions become irrelevant once price moves significantly."
+      }
+    }
+  }
+]

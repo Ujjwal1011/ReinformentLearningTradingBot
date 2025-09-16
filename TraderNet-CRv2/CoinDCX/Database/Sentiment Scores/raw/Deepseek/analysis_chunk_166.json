@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1741193419039404340",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Announcement from Ethereum's co-founder about core protocol updates has high relevance to crypto communities and media outlets."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides critical information about Ethereum's development roadmap with an official link."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Roadmap updates influence long-term development discussions but may be superseded by future updates."
+      }
+    }
+  },
+  {
+    "tweet_id": "1741131924171809016",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Community-building content with cross-chain appeal but lacks strong emotional hooks for broader sharing."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Focuses on brand strategy rather than providing concrete information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone about collaborative growth ('onboarding communities')."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant while the project continues onboarding efforts."
+      }
+    }
+  },
+  {
+    "tweet_id": "1740800458384609361",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High-value derivatives expiration news attracts immediate attention in crypto trading circles."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific financial data point with clear market implications."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual reporting without emotional bias."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Primarily relevant around options expiration dates."
+      }
+    }
+  },
+  {
+    "tweet_id": "1740734416714916123",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Year-in-review content resonates within the zkSync community but has limited broader appeal."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Summarizes annual progress for a key Ethereum scaling solution."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Optimistic tone about future development ('onwards to building')."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant through early 2024 as roadmap unfolds."
+      }
+    }
+  },
+  {
+    "tweet_id": "1740664993367113860",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Provocative comparison between blockchain rivals triggers community engagement."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Reports measurable search interest data but lacks primary source verification."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of comparative metrics."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Interest metric fluctuations are time-sensitive."
+      }
+    }
+  },
+  {
+    "tweet_id": "1740515567621345689",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Philosophical statement from Ethereum's creator sparks ideological discussions across crypto communities."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Slogan-style content without detailed explanations."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive advocacy for core values ('cypherpunk' ethos)."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Continues existing debates about Ethereum's philosophical direction."
+      }
+    }
+  },
+  {
+    "tweet_id": "1740192312297455942",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Cross-chain collaboration narrative attracts attention from multiple crypto communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Vague project update without technical details or timelines."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement of distribution strategy."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant through the minting period and initial project phases."
+      }
+    }
+  },
+  {
+    "tweet_id": "1739318467734438111",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Large stablecoin transactions generate discussion about market liquidity."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific transaction data from known blockchain tracker account."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral financial reporting."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Transaction news typically has short-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1738912202558431688",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Cross-chain functionality discussion appeals to specific crypto communities."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Reports an opinion rather than confirmed development plans."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of a third-party opinion."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Dependent on whether the suggested collaboration materializes."
+      }
+    }
+  },
+  {
+    "tweet_id": "1738775768799600844",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Provocative statement about Ethereum's challenges sparks debate."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Lacks specific details about proposed solutions."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Ambiguous tone - could be interpreted as concern or criticism."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant as long as Ethereum faces scalability debates."
+      }
+    }
+  }
+]

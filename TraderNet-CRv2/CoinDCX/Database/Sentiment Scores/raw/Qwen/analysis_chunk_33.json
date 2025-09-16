@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1463270358681858051",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet makes a bold prediction about Ethereum's price, which could attract attention within the crypto community. The user has a significant following, increasing its potential to be shared."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "The tweet provides a prediction but lacks detailed information or sources, making it less informative."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet expresses optimism about Ethereum's future, indicating a positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tweet's relevance depends on Ethereum's price movements, which could remain a topic of discussion for a few weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1463173704402317315",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet promotes educational content about scaling Ethereum, which could be shared within the crypto community."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "The tweet provides a link to educational content, offering useful information about Ethereum's scalability."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The tweet is neutral, focusing on providing information without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The content is relevant for a few days as it pertains to a specific event or discussion."
+      }
+    }
+  },
+  {
+    "tweet_id": "1462857250146594816",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet provides a detailed breakdown of new projects, which could be shared among developers and crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet offers valuable data on project distribution across different chains, providing actionable insights."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The tweet is neutral, presenting data without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tweet's relevance depends on the ongoing interest in blockchain projects, potentially remaining relevant for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1462803733155356683",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "The tweet expresses a personal sentiment about buying Ethereum, which may resonate with some but lacks a strong hook for virality."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "The tweet provides a personal opinion without detailed information or sources."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet expresses a positive sentiment, indicating confidence in Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The tweet's relevance is tied to current market conditions and may fade as the situation evolves."
+      }
+    }
+  },
+  {
+    "tweet_id": "1462664386196086785",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet mocks the idea that Ethereum isn't scaling, which could be shared within the crypto community."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "The tweet provides a link to information about Ethereum's scaling efforts, offering some value."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet has a slightly negative tone, questioning the perception of Ethereum's scaling issues."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The tweet's relevance depends on ongoing discussions about Ethereum's scalability, potentially remaining relevant for a few weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1462527056164577283",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "The tweet criticizes people quitting Ethereum, which may resonate with some but lacks a strong hook for virality."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "The tweet provides a personal opinion without detailed information or sources."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet has a neutral to slightly negative tone, questioning the reasons for quitting Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The tweet's relevance is tied to current discussions about Ethereum, potentially fading as the situation evolves."
+      }
+    }
+  },
+  {
+    "tweet_id": "1462464440738091012",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet provides a detailed ranking of developer activity, which could be shared among developers and crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet offers valuable data on developer activity across different chains, providing actionable insights."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The tweet is neutral, presenting data without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tweet's relevance depends on ongoing interest in blockchain development, potentially remaining relevant for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1462365131761983494",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet discusses Ethereum's scaling plans, which could be shared among crypto enthusiasts and developers."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet provides detailed information about Ethereum's future scaling plans, offering high value."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet expresses optimism about Ethereum's future, indicating a positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The tweet's relevance is long-term as it discusses future developments that could impact Ethereum for years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1462323649566982147",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet uses humor to compare Bitcoin and Ethereum cities, which could be shared within the crypto community."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "The tweet provides a meme without detailed information or sources."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet has a positive tone, celebrating Ethereum's potential."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The tweet's relevance is tied to current discussions about Bitcoin and Ethereum, potentially fading as the situation evolves."
+      }
+    }
+  },
+  {
+    "tweet_id": "1462286930356277256",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "The tweet expresses love for Ethereum, which may resonate with some but lacks a strong hook for virality."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "The tweet provides a personal opinion without detailed information or sources."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tweet expresses strong positive sentiment, indicating deep affection for Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The tweet's relevance is tied to current discussions about Ethereum, potentially fading as the situation evolves."
+      }
+    }
+  }
+]

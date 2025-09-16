@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1732570659941761183",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Community update addressing claim issues; likely to be shared within the #TipChat community but not expected to go viral beyond it."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides clear instructions on claim resolution, useful for affected users."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive tone with heart emoji, expresses community focus."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevant for the duration of the claim issue, likely a few days to a week."
+}
+}
+},
+{
+"tweet_id": "1732565692489101667",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Insightful commentary on Solana that could resonate with crypto enthusiasts, but not guaranteed to go viral."
+},
+"informative_value": {
+"score": 8,
+"justification": "Shares investment thesis and technical assessment, providing valuable insight."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Optimistic tone about Solana's potential."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The thesis remains relevant as Solana continues to develop."
+}
+}
+},
+{
+"tweet_id": "1732564122892751020",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "News about NFT market volume may attract attention within the Vietnamese crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "Shares specific transaction volume, offering factual insight."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Uses 'bùng nổ' indicating excitement."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The data is relevant for weeks as market trends evolve."
+}
+}
+},
+{
+"tweet_id": "1732555298341302325",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Combines NFT market news with El Salvador Bitcoin investment, potentially interesting to a broader audience."
+},
+"informative_value": {
+"score": 8,
+"justification": "Shares specific data and quotes from officials."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Mostly factual, no strong emotional tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Both topics are relevant for weeks."
+}
+}
+},
+{
+"tweet_id": "1732551684117995725",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Announcement of a new stablecoin may attract attention among crypto enthusiasts."
+},
+"informative_value": {
+"score": 7,
+"justification": "Shares key information about the stablecoin's backing and platform."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Informative announcement without strong emotional language."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The stablecoin will be relevant as long as it operates."
+}
+}
+}
+]

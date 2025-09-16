@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1473317595239624717",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Product launch announcement with Ethereum integration and emojis creates excitement in crypto communities, though not globally viral."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides details about a new wallet and fiat on-ramps with a link for further information."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive tone with celebratory emojis (🔥, 💙) and mission-focused language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Product releases typically remain relevant for weeks in tech/crypto spaces."
+      }
+    }
+  },
+  {
+    "tweet_id": "1473073485069045765",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Humorous anecdote about Vitalik might resonate in Spanish crypto circles but lacks broad appeal."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Personal story without factual or educational content."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Mixed tone: mockery could be interpreted as humorous or mildly negative."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance limited to the momentary anecdote."
+      }
+    }
+  },
+  {
+    "tweet_id": "1473042109997322243",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High engagement and excitement about Ethereum's creator suggests strong shareability in Spanish communities."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Primarily expresses excitement without substantive information."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Enthusiastic tone with 'Omg' and multiple exclamation points."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Momentary hype with no lasting relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1473019822665568261",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Niche complaint about a personal experience unlikely to gain traction."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Anecdotal criticism without verifiable information."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Expresses disappointment ('me decepciono') and frustration."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term relevance tied to a specific personal grievance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1472978062593736711",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Technical update with hashtags (#Ethereum) could engage crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Announces a functional ENS feature with a link for details."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, factual presentation without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Feature updates often remain relevant for weeks in tech ecosystems."
+      }
+    }
+  },
+  {
+    "tweet_id": "1472964802058375168",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Humorous story about Vitalik using outdated tech could resonate in niche communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Entertaining anecdote without substantive information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral storytelling with a humorous twist."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-lived relevance as a quirky encounter."
+      }
+    }
+  },
+  {
+    "tweet_id": "1472957947546324993",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Satirical future scenario combining crypto and pop culture elements has meme potential."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Humorous speculation without factual basis."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive conclusion ('Life is good') with optimistic portfolio focus."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Memes can circulate for days but lack long-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1472920313927110659",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Political jab with Ethereum reference may drive engagement in Argentine communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Opinion-based statement without factual content."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative implication about job loss ('pierde su trabajo')."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Tied to transient political context."
+      }
+    }
+  },
+  {
+    "tweet_id": "1472913976367460358",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Provocative comparison of centralized vs. decentralized systems could spark discussions."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Makes a conceptual point about digital infrastructure choices."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of contrasts without explicit judgment."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Evergreen debate about decentralization maintains relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1472897066322038784",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High engagement and meme format targeting Ethereum's creator has viral potential in Spanish communities."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Mocking joke without substantive content."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Mocking tone toward Ethereum's creator."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-lived as a humorous jab."
+      }
+    }
+  }
+]

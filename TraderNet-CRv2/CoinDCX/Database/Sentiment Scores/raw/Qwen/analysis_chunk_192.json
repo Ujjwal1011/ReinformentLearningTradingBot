@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1732181119800615210",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "The tweet provides a comparison of crypto performance, which could be shared among crypto enthusiasts but lacks a strong hook for broader virality."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet offers specific data on crypto performance and a call to action, making it informative."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The sentiment is positive towards some tokens and negative towards others, but overall leans positive."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The tweet's relevance is tied to current crypto prices, which can change quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732181091572719713",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "The tweet is about NFTs but lacks a strong hook for wider sharing."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides a news link but without context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a short period as it's a specific event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732181048015098351",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "A guide in Vietnamese, relevant to a specific community."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Educational content about an exchange."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Medium relevance as it's a how-to guide."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732180705411555725",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Promotional but not widely shareable."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Explains a service but lacks depth."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for a medium period as it's a specific service."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732180228162584635",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Announces a product update, relevant to a niche audience."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides technical details."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for a medium period as it's a product update."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732179985815961780",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Short and specific, unlikely to go viral."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Minimal information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Very short relevance as it's a specific sale."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732179628708749815",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Technical update with a humorous note, could be shared among enthusiasts."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Explains a significant update."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Long relevance as it's a future improvement."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732178977064632776",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Reply about flash loans, niche audience."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Clarifies a technical concept."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short relevance as it's a current topic."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732178849478164987",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "French crypto update, relevant to a specific community."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides crypto analysis."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short relevance as it's a specific crypto movement."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732178702325198857",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Mentions crypto rankings, niche audience."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides rankings and prices."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short relevance as it's a specific moment."
+      }
+    }
+  }
+]

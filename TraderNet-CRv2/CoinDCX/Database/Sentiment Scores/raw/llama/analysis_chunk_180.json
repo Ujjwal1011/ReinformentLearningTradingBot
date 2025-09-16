@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1732198913120293073",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet provides a market update with a clear stance (Bullish) and includes relevant hashtags, but it's a standard update and not particularly attention-grabbing."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet informs about the current market mood with a link to more information, providing some value to those interested in crypto markets."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The sentiment is moderately positive due to the 'Bullish' market mood, indicating optimism."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is short-term, as market moods can change rapidly."
+}
+}
+},
+{
+"tweet_id": "1732198784069738776",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The announcement of a major bank entering the crypto space could generate significant interest within the crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides newsworthy information about a significant development in the crypto space in Brazil."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tone is very positive, indicated by the use of celebratory emojis and the announcement of a major bank's entry into crypto."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The impact could last for days or weeks as the news settles and the community reacts to the bank's crypto integration."
+}
+}
+},
+{
+"tweet_id": "1732198742852554918",
+"analysis": {
+"virality_potential": {
+"score": 2,
+"justification": "The tweet is a personal investment strategy discussion, unlikely to attract broad attention."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet provides minimal information, mainly a personal opinion on investment strategies."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The sentiment is moderately positive, as the user seems content with their investment approach."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "The tweet's relevance is very short, as it pertains to a fleeting personal investment decision."
+}
+}
+},
+{
+"tweet_id": "1732198672115339414",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The topic of Ethereum ETFs could attract interest, but the tweet itself is straightforward and lacks a strong hook."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides useful information about Ethereum ETF hopes with a link to more details."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The sentiment is neutral, as the tweet simply reports on expectations without emotional tone."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The relevance of the tweet is standard, lasting as long as the news cycle for ETF updates."
+}
+}
+},
+{
+"tweet_id": "1732198545245999298",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "The tweet is a personal transaction update, unlikely to attract significant attention beyond the mentioned user."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet provides minimal information, mainly a personal transaction update."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The sentiment is moderately positive, indicated by the user's satisfaction with their purchase."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "The tweet's relevance is very short, as it pertains to a personal, immediate transaction."
+}
+}
+},
+{
+"tweet_id": "1732198529685451173",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet might attract some interest due to the mention of a vulnerability, but it's not sensationalized."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet informs about a specific vulnerability affecting Ethereum NFT creators with a link to more information."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The sentiment is moderately negative due to the discussion of a vulnerability, but it's presented in a neutral, informative manner."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The relevance of the tweet is short, lasting until the vulnerability is patched or resolved."
+}
+}
+},
+{
+"tweet_id": "1732198450572480741",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The update on SEC's evaluation timeframe might attract some interest within the crypto community, but it's not groundbreaking."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides detailed, newsworthy information about the SEC's decision on Grayscale's ETF rule change."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The sentiment is neutral, as the tweet reports on a regulatory update without emotional tone."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The relevance of the tweet is standard, lasting as long as the news cycle for this regulatory update."
+}
+}
+},
+{
+"tweet_id": "1732198377381933149",
+"analysis": {
+"virality_potential": {
+"score": 1,
+"justification": "The tweet is a simple link with hashtags, unlikely to attract any significant attention."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet provides minimal information, just a link and some hashtags."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The sentiment is neutral, as there's no discernible emotional tone."
+},
+"duration_of_impact": {
+"score": 1,
+"justification": "The tweet's relevance is instantly irrelevant, as it lacks any substantial content."
+}
+}
+},
+{
+"tweet_id": "1732198334268359017",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The creative, humorous approach to listing various crypto and non-crypto items could attract significant engagement."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet provides some minimal information in a humorous, non-standard format."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The sentiment is very positive, indicated by the playful, humorous listing of items."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's impact could last for days, as humorous content often gets shared over a longer period."
+}
+}
+},
+{
+"tweet_id": "1732198231579259082",
+"analysis": {
+"virality_potential": {
+"score": 2,
+"justification": "The tweet is a personal opinion on another cryptocurrency's potential, unlikely to attract broad attention."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet provides minimal information, mainly a personal opinion on ADA's potential vs. Ethereum."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "The sentiment is moderately negative towards ADA's potential, but in a comparative, non-aggressive manner."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "The tweet's relevance is very short, as it pertains to a fleeting personal opinion on crypto potential."
+}
+}
+} 
+]

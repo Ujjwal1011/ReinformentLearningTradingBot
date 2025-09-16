@@ -1,0 +1,23 @@
+[
+  {
+    "tweet_id": "1763576465428521076",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "The tweet is a standard informational reminder about a bridge for a niche crypto token; it is unlikely to go viral beyond the $PEPE community."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "It provides specific, factual details about the official bridge, supported networks, and fee advantages, which is useful for users."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral and factual, with no strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The information remains relevant for days or weeks as long as the bridge is active and network fees are a concern."
+      }
+    }
+  }
+]

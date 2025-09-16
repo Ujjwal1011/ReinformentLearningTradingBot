@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1732190576764764519",
+    "analysis": {
+      "virality_potential": {
+        "score": 2,
+        "justification": "The tweet is a niche question about a specific cryptocurrency, with no hashtags or trending topics, and the user has only 5 followers, making it unlikely to spread widely."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "It is a question that does not provide new factual information, merely asking for clarification on a niche topic."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral, simply asking a question without expressing strong emotions."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "The relevance of the question is short-lived, tied to a specific mining event that will resolve soon."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732190434221490594",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "A niche book review with limited hashtags and low engagement, unlikely to go viral beyond the crypto community."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Provides a review of a Bitcoin-themed book, offering some information but not breaking news."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, presenting a review without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The review may be referenced for weeks or months, but it is not a timeless piece."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732190345968955744",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news about a major financial event (SEC delay of an ETF) is likely to be widely shared across the crypto and finance communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides factual, newsworthy information about a regulatory decision affecting the crypto market."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet maintains a neutral tone, simply reporting the event."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The news will remain relevant for weeks as the ETF process continues."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732190340835070372",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The giveaway and blockchain AI promotion can attract shares within the crypto community, though it may not reach a global audience."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "The tweet is promotional and does not provide substantive factual information."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tone is enthusiastic and positive, encouraging participation in the giveaway."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The relevance is limited to the duration of the giveaway, after which interest will wane."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732190302616641582",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The announcement may spread within the NFT and crypto community but is unlikely to go viral beyond that niche."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides details about an upcoming mint event, offering useful information to interested participants."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tweet expresses excitement and positivity about the launch."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The event will remain relevant for weeks as participants prepare for the mint."
+      }
+    }
+  }
+]

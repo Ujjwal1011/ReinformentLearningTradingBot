@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1732160851283767436",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet provides specific data but is niche; likely to get moderate engagement within crypto community but not viral."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides specific volume data and a link to analytics, giving useful information to crypto enthusiasts."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is purely factual, no emotional tone."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The data may be relevant for a few days to weeks; after that, new data will replace it."
+}
+}
+},
+{
+"tweet_id": "1732160615479730246",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Bold bullish predictions can spark discussion and shares within the crypto community, giving it medium virality potential."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet offers a speculative prediction but no new data or analysis."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet expresses optimism about BTC and ETH, encouraging action."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The prediction remains relevant until the halving; after that, its relevance fades."
+}
+}
+},
+{
+"tweet_id": "1732158704647078067",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "A niche opinion comment that may get limited traction within a specific community."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet is an opinion with no factual information."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet expresses optimism about a new chain."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet may remain relevant for a few days to weeks as the chain develops."
+}
+}
+},
+{
+"tweet_id": "1732158203666780330",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "A quick factual update that may get some engagement but is not a meme or emotional."
+},
+"informative_value": {
+"score": 5,
+"justification": "Provides a factual update on the Fear and Greed Index and price, but not deep analysis."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, presenting data without emotional tone."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The data is relevant for a few hours to a day."
+}
+}
+},
+{
+"tweet_id": "1732157909063348356",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "High engagement, a compelling quote from a prominent figure, likely to be widely shared."
+},
+"informative_value": {
+"score": 8,
+"justification": "A credible source provides insight into Solana vs Ethereum, offering valuable context."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet itself is neutral, presenting a comparison without strong emotional language."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The comparison between Solana and Ethereum is a long-term topic, making the tweet relevant for months or years."
+}
+}
+}
+]

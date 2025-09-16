@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1507367673117687810",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet announces breaking news that Israel's biggest bank will offer Bitcoin and Ethereum trading, a topic of high interest within the crypto community. The 'JUST IN' hook and solid engagement (3720 likes, 636 retweets) give it medium‑high viral potential, though it is niche to finance/crypto rather than global mainstream."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides a concrete, verifiable announcement about a new crypto trading service from a major Israeli bank, delivering factual information that is newsworthy for investors and regulators."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The language is neutral, simply stating the news without expressing positive or negative emotions."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The announcement will stay relevant for weeks as users evaluate the new service and media cover the development, but it is not an evergreen topic."
+}
+}
+},
+{
+"tweet_id": "1507276933217894422",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Similar breaking news about Bank Leumi, but posted by a personal account with slightly lower engagement (3631 likes, 493 retweets). The content is newsworthy but less likely to spread beyond crypto circles, giving it medium viral potential."
+},
+"informative_value": {
+"score": 8,
+"justification": "Delivers the same factual information about the bank enabling crypto trading, making it highly informative."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral tone, simply reporting the development."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Will be discussed for a short to medium period as the service launches, similar to the first tweet."
+}
+}
+},
+{
+"tweet_id": "1507180543531794435",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet highlights a massive 125 million USDT transfer to Binance, using multiple alarm emojis to draw attention. Large‑scale whale movements often spark widespread speculation, leading to high viral potential within the crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides a specific, verifiable data point about a large blockchain transaction, with a link to the transaction details, offering valuable information for analysts."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "The series of alarm emojis and wording convey concern or warning, indicating a moderately negative sentiment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The transaction may generate discussion for several days as markets react, but its relevance will fade once the immediate impact is absorbed."
+}
+}
+},
+{
+"tweet_id": "1506779959242764288",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Announces a thread explaining the upcoming Ethereum Merge, a major event in the crypto ecosystem. The high engagement (8805 likes, 2191 retweets) and the promise of a simple explanation give it strong viral appeal across crypto enthusiasts."
+},
+"informative_value": {
+"score": 7,
+"justification": "While the tweet itself is an intro, it signals a thread that delivers detailed, educational content about the Merge, making it fairly informative."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet maintains a neutral tone, simply informing followers about the upcoming event."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The Merge is a landmark upgrade that will be referenced for months before and after its implementation, giving the tweet long‑term relevance."
+}
+}
+},
+{
+"tweet_id": "1506765063834767369",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "A concise fun fact comparing Ethereum's market cap to Bank of America can attract interest and be shared within finance and crypto circles, but its simplicity limits broader viral spread."
+},
+"informative_value": {
+"score": 6,
+"justification": "Presents a factual comparison that is informative, though it is a single data point without deeper context."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The 'FUN FACT' framing conveys a mildly positive, upbeat tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The fact remains relevant as long as market caps stay comparable, likely persisting for weeks or months, but not indefinitely."
+}
+}
+}
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1769742064630018497",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Price comparison between major cryptocurrencies creates inherent shareability in crypto communities, though lacks broader emotional hooks."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides factual price data comparisons but lacks context about market conditions or sources."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of price data with a surprised emoji suggesting mild excitement."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Price comparisons become outdated quickly as markets fluctuate daily."
+      }
+    }
+  },
+  {
+    "tweet_id": "1769704086117499046",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news format combined with meme coin rivalry creates high share potential in crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Reports specific market cap comparison with ticker symbols but lacks source verification."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting style despite sensational 'BREAKING' framing."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Market cap rankings remain relevant until next major shift occurs."
+      }
+    }
+  },
+  {
+    "tweet_id": "1769568156182323261",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Platform rivalry framed as breaking news with Google Trends data creates strong community engagement potential."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Specific comparison metric (search interest) cited but lacks timeframe context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of comparative data without explicit bias."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Search trend data remains relevant for weeks in crypto discourse cycles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1769388497192833168",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Poetic community rallying cry has niche appeal but lacks broad meme potential."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Primarily motivational content with minimal concrete information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive, aspirational tone celebrating community achievements."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Community-specific hype typically lasts days unless sustained by new developments."
+      }
+    }
+  },
+  {
+    "tweet_id": "1769368200846745935",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Contrarian take on blockchain ecosystems sparks debate in crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Makes comparative claims about ecosystem practices but lacks specific evidence."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative framing of Ethereum/Solana contrasted with positive Bitcoin portrayal."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Ongoing debates about blockchain governance maintain relevance for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1769126971294851141",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "List format with popular meme coins has moderate shareability in trading communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific investment thesis with examples but lacks supporting data."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral advisory tone despite promotional elements."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Meme coin leadership tends to remain stable for weeks in crypto cycles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1768920062981750810",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Concise meme format comparing blockchain models has high retweet potential."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Makes comparative claims about distribution models without evidence."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative implication towards Ethereum/Solana contrasted with Bitcoin praise."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Ongoing debates about fair launches maintain relevance for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1768700841316192699",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "High engagement metrics and game integration announcement suggest existing viral traction."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Announces specific game feature but requires external links for full context."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone promoting exclusive content and community benefits."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Game updates typically maintain relevance for weeks among players."
+      }
+    }
+  },
+  {
+    "tweet_id": "1768622817631772910",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Sensational financial figures and volatility warning attract trader attention."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific derivatives market data with clear implications for traders."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of market event despite alarmist formatting."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Options expiry impact diminishes after settlement completion."
+      }
+    }
+  },
+  {
+    "tweet_id": "1768592268745667036",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Concise breaking news format with high-stakes financial figures drives shares."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Clear presentation of time-sensitive market data relevant to traders."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral statement of fact without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Immediate expiry event loses relevance post-settlement."
+      }
+    }
+  }
+]

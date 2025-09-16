@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1554045668871864322",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet is a timely news update about Ethereum miners' revenue, posted by a high-follower account. It is likely to be shared within the crypto community but lacks a strong emotional hook, so it scores moderately high."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It provides a specific revenue figure for Ethereum miners in July 2022, which is factual and newsworthy."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, simply stating a fact."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The revenue figure is relevant for a few weeks to months before becoming outdated."
+      }
+    }
+  },
+  {
+    "tweet_id": "1553947112869572608",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet is an opinion about the Ethereum merge and future prospects, with a call to action. It may resonate with the crypto community but is not likely to go global."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "It contains some factual statements about the merge and Layer 2, but mainly expresses opinion."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet is positively hype, encouraging patience and conviction."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The merge is a past event; the tweet will be relevant for a few weeks or months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1575936247251734533",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "A major announcement from Deutsche Telekom about running an Ethereum validator is newsworthy and likely to be shared widely across crypto and tech communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It provides new information about a large telco's involvement in Ethereum."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral factual statement."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The validator announcement remains relevant for months or years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1575885920221466624",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "A technical tweet from Vitalik Buterin about a SNARK implementation may be shared within the crypto community but not globally."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It offers a technical implementation and educational value."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The code remains relevant for a while, especially for educational purposes."
+      }
+    }
+  },
+  {
+    "tweet_id": "1575670601330499584",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The discovery of the oldest NFT on Ethereum is a unique historical find that may be shared within the NFT community and beyond."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It provides new information about the earliest NFT and its contract details."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The historical significance remains relevant for a long time."
+      }
+    }
+  }
+]

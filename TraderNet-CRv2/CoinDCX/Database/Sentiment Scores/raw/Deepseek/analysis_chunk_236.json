@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1767721455276761196",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Discusses cryptocurrency speculation which has community interest, but lacks a strong emotional hook for broader virality."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Provides speculative commentary about crypto trends without concrete data or verifiable claims."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone discussing possibilities without strong positive/negative language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Crypto market discussions typically remain relevant for weeks as prices fluctuate."
+      }
+    }
+  },
+  {
+    "tweet_id": "1767642511416201649",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Controversial take on Ethereum could spark debate within crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Makes specific claims about Ethereum's coin distribution and policies."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative criticism using phrases like 'no discernible credible monetary policy'."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Ongoing debates about Ethereum's fundamentals maintain relevance for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1767604349423984905",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Direct comparison between platforms with a provocative cost analysis for developers."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific cost estimates and alternative platform suggestion."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Moderately positive about alternative platform while criticizing Ethereum fees."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Platform competition discussions remain relevant as fees fluctuate."
+      }
+    }
+  },
+  {
+    "tweet_id": "1767595314670870600",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news about major platform migration with cross-community implications."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Announces specific date and details of a first-of-its-kind project migration."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive announcement using emojis and exclamation points."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Will remain relevant through migration date and initial implementation period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1767380677006426618",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Defiant tone and crypto-related claims could resonate within enthusiast communities."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Primarily personal resolve statements without concrete information."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Strong negative language ('threaten me', 'brutally honest') with confrontational tone."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Personal declarations typically have short-term relevance unless tied to specific events."
+      }
+    }
+  },
+  {
+    "tweet_id": "1767376509139112411",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Price predictions attract attention in crypto circles but lack unique angles."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Speculative price targets without supporting analysis."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Optimistic projections with dismissive tone toward 'noise'."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Price targets remain relevant until achieved or clearly invalidated."
+      }
+    }
+  },
+  {
+    "tweet_id": "1767341887533293645",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Partnership announcement with notable backers in growing Web3 gaming space."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Details new L2 gaming integration with specific ecosystem features."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Enthusiastic tone ('so excited', 'can't wait') about collaboration."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Partnership relevance lasts through platform integration and user adoption phases."
+      }
+    }
+  },
+  {
+    "tweet_id": "1767335350077157589",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Major financial institution adoption news with high crypto community interest."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Reports significant institutional crypto integration from verified source."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong positive sentiment with 'BULLISH' declaration and fire emoji."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Institutional adoption news has long-term implications for crypto markets."
+      }
+    }
+  },
+  {
+    "tweet_id": "1767266161442398451",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Technical Ethereum upgrade announcement with historical significance angle."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Details specific protocol upgrade (EIP-4844) with commemorative content."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive recognition of core contributors' work with celebratory tone."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Protocol upgrades have lasting technical implications for Ethereum ecosystem."
+      }
+    }
+  },
+  {
+    "tweet_id": "1767259974403858532",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Addresses common concern in crypto trading communities about network fees."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Highlights potential consequence of price increases on transaction costs."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative perspective on Ethereum's scalability challenges."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant until fee structures change or alternatives gain traction."
+      }
+    }
+  }
+]

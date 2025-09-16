@@ -1,0 +1,191 @@
+[
+  {
+    "tweet_id": "1363516730358853640",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet makes a bold claim about Ethereum's future, which could spark discussions in crypto communities."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "It provides an opinion on Ethereum's position but lacks concrete data."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "The sentiment is negative, suggesting doubt about Ethereum's future."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The tweet's impact is short-term, relevant during discussions about Ethereum's future."
+      }
+    }
+  },
+  {
+    "tweet_id": "1363178506646003714",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "From a well-known personality, it may attract attention within crypto circles."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Shares personal investment experiences without specific recommendations."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, as it's a personal update without strong emotion."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a short period as a personal investment update."
+      }
+    }
+  },
+  {
+    "tweet_id": "1362975758185029632",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Announces significant milestones, likely to be widely shared."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides factual, newsworthy information about market caps."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment celebrating the achievements."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant for days as a major event in crypto."
+      }
+    }
+  },
+  {
+    "tweet_id": "1362974093117517826",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Uses emojis and a popular hashtag, likely to engage Ethereum fans."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Celebrates a price milestone without additional context."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong positive sentiment with celebratory language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a short time as a specific price point."
+      }
+    }
+  },
+  {
+    "tweet_id": "1362781521153720323",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Specific advice for Ethereum users, may not go viral widely."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Offers practical advice on portfolio diversification."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral advice with a hopeful tone."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a short period as a timely tip."
+      }
+    }
+  },
+  {
+    "tweet_id": "1362746733726416898",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Critical update from Binance, likely widely shared."
+      },
+      "informative_value": {
+        "score": 10,
+        "justification": "Primary-source information about a significant operational issue."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative sentiment due to service disruption."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant until the issue is resolved."
+      }
+    }
+  },
+  {
+    "tweet_id": "1362646123928838150",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Specific advice, may not reach a broad audience."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides practical advice on portfolio diversification."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral advice with a hopeful tone."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a short period as a timely tip."
+      }
+    }
+  },
+  {
+    "tweet_id": "1361917750004772864",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Opinion on DeFi shift, may attract attention in crypto circles."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Shares an opinion without detailed data."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Negative opinion on Ethereum's position in DeFi."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a short period as a specific opinion."
+      }
+    }
+  },
+  {
+    "tweet_id": "1361733385782259719",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Announcement from Coinbase, likely widely shared."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides important information about new services."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive sentiment with an exciting offer."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant until the service is launched."
+      }
+    }
+  }
+]

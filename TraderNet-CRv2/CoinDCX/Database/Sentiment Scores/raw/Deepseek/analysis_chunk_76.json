@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1505010510235844608",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Legal threats involving prominent crypto entities (Ethereum Foundation) and references to high-profile lawsuits (Ripple v. SEC) could drive engagement within crypto communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Primarily expresses a hypothetical legal action rather than providing verifiable information or news."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Confrontational tone with implied legal threats ('Sue the Ethereum Foundation'), indicating negative sentiment."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to ongoing legal discussions in crypto, but unlikely to sustain engagement beyond a news cycle."
+      }
+    }
+  },
+  {
+    "tweet_id": "1504978961746472960",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Mentions Elon Musk and popular cryptocurrencies, which could attract attention from crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Makes an unsubstantiated claim about Elon Musk's crypto holdings without sources."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral statement listing cryptocurrencies without explicit emotion."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term relevance as crypto holdings of public figures can change rapidly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1504977056592916482",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Shares expert analysis, which could resonate within technical crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides a link to insights from a leading Ethereum engineer, offering educational value."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of information without overt emotion."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Technical analysis could remain relevant for weeks if the content is substantive."
+      }
+    }
+  },
+  {
+    "tweet_id": "1504919821753876486",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Makes a bold claim about Ethereum's upcoming supply reduction, which is highly relevant to crypto investors."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Highlights a specific economic event (triple halving) but lacks detailed context or sources."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Enthusiastic tone with phrases like 'will be HUGE for ETH!' indicates strong positivity."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Remains relevant until the predicted event occurs and its effects are observed."
+      }
+    }
+  },
+  {
+    "tweet_id": "1504912294295265290",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Controversial claim about Ethereum's deflationary shift could drive shares among crypto audiences."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "States a significant economic change but provides no evidence or context for the 99.99% figure."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Implies optimism about Ethereum's future through the deflationary narrative."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevance persists until the deflationary mechanism is implemented and validated."
+      }
+    }
+  },
+  {
+    "tweet_id": "1504895420757164039",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Poses a question comparing two major blockchains, which could spark debates and shares."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "No substantive information beyond a rhetorical question and image link."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone asking a comparative question without explicit bias."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term relevance as blockchain comparisons are common and cyclical."
+      }
+    }
+  },
+  {
+    "tweet_id": "1504889373279592457",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Portfolio advice often attracts engagement in crypto communities."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Provides a generic investment allocation without unique insights or rationale."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of a portfolio breakdown."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term relevance as market conditions and portfolio strategies change frequently."
+      }
+    }
+  },
+  {
+    "tweet_id": "1504806215704006657",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Features a major media milestone (TIME cover) for a crypto icon, likely to be widely shared."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Reports verifiable news about Vitalik Buterin's media feature with a source link."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone celebrating Ethereum's co-founder's recognition."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Long-term relevance as a historic moment in crypto culture."
+      }
+    }
+  },
+  {
+    "tweet_id": "1504805590740176897",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Unique combination of Ukraine conflict, NFTs, and physical items has high shareability."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Reports a novel event but lacks verification details about the sale's legitimacy."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of a transaction without explicit emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Medium-term relevance if the sale progresses or attracts media attention."
+      }
+    }
+  },
+  {
+    "tweet_id": "1504775316287508481",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "TIME cover story about Ethereum's creator could attract broad interest in tech/crypto circles."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Links to an in-depth, reputable media analysis of Vitalik Buterin's impact."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Balanced tone discussing both achievements and criticisms."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Long-lasting relevance as a major profile piece from a respected publication."
+      }
+    }
+  }
+]

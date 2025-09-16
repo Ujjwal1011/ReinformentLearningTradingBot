@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1505611278743904256",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet uses a catchy call‑to‑action and emojis, appealing to crypto enthusiasts and likely to spread within niche communities, but not expected to go global viral."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "The tweet is a promotional statement with no verifiable facts or data, offering only a suggestion to invest."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet expresses excitement and encouragement, using positive language and emojis."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The tweet's relevance is tied to the short‑term hype around $APE, likely to fade as market sentiment shifts."
+      }
+    }
+  },
+  {
+    "tweet_id": "1505360632341794816",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet announces a significant market move involving a large whale, likely to attract attention across crypto communities and mainstream finance outlets."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet provides a verifiable fact about a large purchase, offering newsworthy information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet states a fact without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The whale purchase may influence market discussions for days, but its impact will diminish as the market moves."
+      }
+    }
+  },
+  {
+    "tweet_id": "1505241080668774403",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet features a high‑profile endorsement, likely to be shared within business and crypto circles, but not expected to go global viral."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "The tweet conveys an opinion about Vitalik, lacking factual data or news."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tweet expresses admiration and praise for Vitalik."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The statement may be referenced for weeks as part of discussions about Vitalik's influence."
+      }
+    }
+  },
+  {
+    "tweet_id": "1505180310773944324",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet shares a technical resource, likely to be shared within developer communities, but not expected to go viral."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "The tweet links to a detailed technical FAQ on a significant Ethereum upgrade, providing valuable information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is informational, lacking emotional language."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The technical information is evergreen for developers working on Ethereum, likely to be referenced for months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1505026567382073345",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "The tweet expresses personal gratitude, likely to resonate with followers but not expected to spread widely."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet is a personal opinion, not providing factual information."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "The tweet expresses deep gratitude and admiration."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The tweet's relevance is limited to the individual's followers and may not sustain long‑term engagement."
+      }
+    }
+  }
+]

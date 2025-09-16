@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1333743998637400073",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Announcement from the official Ethereum account with #eth2 hashtag will resonate strongly within crypto communities, though lacks broader viral hooks."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Brief update about Ethereum's development phase, but lacks detailed context without clicking the link."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral technical announcement without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant throughout the ETH2 implementation phase, maintaining relevance for weeks/months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1355939489143803905",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Combines trending assets (BTC/ETH/DOGE) with provocative 'safe-haven' narrative likely to drive shares."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Reports market movement but lacks source verification or depth about the claimed investor behavior."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative framing with 'dump' and 'flee' terminology."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Tied to volatile crypto market movements that typically have short news cycles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1355629610608840704",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Specific price predictions from an influencer will generate intense discussion and sharing in crypto communities."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Speculative predictions rather than factual information, though presented as analysis."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Extremely bullish predictions convey strong optimism."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Predictions will be referenced throughout the market cycle (weeks/months)."
+      }
+    }
+  },
+  {
+    "tweet_id": "1355300945001934851",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Comparative market data from a credible source will be widely referenced in financial discussions."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides concrete, verifiable market capitalization figures across multiple assets."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of factual data without emotional bias."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Market cap figures become outdated quickly in volatile crypto markets."
+      }
+    }
+  },
+  {
+    "tweet_id": "1355259561268154368",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Important institutional crypto news from a trusted brand, relevant to investors."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific details about investment product availability with institutional focus."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral corporate announcement tone."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Ongoing relevance while the investment product remains active."
+      }
+    }
+  },
+  {
+    "tweet_id": "1355159836971970564",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Provocative take on trending GameStop situation with crypto angle drives engagement."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Opinion-based comparison without supporting evidence or explanation."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong positive endorsement of Ethereum/DeFi solutions."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Tied to specific GameStop news cycle with fading relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1355131681657679878",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High-energy price target declaration with emojis resonates with crypto trading communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Pure hype without substantive information or analysis."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Extremely bullish sentiment with emphatic language and symbols."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Price targets remain relevant until achieved or disproven (weeks/months)."
+      }
+    }
+  },
+  {
+    "tweet_id": "1355128728376889348",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Strong maximalist declaration with rocket emojis appeals to crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Personal stance announcement without informational content."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Extreme enthusiasm shown through capitalization and emojis."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Standard meme lifespan unless part of sustained campaign."
+      }
+    }
+  },
+  {
+    "tweet_id": "1354999123582152704",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Surprising DOGE volume statistic likely to generate shares and discussion."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Specific exchange volume data point, though limited context about timeframe."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of market data with implied surprise."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Volume statistics become irrelevant after market conditions change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1354907793057325069",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Anticipatory hype combining trending DOGE with Ethereum speculation drives engagement."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Speculative prediction without supporting evidence or timeframe."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Extreme optimism shown through rocket emojis and 'about to do' phrasing."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance depends on immediate price action following the tweet."
+      }
+    }
+  }
+]

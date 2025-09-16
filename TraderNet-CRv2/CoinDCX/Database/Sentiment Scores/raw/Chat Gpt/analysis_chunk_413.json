@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1732090397181067641",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Contains a question and relevant crypto info, likely to be shared within crypto communities but not globally viral."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific data and mentions a project, but not deep analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "No strong emotional tone, just factual."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The integration news remains relevant for weeks, but the specific numbers may become outdated."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732086219222233155",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "A hype tweet with emojis, may get some engagement but not likely to go viral."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Provides a price update but no analysis."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Expresses excitement with emojis."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Tied to a live price, quickly outdated."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732084237233422788",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Personal promotion, may get some retweets but not likely to go viral."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Personal advertisement, no factual info."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Enthusiastic tone with emojis."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevant only until the auction ends."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732082825644347636",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Timely regulatory update that could be shared across crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific regulatory info."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "No strong emotion, just factual."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Deadline is a fixed date, but tweet may be referenced for a few weeks after."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732082712528216438",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "News highlight that could be shared across crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides multiple news items with details."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Neutral news summary."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "News items are ongoing, tweet remains relevant for a while."
+      }
+    }
+  }
+]

@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1732092703910002939",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet promotes $Bone and compares it to Bitcoin and Ethereum, which could resonate within the crypto community, but lacks a strong hook for broader virality."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet provides a promotional message without detailed information, making it minimally informative."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The sentiment is positive, expressing excitement about promoting $Bone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to the crypto market's current state, which can change rapidly."
+}
+}
+},
+{
+"tweet_id": "1732092629205012539",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet shares specific achievements and revenue details, which could engage the crypto community."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides detailed information about their rankings and revenue, valuable for their community."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment with excitement about their accomplishments."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The information is relevant for a few weeks as it pertains to their ongoing performance."
+}
+}
+},
+{
+"tweet_id": "1732092210261201270",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "A personal project announcement in Italian, likely only relevant to a niche audience."
+},
+"informative_value": {
+"score": 5,
+"justification": "Announces a project without detailed information, so neutral in informativeness."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive sentiment about completing the project."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant only until the project's next update or completion."
+}
+}
+},
+{
+"tweet_id": "1732091277376737444",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Targets crypto traders with technical analysis, which could be shared within that community."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides technical insights and analysis, valuable for traders."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive outlook on Ethereum's potential bullish movement."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for weeks as the analysis pertains to a longer-term trend."
+}
+}
+},
+{
+"tweet_id": "1732090832969183450",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Focuses on a niche community without a strong hook for broader sharing."
+},
+"informative_value": {
+"score": 5,
+"justification": "Discusses community impact but lacks detailed information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment, more of a call to action."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant only around the specific event mentioned."
+}
+}
+},
+{
+"tweet_id": "1732090397181067641",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Shares significant news about IBC and Ethereum, likely to engage the crypto community."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides specific stats and information about IBC adoption."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment about the growth and potential of IBC."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for weeks as IBC adoption is a developing story."
+}
+}
+},
+{
+"tweet_id": "1732086219222233155",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Excitement about Bitcoin's price, which could resonate with Bitcoin enthusiasts."
+},
+"informative_value": {
+"score": 4,
+"justification": "Shares a price update without detailed analysis."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Very positive sentiment about Bitcoin's potential."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant only until Bitcoin's price changes significantly."
+}
+}
+},
+{
+"tweet_id": "1732084237233422788",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Promotes a specific event (taco auction), likely only relevant to a niche audience."
+},
+"informative_value": {
+"score": 3,
+"justification": "Minimal information beyond promoting the auction."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive sentiment about the auction and support."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "Relevant only until the auction ends."
+}
+}
+},
+{
+"tweet_id": "1732082825644347636",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Targets Spanish-speaking crypto investors, but lacks a strong hook for broader virality."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides information about ETF deadlines and Ethereum's performance."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment, more informative than emotional."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevant until the ETF approval deadline passes."
+}
+}
+},
+{
+"tweet_id": "1732082712528216438",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Highlights various crypto news, which could engage the crypto community."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides a summary of significant crypto news with links for more details."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment about the industry's developments."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for weeks as the news pertains to ongoing industry trends."
+}
+}
+}
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1466143346490064898",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Contains a bold claim and a hashtag, likely to be shared within the crypto community, but not globally viral."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Speculative prediction with no evidence or source, so low informative value."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone with a slightly dismissive phrase, not strongly positive or negative."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The prediction may be discussed for a while but eventually loses relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1466105326483218444",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Personal anecdote with a hashtag and a link, likely to get moderate engagement within the crypto community."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Personal statement with no factual content, not informative."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone, slightly humorous, not strongly negative or positive."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Personal anecdote tied to a specific situation, likely to fade quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1466098367986077698",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Personal success story that resonates with crypto investors, likely to be shared within the community."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Anecdotal lesson about patience, but not high informational content."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Expresses positive excitement and optimism about gains."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The lesson can be referenced for weeks or months as people discuss patience."
+      }
+    }
+  },
+  {
+    "tweet_id": "1465998423887269888",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Provocative question that could spark debate among crypto community, likely to get engagement."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Speculative hypothetical, no new factual information."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Expresses concern about chaos, somewhat negative tone."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Question may be discussed for weeks as people debate."
+      }
+    }
+  },
+  {
+    "tweet_id": "1488289419849207808",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Lighthearted statement with emoji, could be shared within crypto community."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Personal preference, no factual content."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment expressing affection for Solana."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-lived meme, likely to fade quickly."
+      }
+    }
+  }
+]

@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1535660715650031623",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet provides a factual, somewhat relatable example, but it's not particularly engaging or surprising, limiting its viral potential."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet offers a specific, verifiable piece of information about Ethereum's value drop, making it moderately informative."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The user presents a neutral fact without expressing a clear emotional tone, though the context implies a slightly negative sentiment due to the significant value drop."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to the current market situation, making its impact relatively short-lived, likely spanning a few days or until the market significantly changes."
+}
+}
+},
+{
+"tweet_id": "1535655201096466434",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The 'JUST IN' label and the significant market cap drop could generate interest within the crypto community, but it's unlikely to spread broadly beyond."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides timely, newsworthy information about Ethereum's market cap, making it highly informative for those interested in crypto."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "The tweet is factually presented, but the context of a market cap drop implies a slightly negative sentiment."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevance is short-term, as the market cap figure will change, making the tweet's impact last only until the next significant market update."
+}
+}
+},
+{
+"tweet_id": "1535620652354441216",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The 'BREAKING' label and the significant price drop could generate considerable interest and shares within the crypto and possibly broader financial communities."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides critical, timely, and newsworthy information about Ethereum's price, making it highly valuable for those following crypto markets."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Factual presentation, but the context of a price drop to a historic low implies a slightly negative sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance will last a bit longer due to the significance of the price drop, but its impact will wane as the market adjusts."
+}
+}
+},
+{
+"tweet_id": "1535599786870587395",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The dramatic prediction of a market crash, coupled with a clear warning, could elicit strong emotional responses and encourage sharing."
+},
+"informative_value": {
+"score": 6,
+"justification": "While the tweet discusses market trends, the lack of specific, verifiable data at the time of posting reduces its informative value."
+},
+"sentiment_polarity": {
+"score": 1,
+"justification": "Expresses a very negative sentiment through words like 'rough weekend', 'crash', and 'lose a lot more money'."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The relevance could extend beyond the immediate weekend, as the predicted market movements could have a longer-term impact if they occur."
+}
+}
+},
+{
+"tweet_id": "1535593369988214785",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The adoption of crypto by a hotel chain is somewhat engaging, but its viral potential is mostly limited to the crypto and hospitality niches."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides newsworthy information about a specific business adopting cryptocurrency, which is valuable for those interested in crypto adoption."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Implicitly positive due to the context of adoption and innovation, though the tone is primarily informative."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The relevance of this tweet will last longer than short-term market fluctuations, as it indicates a broader trend of crypto adoption."
+}
+}
+},
+{
+"tweet_id": "1535551662747635712",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The bullish statement, while engaging for some, is too niche and lacks a strong hook to go viral beyond the crypto community."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet is more of a personal stance than a source of newsworthy or factual information."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Clearly expresses a positive sentiment through the statement of remaining 'bullish' and the use of a heart symbol."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The relevance of this tweet is somewhat timeless in the context of the user's stance, but its impact as a standalone tweet is relatively short-lived."
+}
+}
+},
+{
+"tweet_id": "1535315484433711104",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "The tweet lacks a strong engagement driver, being simply a link to information about a well-known figure in the crypto space."
+},
+"informative_value": {
+"score": 5,
+"justification": "While informative, the value is limited to those interested in the specific individual or looking for general knowledge on Ethereum's co-founder."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is presented in a neutral, factual manner without expressing a clear emotional tone."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The relevance of information about a key figure in the crypto space remains relatively constant over time."
+}
+}
+},
+{
+"tweet_id": "1535226643035267074",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Similar to other adoption news, its viral potential is mostly limited to the crypto and retail niches."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides newsworthy information about a luxury retailer adopting multiple cryptocurrencies, valuable for those interested in crypto adoption trends."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Implicitly positive due to the context of innovation and adoption, though primarily informative in tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The relevance indicates a broader trend of crypto adoption, lasting longer than short-term market news."
+}
+}
+},
+{
+"tweet_id": "1534807806183845888",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The proposal's passage, while important for the Ethereum ecosystem, lacks a broad viral appeal beyond the crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides specific, newsworthy information about a development within the Ethereum ecosystem, highly valuable for followers of Ethereum."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Implicitly positive due to the context of a successful proposal, indicating community agreement or progress."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The relevance of this tweet will last, as the proposal's passage has a lasting impact on the Ethereum ecosystem."
+}
+}
+},
+{
+"tweet_id": "1534722368941174788",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The interesting fact about Ethereum becoming deflationary could generate shares within the crypto community due to its unique aspect."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides highly specific, verifiable, and forward-looking information about Ethereum's supply dynamics, valuable for crypto enthusiasts."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Implicitly positive due to the implication of Ethereum's potential for increased value in a deflationary scenario."
+},
+"duration_of_impact": {
+"score": 9,
+"justification": "The relevance of this information remains high as it discusses long-term implications of Ethereum's protocol change."
+}
+}
+} 
+]

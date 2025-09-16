@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1571992949524942848",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet contains a strong emotional reaction and a potentially controversial claim about SEC jurisdiction, which could spark widespread discussion. The user has a large following, and the tweet has moderate engagement."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "The tweet provides a claim about SEC jurisdiction and node distribution, but lacks verifiable sources or detailed explanation. So moderate informative value."
+      },
+      "sentiment_polarity": {
+        "score": 1,
+        "justification": "The tweet expresses strong negative emotions about SEC's potential actions."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tweet will remain relevant for some time as the SEC's actions unfold, but it may lose relevance as new developments occur."
+      }
+    }
+  },
+  {
+    "tweet_id": "1571988281222463489",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet is a news headline from a reputable source, likely to be shared within the crypto community and beyond, but not necessarily globally viral."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "The tweet provides a news claim with a link to a source, giving readers a way to verify."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet presents information factually without emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tweet will remain relevant for days or weeks as the regulatory situation evolves."
+      }
+    }
+  },
+  {
+    "tweet_id": "1571941657184210945",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "The tweet is a personal opinion with limited hook, unlikely to go viral beyond his followers."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet offers some commentary but lacks verifiable information or sources."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The tweet expresses optimism about ETH and some mild frustration about Bitcoin."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The tweet is tied to a specific event and personal commentary, likely to fade quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1571905591693524994",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet is a short commentary from a large account, likely to be shared within the community but not necessarily globally viral."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "The tweet provides a factual comparison of a prediction and actual performance, with a link for verification."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet presents information factually without strong emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The tweet will remain relevant for a day or two and then fade."
+      }
+    }
+  },
+  {
+    "tweet_id": "1571724217082679297",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet contains a humorous or sensational claim about a coin price, likely to be shared widely within the crypto community."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "The tweet is a quote with no verifiable information or context."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The tweet expresses enthusiasm about a coin."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The tweet is tied to a specific coin price and likely to fade quickly."
+      }
+    }
+  }
+]

@@ -1,0 +1,107 @@
+[
+{
+"tweet_id":"1487849709121191937",
+"analysis":{
+"virality_potential":{
+"score":6,
+"justification":"The tweet reports a high-value sale of a CryptoPunk, which may attract attention within the crypto community, but it is a niche update unlikely to go viral beyond that group."
+},
+"informative_value":{
+"score":8,
+"justification":"The tweet provides specific details about the sale price, addresses, and links, offering factual information about a significant transaction."
+},
+"sentiment_polarity":{
+"score":5,
+"justification":"The tweet is neutral, simply reporting facts without emotional language."
+},
+"duration_of_impact":{
+"score":5,
+"justification":"The sale is a one-time event; while it may be referenced for a period, it will likely fade after a few weeks."
+}
+}
+},
+{
+"tweet_id":"1487829389223940100",
+"analysis":{
+"virality_potential":{
+"score":7,
+"justification":"Vitalik's tweet about shared security is likely to be shared within the Ethereum community and beyond, given his influence, but it is not a breaking news event."
+},
+"informative_value":{
+"score":8,
+"justification":"The tweet explains a key concept in Ethereum's security model, providing valuable educational content."
+},
+"sentiment_polarity":{
+"score":5,
+"justification":"The tone is neutral, informational."
+},
+"duration_of_impact":{
+"score":8,
+"justification":"The concept of shared security remains relevant for the lifetime of Ethereum, making the tweet long-lasting."
+}
+}
+},
+{
+"tweet_id":"1487795237162561536",
+"analysis":{
+"virality_potential":{
+"score":6,
+"justification":"The tweet poses a popular comparison question that can spark discussion within the crypto community, but it is not a breaking event."
+},
+"informative_value":{
+"score":3,
+"justification":"The tweet offers no factual information, just a rhetorical question."
+},
+"sentiment_polarity":{
+"score":5,
+"justification":"Neutral, no strong emotional language."
+},
+"duration_of_impact":{
+"score":5,
+"justification":"The question may generate discussion for a few days to weeks, but will likely fade."
+}
+}
+},
+{
+"tweet_id":"1487753688546435073",
+"analysis":{
+"virality_potential":{
+"score":6,
+"justification":"The tweet presents a provocative claim that could spark debate among crypto enthusiasts, potentially leading to shares within that niche."
+},
+"informative_value":{
+"score":4,
+"justification":"The tweet offers a broad claim without supporting evidence or details, so its informational value is limited."
+},
+"sentiment_polarity":{
+"score":5,
+"justification":"The tone is neutral, simply stating an opinion."
+},
+"duration_of_impact":{
+"score":5,
+"justification":"The claim may be discussed for a few weeks, but will likely fade as new developments occur."
+}
+}
+},
+{
+"tweet_id":"1487312805040726020",
+"analysis":{
+"virality_potential":{
+"score":6,
+"justification":"The tweet speculates on a high price scenario, which can attract attention from crypto investors, but it is not a breaking news event."
+},
+"informative_value":{
+"score":3,
+"justification":"The tweet offers a speculative scenario without factual data, so its informational value is limited."
+},
+"sentiment_polarity":{
+"score":7,
+"justification":"The tweet expresses optimism and excitement about potential gains."
+},
+"duration_of_impact":{
+"score":5,
+"justification":"The speculation may be discussed for a few months, but will fade as market conditions change."
+}
+}
+}
+]

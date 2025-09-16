@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1707061839924756669",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Visual design and multi-chain collaboration mentions may resonate strongly in crypto communities, but lacks universal appeal for global virality."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Announces a cross-chain era but provides no technical details or actionable information beyond brand mentions."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement tone without explicit emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Cross-chain collaboration discussions typically remain relevant for weeks in blockchain circles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1706685785812996425",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High engagement metrics and launch announcement with multiple ecosystem partners suggest strong sharing potential."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Clearly explains infrastructure upgrade and provides mission link, though lacks technical depth."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone emphasizing new capabilities and scalability."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Platform launches typically drive discussion for multiple weeks in crypto communities."
+      }
+    }
+  },
+  {
+    "tweet_id": "1705241648383377746",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Controversial take from major financial institution likely to spark discussions in crypto circles."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific market analysis from a credible financial institution."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative assessment using 'disappointing' establishes critical tone."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Market commentary typically remains relevant for 1-2 news cycles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1704946902393860589",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Niche developer audience limits virality despite emotional content."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Important update about platform sunsetting with specific timeline."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Mixed tone - acknowledges challenges but expresses gratitude."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance limited to 90-day sunset period for existing users."
+      }
+    }
+  },
+  {
+    "tweet_id": "1704487017810403503",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Bullish sentiment from industry figure may resonate but lacks unique content for wider sharing."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Personal experience summary without concrete information or data."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong positive sentiment emphasized by 'Bullish' declaration."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Event-based commentary with limited relevance beyond immediate post-event period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1704261456768725431",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Mysterious achievement tease encourages engagement and speculation."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "No concrete details about the 'coolest thing' achieved."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong excitement conveyed through 'can't believe' and 'coolest ever'."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Vague claims without follow-up details limit long-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1703250574508995010",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Provocative price comparisons and rhetorical questions drive engagement in crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides historical price data but lacks citation sources."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative framing of market performance with implied criticism."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Market cycle discussions maintain moderate relevance during volatility periods."
+      }
+    }
+  },
+  {
+    "tweet_id": "1702981971809312777",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Standard market data presentation with limited viral hooks beyond crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Comprehensive market cap rankings with specific figures."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of factual data without commentary."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Market data becomes outdated quickly but serves as snapshot reference."
+      }
+    }
+  },
+  {
+    "tweet_id": "1702014395344122237",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High-stakes financial news about major crypto liquidation likely to spread widely."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Specific court-approved action with detailed asset breakdown."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of factual legal development."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Major bankruptcy proceedings remain relevant for months in financial markets."
+      }
+    }
+  },
+  {
+    "tweet_id": "1701232146159931730",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Niche appeal limited to affected donors despite important content."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Clear instructions for refund process with multi-chain support and timeline."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral procedural information with gratitude expressed."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "365-day claim window ensures relevance for extended period."
+      }
+    }
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1745706846663610871",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Provides actionable crypto trading advice with specific examples, likely to be shared within crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Offers concrete swap strategies with token comparisons, though lacks third-party verification."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral instructional tone focused on transactional advice without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Strategy relevance depends on market conditions but could remain useful for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1745534794904297978",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High-profile prediction about major crypto assets from a known investor drives shareability."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Reports a market prediction but lacks original data or context about the analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of third-party opinion without emotional endorsement."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Remains relevant until the next market cycle, though tied to speculative timing."
+      }
+    }
+  },
+  {
+    "tweet_id": "1745514958442361174",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Significant funding announcement from Ethereum's founder carries inherent virality potential."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Concrete figures about funding allocation with context about ecosystem development."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone through words like 'impressed' and 'hope to see more'."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Public goods funding impacts long-term ecosystem development beyond immediate news cycle."
+      }
+    }
+  },
+  {
+    "tweet_id": "1745350808789729640",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "BlackRock ETF speculation is major industry news with broad market implications."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Reports on significant regulatory development in crypto asset markets."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual announcement format without explicit sentiment markers."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "ETF news remains relevant until approval/resolution but may be superseded by new developments."
+      }
+    }
+  },
+  {
+    "tweet_id": "1745292451051377029",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Price predictions common in crypto circles but lack unique angle for broad sharing."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Simple price targets without supporting analysis or context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral statement of numerical targets without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Targets become irrelevant immediately if prices diverge significantly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1745195147724259499",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Ambiguous ETF commentary lacks strong hook for widespread sharing."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Speculative question without new information or analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral phrasing of regulatory uncertainty."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance limited to immediate ETF approval timeline."
+      }
+    }
+  },
+  {
+    "tweet_id": "1745173183622459439",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Political angle combined with regulatory timing creates share-worthy narrative."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Reports factual disclosure of asset purchase with regulatory context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of financial disclosure without commentary."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant through ETF decision and political accountability discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1745171950014796067",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Visual content with trending hashtag encourages sharing during market upswings."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Pure price chart without analysis or context."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive implication through 'green' market reference and celebratory tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Market visuals become outdated quickly as prices change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1745141471962103814",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Niche appeal for NFT collectors but limited broader interest."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Clear instructions about platform mechanics but focused on specific project."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement of platform feature launch."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant through raffle period then declines unless extended."
+      }
+    }
+  },
+  {
+    "tweet_id": "1744798517405593717",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major regulatory speculation about multiple ETFs drives broad interest."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Reports expert commentary on significant market development timeline."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of institutional analysis."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Remains relevant until SEC decisions on mentioned ETFs."
+      }
+    }
+  }
+]

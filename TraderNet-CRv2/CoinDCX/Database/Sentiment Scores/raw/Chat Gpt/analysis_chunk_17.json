@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1348033695911976960",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet is a short, catchy phrase that could resonate within crypto communities, especially given the high-profile user, but it lacks a strong hook or breaking news, limiting its reach beyond niche audiences."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet offers no factual information or context, merely a recommendation, so its informative content is minimal."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The statement conveys a mildly positive endorsement of Ethereum, but the sentiment is not strongly emotional."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "As a meme-like phrase, it may circulate for a while within crypto circles but will likely fade after a few weeks."
+}
+}
+},
+{
+"tweet_id": "1347540303494979586",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "This is a technical announcement about a significant integration that will interest the crypto community; the official account and hashtags increase shareability, but it is not a global breaking news event."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides clear, factual details about Litecoin integration with Flare, including benefits and references to official accounts, making it highly informative."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tone is neutral to mildly positive, presenting the integration as a positive development."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The integration will remain relevant for months as it changes how LTC can be used, so the tweet has a long-term relevance."
+}
+}
+},
+{
+"tweet_id": "1346871303295430659",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "A playful prediction that could be shared by crypto enthusiasts, especially given the user's large following, but it is not tied to a major event, so its spread is moderate."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet is a speculative prediction with no factual basis, so its informative value is low."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses optimism and excitement about a future price target, giving it a moderately positive tone."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet will be relevant until the price target is reached; afterward it may be referenced as a meme, so its impact is short to medium."
+}
+}
+},
+{
+"tweet_id": "1346241883601776640",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "A regulatory announcement from a prominent influencer about a major policy change is likely to be widely shared across the crypto and finance communities."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet cites a concrete statement from the OCC, providing significant factual information about how blockchains will be treated, making it highly informative."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet conveys a positive, encouraging tone with the phrase 'Game on!' and a rocket emoji, indicating optimism."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Regulatory guidance will remain relevant for a long time, influencing industry practices for years."
+}
+}
+},
+{
+"tweet_id": "1345986347128008705",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "A price update in Turkish with a large follower base can attract attention in the Turkish crypto market, but it is a routine market update, so its virality is moderate."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides a factual price change with percentage, offering useful market information."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The price increase is a neutral to slightly positive event, so the sentiment is mildly positive."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Price updates are short-lived; the tweet will likely be relevant only for a day or two."
+}
+}
+}
+]

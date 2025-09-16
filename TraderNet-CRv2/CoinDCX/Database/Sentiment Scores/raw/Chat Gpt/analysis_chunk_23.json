@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1362746733726416898",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major announcement from Binance about withdrawal suspension, likely to be widely shared among crypto users."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides direct, factual update from Binance about withdrawal suspension and reassurance."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Apologetic tone but overall neutral, no strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Issue remains relevant until resolved, likely days or weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1362646123928838150",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Short statement, limited share potential beyond niche community."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Opinion about diversification, minimal new information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral factual statement."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevant for a few hours to a day."
+      }
+    }
+  },
+  {
+    "tweet_id": "1362106218651602950",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "News event involving national political leader discussing crypto, likely to be shared regionally."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides info about a meeting and topics to be discussed."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral factual announcement."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a day or two after the meeting."
+      }
+    }
+  },
+  {
+    "tweet_id": "1361917750004772864",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Opinion that may spark discussion within DeFi community."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Opinion about DeFi shift, not new data."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral statement."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a few days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1361733385782259719",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Product announcement from Coinbase, likely to be shared among crypto users."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific details about staking rewards and APR."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone promoting a benefit."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Staking rewards relevant for weeks or months."
+      }
+    }
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1458226585702567941",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Urgent call-to-action with cryptocurrency hashtags could drive sharing within crypto communities, though lacks universal appeal."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Speculative advice without supporting evidence or context about Apple's potential announcement."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive encouragement to invest, though not overwhelmingly emotional."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance depends on Apple's unconfirmed announcement timeline - short-term impact window."
+      }
+    }
+  },
+  {
+    "tweet_id": "1458220273040297986",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Technical how-to guide for NFT/ENS integration likely valuable within web3 communities but niche appeal."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides actionable instructions with links, though focused on a specific technical process."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral instructional tone without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Technical guides maintain relevance as long as the protocol remains unchanged."
+      }
+    }
+  },
+  {
+    "tweet_id": "1458154685794332674",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Controversial take on Ethereum's accessibility could spark debates in crypto circles."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Highlights current gas fee reality but presents opinion as fact without data."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative comparison between Ethereum and Bitcoin, using 'for insiders & whales' phrasing."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Ongoing debate about blockchain scalability ensures continued relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1458097460249874437",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news about major tech executive's crypto holdings from verified account."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific claim about Apple CEO's holdings with source link (though unverified)."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting style without explicit opinion."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "News cycle relevance until next major crypto announcement."
+      }
+    }
+  },
+  {
+    "tweet_id": "1458093788644188178",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "High-profile account amplifying breaking news with additional commentary drives shares."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Adds expert perspective to news event while citing source."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive framing of technologist interest in crypto."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Tied to specific news event's lifespan despite author's prominence."
+      }
+    }
+  },
+  {
+    "tweet_id": "1458092311917772809",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Dramatic price performance stats likely to be shared in crypto communities."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Historical price data without context or analysis."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Strong positive emotion through 'amazing ride' and price appreciation emphasis."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Price milestones get replaced by new records quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1458019607005089803",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Cryptocurrency meme format with mass appeal to crypto audiences."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Vague reference to 'inevitable' developments without explanation."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Optimistic assertion through 'inevitable' framing."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Standard meme lifespan in fast-moving crypto space."
+      }
+    }
+  },
+  {
+    "tweet_id": "1457979603704762374",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Meme coin community activation with high engagement metrics shown."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Vague teaser about Ethereum bridge without details or timeline."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Excited tone with emoji and community hashtag."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Project-specific developments maintain relevance until implementation."
+      }
+    }
+  },
+  {
+    "tweet_id": "1457899975975714819",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Compelling airdrop narrative drives shares among crypto users."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Specific claim about historical wallet activity yielding value."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive assessment of ecosystem growth opportunities."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Airdrop strategies remain relevant as projects continue distributions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1457853575011307520",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Newsworthy price milestone from established media account."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Reports verifiable market data without deeper analysis."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive framing of market achievement."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Price records get frequently updated in volatile crypto markets."
+      }
+    }
+  }
+]

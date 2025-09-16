@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1632006505821003776",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Technical educational content about Ethereum improvements has strong sharing potential within crypto communities but limited global appeal."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides structured educational content about a key Ethereum standard with additional resources."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral instructional tone focused on explaining technical concepts."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Technical standards documentation maintains relevance for months in blockchain development cycles."
+}
+}
+},
+{
+"tweet_id": "1652775804495880193",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Airdrop announcements with multiple trending crypto hashtags drive high engagement in crypto communities."
+},
+"informative_value": {
+"score": 4,
+"justification": "Primarily promotional content with minimal substantive information beyond the airdrop announcement."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive excitement around free token distribution and financial opportunity."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Time-sensitive airdrop events typically have short-term relevance."
+}
+}
+},
+{
+"tweet_id": "1652736179836448768",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Critique of Ethereum fees taps into ongoing community frustrations with high gas costs."
+},
+"informative_value": {
+"score": 3,
+"justification": "Primarily an opinion about transaction fees without substantive data or analysis."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "Negative sentiment expressed through criticism of Ethereum's fee structure."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevance tied to current Ethereum network conditions that may change."
+}
+}
+},
+{
+"tweet_id": "1652722911768113152",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Identical to previous airdrop tweet - same viral mechanics apply."
+},
+"informative_value": {
+"score": 4,
+"justification": "Duplicate promotional content with no new information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Consistent positive tone around token distribution."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Same time-sensitive nature as previous airdrop tweet."
+}
+}
+},
+{
+"tweet_id": "1652652305148248065",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Similar airdrop announcement structure with trending hashtags for maximum reach."
+},
+"informative_value": {
+"score": 4,
+"justification": "Repetitive promotional message across multiple tweets."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Consistently positive financial opportunity framing."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Identical short-term relevance as previous airdrop tweets."
+}
+}
+},
+{
+"tweet_id": "1650454294049505283",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Extraordinary financial gain story combined with crypto nostalgia drives strong sharing."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides specific financial data and historical blockchain context."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral reporting of factual financial information."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Notable as a historical curiosity but limited ongoing relevance."
+}
+}
+},
+{
+"tweet_id": "1649056938062118913",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Critique of government blockchain implementation attracts both crypto enthusiasts and critics."
+},
+"informative_value": {
+"score": 7,
+"justification": "Highlights technical flaws in an official stablecoin implementation with code examples."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "Negative assessment using terms like 'worst code' and 'laughingstock'."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Criticism of government blockchain projects may influence longer-term policy discussions."
+}
+}
+},
+{
+"tweet_id": "1648376479892357120",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Regulatory uncertainty around ETH classification is a hot-button issue in crypto markets."
+},
+"informative_value": {
+"score": 9,
+"justification": "Reports significant regulatory development from primary source (SEC Chair testimony)."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral reporting of regulatory ambiguity."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Regulatory classification decisions have long-term implications for Ethereum ecosystem."
+}
+}
+},
+{
+"tweet_id": "1646454509244129281",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Major network upgrade announcement with celebratory tone drives massive engagement."
+},
+"informative_value": {
+"score": 8,
+"justification": "Announces live implementation of long-awaited technical upgrade with community call-to-action."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive excitement around milestone achievement (rocket emoji, celebratory language)."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Network upgrades remain relevant for months as users adapt to new functionality."
+}
+}
+},
+{
+"tweet_id": "1646280167667519492",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Reports activation of $34.5B liquidity event - critical infrastructure update for Ethereum."
+},
+"informative_value": {
+"score": 9,
+"justification": "Specific financial data combined with technical milestone announcement."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral reporting of factual network upgrade information."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Fundamental changes to Ethereum's staking mechanics have long-term ecosystem impacts."
+}
+}
+}
+]

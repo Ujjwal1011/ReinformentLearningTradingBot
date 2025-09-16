@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1359050643785216006",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet provides detailed crypto price updates, likely shared within crypto communities but not globally viral."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Contains specific, factual data on cryptocurrency performance."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, presenting information without emotion."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevant for a short period due to rapidly changing crypto prices."
+      }
+    }
+  },
+  {
+    "tweet_id": "1358967080750624770",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High engagement and emotional appeal to the ETHGang community."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Lacks detailed information, serves as hype."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Strongly positive with enthusiasm and emojis."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevant for a specific event, short-lived."
+      }
+    }
+  },
+  {
+    "tweet_id": "1358936678027694083",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Personal anecdote in Spanish, limited reach."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Personal update without detailed info."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment about crypto gains."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Fleeting moment tied to price changes."
+      }
+    }
+  },
+  {
+    "tweet_id": "1358864786922983426",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Detailed crypto update, shared within communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific data on crypto performance."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of facts."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short relevance due to price volatility."
+      }
+    }
+  },
+  {
+    "tweet_id": "1358763645342273536",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news from a notable figure, generates discussion."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Surprising fact without context."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative sentiment due to disappointment."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevant for a specific news event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1358658137020985344",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Crypto update shared within communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific data on crypto performance."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of facts."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short relevance due to price changes."
+      }
+    }
+  },
+  {
+    "tweet_id": "1358037418918699010",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Breaking news about a significant purchase ahead of futures."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific, timely information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment about the purchase."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant for days around the futures launch."
+      }
+    }
+  },
+  {
+    "tweet_id": "1357743313974099970",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Humorous meme from a celebrity, likely widely shared."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Joke without factual information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive and humorous tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-lived meme relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1357280964326612994",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Motivational message targeting a crypto community."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Promotional without detailed info."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Strongly positive and encouraging."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term motivational impact."
+      }
+    }
+  },
+  {
+    "tweet_id": "1356738181828345857",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Bold price prediction from a notable account."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Prediction without supporting data."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment about Ethereum's price."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevant for a specific prediction period."
+      }
+    }
+  }
+]

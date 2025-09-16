@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1570302362241347584",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Announcement of Ethereum's official transition to Proof of Stake - a major blockchain milestone with high community interest."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Primary-source confirmation of a historic technological shift in cryptocurrency infrastructure."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral factual announcement without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 10,
+        "justification": "Permanent record of a fundamental change in Ethereum's protocol that will be referenced for years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570302235145273344",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Breaking news from a high-follower account about a landmark event in crypto history."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Timely update about the activation of Ethereum's protocol change with clear context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Straightforward news delivery without emotional bias."
+      },
+      "duration_of_impact": {
+        "score": 10,
+        "justification": "Documents a pivotal moment in blockchain evolution with permanent historical significance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570299877703225345",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Celebratory announcement in all caps likely to be shared within crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Confirms the successful completion of a major technological upgrade."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive emotional tone conveyed through capitalization and exclamation."
+      },
+      "duration_of_impact": {
+        "score": 10,
+        "justification": "Marks a definitive success point in Ethereum's development timeline."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570236759266697216",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Industry insider commentary likely to spark debate within crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides perspective on potential ecosystem impacts but contains speculative elements."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Expresses concern about community reactions and potential misattribution of issues."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant to ongoing debates about blockchain governance models."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570236019865260034",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Countdown-style update from a trusted source creates urgency and engagement."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific timeline information about the merge process."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of time-sensitive information."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Primarily relevant only in the immediate lead-up to the event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570230728364810240",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Inspirational narrative about overcoming challenges in blockchain development."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Summarizes Ethereum's technical journey and current market position."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Strong positive sentiment emphasizing historical achievement and future potential."
+      },
+      "duration_of_impact": {
+        "score": 10,
+        "justification": "Captures a definitive milestone in cryptocurrency history."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570204664636784641",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Personal anecdote with niche crypto humor unlikely to spread widely."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Contains no substantive information beyond personal sentiment."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Mild anxiety expressed through casual language and emojis."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Relevance limited to the immediate post-merge period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570113580011327489",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Sarcastic commentary likely to resonate with crypto critics and enthusiasts."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Satirical take rather than factual information about the upgrade."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative tone through ironic congratulations and implied criticism."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term relevance as commentary on Ethereum's development process."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570104776297451520",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Time-sensitive update from a prominent account drives engagement."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides clear countdown information about the merge timeline."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of time remaining until event."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance expires once the countdown completes."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570098671798173697",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Humorous crypto meme comparing technical merge to social situations."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No substantive information - purely comedic content."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Playful tone using irony for humorous effect."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Meme relevance tied to immediate merge context."
+      }
+    }
+  }
+]

@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1732187260747943991",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Breaking news about SEC decision on a major crypto ETF, likely to be shared widely among crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides factual, newsworthy information about SEC decision and market implications."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is factual and neutral."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The SEC decision will be relevant for months as investors track the outcome."
+}
+}
+},
+{
+"tweet_id": "1732187101851164678",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Hype about NFT market surges, likely to be shared within NFT community."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides specific price increase data for NFT collections, useful for investors."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Expresses excitement about market surges."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The surge is short-lived, relevant for a few days."
+}
+}
+},
+{
+"tweet_id": "1732187100529709206",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Promotional news that may be shared within NFT gaming community."
+},
+"informative_value": {
+"score": 5,
+"justification": "Provides information about a promotion, but not deep."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "No strong emotional tone."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The promotion may be relevant for a few days."
+}
+}
+},
+{
+"tweet_id": "1732187045492392138",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Technical analysis may be shared among traders."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides actionable technical analysis."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "It's a factual analysis."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The RSI oversold status may remain relevant for a few days."
+}
+}
+},
+{
+"tweet_id": "1732186119721361891",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Informational content about Layer 2, likely to be shared within community."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides educational content about Layer 2."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "It's informational."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The content remains relevant for a while."
+}
+}
+}
+]

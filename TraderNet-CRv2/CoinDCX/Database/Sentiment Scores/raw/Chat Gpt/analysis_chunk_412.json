@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1732092703910002939",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Promotional claim with a strong hook, likely to spread within the crypto community but not globally."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Primarily a marketing statement with no verifiable data."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Enthusiastic and positive tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Could remain relevant for weeks as token promotion continues."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732092629205012539",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "High engagement and partnership announcement likely to spread within the crypto community."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides ranking data and a link to further information, but still promotional."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive, enthusiastic tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for weeks as the partnership continues."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732092210261201270",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Niche technical announcement likely to resonate within a specific community but not widely viral."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Describes a new technical tool and provides a link for more details."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Proud and positive tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Project may remain relevant for weeks or months as it develops."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732091277376737444",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Market analysis likely to be shared among crypto traders, moderate virality."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides technical analysis and bullish outlook, useful for traders."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strongly positive bullish tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for weeks as market conditions evolve."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732090832969183450",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Niche call to action likely to resonate within a specific community but limited broader reach."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides information about RetroPGF and encourages participation."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive, encouraging tone."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to a specific voting period, likely to fade quickly."
+      }
+    }
+  }
+]

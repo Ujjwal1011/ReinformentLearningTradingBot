@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1732178144180732217",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "The tweet is niche, targeting crypto enthusiasts, but lacks a strong hook for broader virality."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific sale information and links, useful for the target audience."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone, simply stating a fact without strong emotion."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant for a few days as it's tied to a specific sale event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732178032331223463",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Use of multiple hashtags and positive sentiment may attract attention within the crypto community."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Promotional in nature with minimal information beyond the announcement."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Strong positive language and excitement about Bitcoin."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant until the film's release, then becomes less so."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732177723672465839",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Announcement of a new tool with relevant hashtags may attract its target audience."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides useful information about a new Chrome extension update."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone encouraging users to download the extension."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for weeks as updates are ongoing."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732176862124642540",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Encourages action but is niche, unlikely to go viral beyond its community."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Provides a call to action but lacks detailed information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive and encouraging tone about future gains."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Time-sensitive, relevant until December 7th."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732175823841767763",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Targets the Vietnamese crypto community, may not go viral beyond that."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Discusses significant capital inflows and Uniswap's role, informative for the community."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive and optimistic about Ethereum's future."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant for a few weeks as the topic is current."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732174682701640154",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Personal reflection, unlikely to be widely shared."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Opinion-based with minimal new information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reflection on crypto's niche status."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevant only for a short period as it's a personal observation."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732174598177767772",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Critique of Ethereum and praise for Arbitrum may resonate within the crypto community."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific criticism and alternative solution, credible information."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Negative towards Ethereum but positive towards Arbitrum."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for weeks as gas fees are an ongoing issue."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732174553588085104",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Promotion of an NFT giveaway with many hashtags may attract attention."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Announces a giveaway but lacks detailed information."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive and exciting tone about the giveaway."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant until the giveaway ends on Dec 6."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732174209109901570",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Technical analysis for traders, niche audience."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides detailed price analysis, useful for traders."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, presenting factual analysis."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a few days as it's tied to current price levels."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732174177166135566",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Critique of Ethereum and promotion of Algorand, niche audience."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific criticism and alternative solution, credible information."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Negative towards Ethereum but positive towards Algorand."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant for weeks as gas fees are an ongoing issue."
+      }
+    }
+  }
+]

@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1618234366966247424",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet promotes a new NFT scene on OpenSea, includes relevant hashtags and a link, and has attracted over 5 000 likes and 700 retweets, indicating sharing potential within the crypto/NFT community, though it is unlikely to break out to a broader audience."
+},
+"informative_value": {
+"score": 6,
+"justification": "It announces the availability of a specific NFT scene, provides a rating (10/10) and a direct link, giving concrete information for interested collectors."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The use of a perfect rating and enthusiastic language conveys a clearly positive tone."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The relevance is tied to the NFT's availability and collector interest, likely lasting a few weeks to months before fading."
+}
+}
+},
+{
+"tweet_id": "1616273583008874497",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "A provocative claim that a major bank owns Ethereum can spark debate and shares among finance and crypto users, reflected by moderate engagement, but its niche focus limits broader virality."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet makes an unsubstantiated claim without evidence or context, offering little factual information."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The statement criticizes decentralization, expressing a negative stance toward the perceived centralization."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is linked to the immediate discussion about J.P. Morgan and Ethereum, likely persisting only for a short period (days)."
+}
+}
+},
+{
+"tweet_id": "1615456623195222021",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Announcing a new multi‑chain wallet beta with enthusiastic language appeals to crypto enthusiasts and has generated moderate engagement, suggesting sharing within that community."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet informs users about the launch of a private beta for the Phantom wallet and lists supported blockchains, providing useful details."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Words like elite and future convey strong positive enthusiasm."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The announcement remains relevant while the beta is active and as users discuss the wallet, likely for several weeks."
+}
+}
+},
+{
+"tweet_id": "1613951306036645925",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "A breaking‑news style announcement about MetaMask’s beta staking program from a major wallet provider is likely to be widely shared across the crypto ecosystem."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet delivers a timely, verifiable update about a new MetaMask feature, offering high informational value."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, simply reporting the news without strong emotional language."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The information will stay pertinent as the beta rolls out and users discuss staking, maintaining relevance for weeks to months."
+}
+}
+},
+{
+"tweet_id": "1613848879862013955",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet sharply criticizes Alameda’s liquidation process, a topic of interest in crypto circles, which can generate discussion, though current low retweets suggest moderate spread."
+},
+"informative_value": {
+"score": 6,
+"justification": "It provides a detailed, anecdotal account of a specific liquidation incident, giving insight into the inefficiencies involved."
+},
+"sentiment_polarity": {
+"score": 1,
+"justification": "The language expresses strong frustration and negativity, describing the situation as painful and stuck."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The relevance is tied to the specific incident and related debate, likely lasting only a few days to a week."
+}
+}
+}
+]

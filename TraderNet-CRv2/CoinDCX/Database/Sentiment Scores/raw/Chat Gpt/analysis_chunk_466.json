@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1769742064630018497",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Provides a quick price comparison that may interest crypto enthusiasts, but lacks a strong hook or breaking news to drive widespread sharing."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Shares factual price data but offers no analysis or context, so its informational depth is limited."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The use of the 🤯 emoji conveys excitement and positive surprise about the price gains."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The price information is only relevant until the market moves again, so the tweet's relevance fades quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1769704086117499046",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Sensational claim about a meme coin overtaking Ethereum's market cap is likely to spark widespread sharing and debate."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet presents a sensational claim without providing evidence or credible sources, so its informational value is low."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is factual in tone, presenting a breaking news claim without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The claim could spark discussion for a few days, but its relevance will diminish as market data updates."
+      }
+    }
+  },
+  {
+    "tweet_id": "1769568156182323261",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Sensational claim about Solana overtaking Ethereum in search interest is likely to generate widespread sharing."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet offers a sensational claim without providing evidence or credible sources, limiting its informational value."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is factual in tone, presenting a breaking news claim without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The claim could spark discussion for a few days, but its relevance will diminish as search trends change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1769388497192833168",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet uses hype language and references to popular crypto communities, which can resonate within niche audiences and encourage sharing."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet is promotional and lacks verifiable information, so its informational value is low."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tweet expresses strong positive excitement and hype about $BOME, using enthusiastic language."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The hype may keep the tweet relevant for a few weeks as the community discusses, but it will eventually fade as interest wanes."
+      }
+    }
+  },
+  {
+    "tweet_id": "1769368200846745935",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet highlights concerns about scams and airdrops, which can resonate with crypto users and spark discussion, but it lacks a sensational hook."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "The tweet provides a general commentary on scams and airdrops, but lacks specific evidence or sources."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "The tweet expresses concern about scams, indicating a negative sentiment, but also mentions positive aspects of Bitcoin airdrops."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The topic of scams and airdrops remains relevant for weeks as the community monitors security, so the tweet may stay relevant for a moderate period."
+      }
+    }
+  }
+]

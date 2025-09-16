@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1732190298120331710",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Promotional launch with crypto hashtags; potential to spread within niche communities but limited by small follower base."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Provides basic info about new token but lacks depth or verifiable data."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Uses enthusiastic language, emojis, call to action, positive tone."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Initial hype may fade after a few weeks; moderate lifespan."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732190168587894903",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Speculative claim about major ETF approval; could spark debate within crypto community."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Provides a speculative projection but no sources or evidence."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone, no strong emotion."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Potentially relevant for months as ETF approval is pending."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732190150476574964",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Informative about new L2, includes funding info; likely to be shared within crypto circles."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides credible info about L2, funding, and launch; includes link."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Informative tone, no strong emotion."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Project may have ongoing relevance; tweet remains useful for those researching L2s."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732190121540374918",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Informative about well-known projects; may be shared by enthusiasts."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides factual info about projects and their metrics."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Informative tone."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Projects are ongoing; tweet remains useful."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732190048487952723",
+    "analysis": {
+      "virality_potential": {
+        "score": 2,
+        "justification": "Only mentions and a link; no content."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "No substantive content."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "No emotional content."
+      },
+      "duration_of_impact": {
+        "score": 1,
+        "justification": "No lasting relevance."
+      }
+    }
+  }
+]

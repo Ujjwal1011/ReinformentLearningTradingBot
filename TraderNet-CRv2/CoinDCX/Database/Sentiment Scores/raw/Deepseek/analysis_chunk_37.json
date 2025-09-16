@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1459566888783163395",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Provocative comparison between major cryptocurrencies could spark debates within crypto communities, but lacks universal appeal for global virality."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Opinion-based comparison without supporting data or new information about the blockchain technologies."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Moderately negative toward Ethereum while being positive about competitors, though not excessively emotional."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Ongoing crypto platform debates maintain relevance for weeks in enthusiast circles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1459507826645164033",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Comprehensive crypto news summary has shareability within the community but lacks an emotional hook for broader appeal."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides multiple verifiable news items about significant crypto developments and corporate adoption."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of factual information without overt emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Time-sensitive news compilation likely to be superseded by newer developments within days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1459163600178843648",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Insider perspective on platform selection could resonate strongly within developer and crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Reveals a real-world decision-making factor for blockchain projects, though anecdotal in nature."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of a business decision without explicit emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Discussion about blockchain platform advantages could remain relevant for weeks in tech circles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1458974884609019916",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Major corporate crypto adoption announcement with concrete transaction data has high shareability across financial and tech communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific payment integration details and immediate transaction impact statistics from a verified CEO account."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Enthusiastic tone with words like 'proudly' and 'incredibly', celebrating business progress."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Payment system changes remain relevant for months as they affect consumer behavior."
+      }
+    }
+  },
+  {
+    "tweet_id": "1458904167355924485",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Striking performance statistics presented clearly, highly shareable in investment and crypto communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides verifiable quantitative data about asset performance with clear timeframe context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of numerical data without explicit commentary."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Annual performance metrics remain reference material for months in financial discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1458879108750979072",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Speculative claim tied to Apple creates urgency and curiosity, driving shares among crypto and tech audiences."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Contains an unsubstantiated prediction without evidence or source references."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive investment advice implied through urgent buying recommendation."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance depends entirely on unconfirmed Apple announcement, creating very short-term speculation window."
+      }
+    }
+  },
+  {
+    "tweet_id": "1458762806891716615",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Comparative investment returns presented visually appeal to crypto investors, encouraging shares."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides concrete hypothetical investment outcomes with clear timeframe, though lacks source attribution."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of numerical data without explicit commentary."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Annual return statistics remain reference material for months in investment communities."
+      }
+    }
+  },
+  {
+    "tweet_id": "1458522980716265475",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Speculation about major wallet token launch could generate buzz in crypto circles, but lacks confirmation."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Reports on credible industry rumors with user metrics, but unconfirmed by official sources."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive anticipation expressed through phrases like 'will be huge' and celebratory emojis."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevance persists until potential token launch confirmation or denial, typically weeks in crypto projects."
+      }
+    }
+  },
+  {
+    "tweet_id": "1458317624048115715",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Memetic expression of commitment to Ethereum combined with image has strong shareability in crypto communities."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Contains no factual information beyond personal investment stance."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Very positive sentiment through slang ('balls deep') and celebratory emojis/hashtag."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Memes typically have short lifespan unless tied to major ongoing events."
+      }
+    }
+  },
+  {
+    "tweet_id": "1458271567331221504",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major exchange listing announcement from official Binance account guarantees wide dissemination in crypto markets."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides critical infrastructure update for cryptocurrency traders from a primary source."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement of business development without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Exchange listings remain relevant for weeks as traders adjust strategies."
+      }
+    }
+  }
+]

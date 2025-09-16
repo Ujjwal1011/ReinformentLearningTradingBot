@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1354820049031188481",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Simple price speculation question might generate discussion among crypto communities but lacks strong viral hooks."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Pure speculative question without providing any factual information or context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone - a factual question without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance lasts only until the price reaches $5K or the question is answered."
+      }
+    }
+  },
+  {
+    "tweet_id": "1354811175574245383",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Strong statement about financial revolution with popular hashtags could resonate in crypto communities."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Opinion-based declaration about financial systems without concrete information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment towards decentralized finance with enthusiastic language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Part of ongoing debate about decentralized finance that remains relevant for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1354528254674268163",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news about major partnership between established platforms has high share potential."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific announcement about a real business partnership with concrete implications."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of factual information without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Partnership announcements typically have medium-term relevance as developments unfold."
+      }
+    }
+  },
+  {
+    "tweet_id": "1354461551160340480",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Meme-style comparisons could spread within crypto/stock trading communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Humorous analogy without substantive information or analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral comparison without clear positive/negative emotional language."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Meme-based content typically has short relevance cycles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1354192810958843904",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Controversial claim about hedge fund activity could spread quickly in trading communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Specific claim about financial positions that could impact markets if true."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative sentiment implied in highlighting a short position against Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant until position is closed or confirmed/denied by Melvin Capital."
+      }
+    }
+  },
+  {
+    "tweet_id": "1353944299994566656",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Humorous portfolio suggestion might get limited sharing in niche communities."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Satirical investment advice without real informational value."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone with humorous intent rather than strong emotion."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Meme-based content with very short relevance window."
+      }
+    }
+  },
+  {
+    "tweet_id": "1353498984124452867",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Basic price update without context has limited viral potential."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "States a market fact but provides no supporting data or analysis."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive sentiment implied in highlighting all-time high achievement."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Immediately outdated if price changes significantly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1353480607234367488",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Technical market analysis could spread within crypto trading communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides market analysis with specific phase-based framework."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive outlook expressed about market developments."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Market phase analysis remains relevant for weeks/months in crypto cycles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1351906017802596353",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Comparative market cap analysis could interest investment communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides concrete financial comparison with growth potential analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral analytical tone comparing market valuations."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Market cap comparisons remain relevant for mid-term investment discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1351499648683417607",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Highly emotional announcement of market milestone likely to be widely shared."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Reports a market event but lacks supporting data or context."
+      },
+      "sentiment_polarity": {
+        "score": 10,
+        "justification": "Extremely positive sentiment shown through excessive punctuation and capitalization."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Price milestone announcements become outdated with market fluctuations."
+      }
+    }
+  }
+]

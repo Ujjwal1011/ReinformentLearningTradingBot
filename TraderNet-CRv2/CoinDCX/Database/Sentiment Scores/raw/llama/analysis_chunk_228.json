@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1773932955100131642",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet's warning about imposters and claim of being one of the smartest men in crypto might spark interest within the crypto community, but it's unlikely to go globally viral."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet provides minimal information, mostly focusing on the author's self-proclaimed intelligence and a vague warning."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The user expresses confidence and a hint of arrogance, but the overall tone is more positive than negative."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is short-term, as its impact is mostly tied to the author's personal brand and a fleeting warning."
+}
+}
+},
+{
+"tweet_id": "1773759049193967789",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet's neutral tone and discussion of Ethereum's resilience might generate some engagement, but it's not designed to go viral."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides some useful context about Ethereum's past dips and the existence of ETPs, but it's not deeply informative."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The user expresses a moderately positive sentiment, highlighting the community's resilience."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is standard, as it discusses ongoing topics in the Ethereum community."
+}
+}
+},
+{
+"tweet_id": "1773690171587797005",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet's breaking news about a large options expiration might generate significant engagement and sharing within the crypto community."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides highly relevant, newsworthy information about a significant event in the crypto market."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet's tone is neutral, focusing on reporting news rather than expressing emotion."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is short-term, as its impact is mostly tied to the expiration event."
+}
+}
+},
+{
+"tweet_id": "1773638333710659774",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet's breaking news and warning about volatility might generate significant engagement and sharing within the crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides highly relevant, newsworthy information about a significant event in the crypto market."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet's tone is neutral, focusing on reporting news rather than expressing emotion."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is short-term, as its impact is mostly tied to the expiration event."
+}
+}
+},
+{
+"tweet_id": "1773353783482872117",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet's question about Ethereum's future and link to additional content might generate interest and sharing within the crypto community."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides some context about Ethereum's current state, but the bulk of the information is in the linked content."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet's tone is neutral, posing a question without expressing a clear emotion."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance is medium-term, as it discusses ongoing topics in the Ethereum community."
+}
+}
+},
+{
+"tweet_id": "1773041585262821395",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet's technical discussion about zkSync Era might generate some engagement, but it's unlikely to appeal to a broad audience."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides detailed, technical information about zkSync Era's features and development."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The user expresses a moderately positive sentiment, highlighting the benefits of zkSync Era."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance is medium-term, as it discusses ongoing topics in the crypto and blockchain community."
+}
+}
+},
+{
+"tweet_id": "1772999593577390172",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The tweet's breaking news about a major asset manager's Ethereum ETF filing might generate significant engagement and sharing within the crypto and finance communities."
+},
+"informative_value": {
+"score": 10,
+"justification": "The tweet provides highly relevant, newsworthy, and primary-source information about a significant event in the crypto market."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet's tone is neutral, focusing on reporting news rather than expressing emotion."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet's relevance is medium-term to long-term, as the ETF filing has ongoing implications for the crypto market."
+}
+}
+},
+{
+"tweet_id": "1772997491966820656",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet's confirmation of the ETF filing and clarification about the filing type might generate some engagement, but it's mostly relevant to those already interested in the topic."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides highly relevant, newsworthy information about the ETF filing, clarifying a specific detail."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet's tone is neutral, focusing on reporting news rather than expressing emotion."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance is medium-term, as it discusses an ongoing topic in the crypto community."
+}
+}
+},
+{
+"tweet_id": "1772707593397608733",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet's discussion of the SEC, CFTC, and Ethereum's security status might generate some engagement, but it's mostly relevant to those already interested in crypto regulation."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides detailed information about the regulatory stance on Ethereum and the author's actions."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The user expresses a moderately negative sentiment, questioning the actions of Prometheum."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet's relevance is medium-term to long-term, as the regulatory discussions have ongoing implications for the crypto market."
+}
+}
+},
+{
+"tweet_id": "1772706769455690112",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet's announcement about Everyworld building on Ethereum L2, along with a reward mechanism, might generate significant engagement and sharing within the crypto and gaming communities."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides useful information about Everyworld's development and a specific reward opportunity."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The user expresses a very positive sentiment, announcing a new development and reward opportunity."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet's relevance is medium-term, as the development and reward opportunity have ongoing implications for the Everyworld community."
+}
+}
+}
+]

@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1450678497878233095",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet announces a significant multichain expansion for Terra, mentioning several major blockchains and projects. This news is likely to resonate within the crypto community and could be shared among enthusiasts, giving it a medium-high virality potential."
+},
+"informative_value": {
+"score": 7,
+"justification": "It offers concrete details about the integration of Terra's UST across multiple blockchains, providing useful information for users and developers."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tone is optimistic and forward-looking, expressing positivity about the future of Web3, but it lacks strong emotional language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The multichain expansion is an ongoing development that will continue to be relevant for an extended period, though it may eventually become routine."
+}
+}
+},
+{
+"tweet_id": "1450538513141690371",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet announces the live launch of a cross-chain bridge feature, which is newsworthy within the crypto community and could be shared by users and developers, but it is unlikely to go viral beyond that niche."
+},
+"informative_value": {
+"score": 7,
+"justification": "It provides specific details about the new feature, including supported assets and blockchains, making it informative."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet uses enthusiastic language and a smiley, indicating a positive sentiment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The cross-chain bridge will likely be used for weeks or months, maintaining relevance."
+}
+}
+},
+{
+"tweet_id": "1450529498718355461",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet announces a significant change for a major company, which is likely to attract widespread attention and sharing across both crypto and mainstream audiences."
+},
+"informative_value": {
+"score": 8,
+"justification": "It provides clear information about AMC's new payment options, which is newsworthy and verifiable."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is factual and does not express strong emotions, maintaining a neutral tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The news could remain relevant for months as the adoption of crypto payments continues."
+}
+}
+},
+{
+"tweet_id": "1450472793846554626",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet uses hype language and exclamation marks, which can attract attention and sharing among crypto enthusiasts, giving it a moderate virality potential."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet lacks factual detail and is primarily hype, providing little informative content."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The tweet expresses strong excitement and optimism about Bitcoin and Ethereum, using multiple exclamation marks."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet is likely to generate short-term engagement but will not remain relevant for long."
+}
+}
+},
+{
+"tweet_id": "1450382126910779393",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet highlights a common frustration with high Ethereum gas fees, which may resonate with many users and be shared within the community."
+},
+"informative_value": {
+"score": 5,
+"justification": "It provides a specific example of gas fee costs, but it's anecdotal and not a comprehensive source."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The tweet expresses frustration and confusion, indicating a negative sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "While the problem persists, the tweet's specific details may become less relevant over time."
+}
+}
+}
+]

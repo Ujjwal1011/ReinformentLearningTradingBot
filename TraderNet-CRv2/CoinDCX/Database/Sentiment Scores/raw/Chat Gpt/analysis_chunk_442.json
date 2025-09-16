@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1744763767580442749",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet mentions three blockchains and includes a link, which may interest the crypto community, but it lacks a strong hook or emotional content."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "It provides minimal factual information—just a list of names and a link—without context or detail."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, containing no emotional language."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The announcement is time-sensitive but could be referenced for a few days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1744725267531354322",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Whale Alert tweets about large minting events are highly sought after in the crypto community and often get retweeted widely."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "It provides verifiable data about a significant minting event, which is newsworthy."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, presenting factual information without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The event is a one-time occurrence, but the information remains relevant for a few days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1744343399417737266",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The announcement of a new feature is relevant to the crypto community and likely to be shared within that niche."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It delivers new, verifiable information about a feature that will be used by many users."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, simply informing about the new availability."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The new feature will be relevant for days or weeks as users adopt it."
+      }
+    }
+  },
+  {
+    "tweet_id": "1743862598259662967",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The commentary on a public figure can spark discussion and be retweeted by supporters or critics."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "It is an opinion piece with no verifiable facts or data."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "The tweet contains negative language criticizing Brian Armstrong."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The commentary may be discussed for a few days as people react."
+      }
+    }
+  },
+  {
+    "tweet_id": "1742935389776826410",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Similar to tweet 2, it reports a large minting event that attracts attention in the crypto community."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "It provides verifiable data about a significant minting event."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, presenting factual information."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The event is a one-time occurrence, but the information remains relevant for a few days."
+      }
+    }
+  }
+]

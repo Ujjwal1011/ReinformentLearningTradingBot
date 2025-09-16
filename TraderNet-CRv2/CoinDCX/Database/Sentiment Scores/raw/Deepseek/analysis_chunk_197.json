@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1732157672584057176",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Breaking news about a major financial institution's Ethereum ETF filing has high shareability in crypto communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides verifiable regulatory information about a significant financial product development."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral announcement without emotional language."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "ETF developments typically remain relevant for weeks/months during regulatory processes."
+}
+}
+},
+{
+"tweet_id": "1732157226775916840",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Technical ecosystem integration announcement likely to circulate within blockchain developer communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "Details a specific interoperability proposal with roadmap elements."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive tone with emojis and community-focused language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Project timelines suggest relevance for weeks during implementation."
+}
+}
+},
+{
+"tweet_id": "1732156609659301951",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Price prediction content often spreads in crypto circles but lacks unique viral hooks."
+},
+"informative_value": {
+"score": 4,
+"justification": "Speculative opinion without supporting data or sources."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Optimistic tone about market movements using 'great' and 'nicely'."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Time-bound to pre-holiday period with limited lasting relevance."
+}
+}
+},
+{
+"tweet_id": "1732155702079107254",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "Niche technical debate with minimal engagement metrics."
+},
+"informative_value": {
+"score": 3,
+"justification": "Personal opinion about ecosystem dynamics without substantive analysis."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "Mildly negative tone expressing concerns about reduced conflict."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevance tied to transient Twitter debates between specific accounts."
+}
+}
+},
+{
+"tweet_id": "1732155093795918040",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Provocative anti-Ethereum stance with high engagement signals controversy potential."
+},
+"informative_value": {
+"score": 2,
+"justification": "Pure opinion without supporting arguments or data."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "Strong negative language like 'sucks' and 'underperforms'."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Market cycle commentary becomes outdated quickly."
+}
+}
+},
+{
+"tweet_id": "1732154802145046672",
+"analysis": {
+"virality_potential": {
+"score": 0,
+"justification": "Personal art-related message with zero engagement metrics."
+},
+"informative_value": {
+"score": 0,
+"justification": "No informational content beyond personal interaction."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive emojis and spring-themed enthusiasm."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "Seasonal reference limits relevance beyond immediate context."
+}
+}
+},
+{
+"tweet_id": "1732153887476322600",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Major partnership announcement with strong engagement signals in tech circles."
+},
+"informative_value": {
+"score": 8,
+"justification": "Details technical infrastructure development with specific partners."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral explanatory tone despite positive partnership news."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Blockchain infrastructure developments typically have medium-term relevance."
+}
+}
+},
+{
+"tweet_id": "1732152811725697223",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "ETF comparison debate attracts attention during approval speculation periods."
+},
+"informative_value": {
+"score": 6,
+"justification": "Analyzes market dynamics around upcoming financial products."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Analytical tone without clear positive/negative bias."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant until ETF decisions are finalized."
+}
+}
+},
+{
+"tweet_id": "1732152078313611762",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Niche blockchain transaction alert primarily relevant to specific communities."
+},
+"informative_value": {
+"score": 5,
+"justification": "Reports factual on-chain transaction data without context."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral reporting of transaction details."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Single transaction data point has short-term relevance."
+}
+}
+},
+{
+"tweet_id": "1732151951775691171",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Niche blockchain metrics comparison with limited engagement."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides verifiable network statistics with percentage changes."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral reporting of network metrics."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Daily fee fluctuations have short-term relevance."
+}
+}
+}
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1552947565510795264",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news about a major financial loss in crypto from a verified source, likely to elicit strong reactions and shares within financial/crypto communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides specific, verifiable financial figures and cites The Block as a source, making it highly newsworthy."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting tone despite negative content about fund losses."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Will remain relevant for weeks as investigations unfold, but may fade after initial news cycle."
+      }
+    }
+  },
+  {
+    "tweet_id": "1552727078394527744",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Market cap milestones often get shared in crypto circles but lack broader viral hooks."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides current market data valuable to investors, though lacks deeper context."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Implied positive sentiment through 'reclaimed' phrasing suggesting recovery."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Market cap figures change daily, making this time-sensitive."
+      }
+    }
+  },
+  {
+    "tweet_id": "1552717181430939648",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Critical Ethereum upgrade news from official developers, highly anticipated in crypto communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Specific technical details about a major blockchain upgrade with dates and context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual announcement without explicit emotional language."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Historic Ethereum upgrade will be referenced for years in blockchain development."
+      }
+    }
+  },
+  {
+    "tweet_id": "1552712874543439876",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "BREAKING format + rocket emoji creates urgency and excitement for crypto audiences."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Reinforces key testnet merge details with editorial emphasis on importance."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Explicit bullish sentiment with emoji and capitalization."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Tied to Ethereum's permanent transition to PoS, ensuring long-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1551930840233418754",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Personal doubt may resonate with some investors but lacks broad appeal."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Purely personal reflection without data or news value."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Expresses uncertainty and potential regret about investments."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Personal sentiment tweet with no lasting relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1551749304594882562",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "NFT community often shares platform criticism, especially regarding high-profile marketplaces."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Highlights platform moderation issues but lacks verifiable proof of claims."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Strong frustration evident through sarcasm and complaint details."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Could spark ongoing discussions about NFT platform accountability for days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1551633443741646848",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Legal developments in high-profile Ripple case attract intense crypto community interest."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides analysis of key legal arguments with implications for crypto regulation."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive appraisal of legal strategy ('BRAVO!') with critical stance toward SEC."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "Ripple case outcomes could set lasting regulatory precedents."
+      }
+    }
+  },
+  {
+    "tweet_id": "1551494824536276992",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Technical update from Ethereum's founder attracts developer attention but limited broader appeal."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Highlights progress on specific Ethereum tooling with links to resources."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Clear praise through 'great and hardworking team' phrasing."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Programming language improvements maintain relevance for developers long-term."
+      }
+    }
+  },
+  {
+    "tweet_id": "1551311567970373632",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Listicles often get shared for quick reference, especially with popular hashtags."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides snapshot data of social metrics but lacks deeper analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of ranked data without commentary."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Follower counts change rapidly, making this time-sensitive."
+      }
+    }
+  },
+  {
+    "tweet_id": "1551258987185709057",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Historical price comparisons often get nostalgic engagement in crypto communities."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Basic historical price data without context about current implications."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of fact without explicit commentary."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Time-bound comparison loses relevance quickly after posting."
+      }
+    }
+  }
+]

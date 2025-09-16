@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1746532626683613280",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Technical how-to content about cross-chain bridging has inherent appeal within crypto communities, though limited mainstream virality potential."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides actionable information about a specific technical capability with a legitimate project link."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral instructional tone without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Technical guides maintain relevance as long as the bridge remains operational."
+      }
+    }
+  },
+  {
+    "tweet_id": "1746209199758180753",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Combines a major financial institution narrative with Ethereum advocacy, driving shares across crypto and traditional finance circles."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Reports on BlackRock's strategic direction with asset tokenization from an authoritative source."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Implied positive sentiment through rhetorical question favoring Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Comments about institutional adoption strategies have long-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1746168387070230827",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Provocative language and meme-style phrasing ('grow some nuts') resonates within crypto circles but lacks broader appeal."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Primarily opinion-based commentary about market psychology."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Negative sentiment toward risk-averse investors, though with humorous intent."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Tied to transient market conditions around GBTC redemptions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1746055088429556032",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Hype-building language and emojis create urgency around an NFT launch, likely to drive engagement."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Announces specific event timing but lacks concrete details about the collaboration."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Extremely positive tone with phrases like 'brace yourselves' and celebratory emojis."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance primarily limited to the immediate pre-launch and launch period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1745903962568704140",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "ETF speculation combined with Coinbase CEO mention drives crypto community engagement."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Raises important regulatory questions but relies on external link for substance."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral question format without explicit sentiment."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "ETF developments remain relevant through regulatory processes."
+      }
+    }
+  },
+  {
+    "tweet_id": "1745884941102235915",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news about BlackRock's ETF plans combined with authoritative source drives shares."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Concrete information about institutional crypto product development."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive framing of institutional adoption."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "ETF announcements influence markets through entire approval process."
+      }
+    }
+  },
+  {
+    "tweet_id": "1745805579095056648",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Price speculation common in crypto communities but lacks unique angle for virality."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Pure price speculation with no supporting analysis."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Implied optimism through ambitious price target."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Price predictions lose relevance quickly as markets fluctuate."
+      }
+    }
+  },
+  {
+    "tweet_id": "1745778861583819124",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Institutional rotation narrative interests crypto traders but lacks broad appeal."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Observational commentary about market trends rather than new information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of perceived market behavior."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Tied to specific timing around Bitcoin ETF launches."
+      }
+    }
+  },
+  {
+    "tweet_id": "1745777713544143241",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Primary-source breaking news from major financial institution CEO about ETF plans."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Direct quote about specific financial product development from authoritative source."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive institutional validation of Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "ETF announcements have multi-month regulatory and market implications."
+      }
+    }
+  },
+  {
+    "tweet_id": "1745769388177842359",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "News wire-style alert about BlackRock's Ethereum interest drives rapid sharing."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Concise reporting of verifiable statement from primary source."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of factual statement."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Contributes to ongoing institutional adoption narrative."
+      }
+    }
+  }
+]

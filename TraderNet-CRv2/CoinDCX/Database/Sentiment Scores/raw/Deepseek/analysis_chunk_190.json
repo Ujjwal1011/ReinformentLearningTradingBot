@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1732187260747943991",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Significant financial news about SEC decisions and a major Ethereum ETF product with $5B AUM could generate broad interest in crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides verifiable regulatory updates and analyst predictions with clear financial implications."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of factual information without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Regulatory decisions can influence markets for weeks/months until final resolution."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732187101851164678",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "NFT market data with emojis/hashtags could spread within crypto circles, but lacks broader appeal."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Contains specific percentage gains for multiple NFT collections with market context."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive tone emphasized by rocket/water emojis and 'euphoria' description."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "NFT price trends are highly volatile and time-sensitive."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732187100529709206",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "NFT gaming news with multiple hashtags, but limited engagement drivers beyond niche audience."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Reports specific partnership between Amazon Prime and an NFT game, though lacks details."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement without clear emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Promotional offer relevance limited to campaign duration."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732187045492392138",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Technical analysis could engage crypto traders, but requires niche understanding of RSI metrics."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific market analysis comparing Bitcoin and Ethereum indicators."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Mildly positive suggestion about Ethereum's potential."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Technical analysis typically has short-term relevance as markets evolve."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732186119721361891",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "High engagement (63 likes, 65 replies) suggests strong interest in Vietnamese crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Detailed explanation of Optimism's Layer 2 solution with technical specifics."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral educational content without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Layer 2 solutions remain relevant as Ethereum scaling continues."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732186089559896426",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Large USDT transactions often generate immediate attention in crypto markets (333 likes, 35 RTs)."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Specific transaction details from known tracking account with verifiable data."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of blockchain transaction."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Single transaction alerts typically have short-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732185530518102125",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Technical question limited to DeFi practitioners with minimal engagement."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Asks for information but provides no answers or context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral question format without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Immediate technical query with ephemeral relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732185352570544202",
+    "analysis": {
+      "virality_potential": {
+        "score": 2,
+        "justification": "Link-only tweet with no context or engagement drivers."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No information beyond an unspecified link."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "No discernible sentiment in link-only content."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Link relevance depends entirely on external content."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732185034470334744",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Token-specific information could circulate in crypto circles, but limited engagement."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides market cap figures and institutional partnership claims."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral listing of project details without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Token-specific information becomes outdated with market changes."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732183411106963754",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Educational content from Binance Academy about Ethereum 2.0 with strong engagement (66 likes, 47 RTs)."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Detailed explanation of blockchain scaling solutions from authoritative source."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive framing of technological progress ('game-changing tech')."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Core blockchain concepts remain relevant for years as Ethereum evolves."
+      }
+    }
+  }
+]

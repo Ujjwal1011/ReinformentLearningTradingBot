@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1457298029707505664",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Question invites engagement, hashtags, but niche; moderate-high potential."
+},
+"informative_value": {
+"score": 4,
+"justification": "Speculative price targets, no verifiable source; low informational content."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral tone, no strong emotion."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for weeks as discussion continues; not long-term."
+}
+}
+},
+{
+"tweet_id": "1457218505678352388",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Simple question invites replies; moderate potential within crypto community."
+},
+"informative_value": {
+"score": 3,
+"justification": "No new information; just a question."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Short-lived relevance; likely fades after answers."
+}
+}
+},
+{
+"tweet_id": "1457195856394801154",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Poll format encourages engagement; moderate-high potential."
+},
+"informative_value": {
+"score": 3,
+"justification": "Speculative question; no factual info."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral tone."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevant until year-end; moderate duration."
+}
+}
+},
+{
+"tweet_id": "1457168925574119425",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Personal mental health update; moderate engagement potential."
+},
+"informative_value": {
+"score": 3,
+"justification": "Personal anecdote; no new factual info."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "Negative tone expressing mental health toll."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Short-term relevance; may fade after discussion."
+}
+}
+},
+{
+"tweet_id": "1457109136425070596",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Bot tweet about high-value bid; niche interest; moderate potential."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides factual bid info; credible source; high informational value."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral tone."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevant for weeks as auction continues; moderate duration."
+}
+}
+}
+]

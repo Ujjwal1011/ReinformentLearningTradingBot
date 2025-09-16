@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1770594620969501035",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Addresses timely regulatory concerns with factual arguments, likely to spark discussion within crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides verifiable claims about Ethereum's legal status and historical context from a credible source."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Frustrated tone ('Sigh... again') with corrective intent, but primarily factual delivery."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Regulatory classification debates have long-term implications for cryptocurrency markets."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770583816978985222",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Comparative ecosystem data may drive sharing within crypto investment communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Contains specific metrics from a known platform but lacks direct source links."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of statistical rankings without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Market leadership data remains relevant for weeks until next reporting cycle."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770542015438061739",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "High-value NFT transaction notable to crypto enthusiasts but niche to general audiences."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Documents specific blockchain transaction details with verifiable value metrics."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Purely transactional information without emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Single sale events typically have short-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770536831542591997",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Combines price speculation with technical appreciation, appealing to crypto investors."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Mixes personal opinion with incomplete news reference ('The Ethereum...' [cutoff])."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong positive language ('love', 'appreciate') about Ethereum's potential."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "ETF speculation maintains relevance until regulatory decisions occur."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770514270004121662",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Standard ranking tweet common in crypto spaces, with moderate sharing potential."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Authoritative ecosystem ranking from a trusted data platform."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of factual rankings."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Quarterly rankings typically influence discussions for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770490478443573339",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Breaking regulatory news with major implications for cryptocurrency markets."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Conveys critical regulatory action from primary source (SEC)."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Implied negative context through regulatory pressure on Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Legal classifications have long-term market structure impacts."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770489004636475686",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Sarcastic tone amplifies shareability of major regulatory news."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Confirms investigation specifics about Ethereum Foundation."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative framing of regulatory action with sarcastic emoji."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Foundation subpoena represents sustained regulatory pressure."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770488543896309800",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Reputable source reporting legal developments, but less engagement than similar tweets."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Attributes information to Fortune Crypto with clear legal context."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Implied criticism through 'energetic legal campaign' phrasing."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Ongoing legal battles maintain relevance for months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770486264568959408",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Concise regulatory update likely to spread quickly in crypto circles."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Clear statement of SEC's position with source attribution."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Neutral reporting with implied negative context for Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Regulatory classification efforts have multi-year implications."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770470520263209074",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "First-ever subpoena detail sparks speculation about ETF approvals."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Reports concrete website changes indicating legal action."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Concerned tone about regulatory challenges and ETF rejection."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Legal precedents from foundation subpoenas affect long-term operations."
+      }
+    }
+  }
+]

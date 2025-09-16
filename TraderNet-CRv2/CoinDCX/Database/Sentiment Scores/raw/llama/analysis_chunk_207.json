@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1732082409829695518",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The collaboration announcement between Pyth Network and Modenetwork might generate interest within the Ethereum and developer communities, but its broader appeal is limited."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides specific, newsworthy information about the integration of Pyth Price Feeds on Mode, including details on the types of assets covered."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tone is very positive, expressing gratitude and highlighting the benefits of the collaboration for developers on Mode."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The relevance of the tweet will last for days or weeks, especially among developers interested in Ethereum L2 solutions and real-time price feeds."
+}
+}
+},
+{
+"tweet_id": "1732081240226861524",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The excitement around ckETH going live on ICP, enabling integration with the Ethereum network, could spark significant interest within web3 and blockchain communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet informs about a specific development (ckETH on ICP) but lacks detailed explanations or links to authoritative sources."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The user expresses high excitement and optimism about the potential benefits for web3, using emphatic language ('rly excited')."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet's relevance will extend for days to weeks, given the potential for ongoing discussions about ckETH's implications for web3."
+}
+}
+},
+{
+"tweet_id": "1732079496746983557",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Reporting on NFT trading activity, while informative, is unlikely to go viral beyond crypto and NFT enthusiast circles."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides newsworthy information about a recent peak in NFT trading activity on Ethereum, citing a source (@httpsageyd)."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, simply reporting on market activity without expressing a personal sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to the immediate news cycle, likely losing impact after a day or two."
+}
+}
+},
+{
+"tweet_id": "1732078400523604133",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The enthusiastic announcement of a Bitcoin price pump, accompanied by multiple hashtags and emotive language, is likely to generate significant engagement within crypto communities."
+},
+"informative_value": {
+"score": 3,
+"justification": "While the tweet mentions specific price points, it lacks substantial information or analysis, serving more as a rallying cry."
+},
+"sentiment_polarity": {
+"score": 10,
+"justification": "The tone is extremely positive, using highly emotive language ('KAAAAABOOOOOOOM', 'HO HO HO', '😆 🤣') to express excitement and joy."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is extremely short-lived, tied to the immediate market movement mentioned."
+}
+}
+},
+{
+"tweet_id": "1732078132197282070",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The speculative, somewhat provocative statement about ETH's potential rise, while engaging, is mostly relevant to the Ethereum and crypto communities."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet provides a piece of information about Ethereum ETF spot demands but lacks depth or direct sources."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tone is moderately positive, expressing a hopeful outlook for ETH, with a hint of playful provocation towards BTC enthusiasts."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The relevance of the tweet will last for days, particularly within discussions about Ethereum's market movements."
+}
+}
+},
+{
+"tweet_id": "1732077388098683375",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "A technical discussion about DA solutions and Ethereum security, while important, is unlikely to appeal broadly beyond specialized communities."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides in-depth, technical information about the limitations of DA solutions in inheriting Ethereum security, showcasing expertise."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The tone is moderately negative, as the user 'hates to burst peoples' bubble', indicating a corrective or cautionary stance."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The technical insight provided will remain relevant for weeks or even months, especially in discussions about Ethereum and DA solutions."
+}
+}
+},
+{
+"tweet_id": "1732077064243777915",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The announcement of a significant DAI transaction from Ethereum, while notable, is more of a niche interest within crypto and finance communities."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet informs about a specific, sizable transaction but lacks broader context or analysis."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, simply reporting on the transaction without expressing a sentiment."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is short-lived, primarily of interest in the immediate aftermath of the transaction."
+}
+}
+},
+{
+"tweet_id": "1732076695056765230",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The sensational, breaking news-style announcement about Coinbase's CEO and its implications for Bitcoin, Ethereum, and crypto prices is highly engaging and likely to be widely shared."
+},
+"informative_value": {
+"score": 6,
+"justification": "While the tweet hints at significant news, it lacks direct information, serving more as a teaser to drive clicks."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The tone is very positive, implying excitement and potential for growth in crypto prices, though the language is more sensational than substantive."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The relevance of the tweet is somewhat short-lived, highly dependent on the immediate news cycle and market reactions."
+}
+}
+},
+{
+"tweet_id": "1732076371113890142",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The report of a DAI bridging transaction to PulseChain, while of interest to some, is generally niche and unlikely to spark broad engagement."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides specific information about the transaction but lacks broader analysis or context."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, focusing solely on reporting the transaction without emotional tone."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is very short-term, primarily of interest immediately after the transaction."
+}
+}
+},
+{
+"tweet_id": "1732076191408935418",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The announcement of an NFT drop, while engaging for the NFT community, has limited appeal beyond this niche."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet provides basic information about the NFT drop (time, name) but lacks detailed descriptions or direct links to more information."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tone is very positive, using enthusiastic language ('DROP ALERT', 'Freemint') to generate excitement."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The relevance of the tweet is tied to the upcoming event, losing impact shortly after the NFT drop occurs."
+}
+}
+}
+]

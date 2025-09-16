@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1732002613413953584",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Announcement of live order book data for major cryptocurrencies could attract interest within crypto communities, but lacks strong emotional hooks for broader virality."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific information about real-time market data availability, though limited to users of the mentioned platform."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement without emotional language or explicit opinion."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Feature updates typically remain relevant for weeks as users adopt and discuss the new capability."
+      }
+    }
+  },
+  {
+    "tweet_id": "1731997200446562446",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Addresses community concerns about market movements, which could spark discussions within crypto circles."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides analysis of market trends but lacks concrete data or sources to support claims."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Moderately negative tone discussing FUD (Fear, Uncertainty, Doubt) and market underperformance."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to current market cycle, likely to fade with next price movements."
+      }
+    }
+  },
+  {
+    "tweet_id": "1731995566215750020",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Generic greeting with multiple hashtags might engage niche art communities but lacks unique value."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Primarily social interaction with no substantive information beyond an art link."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive emojis and cheerful morning greeting convey moderate positivity."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Time-bound to Tuesday-related hashtags, becoming irrelevant next day."
+      }
+    }
+  },
+  {
+    "tweet_id": "1731977801673134537",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Service announcement with limited appeal beyond existing users, despite hashtag usage."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Shares specific trading outcomes but lacks verifiable data or methodology details."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone celebrating customer profits and using celebratory acronyms (LFG)."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance limited to current trading opportunities and Tuesday hashtag context."
+      }
+    }
+  },
+  {
+    "tweet_id": "1731977097457905767",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Bold price prediction could generate discussion, though common in crypto communities."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Speculative claim without supporting evidence or data sources."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong optimistic language ('mega rally', 'start leading') conveys excitement."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "2024 prediction gives medium-term relevance if community references it."
+      }
+    }
+  },
+  {
+    "tweet_id": "1731975783990931627",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Provocative statement about Bitcoin supremacy could spark debates in crypto communities."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Opinion-based tweet with no factual content or verifiable claims."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Strong negative language dismissing alternative cryptocurrencies ('shitcoin')."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Ongoing Bitcoin maximalism debates give it standard lifespan."
+      }
+    }
+  },
+  {
+    "tweet_id": "1731968474853900558",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "High APR offer could attract DeFi enthusiasts, but similar promotions are common."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Specific details about liquidity pool parameters and fee structure."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral promotional content with factual emphasis on numbers."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to current APR rates which frequently change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1731967680523952597",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "High engagement metrics and clear call-to-action suggest strong sharing potential in crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides actionable information about token distribution process and requirements."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive urgency created by 'distribution starts soon' and reward opportunity."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant through distribution period and until claim deadlines."
+      }
+    }
+  },
+  {
+    "tweet_id": "1731966640890290211",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Technical analysis of L2 solution could interest Ethereum developers but has niche appeal."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Detailed information about blockchain infrastructure development and roadmap."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral technical assessment without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Infrastructure developments typically have multi-month relevance cycles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1731965077543158086",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Multiple breaking news items about major financial institutions could attract widespread sharing."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Contains multiple verifiable news items with market-moving potential from credible sources."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting style without explicit positive/negative framing."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "ETF-related news typically influences markets for weeks during regulatory processes."
+      }
+    }
+  }
+]

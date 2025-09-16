@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1537158104114249729",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The surprising equivalence of Wells Fargo and Ethereum market caps and the humorous 'pick' hook can attract attention within finance and crypto circles, but lacks a broader emotional trigger for global virality."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides factual market cap numbers for both entities, offering a useful comparison, though without deeper analysis."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Tone is playful and slightly optimistic, especially with 'This bear market is a gift' and 'lol you pick', indicating moderate positivity."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The specific market cap figures are time-sensitive; relevance fades as valuations change, giving it a short‑to‑medium lifespan."
+}
+}
+},
+{
+"tweet_id": "1537036424507432960",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "A reflective personal narrative about market cycles may resonate with crypto enthusiasts but lacks a strong hook for widespread sharing."
+},
+"informative_value": {
+"score": 5,
+"justification": "Mentions historical context of DeFi, NFTs, and Ethereum scalability, but primarily offers opinion rather than concrete analysis."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Expresses relief and optimism ('I was fearful then. I’m not now'), showing moderately positive sentiment."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Discussion of 2018 vs 2022 is relevant for a limited period; may be revisited during future market retrospectives but not evergreen."
+}
+}
+},
+{
+"tweet_id": "1536782366932250625",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "A brief bragging statement about purchase price differences may be shared as a meme within crypto circles but lacks broader appeal."
+},
+"informative_value": {
+"score": 3,
+"justification": "Only provides two price points without context or analysis, offering minimal factual information."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "Tone conveys a sense of superiority ('We are not the same'), reflecting moderately negative sentiment."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Price references become outdated quickly, limiting relevance to a short timeframe."
+}
+}
+},
+{
+"tweet_id": "1536614407580569600",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Links crypto market crash to significant carbon emission reductions, a compelling angle for both environmental and crypto audiences, giving high shareability."
+},
+"informative_value": {
+"score": 8,
+"justification": "Presents specific quantitative claims about energy and CO2 reductions and includes a source link, offering high informational content."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Tone is factual and neutral, simply reporting the reduction without strong emotional language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "While tied to the current crash, the broader conversation about crypto energy use is likely to persist for weeks or months."
+}
+}
+},
+{
+"tweet_id": "1536492361420636160",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Highlights a failed high‑profile prediction, a relatable meme for finance and crypto followers, giving moderate viral potential."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides a concrete prediction (40% rise) and actual outcome (56% drop), delivering useful data for market analysis."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Critiques the prediction with a slightly negative tone, indicating moderate negativity."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Serves as an example of inaccurate forecasts and may be referenced in future discussions about market predictions, giving medium‑term relevance."
+}
+}
+}
+]

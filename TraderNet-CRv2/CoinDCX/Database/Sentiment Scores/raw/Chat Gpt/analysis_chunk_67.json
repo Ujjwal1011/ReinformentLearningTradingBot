@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1462527056164577283",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet uses humor to comment on a trend, which can resonate within the crypto community and encourage sharing, but it lacks a broader hook or breaking news that would drive widespread virality."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "The tweet is purely comedic and does not provide any factual or informative content."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet expresses a lighthearted, neutral tone with a laughing emoji, indicating a mild positive sentiment but not strongly emotional."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The tweet's relevance is tied to a short-lived meme trend and is likely to fade within a few days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1462464440738091012",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet presents a clear ranking of active developer counts across major blockchains, which can attract attention from the developer community and spark discussion, but it is not a breaking news event."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet offers a detailed ranking of developer activity, backed by a link to a source, providing credible and informative content."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet presents factual information without expressing strong emotions."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The developer ranking remains relevant for a few weeks to months as the ecosystem evolves, but it will eventually become outdated."
+      }
+    }
+  },
+  {
+    "tweet_id": "1462365131761983494",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet makes a bold claim about Ethereum's scaling trajectory, which can spark debate and sharing among the crypto community."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "The tweet presents a speculative claim about future scaling, providing some insight but lacking concrete evidence or sources."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet expresses optimism about Ethereum's future performance, indicating a moderately positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The tweet's claim about scaling will remain relevant for years as Ethereum continues to develop, making it a medium to long-term topic."
+      }
+    }
+  },
+  {
+    "tweet_id": "1462323649566982147",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet references a meme format that can resonate with crypto enthusiasts and encourage sharing, but it lacks a broader hook."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "The tweet contains only a link and a meme title, providing no factual information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet does not express a strong emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The meme's relevance is likely limited to a short period and may fade quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1462286930356277256",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "The tweet is a personal expression of support for Ethereum, which may resonate with followers but lacks a broader hook for widespread sharing."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "The tweet is a personal sentiment and does not provide factual or educational content."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tweet expresses strong positive sentiment towards Ethereum, indicated by the heart emoji and supportive language."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The tweet's positive sentiment may continue to resonate with followers over time, but it is not tied to a specific event."
+      }
+    }
+  }
+]

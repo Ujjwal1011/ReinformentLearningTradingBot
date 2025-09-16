@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1559926476543246337",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news from a major financial institution about Ethereum's merge could attract significant attention in crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific information about a revenue opportunity tied to a major crypto event, though lacks direct source links."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of a financial analysis without overt emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevance tied to the Ethereum merge timeline, likely discussed for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1559824950164348931",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Memetic format and historical crypto references may resonate within crypto communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Satirical commentary without factual or educational content."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral/sarcastic tone highlighting cyclical narratives."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Tied to current crypto trends, likely fading after initial engagement."
+      }
+    }
+  },
+  {
+    "tweet_id": "1559727104903757826",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Timely advice about a major Ethereum event could drive sharing among enthusiasts."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Offers contextual guidance for the Ethereum merge, though lacks technical depth."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Mildly positive tone emphasizing community preparation."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Advice remains relevant through and shortly after the merge event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1559357892645437440",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Strong stance on Ethereum governance could spark debates in crypto circles."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Expresses personal opinion rather than factual information."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative tone regarding potential censorship risks."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Governance discussions may persist as Ethereum evolves."
+      }
+    }
+  },
+  {
+    "tweet_id": "1559336657463422977",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Comparison content may attract moderate interest but lacks viral hooks."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Presumed educational comparison between Ethereum versions (link-dependent)."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of technical comparison."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevance limited to Ethereum's transition period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1559151590031900672",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Government adoption news has high sharing potential in crypto and geopolitical circles."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Newsworthy announcement of national blockchain infrastructure plans."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual reporting without emotional bias."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Long-term implications for Ethereum's global adoption."
+      }
+    }
+  },
+  {
+    "tweet_id": "1559150231639539714",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Geopolitical crypto adoption news, though slightly reduced reach due to Catalan language."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Clear reporting of municipal blockchain infrastructure plans."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement style."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Same long-term relevance as similar English-language tweet."
+      }
+    }
+  },
+  {
+    "tweet_id": "1558961992336977920",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Comparative crypto content may generate moderate discussion."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Opinion-based comparison without supporting data."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral comparison of asset trajectories."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Ongoing crypto debates maintain medium-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1558959277821362176",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Personal financial decision unlikely to spread beyond niche circles."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No generalizable information beyond individual action."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong positive sentiment about life improvement."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Personal anecdote with fleeting relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1558840556289146884",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Ranking lists often attract engagement in crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides current market cap data, though volatile by nature."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of market data."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Market rankings change frequently, limiting long-term relevance."
+      }
+    }
+  }
+]

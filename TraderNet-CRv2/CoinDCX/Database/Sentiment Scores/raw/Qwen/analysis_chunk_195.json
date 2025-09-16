@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1732170225003475225",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet promotes a crypto project with emojis and mentions several relevant hashtags, which could attract attention within the crypto community but may not go viral beyond that."
+},
+"informative_value": {
+"score": 5,
+"justification": "It provides information about a new project but lacks detailed content, making it somewhat informative."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The use of enthusiastic language and emojis indicates a very positive sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet is relevant for a short period, tied to the specific project launch."
+}
+}
+},
+{
+"tweet_id": "1732170198814228864",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet is in Turkish and provides trading signals, which may not reach a broad audience beyond Turkish-speaking traders."
+},
+"informative_value": {
+"score": 6,
+"justification": "It offers trading analysis, which is useful for crypto traders."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The sentiment is neutral, as it's a factual trading update."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The information is relevant for a short period, tied to specific trading conditions."
+}
+}
+},
+{
+"tweet_id": "1732169178398834731",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Promotional content about Aurora, which is informative and could be shared within the crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides detailed information about Aurora's features and benefits."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment with enthusiastic language about the blockchain solution."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The information is relevant for a medium period, as it's about ongoing blockchain developments."
+}
+}
+},
+{
+"tweet_id": "1732169055321182363",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "From a known crypto influencer, the tweet could be shared within their community but may not go viral widely."
+},
+"informative_value": {
+"score": 5,
+"justification": "Contains predictions but lacks detailed analysis."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Expresses hope and excitement, indicating a very positive sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant until the mentioned events occur, which is a short period."
+}
+}
+},
+{
+"tweet_id": "1732168628559106421",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Predicts crypto growth and mentions Ethereum, which could attract attention within the crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides insights into Ethereum scaling and L2 solutions."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment with confidence in future trends."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for a medium period as it discusses future developments."
+}
+}
+},
+{
+"tweet_id": "1732168570652463499",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Specific instructions about switching networks, which may not be widely shared."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides a guide for users, which is useful."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment as it's a factual guide."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant for a short period, tied to a specific feature."
+}
+}
+},
+{
+"tweet_id": "1732167759960707298",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Critical opinion about Ethereum, which may be shared within the crypto community but not widely."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides an opinion on Ethereum's market situation."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "Negative sentiment with criticism."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant for a short period, tied to current market conditions."
+}
+}
+},
+{
+"tweet_id": "1732167747537383568",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Personal opinion about Ethereum and Bitcoin, which may be shared within the crypto community."
+},
+"informative_value": {
+"score": 6,
+"justification": "Shares the user's belief and opinions about crypto ecosystems."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Mixed sentiment with some disappointment but still positive belief."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant for a short period, tied to current crypto discussions."
+}
+}
+},
+{
+"tweet_id": "1732165640541351999",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "In Vietnamese, discussing Layer 2 and Ethereum, which may attract a niche audience."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides information about crypto trends in Vietnamese."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment as it's a factual discussion."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant for a short period, tied to current events."
+}
+}
+},
+{
+"tweet_id": "1732165276576133402",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Technical discussion about Nakamoto Coefficient, which may be shared within crypto enthusiasts."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides detailed technical information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment as it's a factual discussion."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for a medium period as it's a technical topic with lasting interest."
+}
+}
+}
+]

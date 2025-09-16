@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1732302743748919701",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet has a clear call-to-action (dropping Ethereum ERC20 wallet) and incentivizes engagement (sending $DINO to random followers), making it likely to generate buzz within the crypto community."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet provides minimal information, primarily serving as a promotional giveaway rather than an informative post."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tone is positive and encouraging, with the user offering a giveaway, indicating a strong positive sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to the duration of the giveaway, likely remaining relevant for a short period (hours to a day)."
+}
+}
+},
+{
+"tweet_id": "1732298798968529307",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet discusses a specific development ($STRK bridging from Ethereum to Starknet) but lacks a broad, viral hook, limiting its sharing potential mostly to interested communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides detailed, newsworthy information about $STRK's bridging, including a specific update on Github, making it a valuable resource for those interested."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tone is moderately positive, indicating excitement or interest in the development, but not overwhelmingly so."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Remains relevant for days or weeks, as the bridging of $STRK is a significant development that will generate discussion over a period."
+}
+}
+},
+{
+"tweet_id": "1732270781491728791",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Standard content discussing Epic Games Store on Ethereum, lacking a strong viral element but might generate interest within gaming and crypto communities."
+},
+"informative_value": {
+"score": 7,
+"justification": "Offers useful information about the integration of Ethereum technology into Epic Games Store, providing insights for those interested in gaming and blockchain intersection."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, as the tweet primarily informs without expressing a clear emotional tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for days to weeks, as the topic of gaming on blockchain platforms is of ongoing interest but not immediately time-sensitive."
+}
+}
+},
+{
+"tweet_id": "1732256818364354578",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Discussion about the future of Ordinals and BRC-20 on Bitcoin, involving notable figures, could generate significant interest within the crypto community."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides high-value, newsworthy information from key figures in the Bitcoin development community, making it highly informative for followers."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Moderately negative, as the implications for Ordinals and BRC-20 are potentially disruptive or negative for their users and developers."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Remains relevant for months, given the significant implications for Bitcoin's ecosystem and the development of Ordinals and BRC-20."
+}
+}
+},
+{
+"tweet_id": "1732256299641950398",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "A tutorial on creating AI art, while potentially interesting, lacks a broad viral appeal, limiting its sharing mostly to art and tech enthusiasts."
+},
+"informative_value": {
+"score": 8,
+"justification": "Step-by-step guide on creating AI art using specific tools, providing valuable information for those interested in digital art creation."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Moderately positive, as the user shares their creative process, indicating a positive, sharing tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for days to weeks, as the tutorial's usefulness will endure, but its novelty may wear off as new content emerges."
+}
+}
+},
+{
+"tweet_id": "1732255842395951458",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Standard update on SEC decisions regarding Ethereum ETF Spot funds, lacking a strong viral element but of interest to the crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides specific, timely information about upcoming SEC decisions, valuable for those following Ethereum ETF developments."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, as the tweet is informative without expressing a clear emotional tone."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevant until the SEC decisions are made, then its impact diminishes, making it a time-sensitive piece of information."
+}
+}
+},
+{
+"tweet_id": "1732251780807827599",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Discussion about a better modular play without a token, secured by Ethereum validators, might interest the crypto and DeFi communities, but lacks broad appeal."
+},
+"informative_value": {
+"score": 7,
+"justification": "Raises an interesting question about the architecture of blockchain solutions, providing some insight, though the depth is somewhat limited."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, as the tweet poses a question without expressing a clear emotional tone, inviting discussion."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for days to weeks, as the discussion it sparks will have a moderate lifespan within the community."
+}
+}
+},
+{
+"tweet_id": "1732247535476150496",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Similar to other SEC update tweets, it lacks a strong viral hook but is of interest to those following Ethereum ETF Spot fund developments."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides timely, specific information about SEC decisions on Ethereum ETFs, though the information is not uniquely detailed."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, as the focus is on informing rather than expressing emotion."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevant until the SEC decisions are made, after which its impact will significantly decrease."
+}
+}
+},
+{
+"tweet_id": "1732238865405297085",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The significant transaction of nearly $90 million USD in Ethereum to Kraken could generate substantial interest within the crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides newsworthy, specific information about a large Ethereum transaction, valuable for market watchers and crypto enthusiasts."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, as the tweet reports on a transaction without expressing a clear emotional tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for days to weeks, as the implications of such a large transaction will be discussed within the community for a period."
+}
+}
+},
+{
+"tweet_id": "1732232835304673405",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "A general discussion about Ethereum's price dynamics and its relation to Bitcoin lacks a strong viral element, appealing mainly to crypto enthusiasts."
+},
+"informative_value": {
+"score": 6,
+"justification": "Offers some insight into the market dynamics between Ethereum and Bitcoin, though the information is not particularly unique or in-depth."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, as the tweet discusses market dynamics without expressing a clear emotional tone."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevant for a short period, as market analysis is highly time-sensitive and quickly overshadowed by new developments."
+}
+}
+}
+]

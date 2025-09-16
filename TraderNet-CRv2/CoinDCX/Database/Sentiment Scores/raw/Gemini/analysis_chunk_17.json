@@ -1,0 +1,1052 @@
+[
+  {
+    "tweet_id": "1514092732041420803",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "From Vitalik Buterin, a highly influential figure in the Ethereum community, this open-ended question invites significant discussion and engagement among developers and enthusiasts, giving it high virality within that sphere."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "While a question, it implicitly highlights areas of Ethereum protocol design needing clarification, prompting discussion and potential future informative content rather than directly providing facts."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet poses a neutral, open-ended question without expressing strong positive or negative emotion."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Discussions around core protocol design, especially when initiated by a founder, can have a medium-to-long-term impact as they relate to ongoing development and understanding."
+      }
+    }
+  },
+  {
+    "tweet_id": "1514027144250232832",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Featuring highly influential figures (Naval, Vitalik) and a foundational 'Introduction to Ethereum' makes this highly shareable, especially for those new to or wanting to understand the basics."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Announces an in-depth educational talk from key figures, providing a comprehensive introduction to Ethereum fundamentals, accessible via a link to the full content."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The tone is informative and aims to provide valuable educational content, leaning moderately positive due to the nature of sharing useful knowledge."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "Content focusing on 'basics and the timeless' aspects of Ethereum protocol will remain relevant and be referenced for years, acting as a foundational resource."
+      }
+    }
+  },
+  {
+    "tweet_id": "1513999002982830087",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The 'JUST IN' format combined with news of a large pre-listing crypto purchase suggests potential insider trading, which is highly sensational and generates significant discussion and sharing within the crypto community."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Delivers a specific, newsworthy financial event (large crypto purchase before a listing announcement), which is highly relevant information for crypto investors and enthusiasts."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet presents factual news in a neutral, objective manner, without explicit emotional language, despite the potentially controversial nature of the event described."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "This specific piece of news is tied to a particular event and market speculation, making its relevance short-lived, likely fading within a day or two unless further developments unfold."
+      }
+    }
+  },
+  {
+    "tweet_id": "1513591400343953420",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Provides a valuable educational roadmap for Ethereum blockchain development, a popular and in-demand skill, making it highly shareable within developer communities. The implied thread format (↓↓↓) also boosts engagement."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Explicitly offers an educational roadmap with 'best resources' for learning Ethereum blockchain development, providing in-depth, actionable information for a specific audience."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The tone is helpful and encouraging, offering guidance and resources to those interested in blockchain development, indicating a moderately positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "An educational roadmap for blockchain development on Ethereum covers fundamental skills that remain relevant for an extended period, making it a valuable resource for months or years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1513447176344588295",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Announces a 'historical event' – the first mainnet shadow fork for Ethereum's PoS transition, providing live tracking. This generates significant excitement and sharing within the crypto and developer communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Delivers crucial, real-time technical updates about Ethereum's transition to PoS, including specifics like the 'first mainnet shadow fork' and live tracking links, making it highly informative for those following the development."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The language 'historical event' and 'Huge props!' conveys strong excitement and positive anticipation for a significant technical milestone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "While the live tracking aspect is very short-term, the announcement marks a significant milestone in Ethereum's PoS transition ('The Merge'), making its impact on the overall narrative relevant for weeks to months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1513423605400580099",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "A speculative price prediction from a well-known crypto influencer about a major asset (Ethereum) reaching a significant milestone ($10,000) is highly engaging and prompts wide discussion within the crypto community."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "This tweet is a purely speculative question about future price, offering no factual or verifiable information."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The question is posed neutrally, but it implicitly carries an optimistic undertone regarding Ethereum's future price performance."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Price predictions tied to a specific timeframe ('end of the year') will remain relevant for several months, generating ongoing discussion and re-evaluation until the period concludes."
+      }
+    }
+  },
+  {
+    "tweet_id": "1513166217573507073",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Coming from a renowned on-chain investigator (ZachXBT) and highlighting potential repeated profiteering from controversial crypto projects, this tweet is highly virality-prone within the crypto community, triggering strong reactions and widespread sharing."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "While framed as a question, the tweet provides concrete allegations of repeated, large-scale profiteering from controversial crypto projects, offering crucial (though accusatory) information for community awareness."
+      },
+      "sentiment_polarity": {
+        "score": 1,
+        "justification": "The tweet expresses strong negative sentiment, implicitly criticizing 'Floyd' for repeated questionable actions and suggesting they do not deserve another chance, which hints at disgust or condemnation."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Allegations of repeated financial misconduct, especially from a reputable investigator, tend to have a long-term impact on the reputation of the involved parties and serve as a persistent warning within the community."
+      }
+    }
+  },
+  {
+    "tweet_id": "1513073045476454405",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Announces a countdown to 'The Merge,' a highly anticipated, significant event for Ethereum, generating excitement and shares within the crypto community, especially from an influencer."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides a specific, time-sensitive update (78 days away) on a critical upcoming event for Ethereum, the transition to Proof of Stake."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The use of multiple exclamation marks conveys strong excitement and enthusiasm for the approaching Ethereum merge."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "While the overall 'Merge' topic has long-term relevance, the specific '78 days away' countdown makes the tweet's impact very short-term, becoming less relevant with each passing day."
+      }
+    }
+  },
+  {
+    "tweet_id": "1513049461320298499",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The 'FUN FACT' framing and direct comparison of Ethereum's transaction volume to a global giant like Visa make this a surprising and highly shareable statistic, appealing to a broad audience interested in crypto adoption and performance."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Offers a very specific and compelling comparative statistic about Ethereum's transaction processing volume relative to Visa in 2021, providing significant factual insight into its scale and adoption."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Presents a 'FUN FACT' that highlights Ethereum's impressive transaction volume compared to Visa, indicating a strong positive view of Ethereum's performance and growth."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "While tied to a specific year, this comparative statistic provides a significant historical benchmark for Ethereum's performance, remaining relevant as a point of reference for many months, potentially years, even as new data emerges."
+      }
+    }
+  },
+  {
+    "tweet_id": "1512983745988419588",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Appeals directly to a popular interest ('on-chain detective') and promises to teach valuable, practical skills ('analyze an Ethereum address from scratch'), making it highly shareable within the crypto and blockchain learning communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Clearly states its purpose is to teach a practical and in-demand skill ('analyze an Ethereum address from scratch'), promising high-value, step-by-step educational content."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tone is highly positive and generous, focused on empowering others by sharing valuable personal knowledge and teaching practical skills."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The skill of analyzing an Ethereum address is fundamental in the blockchain space; hence, this educational content will remain highly relevant and useful for years to come."
+      }
+    }
+  },
+  {
+    "tweet_id": "1512958772326633478",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The 'FUN FACT' format and the surprising claim that Dogecoin has more holders than Bitcoin and Ethereum in the US is highly attention-grabbing and likely to spark debate and sharing across various crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides a distinct, comparative data point regarding cryptocurrency holder distribution, which, if verifiable, offers significant insight into adoption trends."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Presents a 'FUN FACT' which, while potentially surprising, is delivered in a neutral, informative tone, with the underlying implication being somewhat positive for Dogecoin."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "This specific comparative statistic, while interesting, will remain relevant as a historical data point for some months but will eventually be updated or superseded by newer market data."
+      }
+    }
+  },
+  {
+    "tweet_id": "1512755808869695489",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "A thought-provoking, philosophical statement about blockchain fundamentals can resonate deeply within intellectual and technical crypto communities, leading to focused sharing and discussion, though not necessarily mass virality."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Offers a conceptual insight into a fundamental principle of blockchain technology, clarifying the nuanced difference between 'trustless-ness' and 'trust minimization,' which is valuable for understanding."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet presents a conceptual argument in a purely analytical and neutral tone, devoid of strong emotional expression."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "This tweet addresses a fundamental philosophical concept regarding blockchain design ('trust minimization'), which is an evergreen topic that will remain relevant for as long as blockchain technology exists."
+      }
+    }
+  },
+  {
+    "tweet_id": "1512739346515963907",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Combines an aggressive price prediction ($10K for ETH) with the highly anticipated 'Ethereum 2.0' event and directly challenges 'haters,' creating a polarizing, highly shareable, and engaging tweet within the crypto community."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "While it confirms the upcoming 'Ethereum 2.0' (The Merge), a factual event, the majority of the tweet is speculative price prediction and emotional rhetoric, reducing its purely informative score."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "The language 'send ETH to 10K' and 'sorry haters, but it is happening!' expresses very strong positive conviction, excitement, and defiance."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The tweet's core message about 'Ethereum 2.0' has long-term relevance, and the aggressive price prediction tied to it will sustain discussion and re-evaluation for months until the event and its market impact unfold."
+      }
+    }
+  },
+  {
+    "tweet_id": "1512645810336546819",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The mention of 'ETHEREUM 2.0' (The Merge) is inherently interesting to the crypto community, and the accompanying link likely provides context or visuals that can drive moderate sharing."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "The tweet itself offers minimal information, simply stating 'ETHEREUM 2.0,' with its informative value entirely dependent on the unexamined linked content."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet consists of a neutral factual statement and a link, lacking any explicit emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "While the subject of 'ETHEREUM 2.0' has long-term significance, the tweet's brevity means its individual impact will be limited to days or weeks, despite referencing an enduring topic."
+      }
+    }
+  },
+  {
+    "tweet_id": "1512076569631633411",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "The highly emotional and confrontational narrative, detailing an adverse interaction with the SEC and accusing them of being 'Evil, despicable monsters,' is extremely likely to go viral, particularly within the crypto community hostile to regulatory overreach."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Offers a first-hand account of a significant, and seemingly hostile, interaction with the SEC, providing important contextual information about regulatory challenges faced by crypto projects."
+      },
+      "sentiment_polarity": {
+        "score": 0,
+        "justification": "The language 'laughed in our faces' and 'Evil, despicable monsters' expresses intense anger, despair, and disgust, representing an extremely negative sentiment."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The tweet's account of a contentious interaction with the SEC contributes to the ongoing, long-term narrative surrounding crypto regulation and perceived government hostility, ensuring its relevance for many months or years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1511896028730957825",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Concise summary of the highly anticipated Ethereum Merge with key, positive impacts (energy reduction, deflationary ETH, increased APY) and ending with a viral, bold statement ('You don't own enough ETH.'), makes it extremely shareable across diverse crypto audiences."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Delivers a concise, bullet-point summary of the major changes and significant benefits of 'The Merge,' offering highly valuable and easily digestible factual information about this critical network upgrade."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "The tweet lists numerous strong benefits of The Merge (e.g., '99.98% energy use reduction,' 'ETH becomes net deflationary') and concludes with an enthusiastic, bullish statement, indicating very strong positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "The summary of 'The Merge's' fundamental changes (e.g., energy reduction, deflationary ETH) will have a lasting impact and can serve as a reference point for years, making its relevance exceptionally long-term."
+      }
+    }
+  },
+  {
+    "tweet_id": "1511424635690270727",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "From a controversial influencer, the tweet taps into a widely felt pain point (#Ethereum fees!) with an emotional plea, making it highly shareable among those frustrated by fees and his dedicated followers, especially if the link offers a solution."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "While it highlights a known issue (high Ethereum fees), the tweet itself offers minimal new information, relying entirely on the external link for any substantive content or proposed solutions."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "The phrase 'please save us from #Ethereum fees!' clearly expresses frustration and a moderately negative sentiment regarding the high cost of transactions."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The issue of high Ethereum fees is a persistent and long-standing concern in the crypto community, ensuring that this tweet will remain relevant for weeks or months as long as the problem persists."
+      }
+    }
+  },
+  {
+    "tweet_id": "1511390560095019008",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "This tweet is highly relatable and humorous for anyone in the crypto space, touching on the shared experience of explaining crypto to traditional finance professionals and the associated tax/regulatory anxieties, making it highly shareable for its comedic relief."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "The tweet is a personal, humorous anecdote and provides no factual or educational information about Ethereum or financial matters."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "While primarily humorous, the tweet carries an undertone of anxiety and mild despair about the complexities of crypto regulation and taxation, humorously expressed through 'I’ll see y’all in jail.'"
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "This type of relatable, evergreen crypto humor about regulatory and tax complexities will remain relevant and frequently resurface for months or even years, as long as these issues persist."
+      }
+    }
+  },
+  {
+    "tweet_id": "1511267400708243464",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Features a credible source ('Microsoft’s Blockchain Director') discussing a highly relevant and forward-looking topic ('Ethereum’s future'), making it appealing and shareable among both enterprise tech and crypto communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Announces an interview with 'Microsoft’s Blockchain Director' discussing 'Ethereum’s future,' promising authoritative, in-depth insights from a key industry expert, accessible via the provided link."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The tweet has a neutral, informative tone, announcing an expert discussion on a generally positive and forward-looking topic ('Ethereum’s future')."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Insights from a major enterprise's Blockchain Director on 'Ethereum’s future' address strategic and evolving trends, making the content relevant for a long period, potentially months or years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1511010206020509703",
+    "analysis": {
+      "virality_potential": {
+        "score": 10,
+        "justification": "The 'BREAKING' tag combined with the sensational and unexpected claim of a major government (UK) buying Ethereum creates explosive virality potential, driving massive sharing and debate across global crypto and financial news communities (even if unverified)."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "While making a highly significant 'BREAKING' claim, the tweet provides no verifiable source or details for such an extraordinary event, significantly reducing its credible informative value without external corroboration."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "The use of 'BREAKING,' emojis (🇬🇧🚀), and the implication of major government adoption expresses very strong excitement and extremely positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The claim is for a potentially historic event, which would have extremely long-term impact. However, without immediate verification, its individual impact as a tweet is likely to be a short-lived burst of speculation or rapid debunking."
+      }
+    }
+  },
+  {
+    "tweet_id": "1510731366782017541",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "A bold and confident price prediction for Ethereum ($10K) from an influencer is highly engaging and shareable, as it resonates with investor sentiment and sparks debate within the crypto community."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "This tweet is a direct price prediction, offering no factual data, analysis, or verifiable information."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The statement 'Ethereum is going to 10k' expresses a very strong and optimistic bullish sentiment."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "A confident price prediction for a major asset will remain a topic of discussion and anticipation for several months, until the market trajectory clarifies or the prediction is achieved/invalidated."
+      }
+    }
+  },
+  {
+    "tweet_id": "1510442459125321730",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "A bold, polarizing statement directly comparing Bitcoin and Ethereum from a prominent Bitcoin maximalist is designed to ignite fierce debate and is highly shareable within both Bitcoin and Ethereum communities."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "This tweet expresses a strong opinion about the competitive positioning of Bitcoin and Ethereum rather than providing verifiable factual information or data."
+      },
+      "sentiment_polarity": {
+        "score": 1,
+        "justification": "The tweet expresses a very negative sentiment towards Ethereum by diminishing its unique value ('1000 competitors') while exalting Bitcoin, serving as a strong criticism of Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "The core debate between Bitcoin and Ethereum's unique value propositions and competitive landscapes is an evergreen, foundational topic in the crypto space, ensuring this statement's relevance for many years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1510388233842016256",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The mention of globally recognized brands (Marvel, DC Comics) integrating with L2 Ethereum, combined with the ironic 'Probably nothing' meme, creates a highly shareable and exciting piece of news within both crypto and fan communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "This tweet provides concrete, newsworthy information about major global entertainment brands (Marvel, DC Comics) utilizing L2 Ethereum, signaling significant institutional adoption within the blockchain space."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tweet conveys very strong positive sentiment through the announcement of major brands using L2 Ethereum and the ironic, enthusiastic phrase 'Probably nothing.'"
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The involvement of major brands like Marvel and DC Comics with L2 Ethereum represents a significant milestone in mainstream blockchain adoption, ensuring its relevance as a key event for many months, if not years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1510320540145364996",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "The 'JUST IN' format, combined with the dramatic news of a major Ethereum whale ('Tsunade') making a significant purchase of a popular meme coin (Shiba Inu) for $2.3M, has extremely high virality potential within the crypto trading and meme coin communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Delivers precise, time-sensitive information about a substantial transaction by a known 'whale' involving a popular meme coin, offering valuable real-time market insight."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "While presented factually, the news of a major whale acquiring a large amount of a popular altcoin generally carries a moderately positive implication for the market and the altcoin in question."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "News about specific whale transactions, while initially exciting, tends to have a short-term impact, fading in relevance within a few days as market conditions and new transactions emerge."
+      }
+    }
+  },
+  {
+    "tweet_id": "1510309122461163525",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "A bold personal declaration of selling Ethereum for Bitcoin, coupled with an ideological stance ('Proof of work is the future'), directly fuels the intense Bitcoin vs. Ethereum debate, making it highly polarizing and virally shareable."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "The tweet conveys a personal investment decision and an ideological stance on blockchain consensus mechanisms, which, while interesting to some, does not present verifiable factual information or data."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "The tweet expresses a strong negative sentiment towards Ethereum and its Proof-of-Stake transition by announcing a complete sell-off in favor of Bitcoin, explicitly stating 'Proof of work is the future.'"
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "This tweet contributes directly to the fundamental and ongoing 'Proof of Work vs. Proof of Stake' debate, a core ideological discussion in crypto that will remain relevant for many years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1510292791254937602",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Delivers a highly relatable and empowering message that resonates with many in the crypto space (especially newcomers) about not being 'too late,' using compelling historical examples to reinforce its optimistic, viral appeal."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Primarily inspirational, with anecdotal historical references, rather than hard facts or data."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The message 'Don't let anybody tell you you're too late in this space' is extremely encouraging and optimistic, combating self-doubt with a very positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "The underlying message—that it's never too late to participate in a growing market—is a timeless piece of advice that will remain relevant as long as new opportunities in crypto and beyond continue to emerge."
+      }
+    }
+  },
+  {
+    "tweet_id": "1509994442014474243",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Reporting real-world crypto ads in a major city like Miami, especially with accompanying visuals (implied by link), makes the mainstream adoption tangible and highly shareable, further amplified by coming from an influencer."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Offers verifiable observational information about tangible crypto advertisements in a public space, providing anecdotal evidence of increasing mainstream visibility for the industry."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The observation of crypto advertisements in a public space generally suggests increasing mainstream adoption and awareness, which carries a moderately positive sentiment for the industry."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "While specific ad campaigns are transient, the observation of crypto ads contributes to the ongoing narrative of increasing mainstream adoption and visibility, maintaining relevance for weeks to months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1509919431652261893",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Coming from an individual often associated with Bitcoin, this bold declaration of selling all Bitcoin for Ethereum and endorsing Proof of Stake is highly provocative and directly challenges prevailing narratives, making it extremely virality-prone and sparking intense debate."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "The tweet conveys a personal investment decision and a strong ideological stance on blockchain consensus mechanisms, which, while interesting to some, does not present verifiable factual information or data."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The statement 'Proof of stake is the future' and the action of selling Bitcoin for Ethereum express a very strong, optimistic, and bullish sentiment towards Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "This tweet contributes directly to the fundamental and ongoing 'Proof of Work vs. Proof of Stake' debate, a core ideological discussion in crypto that will remain relevant for many years, especially when voiced by an influential figure."
+      }
+    }
+  },
+  {
+    "tweet_id": "1509898040693436420",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "From a highly influential figure in DeFi (Uniswap founder), this tweet explains a core concept (private keys) and uses it to make a strong, philosophical argument against banning self-hosted wallets, which resonates deeply and is highly shareable within the crypto community advocating for self-custody."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides clear, foundational education on a core technical concept (private keys) and a strong conceptual argument against regulation, offering high educational and conceptual value."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "While the explanation of private keys is neutral, the core message contains a strong, moderately negative sentiment by critically challenging the idea of banning self-hosted wallets as an illogical infringement."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "This tweet addresses the fundamental concept of private keys and the enduring debate around self-custody and regulation, ensuring its relevance as a foundational discussion point for many years to come."
+      }
+    }
+  },
+  {
+    "tweet_id": "1509870705256456196",
+    "analysis": {
+      "virality_potential": {
+        "score": 10,
+        "justification": "The 'BREAKING' tag combined with the utterly sensational, landscape-altering (and likely April Fool's) claim that 'Solana to shut down its consensus layer and settle on Ethereum' creates explosive, immediate virality through shock and humor."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "While framed as 'BREAKING' news, the tweet's date (April 1st) strongly suggests it's an April Fool's joke, rendering its literal content factually uninformative. It only informs about playful deception."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "As an April Fool's joke, the sentiment is primarily humorous and playful, but with an underlying moderate positive bias towards Ethereum implied by its 'victory' over Solana in the fabricated scenario."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "As an April Fool's joke, its relevance is extremely fleeting, lasting only for a few hours to a day before becoming irrelevant."
+      }
+    }
+  },
+  {
+    "tweet_id": "1531771109602799617",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "From Vitalik Buterin, this tweet provides critical technical best-practice advice for dapp developers, making it highly shareable and valuable within that specialized community."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Delivers highly specific, actionable, and crucial technical advice for dapp developers regarding testing and adherence to Ethereum standards, offering significant educational value."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet provides neutral, instructive technical advice, devoid of strong emotional expressions."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "The advice on adhering to Ethereum standards and testing practices for dapps addresses fundamental development principles that will remain relevant for many years as the ecosystem evolves."
+      }
+    }
+  },
+  {
+    "tweet_id": "1531606091599159297",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "The 'BREAKING' tag and the announcement of a specific date (June 8) for the highly anticipated #Ethereum Merge create extremely high virality potential due to the significance and time-critical nature of the news for the entire crypto ecosystem."
+      },
+      "informative_value": {
+        "score": 10,
+        "justification": "Delivers critical, precise, and highly newsworthy factual information regarding the exact schedule of the major Ethereum Merge, making it extremely valuable and verifiable."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The 'BREAKING' announcement of a specific date for the highly anticipated Ethereum Merge evokes strong excitement and very positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "While the Merge itself has long-term implications, the announcement of a specific date creates an immediate but short-lived news cycle, with the relevance of the date itself fading rapidly after the event occurs."
+      }
+    }
+  },
+  {
+    "tweet_id": "1531369111938138112",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "An official 'Ropsten Merge Announcement' from a core Ethereum developer, describing it as 'the first dress rehearsal' for the mainnet Merge, provides critical, technical news that is highly shareable within the developer and enthusiast communities."
+      },
+      "informative_value": {
+        "score": 10,
+        "justification": "This tweet provides highly specific, critical, and verifiable information about a major testnet event for Ethereum (Ropsten Merge), including dates and technical context, directly from a primary source (core developer), along with an official link."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The announcement of a 'dress rehearsal' for the Merge and the use of celebratory emojis and enthusiastic language convey very strong positive sentiment and excitement for this significant technical milestone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "While a critical milestone for 'The Merge,' the Ropsten testnet event's direct news impact is medium-term, remaining relevant for weeks as the test unfolds, but less so after its completion."
+      }
+    }
+  },
+  {
+    "tweet_id": "1531234031492550656",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Poses a highly relevant, speculative question about market bottoms during a crypto cycle, citing a 'Veteran Analyst' and major assets, which drives significant interest and sharing among investors."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Informs users about an expert's analysis on a critical market question regarding Bitcoin and Altcoin bottoms, providing access to in-depth insights via the linked article."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet poses an analytical question about market trends and presents information neutrally, without expressing strong positive or negative emotions."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Analysis of market cycles and potential bottoms remains highly relevant for several months during periods of market uncertainty, as investors continually seek insights into future trends."
+      }
+    }
+  },
+  {
+    "tweet_id": "1531157443157315584",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The 'JUST IN' announcement of a substantial $4 million donation from #Ethereum founder Vitalik Buterin to a university generates high virality, appealing to both crypto enthusiasts and general audiences interested in philanthropy and mainstream crypto impact."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Delivers highly specific, quantifiable, and newsworthy factual information about a significant philanthropic act by a major crypto figure, including the amount, recipient, and currency."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "A large philanthropic donation from a prominent figure generates very strong positive sentiment, reflecting admiration and appreciation for the act."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "A major philanthropic donation from a prominent figure creates a long-term impact, influencing the recipient institution and contributing to the public perception of the donor and the crypto industry for many years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1530964042088689665",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The 'JUST IN' announcement of a live #Cardano-#Ethereum USDC bridge signifies a major interoperability milestone between two large blockchain ecosystems, creating high excitement and virality among DeFi and cross-chain enthusiasts."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Delivers highly specific, verifiable, and critical factual information about the live launch of a #Cardano-#Ethereum USDC bridge, marking a significant advancement in cross-chain interoperability."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The announcement of a live cross-chain bridge between Cardano and Ethereum signifies enhanced interoperability, which is a very positive development for the broader crypto ecosystem."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The launch of a significant #Cardano-#Ethereum bridge creates new, lasting interoperability capabilities that will influence both ecosystems for months, if not years, beyond the initial news cycle."
+      }
+    }
+  },
+  {
+    "tweet_id": "1530916210161893376",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The 'JUST IN' announcement of a significant on-chain metric—over 50% of Ethereum held for over a year—is highly appealing to investors and analysts, signaling strong conviction and contributing to high virality."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Delivers highly specific, quantifiable, and critical on-chain data indicating that over 50% of Ethereum has been held for more than a year, offering valuable insight into investor conviction and market dynamics."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The statistic indicating that over 50% of Ethereum has been held for over a year suggests strong investor conviction and often signals a bullish outlook, thus conveying a moderately positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "While on-chain metrics evolve, a significant milestone like 'over 50% held for over a year' provides a durable benchmark for assessing long-term investor conviction, maintaining relevance for many months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1530763367282921472",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "News of 'Blue-Chip #NFT' values (BoredApe, CryptoPunks) dropping 'Over 50%' is highly attention-grabbing during a market downturn, generating significant discussion and virality fueled by concern, fear, or schadenfreude."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Delivers specific, quantifiable, and timely market data regarding a significant decline ('Over 50% drop') in 'Blue-Chip #NFT' floor values, providing important financial news, especially for investors."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "The phrases 'Values Wobble' and 'Dropped Over 50%' clearly indicate strong negative sentiment regarding the performance of high-value NFTs."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Market performance reports, particularly about significant declines in asset values, are relevant for a few days to a week, but their direct impact fades as market conditions constantly change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1530619053202710530",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet's virality relies entirely on the significant prominence of 'Vitalik Buterin' and the (unseen) content of the linked media, which, if visually striking or interesting, could achieve moderate sharing."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet merely states a widely known fact about Vitalik Buterin. Its minimal direct informative value depends entirely on the content of the external link, which is not provided."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is a simple, factual statement of identification, carrying a neutral emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "This minimalist tweet about Vitalik Buterin, lacking specific context or substantial information, will have a neutral, standard lifespan for a tweet and is unlikely to be referenced long-term on its own."
+      }
+    }
+  },
+  {
+    "tweet_id": "1530573651447275520",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The 'FUN FACT' framing and the direct, surprising comparison of Ethereum's market cap to a major traditional bank (Wells Fargo) make this tweet highly shareable as it highlights crypto's significant growth and prompts discussion across financial communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Offers a very specific and compelling comparative statistic about Ethereum's market capitalization against a major financial institution, providing significant factual insight into its economic scale and market penetration."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Presents a 'FUN FACT' that highlights Ethereum's impressive market capitalization compared to a major bank, indicating a strong positive view of Ethereum's economic prominence."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "This comparative market capitalization statistic provides a significant benchmark for assessing Ethereum's economic standing against traditional finance, maintaining its relevance for many months as a point of reference in ongoing market discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1530533720033316865",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "This tweet combines specific, actionable investment information (32 $ETH for validation) with a highly aspirational and universally appealing message of financial freedom ('quit your 9-to-5 office job,' 'Free yourself!'), making it extremely shareable among those seeking passive income and autonomy."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Offers a concrete, verifiable piece of information (32 $ETH required for validation) but heavily intertwines it with speculative and aspirational claims about financial independence, reducing its purely factual informative score."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "The tweet expresses very strong positive sentiment, promising financial liberation and an escape from traditional employment through Ethereum 2.0 validation, aiming to highly motivate its audience."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "The core information about the 32 $ETH requirement for Ethereum 2.0 validation is a fundamental and long-lasting protocol parameter, combined with an evergreen aspirational message of financial freedom, ensuring its relevance for many years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1530392300052185094",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Highlights key market trends across diverse assets (stocks, Bitcoin, gold) and addresses the highly debated topic of 'Bitcoin’s Decoupling,' appealing to a broad investor audience interested in macro-economic and crypto-specific analysis."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Summarizes current market conditions and a significant discussion point ('Bitcoin’s Decoupling') from analysts, providing concise, newsworthy information and a link to deeper expert analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet presents market observations and analyst discussions in a factual and neutral tone, without expressing strong emotional sentiment."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Discussions around market decoupling and inter-asset correlations are relevant for several weeks or months, particularly during evolving market conditions, making this analysis remain topical for a sustained period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1530059058539274240",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The use of dramatic, fear-inducing language like '#Crypto Winter On #Horizon' and 'The Great Capitulation Dump Of 2022!' makes this market prediction highly sensational and virally shareable, especially during volatile market conditions."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Presents a significant, albeit speculative, market prediction and sentiment ('#Crypto Winter,' 'Capitulation Dump'), with a link to more detailed analysis, offering a perspective on market outlook rather than hard facts."
+      },
+      "sentiment_polarity": {
+        "score": 1,
+        "justification": "The use of phrases like '#Crypto Winter On #Horizon' and 'The Great Capitulation Dump' clearly expresses very strong negative sentiment, indicating deep pessimism and fear about the market."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "A prediction of 'Crypto Winter' and 'Capitulation Dump' will remain relevant for several weeks or months, as market participants monitor for confirmation or refutation of such a significant downturn."
+      }
+    }
+  },
+  {
+    "tweet_id": "1529692372833288192",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Highlights a significant market downturn ('Down 57% to Over 80% From Price Highs') and frames it as a '#Crypto Market Turning Point,' a combination of stark reality and speculation that drives high virality among investors."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Delivers specific, quantifiable market performance data ('Down 57% to Over 80%') and labels it a potential '#Crypto Market Turning Point,' offering concrete news and a perspective for further analysis via the link."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "The explicit statement that 'Most #cryptocurrencies Down 57% to Over 80% From Price Highs' clearly conveys strong negative sentiment about current market conditions."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Reports detailing significant market downturns and potential turning points remain relevant for several weeks to months as they influence ongoing market analysis and investor sentiment."
+      }
+    }
+  },
+  {
+    "tweet_id": "1529622992203882496",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "This tweet creates high virality by drawing a controversial comparison between Terra 2.0's rapid (post-collapse) launch and Ethereum 2.0's prolonged development, directly challenging Vitalik Buterin and tapping into community frustrations and debates about development speed."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "The tweet highlights the contrasting development timelines of Terra 2.0 and Ethereum 2.0 through a critical comparative question, offering contextual insight into different project approaches."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "The tweet expresses clear frustration and implied criticism regarding Ethereum's prolonged development timeline ('5+ years') in contrast to Terra 2.0's rapid launch, questioning Vitalik's role and suggesting disappointment."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The comparison of Ethereum's development timeline to other projects and direct questions to its founder address ongoing debates about blockchain development speed and leadership, maintaining relevance for many months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1529497192976744450",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "News of Ethereum's average fees dropping to their 'lowest cost level since July 2021' is highly impactful and shareable, as it addresses a major pain point for users and signals network improvement."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Delivers precise, quantifiable, and timely factual data regarding Ethereum's average transaction fees, noting it as the 'lowest cost level since July 2021,' providing valuable insights into network performance."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The report of Ethereum's average fees dropping to their lowest level in nearly a year conveys very strong positive sentiment, representing a significant improvement for users."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "While daily fee data is transient, this specific report of Ethereum's fees reaching a multi-month low marks a significant trend in network improvement, maintaining relevance for several weeks or months in scalability discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1529491700317552640",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The 'JUST IN' format and the highly positive news of #Ethereum gas fees dropping to 'lowest levels since July 2021' directly addresses a major pain point, making it extremely virally shareable for its immediate positive impact on users."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Delivers precise, quantifiable, and timely factual data regarding Ethereum's gas fees, noting it as the 'lowest levels since July 2021,' providing valuable insights into network performance."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The 'JUST IN' report of #Ethereum gas fees dropping to their lowest level in nearly a year conveys very strong positive sentiment, representing a significant improvement for the network and its users."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "While specific gas fee data is transient, this report of Ethereum's fees reaching a multi-month low signals a significant, ongoing trend in network improvement, maintaining relevance for several weeks or months in scalability discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1529458000011972610",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Reporting a '7-block deep reorg' on the Ethereum beacon chain, especially from a prominent developer, signals a significant technical issue that generates high concern and virality within the core Ethereum developer and validator communities."
+      },
+      "informative_value": {
+        "score": 10,
+        "justification": "Delivers critical, highly specific, and verifiable technical information about a '7-block deep reorg' on the Ethereum beacon chain, including analysis of its implications and existing solutions, directly from an authoritative source."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "While reporting a technical issue ('7-block deep reorg') that is inherently negative for network stability, the tweet maintains a moderately negative to neutral tone by also mentioning that solutions ('proposals already exist') are in consideration."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "A significant network stability event like a '7-block deep reorg' on the beacon chain triggers essential discussions about protocol improvements and solutions, which will have a long-term impact on Ethereum's development and stability for many months or years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1529424018113273860",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The 'FUN FACT' framing and direct comparison of Ethereum's transaction volume to a global giant like Visa make this a surprising and highly shareable statistic, appealing to a broad audience interested in crypto adoption and performance."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Offers a very specific and compelling comparative statistic about Ethereum's transaction processing volume relative to Visa in 2021, providing significant factual insight into its scale and adoption."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Presents a 'FUN FACT' that highlights Ethereum's impressive transaction volume compared to Visa, indicating a strong positive view of Ethereum's performance and growth."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "While tied to a specific year, this comparative statistic provides a significant historical benchmark for Ethereum's performance, remaining relevant as a point of reference for many months, potentially years, even as new data emerges."
+      }
+    }
+  },
+  {
+    "tweet_id": "1529179668900990976",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "The 'BREAKING' tag and 'LIVE' announcement of a major @ElrondNetwork <> #Ethereum bridge, complete with celebratory emojis and influential mentions, creates extremely high virality potential due to its significance for cross-chain interoperability and performance."
+      },
+      "informative_value": {
+        "score": 10,
+        "justification": "Delivers critical, highly specific, verifiable, and time-sensitive factual information about the live launch of the 'Ad Astra Portal' bridge between Elrond and Ethereum, detailing its benefits and operators, directly from a primary source (Elrond CEO)."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "The use of 'BREAKING,' 'LIVE,' the fire emoji (🔥), and phrases like 'a leap in interoperability & performance' expresses an extremely positive and enthusiastic sentiment about this significant launch."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The launch of a significant Elrond-Ethereum bridge creates new, lasting interoperability capabilities that will impact both ecosystems for many months, if not years, far beyond the initial news cycle."
+      }
+    }
+  }
+]

@@ -1,0 +1,107 @@
+[
+{
+"tweet_id":"1560271759328260130",
+"analysis":{
+"virality_potential":{
+"score":7,
+"justification":"Giveaway announcements with explicit call-to-action for retweets and tagging friends often generate high engagement within the NFT community, though they may not reach a broader audience beyond that niche."
+},
+"informative_value":{
+"score":4,
+"justification":"The tweet provides details about a giveaway but does not offer new factual information or insights beyond the promotional context."
+},
+"sentiment_polarity":{
+"score":8,
+"justification":"The tweet conveys excitement and enthusiasm about the giveaway, using celebratory emojis and encouraging language."
+},
+"duration_of_impact":{
+"score":4,
+"justification":"The tweet's relevance is limited to the duration of the giveaway, after which it becomes less relevant."
+}
+}
+},
+{
+"tweet_id":"1560068622621491201",
+"analysis":{
+"virality_potential":{
+"score":6,
+"justification":"The tweet addresses a contentious topic in the crypto space, which can spark discussion and sharing among community members, but it may not reach a broader audience."
+},
+"informative_value":{
+"score":5,
+"justification":"The tweet provides an opinion on a public figure's statement, offering some context but not new factual data."
+},
+"sentiment_polarity":{
+"score":2,
+"justification":"The tweet expresses disappointment and criticism, using negative language."
+},
+"duration_of_impact":{
+"score":4,
+"justification":"The tweet's relevance is tied to the ongoing debate about XRP and Ethereum, which may fade as new developments occur."
+}
+}
+},
+{
+"tweet_id":"1560049658457513985",
+"analysis":{
+"virality_potential":{
+"score":6,
+"justification":"The tweet expresses support for a regulatory stance, which may resonate within the Ethereum community and generate shares, but it is not a breaking news item."
+},
+"informative_value":{
+"score":5,
+"justification":"The tweet offers an opinion but does not provide new factual information."
+},
+"sentiment_polarity":{
+"score":7,
+"justification":"The tweet expresses positive sentiment toward Ethereum's stance."
+},
+"duration_of_impact":{
+"score":5,
+"justification":"The tweet's relevance may last for weeks as regulatory discussions continue."
+}
+}
+},
+{
+"tweet_id":"1560035176562016262",
+"analysis":{
+"virality_potential":{
+"score":8,
+"justification":"The tweet discusses the upcoming merge, a highly anticipated event in the Ethereum ecosystem, and Yuga Labs' policy, which can attract significant attention."
+},
+"informative_value":{
+"score":8,
+"justification":"The tweet provides details about the merge timeline and Yuga Labs' policy regarding NFTs on PoS ETH chain."
+},
+"sentiment_polarity":{
+"score":5,
+"justification":"The tweet presents factual information without strong emotional language."
+},
+"duration_of_impact":{
+"score":7,
+"justification":"The merge and policy details will be relevant for the duration of the transition and beyond."
+}
+}
+},
+{
+"tweet_id":"1559972466402988037",
+"analysis":{
+"virality_potential":{
+"score":6,
+"justification":"The tweet announces a milestone in ENS registrations, which may interest the Ethereum community and generate some shares."
+},
+"informative_value":{
+"score":7,
+"justification":"The tweet provides a verifiable statistic about ENS registrations."
+},
+"sentiment_polarity":{
+"score":5,
+"justification":"The tweet states a fact without emotional tone."
+},
+"duration_of_impact":{
+"score":6,
+"justification":"The number surpassing 2 million is a milestone that may be referenced for months as the ENS ecosystem grows."
+}
+}
+}
+]

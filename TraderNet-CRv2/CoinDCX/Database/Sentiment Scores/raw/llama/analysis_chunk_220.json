@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1745706846663610871",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet provides a valuable tip with a real example, making it moderately engaging and potentially shareable within specific communities (e.g., Ethereum enthusiasts)."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet offers actionable, informative content by comparing different cryptocurrency swap options, providing a clear example of how to get a better deal."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The user expresses a moderately positive sentiment, indicated by the phrase 'Another amazing tip', showing enthusiasm for the shared information."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to the current state of cryptocurrency swaps and might lose impact once the mentioned swap rates change or become outdated."
+}
+}
+},
+{
+"tweet_id": "1745534794904297978",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet is a straightforward news share with a link, lacking a strong hook for widespread sharing, but might generate interest within the cryptocurrency community."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet informs about Cathie Wood's opinion on Ethereum vs. Bitcoin, providing some value, but the depth of information is limited to a brief statement and a link."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet presents information in a neutral tone, without expressing a clear positive or negative sentiment."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The relevance of the tweet is tied to the immediate news cycle and will likely decrease as new information emerges."
+}
+}
+},
+{
+"tweet_id": "1745514958442361174",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet discusses a notable event in the Ethereum ecosystem, which might generate interest and sharing within the community, but lacks broad appeal."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides significant, newsworthy information about Optimism's RetroPGF round, highlighting its impact on Ethereum and public goods funding."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The user expresses a very positive sentiment, praising Optimism's commitment and hoping for more projects to follow suit."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet's relevance extends beyond the immediate event, as it discusses the ongoing commitment to funding public goods, remaining relevant for days or weeks."
+}
+}
+},
+{
+"tweet_id": "1745350808789729640",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet hints at significant news (BlackRock Ethereum ETF) with a 'tell a friend' phrase, encouraging sharing and potentially generating buzz."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet is brief, only hinting at upcoming news without providing detailed information, relying on the link for content."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet's tone is neutral, focusing on conveying upcoming news without expressing a clear sentiment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance will extend for a few days, as the anticipation and speculation about the ETF will generate ongoing interest."
+}
+}
+},
+{
+"tweet_id": "1745292451051377029",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet's content is speculative and lacks a strong engagement driver, making it less likely to be widely shared."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet provides a personal, unsubstantiated prediction without adding new or valuable information to the conversation."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The user expresses a very positive sentiment through the high target prices for Bitcoin and Ethereum, showing optimism."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "The tweet's relevance is short-lived, as the speculative nature of the content will quickly become outdated or proven incorrect."
+}
+}
+},
+{
+"tweet_id": "1745195147724259499",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet's ambiguity about ETF approvals might generate some interest, but it lacks a clear, shareable message."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet provides a neutral, observational commentary on the approval process without adding significant insight."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet maintains a neutral tone, neither expressing optimism nor pessimism about the ETF approvals."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is tied to the immediate confusion around the ETF approvals and will lose impact once clarity is achieved."
+}
+}
+},
+{
+"tweet_id": "1745173183622459439",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The 'Breaking' tag and the revelation of a politician buying Ethereum can generate significant interest and sharing, especially within cryptocurrency and political communities."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides newsworthy, verifiable information about a politician's cryptocurrency investment, offering insight into the intersection of politics and crypto."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet presents information in a neutral, factual manner without expressing a clear positive or negative sentiment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The relevance of the tweet will extend for several days, as the implications of the politician's investment will continue to be discussed."
+}
+}
+},
+{
+"tweet_id": "1745171950014796067",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The tweet's engaging visual content ('all that green') and the implied success of Ethereum can generate significant sharing and enthusiasm within the cryptocurrency community."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet's informative value is limited, primarily serving to express enthusiasm rather than provide new information."
+},
+"sentiment_polarity": {
+"score": 10,
+"justification": "The user expresses an extremely positive sentiment, evident from the 'Wow' and the visual emphasis on success ('all that green')."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is somewhat short-lived, as the excitement over immediate Ethereum performance will wane as new market developments emerge."
+}
+}
+},
+{
+"tweet_id": "1745141471962103814",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet announces a notable event (allowlist raffles) but is more relevant to a specific community (Solana and Ethereum collectors), limiting broader virality."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides useful information about the commencement of allowlist raffles and how to participate, catering to a specific audience's interests."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet maintains a neutral tone, focusing on informing about the event without expressing a clear sentiment."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance will last for the duration of the raffles and possibly shortly after, as participants and interested parties follow the event's progress."
+}
+}
+},
+{
+"tweet_id": "1744798517405593717",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The 'JUST IN' tag and the news about potential ETF approvals can generate interest and sharing, particularly within the cryptocurrency community."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides newsworthy information about the potential for Ripple and Ethereum spot ETFs, offering insight into the evolving cryptocurrency regulatory landscape."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet presents information in a neutral, factual manner without expressing a clear positive or negative sentiment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The relevance of the tweet will extend for several days, as the implications of the potential ETF approvals will continue to be discussed and anticipated."
+}
+}
+}
+]

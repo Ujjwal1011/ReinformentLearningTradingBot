@@ -1,0 +1,215 @@
+--- RAW RESPONSE FROM MODEL ---
+[
+  {
+    "tweet_id": "1570552928586563586",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Educational content about a major blockchain event (ETH Merge) with clear value for crypto communities, likely to be shared within these groups."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides structured learning resources about Proof of Stake fundamentals during a pivotal network transition."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral instructional tone focused on education rather than emotional expression."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Proof of Stake concepts will remain relevant for Ethereum users long-term, though technical details may become dated."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570510964092735489",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Self-congratulatory price commentary lacks broader appeal beyond existing followers interested in market speculation."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Contains no verifiable data or actionable information beyond personal boasting."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Moderately positive tone celebrating perceived prediction accuracy."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Price commentary becomes irrelevant quickly as markets fluctuate."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570504058087280641",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Humorous comparison combining current events (ETH price drop) with hyperinflation meme potential for broad sharing."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Primarily comedic content without substantive information about the Merge."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Sarcastic tone implying disappointment with Merge outcomes."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Joke tied to specific price movement window post-Merge."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570489098522984455",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news framing with controversial "corporate security" claim likely to spark debates in crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Reports verifiable market reaction (12% price drop) to major blockchain event."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Negative framing through terms like 'gave up competing' and 'divisive competitor'."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The corporate security debate remains relevant to Ethereum's long-term perception."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570484385694224384",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Official congratulations from public figure combines authority and environmental impact angle for sharing."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Highlights verifiable energy consumption reduction but lacks specific data sources."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Strong positive sentiment with celebratory language and exclamation points."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Environmental impact claims will remain part of blockchain sustainability discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570431939571597312",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Paradoxical headline about major event and price drop has meme/shock value potential."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "States basic price movement without deeper analysis of causes."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Implied negative reaction through price drop emphasis."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to immediate post-Merge price volatility."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570431798210924544",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Simple congratulatory message from influencer lacks unique viral hooks."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Contains no substantial information beyond basic event acknowledgment."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Clear positive sentiment through congratulatory language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Basic congratulations have short relevance window post-event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570430783684321281",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Expresses common community concern through humor, likely to resonate with crypto traders."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Rhetorical question offers no new information about Merge mechanics."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Frustrated tone questioning expected outcomes."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance limited to immediate post-Merge price expectations."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570416213548990468",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Provocative Bitcoin vs Ethereum comparison likely to spark debates in crypto communities."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Presents opinion-based comparison rather than verifiable facts."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral comparison despite implied Bitcoin preference."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Ongoing Proof of Work vs Proof of Stake debates maintain relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570379858907365376",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Notable on-chain event (high gas fee NFT mint) has curiosity/shock value for crypto audiences."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Reports specific transaction data with external link for verification."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of transaction facts without explicit judgment."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Transaction example may be referenced in future gas fee discussions."
+      }
+    }
+  }
+]
+
+--- FULL PROMPT SENT TO MODEL ---

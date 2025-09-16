@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1632006505821003776",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet has potential to be shared within specific communities (Ethereum enthusiasts) due to its informative content about ERC-4337, but it may not go globally viral."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides credible, newsworthy information about ERC-4337, including a thread with practical uses and additional resources."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The user expresses moderate positive emotions, indicated by the enthusiastic tone and the use of emojis (🧵👇)."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance will last for days or weeks, as it discusses a significant topic in the Ethereum ecosystem, but its impact may fade over time."
+}
+}
+},
+{
+"tweet_id": "1652775804495880193",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet is unlikely to be shared widely, as it's a promotional message for an airdrop, but it may get some engagement within the specific community of pool participants."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet contains minimal information, mainly serving as a link to check airdrop eligibility, with some irrelevant hashtags."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet presents information in a neutral tone, without expressing strong emotions."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is short-term, tied to the airdrop event, and will likely lose impact soon after the airdrop concludes."
+}
+}
+},
+{
+"tweet_id": "1652736179836448768",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet has potential to be shared within the Ethereum community due to its relatable complaint, but it's unlikely to go globally viral."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet informs others about a personal issue with Ethereum transaction costs, but it's not a formal report or in-depth analysis."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The user expresses strong negative emotions, criticizing the high transaction costs."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance will last for a short period, as it's tied to a current issue, but may spark some ongoing discussion."
+}
+}
+},
+{
+"tweet_id": "1652722911768113152",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet is unlikely to be shared widely, as it's a promotional message for an airdrop, but it may get some engagement within the specific community of pool participants."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet contains minimal information, mainly serving as a link to check airdrop eligibility, with some irrelevant hashtags."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet presents information in a neutral tone, without expressing strong emotions."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is short-term, tied to the airdrop event, and will likely lose impact soon after the airdrop concludes."
+}
+}
+},
+{
+"tweet_id": "1652652305148248065",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet is unlikely to be shared widely, as it's a promotional message for an airdrop, but it may get some engagement within the specific community of pool participants."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet contains minimal information, mainly serving as a link to check airdrop eligibility, with some irrelevant hashtags."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet presents information in a neutral tone, without expressing strong emotions."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is short-term, tied to the airdrop event, and will likely lose impact soon after the airdrop concludes."
+}
+}
+},
+{
+"tweet_id": "1650454294049505283",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet has standard engagement potential, as it's an interesting fact about Ethereum's ICO, but it's not designed to go viral."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides credible, newsworthy information about Ethereum's ICO, including a surprising statistic."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The user expresses moderate positive emotions, indicated by the interesting and surprising nature of the fact."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet's relevance will last for days or weeks, as it discusses a significant topic in the Ethereum ecosystem."
+}
+}
+},
+{
+"tweet_id": "1649056938062118913",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet is very likely to be shared broadly, as it criticizes a prominent project (France's CBDC on Ethereum) and may elicit strong reactions."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides credible, newsworthy information about a significant project, including a link to the code."
+},
+"sentiment_polarity": {
+"score": 1,
+"justification": "The user expresses very strong negative emotions, heavily criticizing the project's code."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The tweet's relevance will last for months, as it discusses a significant topic in the cryptocurrency and CBDC space."
+}
+}
+},
+{
+"tweet_id": "1648376479892357120",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The tweet is extremely likely to be shared broadly, as it covers a critical, newsworthy event (SEC Chair's testimony) with significant implications."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides critical, verifiable, and primary-source information about a highly important event."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet presents information in a neutral tone, without expressing strong emotions."
+},
+"duration_of_impact": {
+"score": 9,
+"justification": "The tweet's relevance will last for months or even years, as it discusses a foundational moment in the regulatory landscape."
+}
+}
+},
+{
+"tweet_id": "1646454509244129281",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The tweet is extremely likely to be shared broadly, as it announces a significant, long-awaited event (Shapella upgrade) in the Ethereum ecosystem."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides critical, verifiable, and primary-source information about a highly important event."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The user expresses strong positive emotions, indicated by the enthusiastic tone and the use of emojis (🚀)."
+},
+"duration_of_impact": {
+"score": 9,
+"justification": "The tweet's relevance will last for months or even years, as it discusses a foundational moment in the Ethereum ecosystem."
+}
+}
+},
+{
+"tweet_id": "1646280167667519492",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet is very likely to be shared broadly, as it announces a significant event (Shanghai upgrade) in the Ethereum ecosystem."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides critical, verifiable, and primary-source information about a highly important event."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet presents information in a neutral tone, without expressing strong emotions."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The tweet's relevance will last for months, as it discusses a significant topic in the Ethereum ecosystem."
+}
+}
+}
+]

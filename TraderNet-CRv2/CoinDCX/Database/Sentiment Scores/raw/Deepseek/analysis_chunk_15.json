@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1443140175152902147",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Technical proposal from a prominent figure in crypto, likely to be shared within Ethereum community but lacks mass appeal elements."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Announces a significant technical proposal with collaborators and link to details, though requires niche understanding."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement tone without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Proposals can influence development discussions for weeks/months in blockchain communities."
+      }
+    }
+  },
+  {
+    "tweet_id": "1443128662761492484",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Alarmist language ('ticking time bomb') combined with exchange metrics creates shareable FOMO content."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific exchange balance data but lacks source verification."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Implies negative market outlook through urgent warning language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Tied to specific market moment, relevance diminishes with price changes."
+      }
+    }
+  },
+  {
+    "tweet_id": "1443103968314413056",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Leverages China FUD narrative popular in crypto circles, but similar claims have circulated before."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Reports regulatory action with trading analysis, though source credibility isn't established."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong bullish sentiment expressed through 'EXTREMELY bullish' and 'prepare for launch'."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Market reactions to China news typically short-lived in crypto markets."
+      }
+    }
+  },
+  {
+    "tweet_id": "1442625005427232776",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Provocative question format with meme elements ('*sips whiskey') in blockchain rivalry context."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Pure speculation without data or analysis presented."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral hypothetical presented without clear positive/negative framing."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Tribal debates about blockchain supremacy have recurring but short-lived interest spikes."
+      }
+    }
+  },
+  {
+    "tweet_id": "1442572359634935808",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Price prediction lists frequently generate engagement in crypto communities through speculation."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Numerical predictions presented as opinion without methodology."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral request for community opinion on price targets."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to specific time horizon (end of year)."
+      }
+    }
+  },
+  {
+    "tweet_id": "1442489062087086081",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Shocking transaction fee amount creates curiosity and shareability."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Reports verifiable on-chain event with specific monetary value."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of factual event without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Single anomalous event, interest fades after initial reporting."
+      }
+    }
+  },
+  {
+    "tweet_id": "1442308116121473030",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Comparative claim about DEX volume sparks interest in crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides measurable metric comparison between platforms with implied significance."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral observation with common crypto meme phrase ('probably nothing')."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Layer 2 progress remains relevant through ongoing Ethereum scaling discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1442097698895716356",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Legal analysis of high-profile case with strong endorsement ('MUST READ')."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Direct link to comprehensive legal summary from specialized attorneys."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Enthusiastic endorsement but focused on informational content."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Ongoing SEC case has multi-year relevance for crypto regulation."
+      }
+    }
+  },
+  {
+    "tweet_id": "1441529690758418434",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Visionary statement from co-founder but lacks immediate hook for sharing."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Philosophical claim about future potential rather than concrete information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Optimistic outlook about Ethereum's future capabilities."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Conceptual framework for Ethereum's evolution could remain relevant for years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1441389198208946179",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Teaser about regulatory investigation with Fox Business tie-in drives engagement."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Documents active journalism process regarding important regulatory speech."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of information gathering process."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Tied to specific upcoming segment, relevance diminishes after airing."
+      }
+    }
+  }
+]

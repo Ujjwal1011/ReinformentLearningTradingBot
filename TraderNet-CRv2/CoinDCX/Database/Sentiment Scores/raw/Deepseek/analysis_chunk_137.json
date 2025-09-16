@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1581377266403065856",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Prediction about Cardano surpassing Ethereum could generate debate within crypto communities, but lacks immediate viral triggers."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides a speculative analysis with timeline projection, though not based on cited sources."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Expresses optimistic conviction about Cardano's future prospects."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Long-term prediction could remain relevant in crypto discussions for years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1580248361650728966",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Newsworthy announcement about major tech company adopting cryptocurrencies from a popular account."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides specific, actionable information about Google's crypto integrations."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral listing of facts without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Will remain relevant until Google updates its payment options."
+      }
+    }
+  },
+  {
+    "tweet_id": "1578918450390450177",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Meme-style format with price speculation might engage crypto communities temporarily."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Contains no substantive information beyond a rhetorical question."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral question format without clear emotional valence."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Price speculation becomes irrelevant once 2023 passes."
+      }
+    }
+  },
+  {
+    "tweet_id": "1578844515330580481",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Comparisons between crypto and traditional finance often resonate in crypto circles."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides a factual market cap comparison, though lacks context about metrics."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of comparative data."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to current market valuations that change frequently."
+      }
+    }
+  },
+  {
+    "tweet_id": "1578515974588071937",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Niche technical comparison likely only relevant to blockchain enthusiasts."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific quantitative comparison between two blockchain implementations."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of comparative data."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance depends on constantly evolving blockchain metrics."
+      }
+    }
+  },
+  {
+    "tweet_id": "1578335655427448833",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Controversial figure in finance sharing personal crypto success story."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Personal anecdote without verifiable data or general insights."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Confident, triumphant tone about financial success."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Personal story likely to fade from discussion quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1576935656751697921",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Competition format with monetary prize could engage crypto/data science communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Announces specific challenge with clear parameters and prize structure."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement of competition details."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant until competition conclusion, then interest fades."
+      }
+    }
+  },
+  {
+    "tweet_id": "1576639282671800322",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Controversial claim about Ethereum ownership could spark debates."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Makes claims about ownership structure without verification sources."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Implied criticism through rhetorical question about corporate control."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Ongoing debates about crypto decentralization keep topic relevant."
+      }
+    }
+  },
+  {
+    "tweet_id": "1576410956728397824",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Interesting origin story about Ethereum's creation from popular account."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Presents anecdotal claim about motivation without verification."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of historical claim."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Origin stories maintain long-term interest in crypto communities."
+      }
+    }
+  },
+  {
+    "tweet_id": "1576273426599362565",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Niche transaction report primarily relevant to CryptoPunk collectors."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Documents specific NFT transaction details with pricing data."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of transaction details."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Individual NFT sales have short-term relevance except to collectors."
+      }
+    }
+  }
+]

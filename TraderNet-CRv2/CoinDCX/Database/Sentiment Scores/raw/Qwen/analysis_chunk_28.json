@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1449297353366593543",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet is about Ethereum's potential pump and upcoming ETFs, which are hot topics in the crypto community, likely to be shared widely."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides information about Ethereum's market movement and upcoming ETFs, though it's speculative."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tweet expresses excitement and optimism about Ethereum's future."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tweet's relevance will last until the ETFs are announced, which could be a few weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1449134895209402369",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Predictions about Bitcoin and Ethereum prices are common and can generate interest among crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "It's a prediction without supporting data, so it's less informative."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet is optimistic about the future prices of Bitcoin and Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The tweet's relevance is tied to the short-term price movements."
+      }
+    }
+  },
+  {
+    "tweet_id": "1449057896470298627",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Announcing a new bid on a CryptoPunk is significant for NFT collectors and likely to be shared within the community."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific information about a new bid and includes a link for more details."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet is positive, highlighting a significant event in the NFT market."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The tweet's relevance is tied to the specific event and may lose impact after the sale is finalized."
+      }
+    }
+  },
+  {
+    "tweet_id": "1449029408942084099",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "A step-by-step guide on buying NFTs is useful and can be shared among newcomers to the space."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides clear, actionable information on how to buy NFTs."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, serving as an informative guide without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The guide remains relevant as long as the process for buying NFTs remains the same."
+      }
+    }
+  },
+  {
+    "tweet_id": "1448715386615058434",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The comparison of different blockchains is interesting and can generate discussion among crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides a concise comparison of different blockchains, which is informative for those interested in DeFi."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, presenting facts without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The comparison remains relevant as long as the blockchains mentioned are relevant in the market."
+      }
+    }
+  },
+  {
+    "tweet_id": "1448500905695870978",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Talking about Ethereum nearing its all-time high can attract attention from crypto traders and investors."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides information about Ethereum's current market position and potential future movements."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet is optimistic about Ethereum's potential to reach new highs."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The tweet's relevance is tied to the current market cycle and may lose impact once the cycle concludes."
+      }
+    }
+  },
+  {
+    "tweet_id": "1448387273448247299",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Predicting a pump when Coinbase launches NFTs can generate excitement among NFT enthusiasts."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "It's a speculative prediction without concrete information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet is positive, suggesting significant growth in the NFT market."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The tweet's relevance is tied to the launch of Coinbase's NFT platform, which may be a short-term event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1448317621200375810",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Listing the crypto journey of newcomers is relatable and can generate discussion among crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "It's a general observation about newcomers' experiences without specific data."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet is positive, highlighting the excitement of newcomers in the crypto space."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The tweet's relevance is tied to the current trend of newcomers entering the crypto market, which may be short-lived."
+      }
+    }
+  },
+  {
+    "tweet_id": "1448273817026154501",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Announcing that Ethereum has surpassed traditional financial institutions in market cap is a significant milestone and likely to be widely shared."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides factual information about Ethereum's market cap surpassing major financial institutions."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tweet is positive, celebrating Ethereum's growth and impact."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tweet's relevance will last as long as Ethereum continues to be a major player in the market."
+      }
+    }
+  },
+  {
+    "tweet_id": "1447929473513500674",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Asking the question 'Bitcoin or Ethereum?' taps into a popular debate and can generate a lot of engagement."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "It's a question without providing specific information or analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, posing a question without expressing a strong opinion."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The tweet's relevance is tied to the ongoing debate between Bitcoin and Ethereum, which may fluctuate over time."
+      }
+    }
+  }
+]

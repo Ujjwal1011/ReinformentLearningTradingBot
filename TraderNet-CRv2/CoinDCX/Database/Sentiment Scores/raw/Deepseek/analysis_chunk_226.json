@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1757143332231565663",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Announcement from a major asset manager about an Ethereum ETF filing has high shareability in crypto communities and financial news cycles."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides specific, newsworthy information about a significant financial product filing with clear figures."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement tone without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "ETF approval processes are multi-week/multi-month events that maintain relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1757142599016616334",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Similar ETF news but from a smaller account, likely to circulate within crypto circles."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Confirms Franklin Templeton's participation in Ethereum ETF race with source link."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual reporting style without emotional bias."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Will remain relevant until ETF decision but less impactful than original announcement."
+      }
+    }
+  },
+  {
+    "tweet_id": "1757140029426606493",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "NFT project launch could generate buzz in web3 communities but lacks mass appeal."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific details about partnership and launch date with relevant links."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone with 'excited' and motivational phrase 'We're all gonna be okay'."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance primarily around the 02.27 launch date with short-term engagement."
+      }
+    }
+  },
+  {
+    "tweet_id": "1756654977445953932",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Visual content with #Ethereum tag could drive engagement in crypto communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "No substantive information beyond subjective appreciation of charts."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive expression through 'beautiful' descriptor."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Visual content typically has shorter engagement lifespan without ongoing context."
+      }
+    }
+  },
+  {
+    "tweet_id": "1756337671318695941",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Technical achievement announcement likely resonates within blockchain developer circles."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific metrics about protocol growth and cross-chain functionality."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone focusing on factual milestones."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Demonstrates ongoing protocol relevance in blockchain interoperability space."
+      }
+    }
+  },
+  {
+    "tweet_id": "1756249005263056914",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Engagement-driven 'heart attack' hook with Ethereum stats could drive shares."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Lacks specific data interpretation or context for the statistics referenced."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Playful tone with 'fun' and 'heart attack' exaggeration."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Tied to 30-day stats that quickly become outdated."
+      }
+    }
+  },
+  {
+    "tweet_id": "1755957594932306329",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "High incentive offer (1M points) with free participation drives strong engagement."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Detailed instructions about testnet participation and reward structure."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive framing with 'excited' emoji and opportunity emphasis."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant throughout testnet phase but time-bound by campaign dates."
+      }
+    }
+  },
+  {
+    "tweet_id": "1755929540700807211",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Technical breakthrough announcement appeals to Ethereum developer community."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Describes specific technological advancement in blockchain infrastructure."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Optimistic tone with 'We can fix' and 'coming sooner'."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "If implemented, would have long-term implications for Ethereum's scalability."
+      }
+    }
+  },
+  {
+    "tweet_id": "1755658452482056523",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Controversial take on Ethereum fees could drive engagement in crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides alternative solution (PulseChain) with basic fee argument."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive promotion of PulseChain as solution."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Fee discussions remain relevant but tweet lacks unique long-term value."
+      }
+    }
+  },
+  {
+    "tweet_id": "1755499470471524831",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Continues PulseChain promotion narrative with visual support."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Vague statement about Ethereum migration without specific data."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive framing with 'beautiful day' and implied success."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Part of ongoing chain migration discussion but lacks unique lasting impact."
+      }
+    }
+  }
+]

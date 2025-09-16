@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1762515545356718194",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Announcing a new Ethereum marketplace is likely to be shared within the crypto community, but may not go viral beyond that."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides useful information about a new platform with a link for more details."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive sentiment with excitement about the launch."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Relevant for several weeks as marketplaces are long-term but this specific announcement may fade after initial interest."
+      }
+    }
+  },
+  {
+    "tweet_id": "1762493455270613278",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Mix of crypto gains and personal feelings, may get some shares but not widely."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Minimal information, mostly personal updates."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment about crypto gains and the day."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevant for a day or two as it's tied to current crypto prices."
+      }
+    }
+  },
+  {
+    "tweet_id": "1762323592895742373",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Announcing royalty reductions is likely to be shared within the crypto community."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides useful information about business updates."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive sentiment with excitement about the reductions."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for several weeks as it's a specific promotion."
+      }
+    }
+  },
+  {
+    "tweet_id": "1761940624083657089",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Predictions about crypto prices can get traction within crypto communities."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Provides speculative information about crypto prices."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment with optimism about price increases."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a few days as predictions are often short-term."
+      }
+    }
+  },
+  {
+    "tweet_id": "1761804473049969087",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Personal rant in Spanish about Ethereum price, unlikely to go viral."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Minimal information, mostly a personal complaint."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative sentiment with anger about the price."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Relevant only for a short time as it's a fleeting complaint."
+      }
+    }
+  },
+  {
+    "tweet_id": "1761497328479772735",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Partnership announcements in crypto can be shared widely within the community."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides significant information about a partnership and product launch."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive sentiment with excitement about the partnership."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Relevant for several weeks as partnerships have long-term effects."
+      }
+    }
+  },
+  {
+    "tweet_id": "1761453894880710922",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news about an Ethereum ETF is likely to be widely shared."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides critical information about a significant financial product."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive sentiment with excitement about the ETF confirmation."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Relevant for several weeks as ETFs have long-term implications."
+      }
+    }
+  },
+  {
+    "tweet_id": "1761333316966564271",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Warning about Ethereum security can get shares within the crypto community."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides important information about security practices."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Neutral to slightly negative sentiment with a cautionary tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for several weeks as security is an ongoing concern."
+      }
+    }
+  },
+  {
+    "tweet_id": "1761088692666646908",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Quote from Grayscale CEO about an Ethereum ETF is likely to be shared within crypto circles."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides significant information about the likelihood of an Ethereum ETF."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment with optimism about the ETF."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Relevant for several weeks as ETFs have long-term implications."
+      }
+    }
+  },
+  {
+    "tweet_id": "1760766212479353059",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Reddit's investment in Bitcoin and Ethereum is likely to be shared widely."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides significant information about a major company's investment strategy."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment with excitement about the investment."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Relevant for several weeks as investments have long-term effects."
+      }
+    }
+  }
+]

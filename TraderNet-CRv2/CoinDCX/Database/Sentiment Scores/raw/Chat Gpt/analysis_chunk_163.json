@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1520239235747692545",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet contains a bold price prediction for a popular meme coin, uses many crypto hashtags, and has high engagement relative to the author's modest follower count, indicating potential for sharing within crypto communities but limited broader appeal."
+},
+"informative_value": {
+"score": 6,
+"justification": "It offers a specific price forecast and a poll statistic, linking to an article, but the content is speculative rather than verified news, providing moderate informational value."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet primarily presents a prediction without strong emotional language, resulting in a neutral tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The prediction remains relevant for the remainder of the year, giving it a medium-term impact that diminishes after the target date passes."
+}
+}
+},
+{
+"tweet_id": "1520182239547469825",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet uses a relatable meme format about Solana vs Ethereum NFTs, includes a visual link, and has solid engagement, making it likely to be shared within the NFT community but with limited broader appeal."
+},
+"informative_value": {
+"score": 2,
+"justification": "The content is a humorous POV statement without factual data or news, offering minimal informational value."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet conveys a lighthearted, playful tone typical of meme content, indicating a moderately positive sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The meme is tied to current NFT market dynamics and may lose relevance as trends shift, limiting its impact to a short period."
+}
+}
+},
+{
+"tweet_id": "1519879442776358912",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet promotes a deep dive into the portfolios of major Ethereum whales, uses numerous relevant hashtags, and has high engagement relative to the author's follower count, making it likely to be widely shared among crypto investors."
+},
+"informative_value": {
+"score": 8,
+"justification": "It points to a detailed analysis of large Ethereum whale holdings, offering substantial factual information valuable to investors."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is informational without overt positive or negative language, resulting in a neutral sentiment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The analysis provides lasting value for investors over several weeks, though relevance diminishes as market dynamics evolve."
+}
+}
+},
+{
+"tweet_id": "1519837834131034112",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The tweet references a high-profile figure (Jim Cramer) predicting a 40% rise for Ethereum, adds a skeptical comment, and has strong engagement, making it highly likely to be shared across finance and crypto communities."
+},
+"informative_value": {
+"score": 7,
+"justification": "It conveys a notable prediction from a prominent media personality, providing newsworthy information, though it is a secondary report."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The phrase \"Uh, oh.\" expresses doubt or concern about the prediction, reflecting a moderately negative sentiment."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet will spark conversation in the short term but likely fades after the prediction period passes."
+}
+}
+},
+{
+"tweet_id": "1519757049181216769",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet announces alarming news for Ethereum and crypto markets using strong language and generates high engagement, making it likely to be widely shared within the crypto community."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet hints at negative news but provides no specifics, offering limited informational value beyond the linked article."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The wording \"Horrible news\" conveys strong negative sentiment toward the crypto market."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The announcement of severe market news may sustain discussion for several days to weeks as the community reacts, giving it a medium-term impact."
+}
+}
+}
+]

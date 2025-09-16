@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1722678731859513844",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Breaking news about a major financial institution (BlackRock) preparing to register a spot Ethereum ETF has high potential for sharing within the crypto and finance communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides newsworthy information with a link to a credible source, offering significant value to those interested in Ethereum and finance."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment, as the tweet reports news without expressing a clear emotional tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for days or weeks, as the news of the ETF registration will generate discussion and updates in the short to medium term."
+}
+}
+},
+{
+"tweet_id": "1722634650068074513",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Comparing transaction costs in a humorous way, with links to solutions, has moderate to high potential for sharing within specific crypto communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides some useful information about transaction costs, but the primary focus is promotional with links to solutions."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Moderately positive, as the user expresses amusement and offers solutions, but also criticizes Ethereum's costs."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Standard lifespan for a tweet, generating discussion for a day or two before fading."
+}
+}
+},
+{
+"tweet_id": "1722634073712017656",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Similar to the previous tweet, comparing costs in a provocative manner has moderate to high sharing potential within crypto communities."
+},
+"informative_value": {
+"score": 5,
+"justification": "The primary purpose isn't to inform but to provoke a reaction, though it mentions a comparison of transaction costs."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Moderately positive, as the user seems to take pleasure in the comparison, but the tone can also be seen as slightly confrontational."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Similar to the previous tweet, its impact is standard, lasting a day or two."
+}
+}
+},
+{
+"tweet_id": "1722633082803732553",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "News from a significant asset manager (BlackRock) registering an Ethereum Trust is highly shareable across finance and crypto spaces."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides highly newsworthy and credible information of significant interest to the crypto and finance communities."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, as the tweet simply reports on the registration without expressing an emotional tone."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Remains relevant for days or weeks, as this news will spark ongoing discussions and updates."
+}
+}
+},
+{
+"tweet_id": "1722633044388147547",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Breaking news about BlackRock preparing to register a spot Ethereum ETF has high sharing potential within crypto and finance communities."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides newsworthy information, though the value is somewhat reduced due to the lack of a detailed source link."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, as the tweet reports news without a clear emotional tone, but the 'Send $ETH ' could imply mild positivity."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for days or weeks, similar to other ETF registration news."
+}
+}
+},
+{
+"tweet_id": "1722632691982487672",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Breaking news about the iShares Ethereum Trust registration has high potential for sharing within crypto and finance spaces."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides newsworthy information with context (comparing to the Bitcoin Trust registration process), offering significant value."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, as the tweet reports news in a factual manner without expressing a clear emotional tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for days or weeks, as this news will generate short to medium-term discussion and updates."
+}
+}
+},
+{
+"tweet_id": "1722630271013675199",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "While informative, the registration of the iShares Ethereum Trust might not be as widely shared as more sensational news."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides highly valuable, newsworthy information with detailed context, making it extremely informative for those interested in Ethereum and finance."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, as the primary focus is on reporting the news and providing context without emotional tone."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Remains relevant for days or weeks, given the significance of the news for ongoing discussions."
+}
+}
+},
+{
+"tweet_id": "1722108562820698491",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "A somewhat technical critique of L2s scaling Ethereum might not appeal broadly beyond specific crypto-tech circles."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides some useful insights into the limitations of L2s, though the value might be more niche due to the technical nature."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "Moderately negative, as the user critiques the effectiveness of L2s in scaling Ethereum."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Standard lifespan, generating discussion for a day or two before fading, mainly within tech-focused crypto communities."
+}
+}
+},
+{
+"tweet_id": "1721635758853824916",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "A visually engaging tweet about Ethereum during a bull market has moderate potential for sharing within crypto communities."
+},
+"informative_value": {
+"score": 4,
+"justification": "Minimal informative value, as the tweet's primary focus is on a visual representation rather than providing new information."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Very positive, as the tweet implies optimism and excitement about Ethereum's performance during a bull market."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Standard lifespan, relevant for a day or two, mainly sparking immediate reactions to the visual content."
+}
+}
+},
+{
+"tweet_id": "1721616573679440347",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "News about a specific NFT purchase, while niche, might not broadly appeal beyond the crypto and NFT enthusiast communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides specific, factual information about an NFT transaction, which is valuable to those following the NFT market."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, as the tweet simply reports on the transaction without expressing an emotional tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a short period, mainly of interest to those closely following the NFT market or the specific NFT in question."
+}
+}
+} 
+]

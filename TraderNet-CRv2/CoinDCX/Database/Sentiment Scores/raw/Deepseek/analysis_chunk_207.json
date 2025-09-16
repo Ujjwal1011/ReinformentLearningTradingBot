@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1732082409829695518",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Collaboration announcement between projects has medium sharing potential within developer communities, but lacks broad emotional appeal for wider virality."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific technical information about new price feed integrations and includes relevant project links."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement tone without explicit emotional language, focused on factual information."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for developers building on these platforms for weeks/months, but limited to specific ecosystem."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732081240226861524",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Excited announcement with crypto jargon and emojis could spread well within web3 communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Explains a new technical integration with specific details about asset backing."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong positive sentiment shown through multiple exclamation points and 'rly excited' phrasing."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Integration relevance could last months for developers, but dependent on adoption."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732079496746983557",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Industry news with limited engagement drivers beyond crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Reports verifiable market data with source attribution, though not groundbreaking."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting tone without explicit positive/negative language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Trading volume updates have short-term relevance tied to market fluctuations."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732078400523604133",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Hype-driven price speculation with emojis and caps likely to engage crypto communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Mostly unsubstantiated price predictions without data sources or analysis."
+      },
+      "sentiment_polarity": {
+        "score": 10,
+        "justification": "Extremely positive sentiment with rocket emojis and celebratory language."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Price hype tweets become irrelevant quickly as markets change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732078132197282070",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "ETF speculation could spread in French crypto circles, but language limits global reach."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Contains specific regulatory information about Ethereum ETF applications."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive framing of Ethereum's potential with fire emoji emphasis."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "ETF news could remain relevant for months during regulatory processes."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732077388098683375",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Technical DA discussion has limited appeal beyond Ethereum developers."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides expert technical analysis of blockchain security mechanisms."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral technical discourse without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Core protocol discussions remain relevant for developers long-term."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732077064243777915",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Niche blockchain transaction data primarily relevant to on-chain analysts."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Records specific transaction data but lacks context or analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Pure transaction reporting without sentiment indicators."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Individual transactions lose relevance quickly except for specific investigations."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732076695056765230",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Sensational breaking news format with multiple crypto mentions encourages sharing."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Reports price movements and executive commentary but lacks primary sources."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive framing with 'SOAR' capitalization and fire emojis."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Price-based news typically has short relevance window."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732076371113890142",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Another bridge transaction alert, similar to previous low-virality tweets."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Specific transaction data without broader context or significance."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral transaction reporting without sentiment indicators."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Individual bridge transactions have minimal lasting impact."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732076191408935418",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "NFT drop alert could circulate within Spanish-speaking crypto communities."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Announces event details but lacks project context or utility information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive promotional tone with alert emojis and exclamation points."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Time-bound event announcement becomes irrelevant after mint date."
+      }
+    }
+  }
+]

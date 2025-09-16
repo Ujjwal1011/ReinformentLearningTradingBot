@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1758939338484732387",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet announces a significant development in the crypto market, which is likely to be shared widely among Ethereum and Bitcoin communities."
+},
+"informative_value": {
+"score": 7,
+"justification": "It provides a rumor about an upcoming Ethereum spot ETF approval, which is relevant but not confirmed."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The use of emojis and enthusiastic language indicates a positive sentiment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet is relevant for a few weeks as the ETF approval process unfolds."
+}
+}
+},
+{
+"tweet_id": "1758232805882970562",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet is niche, targeting crypto enthusiasts interested in security aspects."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides a link to a research paper, offering detailed information on 51% attacks."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral tone with a focus on presenting research findings."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The study's relevance will last for several weeks as it's discussed in crypto circles."
+}
+}
+},
+{
+"tweet_id": "1758193071047786551",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Promotional content targeting Ethereum users, likely shared within the crypto community."
+},
+"informative_value": {
+"score": 6,
+"justification": "Introduces a new program but lacks detailed information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive language and emojis convey excitement."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant until the program's details are released."
+}
+}
+},
+{
+"tweet_id": "1758136030593728585",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Community-focused message from a reputable project, likely shared among Ethereum supporters."
+},
+"informative_value": {
+"score": 5,
+"justification": "States the importance of the community without specific information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive and encouraging tone."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Themes of community and vision are evergreen."
+}
+}
+},
+{
+"tweet_id": "1758070967870329180",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Technical analysis relevant to crypto traders."
+},
+"informative_value": {
+"score": 6,
+"justification": "Discusses a price resistance level with a link."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, focusing on market data."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant until the price action changes."
+}
+}
+},
+{
+"tweet_id": "1758061466446438840",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Controversial claims that may spark debate in crypto circles."
+},
+"informative_value": {
+"score": 4,
+"justification": "Opinion-based with no credible sources."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Negative tone towards L2s and dapps."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant until counterarguments emerge."
+}
+}
+},
+{
+"tweet_id": "1757857494079066395",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Breaking news about a significant crypto firm's sale."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides concrete news with a credible source."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive implications for Bitcoin and Ethereum holders."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for weeks as the sale process unfolds."
+}
+}
+},
+{
+"tweet_id": "1757776250037551442",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Self-promotional content with no clear hook."
+},
+"informative_value": {
+"score": 3,
+"justification": "Personal promotion without substantial information."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive but self-serving tone."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "Relevant only until the promotion period ends."
+}
+}
+},
+{
+"tweet_id": "1757180273538572720",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Warns against a common crypto mistake, likely shared among traders."
+},
+"informative_value": {
+"score": 7,
+"justification": "Educational content with historical data."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Negative tone towards margin trading."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant as long as margin trading is a topic."
+}
+}
+},
+{
+"tweet_id": "1757168443084898465",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Significant news about a major firm entering the Ethereum ETF space."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides a link to a credible source."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive implications for Ethereum investors."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for weeks as the ETF process continues."
+}
+}
+}
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1732098577306960038",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Announcement of collaboration between blockchain leaders could generate significant interest within crypto communities, though limited to specific audiences."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides concrete information about a strategic partnership between major blockchain projects with technical focus."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement tone without explicit emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "ZK technology developments typically remain relevant for weeks/months in blockchain circles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732097001825698152",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Brief reply lacking context or engagement drivers, unlikely to spread beyond immediate followers."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Vague statement about Ethereum evolution without supporting details or sources."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive endorsement through comparison to ETH 3.0."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Ephemeral comment tied to momentary comparison."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732096634375504301",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Data-driven claim about blockchain performance could spark discussions among analysts."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Presents specific metrics about network retention with clear methodology."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual presentation of comparative data without overt bias."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Network metrics remain reference points for weeks in technical discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732096320683344137",
+    "analysis": {
+      "virality_potential": {
+        "score": 2,
+        "justification": "Basic price update without unique analysis or engagement hooks."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Percentage figure provided without context or source."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral market update without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Price updates become irrelevant within hours in crypto markets."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732095707937444185",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Specific blockchain transaction data attracts niche interest but limited broader appeal."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Reports verifiable on-chain activity with specific figures."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of transaction data."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Transaction alerts typically only relevant for daily market analysis."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732095152582426828",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Strong opinion piece could resonate within crypto enthusiast circles."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Promotional content lacking objective verification of claims."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Enthusiastic advocacy using terms like 'future of crypto' and 'freedom chain'."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Opinion pieces about chain comparisons typically have standard engagement lifespan."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732094616093044939",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Technical explainer in Turkish limits reach, though hashtags help."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Introduces and explains a specific Ethereum-related tool with link to details."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral explanatory tone despite rhetorical question in title."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Tool explanations remain relevant for weeks for interested developers."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732094107038908737",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Positioning of Eigenlayer as major opportunity could drive significant discussion."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Highlights emerging protocol but lacks specific data points."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive framing through growth opportunity language."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Protocol analysis threads often remain referenced for months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732093550525845865",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Niche NFT announcement with limited engagement drivers."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Primarily promotional content about NFT styling."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Excited tone with emojis and 'Transformation alert'."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "NFT reveals typically have short-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732093004838519027",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Impressive growth metrics presented in thread format could drive shares."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific protocol milestones with verifiable TVL figures."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Enthusiastic language ('epic new milestone', '🤯')."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Protocol growth metrics remain relevant for quarterly analyses."
+      }
+    }
+  }
+]

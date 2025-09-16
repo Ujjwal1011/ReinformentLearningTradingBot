@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1685690844672557056",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "High engagement from a high-profile user on a milestone event, likely to be widely shared within the crypto community and beyond."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides a personal historical anecdote about Ethereum's early days, offering some context but not a comprehensive news report."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Nostalgic and slightly regretful tone, overall positive but not extremely enthusiastic."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevant for the anniversary period; after that, it may fade but could be referenced as a historical note."
+}
+}
+},
+{
+"tweet_id": "1685684907106881536",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "High-profile user celebrating a milestone, likely to be shared within the community but not a global meme."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides a concise factual statement about Ethereum's impact on the crypto ecosystem."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Celebratory tone with gratitude, strongly positive."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Standard lifespan for a celebratory tweet; relevance peaks around the anniversary."
+}
+}
+},
+{
+"tweet_id": "1685577856502382592",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Personal anecdote from a mid-tier user; likely to resonate within the community but limited reach."
+},
+"informative_value": {
+"score": 6,
+"justification": "Shares factual details about Ethereum's launch and evolution, offering some educational content."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Expresses excitement and pride, moderately positive."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevance peaks around the anniversary; may fade afterward."
+}
+}
+},
+{
+"tweet_id": "1685439864899047424",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "High-profile user making a claim about a solution; likely to be shared within the community but not a global meme."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides a claim about a solution to gas fees, but lacks verification or depth."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Tone is somewhat humorous and positive, but not strongly positive."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevance may persist as a discussion point but will likely fade over time."
+}
+}
+},
+{
+"tweet_id": "1684885679388471296",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Negative rant from a mid-tier user; may attract attention but limited reach."
+},
+"informative_value": {
+"score": 3,
+"justification": "Primarily an opinion; provides no new factual information."
+},
+"sentiment_polarity": {
+"score": 1,
+"justification": "Expresses frustration and disappointment, strongly negative."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Short-lived relevance; may be referenced for a few days to weeks."
+}
+}
+}
+]

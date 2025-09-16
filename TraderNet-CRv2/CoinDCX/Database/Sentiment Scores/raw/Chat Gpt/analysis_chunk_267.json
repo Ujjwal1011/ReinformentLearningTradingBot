@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1569750046106873857",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet announces a new NFT collection, which can generate interest within the NFT community, but it lacks a broader hook or emotional appeal, so it has medium virality potential."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "The tweet gives specific details about the NFT collection, such as supply, minting status, and upcoming technical details, providing useful information to interested followers."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet presents facts without expressing strong emotions, resulting in a neutral sentiment."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tweet will remain relevant for the duration of the collection's launch and early minting period, which is likely to span days or weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1569739402913644544",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet celebrates a major Ethereum upgrade and is posted by a prominent figure, making it likely to be widely shared and resonate emotionally with the crypto community."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "The tweet offers a positive opinion about the merge but does not provide new factual information or data."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tweet expresses strong excitement and congratulations, reflecting a very positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tweet will remain relevant for the period surrounding the merge and subsequent discussions, likely lasting days to weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1569683674643275777",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "The tweet provides a real-time update on the merge countdown, which is highly newsworthy and likely to be widely shared."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "The tweet gives a precise, verifiable count of blocks remaining, offering useful information to followers."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is purely informational with no emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The tweet is relevant until the merge occurs, which is a short-term event lasting a few days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1569553088981389313",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "The tweet offers a real-time estimate of the merge countdown, which is highly newsworthy and likely to be widely shared."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "The tweet gives a precise, verifiable estimate of the time remaining until the merge, providing useful information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is purely informational with no emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The tweet is relevant only until the merge occurs, which is a short-term event lasting a couple of days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1569414063075086338",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "The tweet is a personal admission of confusion, unlikely to be widely shared beyond the user's immediate followers."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "The tweet does not provide factual information; it merely expresses uncertainty."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "The tweet conveys fear and uncertainty about the merge, reflecting a negative sentiment."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "The tweet is relevant only for a brief period as people respond to the confusion, then it fades."
+      }
+    }
+  }
+]

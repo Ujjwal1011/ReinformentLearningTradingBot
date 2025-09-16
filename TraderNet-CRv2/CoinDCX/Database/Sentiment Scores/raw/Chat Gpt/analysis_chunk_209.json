@@ -1,0 +1,107 @@
+[
+{
+    "tweet_id": "1536472997405544449",
+    "analysis": {
+        "virality_potential": {
+            "score": 7,
+            "justification": "The tweet references a well-known media figure (Jim Cramer) and a dramatic 60% drop in Ethereum, making it appealing for sharing within crypto and finance communities, though its niche focus limits broader viral spread."
+        },
+        "informative_value": {
+            "score": 6,
+            "justification": "It conveys a notable price decline and contrasts it with a public prediction, providing factual information but lacking deeper context or sources."
+        },
+        "sentiment_polarity": {
+            "score": 3,
+            "justification": "The tweet notes a significant price decline, conveying a negative outlook without strong emotive language."
+        },
+        "duration_of_impact": {
+            "score": 4,
+            "justification": "The relevance is tied to the specific price movement and Cramer's comment, likely diminishing after the market stabilizes."
+        }
+    }
+},
+{
+    "tweet_id": "1536422225124814848",
+    "analysis": {
+        "virality_potential": {
+            "score": 5,
+            "justification": "The environmental angle on crypto emissions may attract interest in niche eco‑crypto circles but lacks broader appeal."
+        },
+        "informative_value": {
+            "score": 6,
+            "justification": "It presents an estimate linking the Ethereum crash to CO2 emissions saved, offering a data point though without citation."
+        },
+        "sentiment_polarity": {
+            "score": 5,
+            "justification": "The tone is mostly neutral with a slight positive spin on emissions reduction, lacking strong emotional language."
+        },
+        "duration_of_impact": {
+            "score": 6,
+            "justification": "Discussions about crypto’s environmental impact can persist, giving the tweet relevance beyond the immediate price dip."
+        }
+    }
+},
+{
+    "tweet_id": "1536414588828368899",
+    "analysis": {
+        "virality_potential": {
+            "score": 6,
+            "justification": "The combination of luxury bragging and crypto market commentary may be shared within crypto enthusiasts, but its niche nature limits wider spread."
+        },
+        "informative_value": {
+            "score": 3,
+            "justification": "The tweet is primarily a personal anecdote with minimal factual or educational content."
+        },
+        "sentiment_polarity": {
+            "score": 7,
+            "justification": "The tweet expresses excitement and pride about eating expensive caviar and calling crypto tops, reflecting a strong positive sentiment."
+        },
+        "duration_of_impact": {
+            "score": 4,
+            "justification": "It is tied to a specific market moment and personal experience, limiting its relevance after the event passes."
+        }
+    }
+},
+{
+    "tweet_id": "1536369486152060930",
+    "analysis": {
+        "virality_potential": {
+            "score": 7,
+            "justification": "A comprehensive list of major crypto price drops is highly shareable among investors and enthusiasts, though its appeal remains within the crypto niche."
+        },
+        "informative_value": {
+            "score": 8,
+            "justification": "Provides a concise snapshot of multiple cryptocurrency declines, delivering valuable data for market participants."
+        },
+        "sentiment_polarity": {
+            "score": 3,
+            "justification": "The content is largely negative due to the steep declines, though presented in a factual manner."
+        },
+        "duration_of_impact": {
+            "score": 5,
+            "justification": "While reflecting a specific market snapshot, the data may be referenced for weeks as a historical point, but relevance fades as prices change."
+        }
+    }
+},
+{
+    "tweet_id": "1536273066476589057",
+    "analysis": {
+        "virality_potential": {
+            "score": 8,
+            "justification": "From a high-profile commentator (Peter Schiff) with dramatic market figures and language, the tweet is likely to be widely shared across finance and crypto audiences."
+        },
+        "informative_value": {
+            "score": 9,
+            "justification": "Offers specific, up‑to‑date market statistics on Bitcoin, Ethereum, and total crypto market cap, providing high informational value."
+        },
+        "sentiment_polarity": {
+            "score": 2,
+            "justification": "The tweet conveys a strongly negative outlook, describing the market decline as \"most painful\"."
+        },
+        "duration_of_impact": {
+            "score": 6,
+            "justification": "Though tied to a specific market condition, the broader bearish analysis may remain relevant for weeks to months as the crypto market evolves."
+        }
+    }
+}
+]

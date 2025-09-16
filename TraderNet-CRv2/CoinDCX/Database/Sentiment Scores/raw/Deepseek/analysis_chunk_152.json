@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1644412401822097410",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Technical update about blockchain interoperability with Ethereum testnet, likely to be shared within crypto developer communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific instructions for testnet usage with actionable links and token minting details."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral technical announcement without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for developers during testnet phase, potentially weeks of engagement."
+      }
+    }
+  },
+  {
+    "tweet_id": "1644016993996247040",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High-stakes story about $1.7M stuck funds in zkSync contract, likely to spark widespread discussion in crypto communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Reports critical technical issue with blockchain infrastructure and includes contract analysis link."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative tone implied by highlighting funds being 'stuck forever' and platform limitations."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Could remain relevant until resolution, potentially weeks of technical discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1643884643525984257",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Project update with Ethereum integration details, moderate sharing potential within crypto circles."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific development updates and stats page integration information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral technical update without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Standard development update with 1-2 week relevance cycle."
+      }
+    }
+  },
+  {
+    "tweet_id": "1643818895604695043",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Niche technical comparison of validator economics, limited to crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Contains specific inflation metrics and network upgrade timeline for blockchain validators."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual comparison without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant until next week's inflation patch deployment."
+      }
+    }
+  },
+  {
+    "tweet_id": "1643481645133996032",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Provocative comparison between ETH and SOL could drive engagement through controversy."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Primarily opinion-based rant with limited factual content beyond transaction cost example."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Strong negative language ('absolute trash', '🤡', 'don't see how Ethereum has a future')."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term relevance as part of ongoing blockchain debates."
+      }
+    }
+  },
+  {
+    "tweet_id": "1641980557650452481",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "NFT sale announcement with moderate interest potential in crypto art communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Conveys specific sale price (11.1 ETH) for historical NFT transaction."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sales announcement without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Primarily relevant during active sale period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1641976775239675905",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "NFT migration tool announcement likely to spread within digital art communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides functional migration link and visual proof of process."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral technical announcement about platform migration."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant during initial migration period (1-2 weeks)."
+      }
+    }
+  },
+  {
+    "tweet_id": "1663784295670988802",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Airdrop announcement with multiple trending hashtags designed for maximum visibility."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides airdrop participation link but lacks specific details about token utility."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive promotional language ('Don't miss out', '✨', 'new possibilities')."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Time-sensitive airdrop with short-term engagement window."
+      }
+    }
+  },
+  {
+    "tweet_id": "1663626521821708288",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Live airdrop announcement with massive engagement metrics (10k+ retweets) and trending hashtags."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Clear eligibility check link but overloaded with unrelated hashtags reducing focus."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Enthusiastic promotional tone with urgency indicators ('🚨', 'LIVE!')."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Primarily relevant during active airdrop claiming period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1663618690061946881",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Near-identical to previous high-engagement airdrop tweet, leveraging crypto community FOMO."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Duplicate information about airdrop eligibility with minimal added value."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Consistently positive promotional language matching previous airdrop tweet."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Same short-term relevance as duplicate airdrop announcement."
+      }
+    }
+  }
+]

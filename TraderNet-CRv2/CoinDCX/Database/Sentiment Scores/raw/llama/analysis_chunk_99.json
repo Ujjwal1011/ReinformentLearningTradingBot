@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1520851538033348608",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet compares multiple cryptocurrencies, expresses a clear opinion, and uses a catchy phrase ('This isn't rocket science, folks'), making it likely to be shared within crypto communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides a brief, comparative analysis of cryptocurrencies, offering some insight but lacking in-depth information or newsworthy content."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The user expresses a moderately positive sentiment towards Bitcoin, contrasting it with negative views on other cryptocurrencies, but the tone is more informative than emotionally charged."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is tied to the current state of the mentioned cryptocurrencies, making its impact standard, lasting a day or two within the crypto community."
+}
+}
+},
+{
+"tweet_id": "1520813603758088192",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet promotes Ethereum's community ethos, which might resonate within the Ethereum community but lacks a broader, viral appeal."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet is more of a promotional statement for Ethereum's community spirit, offering minimal informative content."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The user expresses a very positive sentiment towards Ethereum's community, highlighting collaboration and collective improvement."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's impact is short-term, relevant for a few hours to a day, as it doesn't address a specific, long-term issue or announcement."
+}
+}
+},
+{
+"tweet_id": "1520806712256593925",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Similar to the first tweet, this comparison of cryptocurrencies, especially highlighting Bitcoin's consistency, could gain traction within specific communities."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet provides a neutral, comparative observation about the operational consistency of Bitcoin versus others, offering some insight but no in-depth analysis."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The user expresses a moderately positive sentiment towards Bitcoin, framed in a factual, comparative manner."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance and impact are standard, lasting about a day or two, as it comments on the current operational state of cryptocurrencies."
+}
+}
+},
+{
+"tweet_id": "1520782407963607041",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet's narrative about Yuga's developers and the announcement of a new ETH killer could spark interest within the crypto community, but its reach might be limited."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides some informative content by summarizing a situation with Yuga, their developers, and the implications, but lacks detailed analysis or primary sources."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The user expresses a very negative sentiment towards Yuga's developers and their actions, using critical language."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is somewhat short-term, tied to the immediate aftermath of Yuga's situation, but might see some extended discussion within niche communities."
+}
+}
+},
+{
+"tweet_id": "1520650322502643712",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "The tweet is a generic update about cryptocurrency and stock performance, lacking a strong hook for widespread sharing."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet provides some basic information about cryptocurrency and stock underperformance, with a link to more content, but doesn't offer in-depth analysis."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet maintains a neutral sentiment, simply presenting information without emotional tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's impact is somewhat short-term, relevant for a few days, as it discusses the upcoming month's potential performance in the crypto industry."
+}
+}
+},
+{
+"tweet_id": "1520621310002741248",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet's message about personal responsibility in cryptocurrency investments might resonate with some, but its appeal is not broadly viral."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet informs users about the inherent risks in Ethereum blockchain transactions, but the information is more cautionary than educative."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The user expresses a moderately negative sentiment, critiquing the tendency to blame others for one's investment decisions."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance and impact are standard, lasting about a day or two, as it comments on a general aspect of cryptocurrency investment."
+}
+}
+},
+{
+"tweet_id": "1520618758678667265",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The detailed critique of Yuga's apology and their handling of the situation could generate significant discussion within the crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides insightful, detailed information about Yuga's actions, their contract's optimization issues, and the implications, offering valuable context."
+},
+"sentiment_polarity": {
+"score": 1,
+"justification": "The user expresses a very negative sentiment towards Yuga's apology and actions, using strongly critical language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance could extend for several days, as it addresses a significant issue within the community that may see prolonged discussion."
+}
+}
+},
+{
+"tweet_id": "1520616316175929344",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet's direct criticism of Yuga Labs and their handling of the situation might spark engagement within the community, but its broader appeal is limited."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet informs about Yuga's release of a 'shitty unoptimized contract' and their subsequent blame-shifting, but lacks detailed analysis."
+},
+"sentiment_polarity": {
+"score": 1,
+"justification": "The user expresses an extremely negative sentiment towards Yuga Labs, using very critical and dismissive language."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's impact is somewhat short-term, relevant for a few days, as it reacts to a specific, immediate situation with Yuga Labs."
+}
+}
+},
+{
+"tweet_id": "1520613749119283200",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet's direct address to Yuga Labs, critiquing their need for a separate chain, might engage the community but lacks broader viral potential."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet provides a personal opinion on Yuga Labs' decision-making, offering minimal informative content."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The user expresses a very negative sentiment towards Yuga Labs' actions and decisions, using critical language."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance and impact are somewhat short-term, tied to the immediate discussion around Yuga Labs' announcements."
+}
+}
+},
+{
+"tweet_id": "1520612364839661568",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet's message of support and refund announcement from Yuga Labs is important for affected users but lacks viral appeal."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides direct, informative content about Yuga Labs' response to the situation, including a refund for affected users."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The user (Yuga Labs) expresses a very positive sentiment, apologizing and offering support to affected users, showing empathy."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance could extend for several days, as it addresses a significant issue and provides a direct response from Yuga Labs."
+}
+}
+} 
+]

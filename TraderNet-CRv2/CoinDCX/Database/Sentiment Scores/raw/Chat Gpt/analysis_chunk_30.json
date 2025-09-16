@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1443140175152902147",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Vitalik's high-profile status and the technical significance of the proposal make it likely to spread widely within the crypto community, though not necessarily beyond."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet directly announces a new account abstraction proposal with a link to the primary source, offering credible, newsworthy information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, presenting facts without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The proposal will remain relevant for months or years as it pertains to Ethereum's future development."
+      }
+    }
+  },
+  {
+    "tweet_id": "1443128662761492484",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The sensational claim about a market shift and the phrase 'ticking time bomb' can spark debate and sharing among crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "It provides a specific claim about Ethereum holdings, but lacks verification or supporting data."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "The tweet expresses concern and mild alarm, indicating a negative tone."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The claim may be relevant for a few weeks to months until market conditions change, giving it a standard lifespan."
+      }
+    }
+  },
+  {
+    "tweet_id": "1443103968314413056",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The claim that China banned major cryptocurrencies is sensational and could spread rapidly, especially among those following regulatory news."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet presents an unverified rumor, offering little factual content."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "The tweet conveys fear and uncertainty, reflecting a negative sentiment."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The rumor is likely to be short-lived, fading once clarified or disproved."
+      }
+    }
+  },
+  {
+    "tweet_id": "1442625005427232776",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The rhetorical question about Cardano replacing Ethereum can generate discussion within the crypto community, but its reach is limited."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet is speculative and does not provide factual information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral curiosity, neither positive nor negative."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The speculation may spark short-term conversation but will likely fade as new developments emerge."
+      }
+    }
+  },
+  {
+    "tweet_id": "1442572359634935808",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Price target lists are commonly shared among traders and can spread within the crypto community, though they may not go viral globally."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "The tweet offers speculative price targets without supporting evidence, so its informational value is low."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, simply asking for opinions."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The targets are relevant for a limited period until market conditions change, giving it a standard lifespan."
+      }
+    }
+  }
+]

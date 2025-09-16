@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1769126971294851141",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet lists popular meme coins and uses hashtags, which may attract retweets within crypto meme communities, but lacks a strong emotional hook or breaking news, limiting its viral reach."
+},
+"informative_value": {
+"score": 5,
+"justification": "Provides a list of meme coin tickers per blockchain, offering some factual information, but the claim of being the 'biggest' is opinion-based and not substantiated."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Encouraging tone ('you can’t go wrong') conveys moderate positivity toward buying meme coins."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Meme coin popularity is highly volatile; the advice is relevant only for the current cycle, likely fading within days."
+}
+}
+},
+{
+"tweet_id": "1768920062981750810",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The comparative claim about presales vs airdrops may spark discussion among crypto enthusiasts, but its niche focus and lack of broader relevance keep its viral potential moderate."
+},
+"informative_value": {
+"score": 3,
+"justification": "Makes vague statements about presales and airdrops without data or sources, offering little verifiable information."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The phrasing 'We are not the same' conveys a confrontational, mildly negative sentiment toward other platforms."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Tied to the current hype around memecoins; relevance is likely short-lived, lasting only a few hours to a day."
+}
+}
+},
+{
+"tweet_id": "1768700841316192699",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Promotes a game skin to a specific gaming audience; while it may be shared among fans, its appeal is limited and lacks a viral hook."
+},
+"informative_value": {
+"score": 6,
+"justification": "Announces the availability of an exclusive Vexa skin and provides a direct link to obtain it, delivering concrete product information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Enthusiastic language and emojis ('🌐', '🎮', '📦') convey a strong positive sentiment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The skin promotion can remain relevant for weeks as players consider acquiring it, giving it medium-term impact."
+}
+}
+},
+{
+"tweet_id": "1768622817631772910",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Framed as breaking news about $3.35 B in Bitcoin and Ethereum options expiring, it contains a high-stakes financial alert likely to be widely retweeted among traders."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides specific quantitative data on options expiry and warns of high volatility, offering valuable market information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is factual and urgent but not emotionally charged, resulting in a neutral sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The relevance peaks on the expiry day and diminishes shortly after, making its impact short-term."
+}
+}
+},
+{
+"tweet_id": "1768592268745667036",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Shares the same significant options expiry information as the previous tweet, though with less dramatic formatting, still likely to be circulated among finance followers."
+},
+"informative_value": {
+"score": 8,
+"justification": "Conveys the same specific data about $3.35 B worth of Bitcoin and Ethereum options expiring, providing high informational value."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "A straightforward 'JUST IN' announcement with neutral wording, resulting in a neutral sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Impact is tied to the same expiry event, making it relevant primarily on the day of expiry."
+}
+}
+}
+]

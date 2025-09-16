@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1589436227006394368",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet targets a high-profile figure and discusses a potential market event, which can resonate within crypto communities, but it lacks a broader hook for global virality."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "The tweet shares a specific claim about a market position, offering some factual detail, but it is unverified and lacks supporting evidence."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is a neutral request without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tweet could remain relevant for days or weeks as the market watches for the liquidation event, but it is not a timeless topic."
+      }
+    }
+  },
+  {
+    "tweet_id": "1589230417626157056",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "The tweet is a humorous question that may resonate with a niche audience but lacks a strong hook for widespread sharing."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet poses a hypothetical question without providing factual data or sources."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "The tweet conveys a mild negative sentiment about being broke, tempered by humor."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The tweet is a one-off humorous question that will likely fade after a day or two."
+      }
+    }
+  },
+  {
+    "tweet_id": "1588544890161577986",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet offers a comprehensive list of learning resources that can be shared within programming communities, giving it medium to high virality potential."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet provides actionable, credible learning resources for multiple programming languages, making it highly informative."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is factual and neutral, lacking strong emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The list of learning resources is evergreen and can be referenced for a long time."
+      }
+    }
+  },
+  {
+    "tweet_id": "1588272911177039873",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet shares a strong opinion on a hot topic, which can resonate within crypto communities, but it lacks a broader hook for global virality."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "The tweet expresses a personal opinion without providing verifiable facts or data."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "The tweet conveys a negative sentiment towards Bitcoin and a positive stance towards Ethereum, but overall the tone is moderately negative."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tweet could remain relevant for days or weeks as discussions about Ethereum vs Bitcoin continue, but it is not timeless."
+      }
+    }
+  },
+  {
+    "tweet_id": "1587806145250484226",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet announces a significant financial development that can attract broad interest, especially within crypto and finance communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "The tweet provides a clear, verifiable news update about a bank launching crypto trading, making it highly informative."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is a factual announcement without strong emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The tweet will remain relevant for weeks or months as people explore the new trading options, but it is not timeless."
+      }
+    }
+  }
+]

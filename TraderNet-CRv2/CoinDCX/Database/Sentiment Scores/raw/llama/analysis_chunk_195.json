@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1732170225003475225",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet has a moderately engaging tone with an 'expedition' theme, but its reach is likely limited to the specific communities interested in $PICA and blockchain gaming."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet is more promotional than informative, lacking specific details about the $PICA Adventure or its mission."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The user expresses excitement and anticipation with emojis (👀, 😎), indicating a very positive sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to the duration of the $PICA Adventure event, likely remaining relevant for a short period, possibly up to a week."
+}
+}
+},
+{
+"tweet_id": "1732170198814228864",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet's technical analysis of #USDT.D and potential impact on #BTCUSDT could generate interest within cryptocurrency trading communities, potentially leading to shares and discussions."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides specific, actionable technical analysis information, including potential trading signals, making it highly informative for its audience."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet maintains a neutral tone, focusing on analysis rather than expressing emotion, making its sentiment polarity neutral."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's analysis is relevant for a short term, as market conditions and prices change rapidly, reducing its impact over time."
+}
+}
+},
+{
+"tweet_id": "1732169178398834731",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet promotes a significant development in the blockchain space (Aurora on NEAR), which could attract shares and engagement from interested communities."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet clearly explains the benefits of Aurora, providing links to more information, making it highly informative for those interested in blockchain technology."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The tone is very positive, highlighting the advantages of using Aurora, indicating enthusiasm and optimism."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "As a foundational piece about a significant blockchain development, the tweet remains relevant for months, potentially generating long-term interest."
+}
+}
+},
+{
+"tweet_id": "1732169055321182363",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet's content, while engaging due to its predictive nature, is more of a personal reflection and less likely to go viral beyond the author's immediate followers."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet mentions several topics (Hex, Ethereum, AI, ETF, BTC) but lacks in-depth information, making it somewhat informative but mostly speculative."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The user expresses a positive sentiment, though with a hint of humor and a wish, maintaining an overall optimistic tone."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The relevance of the tweet is moderate, as it discusses both short-term market predictions and longer-term tech integrations, staying relevant for a couple of weeks."
+}
+}
+},
+{
+"tweet_id": "1732168628559106421",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet discusses a significant and broadly relevant topic (Ethereum's scalability and L2 solutions), potentially attracting shares from the crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides insightful analysis on Ethereum's scalability issues and the potential for L2 solutions, making it highly informative."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tone is moderately positive, focusing on future potential and solutions rather than current problems, indicating optimism."
+},
+"duration_of_impact": {
+"score": 9,
+"justification": "As the tweet addresses a fundamental issue in the Ethereum ecosystem, its relevance extends over months, as scalability remains a key concern."
+}
+}
+},
+{
+"tweet_id": "1732168570652463499",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet is instructional and specific to the PROOF Profile and ZkSync, limiting its virality to those directly interested in these platforms."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides clear, step-by-step instructions for navigating a specific process, making it highly informative for its target audience."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet maintains a neutral tone, focusing on providing instructions without expressing emotion."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance is moderate to long, as it provides evergreen instructions that remain useful until the platform undergoes significant changes."
+}
+}
+},
+{
+"tweet_id": "1732167759960707298",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet's criticism of Bankless and mention of Ethereum's underpricing might generate some engagement but is unlikely to go viral."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet mentions a 'fundamentals mismatch' but doesn't delve deeper, providing moderate informational value through its brief commentary."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The user expresses a very negative sentiment towards Bankless, using the phrase 'drain those tears', indicating strong negative emotions."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is short-lived, as it reacts to a potentially fleeting moment or statement from Bankless."
+}
+}
+},
+{
+"tweet_id": "1732167747537383568",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet's mixed feelings about the Ethereum ecosystem and criticism of the BTC ecosystem might engage some, but its reach is limited."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides some analysis comparing the two ecosystems, though the information is somewhat subjective and not deeply insightful."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "The user expresses a moderately negative sentiment, criticizing aspects of both ecosystems but still believing in Ethereum's potential."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is moderate, as opinions on ecosystem comparisons can remain relevant for a couple of weeks but don't typically generate long-term engagement."
+}
+}
+},
+{
+"tweet_id": "1732165640541351999",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet's discussion of a potential bull run for Layer 2 solutions could attract shares within the crypto community interested in Ethereum's scalability."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides some insightful commentary on the potential for a bull run and its implications for Ethereum, though it lacks detailed analysis."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tone is moderately positive, anticipating a bull run, but also mentions potential drawbacks (network congestion, high fees)."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "As the tweet speculates on market trends, its relevance can extend over several months, depending on the actual market performance."
+}
+}
+},
+{
+"tweet_id": "1732165276576133402",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "The tweet's technical correction about the Nakamoto Coefficient's origin is unlikely to generate widespread engagement beyond immediate followers."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides accurate, specific information about the Nakamoto Coefficient, correcting a misconception and offering a link for further reading."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet maintains a neutral tone, focusing on correcting information without expressing emotion."
+},
+"duration_of_impact": {
+"score": 9,
+"justification": "As the tweet corrects a factual inaccuracy, its relevance is long-term, as the correct information remains valuable over time."
+}
+}
+} 
+]

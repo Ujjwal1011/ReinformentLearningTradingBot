@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1470589832959299587",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet references high-profile brand purchases of NFTs, a trending topic that can resonate across crypto and mainstream audiences. The hook about Ethereum as the common denominator is likely to spark shares within communities, but it lacks a breaking news element, so it's medium."
+},
+"informative_value": {
+"score": 6,
+"justification": "It provides factual statements about brand acquisitions of specific NFT assets, giving readers concrete examples. However, it doesn't delve into deeper analysis or data, so it's moderately informative."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tone is mildly positive, indicated by the smiley face and neutral commentary. There's no strong emotional language, so it's moderately positive."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The relevance of brand NFT purchases will persist for weeks or months as the trend continues, but it will eventually fade. Thus, medium duration."
+}
+}
+},
+{
+"tweet_id": "1470561612474032128",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "A personal opinion about Bitcoin vs Ethereum is unlikely to go viral beyond the user's network. The content is niche and lacks a hook for broader audiences."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet is largely opinionated and doesn't provide verifiable facts or data, so it's low informative."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The tweet expresses negative sentiment toward Bitcoin, using words like 'can't justify' and 'digital pet rock', indicating a negative tone."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Personal opinions tend to lose relevance quickly, especially after the immediate context passes. Short-term impact."
+}
+}
+},
+{
+"tweet_id": "1470397114169630726",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "A thread titled 'The Definitive Timeline of Early NFTs on Ethereum V2' is likely to attract interest from NFT enthusiasts and historians. Threads can be widely shared, giving it medium-high virality."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet links to a comprehensive timeline, presumably containing factual historical data about early NFTs. This is high informative."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply announcing a thread."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Historical timelines remain relevant for a long time, as they provide foundational knowledge. Long duration."
+}
+}
+},
+{
+"tweet_id": "1470031228682256391",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Price target predictions are common and can be shared, but they are not breaking news. The tweet may get some traction within crypto communities."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet lists price targets, which are speculative forecasts. It's not highly informative, but provides some data."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, asking a question about bullishness."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Predictions become outdated after the year ends, so short-term relevance."
+}
+}
+},
+{
+"tweet_id": "1469812742408359940",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "A bold prediction about Ethereum reaching $20,000 in 2022 can spark discussion and shares, but it's not a breaking event."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet is a prediction, not factual. Low informative."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive tone, optimistic about Ethereum's price."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Prediction becomes irrelevant after 2022, so short-term."
+}
+}
+}
+]

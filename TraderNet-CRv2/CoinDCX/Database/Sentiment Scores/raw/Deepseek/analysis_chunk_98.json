@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1521556649294585857",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Announcement of a major university accepting cryptocurrencies is newsworthy and likely to be shared widely in crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific, actionable information about payment methods from a credible source."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for weeks/months as institutional crypto adoption remains a trending topic."
+      }
+    }
+  },
+  {
+    "tweet_id": "1521471900836372481",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Positive price commentary may resonate within crypto communities but lacks broader appeal."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Makes a subjective claim about Ethereum's value without supporting data."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Moderately positive tone about Ethereum's affordability."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term relevance tied to current crypto prices."
+      }
+    }
+  },
+  {
+    "tweet_id": "1521336041629941760",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Market analysis could spread within investment communities but lacks emotional hooks."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific data point about BTC holders with news link."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Moderately negative implications about market conditions."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant until market conditions change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1521199689403715588",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Significant banking sector crypto adoption news with international appeal."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific details about supported cryptocurrencies from a major financial institution."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of factual information."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Medium-term relevance for crypto adoption discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1521193787309056004",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Giveaway promotion likely to drive engagement through incentivized sharing."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Primarily promotional content without educational value."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Very positive tone with celebratory emojis and giveaway announcement."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term relevance limited to giveaway period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1521107439722151936",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Comparative blockchain analysis may spark debates within crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides current network performance comparison between blockchains."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Moderately positive about Cardano's performance."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant until network conditions change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1520966876016541696",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Record-breaking NFT sale figure likely to attract attention in crypto and art communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific financial data about NFT sale with news link."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of factual information."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Medium-term relevance as NFT market trends evolve."
+      }
+    }
+  },
+  {
+    "tweet_id": "1520871182593327104",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Technical community appeal limited to Ethereum users."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "General advice without specific data or news."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone offering collaboration."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term relevance tied to current network conditions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1520871166851878916",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Comparative blockchain criticism may spark debates."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Opinion-based comparison without new data."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Moderately negative towards Ethereum/Solana."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term relevance tied to network status."
+      }
+    }
+  },
+  {
+    "tweet_id": "1520862928395722760",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Common industry terminology with limited engagement drivers."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Opinion statement without supporting evidence."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral classification without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Standard lifespan for common industry commentary."
+      }
+    }
+  }
+]

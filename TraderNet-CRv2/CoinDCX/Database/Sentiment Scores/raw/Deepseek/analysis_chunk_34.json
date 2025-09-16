@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1462277275701833730",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Controversial statement about cryptocurrency dominance could spark debates within crypto communities, but lacks broader emotional hooks for mass virality."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Makes an unsupported claim about market dynamics without providing data or context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral declarative statement without clear positive/negative emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Part of ongoing 'flippening' debate that resurfaces periodically in crypto markets."
+      }
+    }
+  },
+  {
+    "tweet_id": "1462262941085061132",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Humorous take on crypto tribalism might get moderate engagement but lacks strong shareability drivers."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No factual content - purely commentary on community behavior."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Playful tone with implied optimism about price increases."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Tied to immediate market conditions and temporary community dynamics."
+      }
+    }
+  },
+  {
+    "tweet_id": "1462222041868689408",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Humorous fake announcement about Ethereum gas fees addresses a pain point many users relate to."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "Clearly satirical content with no factual information."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Playful tone masking frustration about ongoing technical issues."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Joke relevance expires quickly given Ethereum's actual development timeline."
+      }
+    }
+  },
+  {
+    "tweet_id": "1462215180067082241",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Bold price prediction with cheerleading tone likely to engage crypto communities."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Speculative prediction without supporting analysis or sources."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Strong positive sentiment with emphatic language and smiley emoticon."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Price predictions often remain reference points until either achieved or disproven."
+      }
+    }
+  },
+  {
+    "tweet_id": "1462212764202504196",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Critique of Ethereum's perceived hypocrisy could resonate widely in crypto circles."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Highlights important contradiction in Ethereum's value proposition with specific examples."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Frustrated tone criticizing platform functionality using hyperbolic figures."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Addresses fundamental criticism of Ethereum that remains relevant beyond immediate context."
+      }
+    }
+  },
+  {
+    "tweet_id": "1462158305351012355",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Engagement-bait tweet with retweet call-to-action and bold price predictions."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Speculative price targets presented as fact without analysis."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Extremely bullish language with multiple excitement markers."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Price predictions may be referenced until targets are reached or clearly missed."
+      }
+    }
+  },
+  {
+    "tweet_id": "1462116367239421956",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Technical analysis content has moderate shareability within crypto trading communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific price analysis with methodology explanation and data source."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral analytical tone with balanced discussion of upside and downside."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Tied to specific short-term market predictions for December 2021."
+      }
+    }
+  },
+  {
+    "tweet_id": "1462090579387559941",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Technical update about Ethereum dilution appeals to niche audience only."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Contains specific technical information about tokenomics and platform updates."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral technical explanation without clear positive/negative framing."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Technical changes to blockchain systems often have long-term implications."
+      }
+    }
+  },
+  {
+    "tweet_id": "1461932035245707270",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Industry commentary likely limited to Ethereum community discussions."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Opinion piece about ecosystem dynamics without new factual information."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Critical tone questioning others' motivations and integrity."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant until Layer 2 scaling solutions become mainstream reality."
+      }
+    }
+  },
+  {
+    "tweet_id": "1461810019087880196",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Price hype with multiple hashtags could generate moderate engagement."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Vague price prediction without analysis or context."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong bullish sentiment with enthusiastic language and emojis."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Tied to immediate price action that becomes outdated quickly."
+      }
+    }
+  }
+]

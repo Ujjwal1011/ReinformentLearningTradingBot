@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1560683605206220800",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet discusses a significant development in Ethereum, with the author announcing they're selling all their ETH due to concerns over government intervention. This could generate interest within the crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides insight into the author's reasoning for selling their ETH, mentioning specific concerns about Ethereum's development and government intervention."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The author expresses strong negative emotions towards Ethereum's current state, using phrases like 'I'm not waiting any longer'."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to the current state of Ethereum and the author's immediate decision, making its impact relatively short-term."
+}
+}
+},
+{
+"tweet_id": "1560665770816081920",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The tweet is a giveaway, which inherently encourages engagement (likes, retweets, tagging friends). The prizes are also clearly outlined, increasing appeal."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet informs about a giveaway but doesn't provide any substantial information beyond the rules to enter and the prizes."
+},
+"sentiment_polarity": {
+"score": 10,
+"justification": "The tweet expresses an extremely positive sentiment, indicated by the use of 😌 and the nature of a giveaway."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is limited to the duration of the giveaway, making its impact short-term."
+}
+}
+},
+{
+"tweet_id": "1560643202025136128",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet expresses an unpopular opinion about Ethereum's bottom price, which could spark discussion within the crypto community."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides a specific, albeit controversial, piece of information about Ethereum's potential bottom price."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet presents information in a neutral manner, without expressing strong emotions."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The relevance of the tweet is tied to Ethereum's market fluctuations, potentially remaining relevant for days or weeks as the market reacts."
+}
+}
+},
+{
+"tweet_id": "1560570981738958855",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet discusses significant concerns about Ethereum's future, regulatory capture, and decentralization, likely generating substantial discussion."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides in-depth analysis of Ethereum's problems, mentioning specific issues like regulatory capture and the impact of the Merge and POS."
+},
+"sentiment_polarity": {
+"score": 1,
+"justification": "The author expresses very negative sentiments towards Ethereum's current trajectory, using phrases indicating strong concern."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The tweet's themes of regulatory capture and Ethereum's long-term health could remain relevant for months."
+}
+}
+},
+{
+"tweet_id": "1560340754077306880",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet provides a list that might interest crypto enthusiasts, but it lacks a strong hook for broader virality."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet offers a clear, data-driven ranking of cryptocurrencies by Twitter followers, providing useful information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is presented in a neutral, factual manner without expressing any emotions."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to the snapshot date (18/AUG/2022), making its impact relatively short-term as the rankings change."
+}
+}
+},
+{
+"tweet_id": "1560271759328260130",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet is a giveaway with a unique NFT, encouraging engagement through likes, retweets, and tagging friends, which can spread within NFT communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet informs about a specific NFT giveaway, including its revolutionary features, but the details are somewhat brief."
+},
+"sentiment_polarity": {
+"score": 10,
+"justification": "The tweet expresses an extremely positive sentiment, evident from the nature of a giveaway and the use of 🏆 and 🎟."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is limited to the giveaway's duration, specifically until the mint date (August 22), making its impact short-term."
+}
+}
+},
+{
+"tweet_id": "1560068622621491201",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet criticizes Vitalik's stance on XRP, which could generate discussion within the crypto community, especially among XRP and Ethereum followers."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides context about Vitalik's opinion on XRP but lacks depth in explaining the underlying reasons or implications."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The author expresses strong negative sentiments towards Vitalik's take, calling it 'disappointing'."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is tied to the immediacy of the criticism, potentially remaining relevant for a few days as the community reacts."
+}
+}
+},
+{
+"tweet_id": "1560049658457513985",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet supports Ethereum people against regulations, which might spark some discussion but lacks a broad appeal."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet mentions a stance on regulations but doesn't delve into specifics, providing minimal new information."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The author expresses a moderately positive sentiment, supporting a group against perceived unfair regulations."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is somewhat tied to ongoing regulatory discussions, potentially remaining relevant for a few days or weeks."
+}
+}
+},
+{
+"tweet_id": "1560035176562016262",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet announces Yuga's intention regarding NFTs on the PoS ETH chain, which is relevant to a specific audience but may not broadly go viral."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet clearly states Yuga's position on recognizing NFTs post-merge, providing valuable information to those invested in Yuga's projects."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is presented in a neutral, informative manner without expressing any strong emotions."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet's relevance extends to the aftermath of the Ethereum merge, potentially remaining relevant for weeks or months as the community adjusts."
+}
+}
+},
+{
+"tweet_id": "1559972466402988037",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "The tweet shares a milestone about Ethereum name service registrations, which might interest Ethereum enthusiasts but lacks broad viral potential."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides a clear, data-driven update on the number of Ethereum name service registrations, offering useful information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is presented in a neutral, factual manner without expressing any emotions."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to the announcement of the milestone, making its impact relatively short-term."
+}
+}
+}
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1629234333327269891",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet shares a surprising fact about Ethereum's energy consumption drop, which is likely to resonate with both crypto and environmental audiences, making it highly shareable."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "It provides a specific, verifiable fact about Ethereum's energy consumption, offering useful information to readers."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet presents a factual statement without any emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The energy consumption drop is a permanent change, making the tweet relevant for a long period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1628793462786228226",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Major announcement from Coinbase CEO about a new L2, likely to be widely shared."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides new information about a significant product launch, offering context and potential impact."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone about economic freedom and scalability improvements."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The announcement will remain relevant for the launch period and beyond as the L2 is used, but the novelty may fade after a few months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1628761182386458626",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet contains hype about a new L2 and claims about user base, which may resonate within the crypto community but is unlikely to go globally viral."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "The tweet repeats claims about Coinbase's user base and L2 launch without providing verifiable sources, offering limited informational value."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive hype tone about Coinbase's launch and the future of banking."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The tweet's relevance is tied to the launch event and will likely fade within a few weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1628760201254903809",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Major product launch from Coinbase, likely to be widely shared."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides comprehensive information about the new L2, its benefits, and its target user base."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive excitement about the new L2 and its potential."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The announcement will remain relevant for the launch period and beyond as the L2 is used, but the novelty may fade after a few months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1628757265728536578",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Breaking news tweet from a well-known crypto community, likely to be shared within the community but not globally viral."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides new information about the L2 and its underlying stack, offering useful context."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive excitement about the new L2 and its deployment."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The tweet's relevance is tied to the launch event and will likely fade within a few weeks."
+      }
+    }
+  }
+]

@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1725513725187166439",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet announces a significant development in the crypto space, bridging two major platforms, which could generate substantial interest and sharing within the community."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides newsworthy information about a forthcoming bridge feature, including a link for further details, making it moderately informative."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tone is moderately positive, indicating excitement or anticipation for the teased feature without expressing strong emotions."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance will last for days or weeks, as the bridge's development and launch will be of ongoing interest to the crypto community."
+}
+}
+},
+{
+"tweet_id": "1725227252189704569",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The tweet promotes a free mint on Ethereum, encouraging engagement (follow, like, RT, comment) which can lead to high sharing rates within gaming and crypto communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "It informs about an upcoming event (the first free mint on Ethereum) but lacks detailed information, relying on the link for specifics."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tone is very positive, using 'Get ready' and '🔥', indicating high enthusiasm for the event."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is standard, generating interest until the event occurs, then fading."
+}
+}
+},
+{
+"tweet_id": "1725225075480154133",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The breaking news about Ethereum corruption could spark significant interest and sharing within the crypto community, though its reach might be limited to those already invested in Ethereum's internal affairs."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides newsworthy, detailed information about historical recordings related to Ethereum, including a link for further reading."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The tone is very negative, as it discusses 'corruption', which typically elicits strong negative emotions."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet's relevance will last for days or weeks, as the implications of the recordings will be discussed within the community."
+}
+}
+},
+{
+"tweet_id": "1725118908984648175",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Comparing Ethereum to Bitcoin and highlighting PulseChain's affordability might spark interest within the crypto community, but its viral potential is moderate."
+},
+"informative_value": {
+"score": 7,
+"justification": "It provides a comparison with specific figures, making a case for PulseChain, but the context is somewhat opinion-based."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tone is moderately positive, as the user presents a favorable view of PulseChain in comparison to others."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The discussion around transaction costs is evergreen in the crypto space, making the tweet's relevance last for months."
+}
+}
+},
+{
+"tweet_id": "1725113878596424059",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "News of BlackRock filing for a spot Ethereum ETF with the SEC is significant and likely to be widely shared within the financial and crypto communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides timely, newsworthy information about a major financial player's move into Ethereum, with a link for more details."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, simply reporting on the news without emotional language."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet's relevance will last for days or weeks, as the implications of the filing will be analyzed and discussed."
+}
+}
+},
+{
+"tweet_id": "1725112879429406851",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Similar to the previous tweet, this news about BlackRock's ETF filing is highly shareable within the crypto and finance sectors."
+},
+"informative_value": {
+"score": 8,
+"justification": "Conveys the same newsworthy information as the previous tweet, though in a slightly more concise manner."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, focusing on reporting the news without emotional tone."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The relevance of this tweet also lasts for days or weeks, similar to the previous one, due to the ongoing analysis of the ETF filing."
+}
+}
+},
+{
+"tweet_id": "1725063403948097604",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The strong negative stance against Ethereum and advocacy for Cardano might spark sharing within specific communities, but its overall viral potential is moderate."
+},
+"informative_value": {
+"score": 4,
+"justification": "While it mentions specific cryptocurrencies, the tweet's value lies more in expressing a personal opinion rather than providing informative content."
+},
+"sentiment_polarity": {
+"score": 1,
+"justification": "The tone is extremely negative towards Ethereum, using strong language to criticize it and advocate for Cardano."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is short, as it reflects a personal, fleeting opinion in the fast-paced crypto discourse."
+}
+}
+},
+{
+"tweet_id": "1724651439069282800",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Humorous content, especially memes, can be widely shared within the crypto community, though this tweet's reach might be somewhat limited."
+},
+"informative_value": {
+"score": 3,
+"justification": "Primarily entertains rather than informs, with minimal contextual information provided."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tone is moderately positive, as the humor is likely intended to poke fun rather than offend."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is short-lived, as memes typically have a brief window of popularity."
+}
+}
+},
+{
+"tweet_id": "1724588794387612138",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "A personal anecdote about onboarding experiences might not be highly shareable, limiting its viral potential."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides a personal, comparative analysis of user experiences with Solana and Ethereum, offering some insight."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tone is moderately positive, as the user prefers Solana's onboarding process and finds the Phantom wallet 'newbie friendly'."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The relevance of this tweet lasts for a standard period, as personal experiences can influence others for a while but then fade."
+}
+}
+},
+{
+"tweet_id": "1724452398276477003",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "News of a significant investment in Bitcoin and Ethereum by a major company can be widely shared across finance and crypto communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides newsworthy, detailed information about a substantial investment, indicating a significant development in the crypto space."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, focusing on reporting the investment news without emotional language."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet's relevance will last for days or weeks, as the implications of this investment will be analyzed and discussed."
+}
+}
+}
+]

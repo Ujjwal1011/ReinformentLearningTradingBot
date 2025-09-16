@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1516522731126378503",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Controversial comparison between crypto and traditional stocks could spark debates in financial communities, but lacks universal appeal."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Offers an opinion about investment choices without supporting data or actionable information."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Moderately negative tone towards Ethereum volatility, though not intensely emotional."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to current market conditions, likely fading with market changes."
+      }
+    }
+  },
+  {
+    "tweet_id": "1516444927680561167",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Newsworthy business adoption of crypto likely to be shared within blockchain communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides concrete information about payment method expansion from a verified account."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement without explicit emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant as a case study for crypto adoption in traditional businesses."
+      }
+    }
+  },
+  {
+    "tweet_id": "1516086433538269191",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Playful crypto meme may see moderate sharing but lacks broad appeal."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No substantive information beyond humorous personification."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Lighthearted, positive tone using 'naughty boys' teasing."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Meme content with transient relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1515721999737360388",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Controversial market prediction from industry figure likely to generate shares."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Reports expert opinion affecting market sentiment."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative forecast about crypto markets."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant through Q2 2022 prediction window."
+      }
+    }
+  },
+  {
+    "tweet_id": "1515099444198494217",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Visual metaphor might resonate in crypto communities but lacks viral hooks."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No substantive information beyond humorous comparison."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral metaphorical content without clear sentiment."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Meme content with short relevance cycle."
+      }
+    }
+  },
+  {
+    "tweet_id": "1514725585309761536",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Personal platform switch announcement with limited appeal."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Opinion statement without supporting rationale."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative implication towards Ethereum through rejection."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Personal opinion with transient relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1514522562482556933",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Technical update about Ethereum's transition could spark developer discussions."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific details about blockchain protocol changes from a core developer."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of development timeline."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Technical updates remain relevant through implementation phases."
+      }
+    }
+  },
+  {
+    "tweet_id": "1514281767905112065",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news about major blockchain event from influential account."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Critical update about Ethereum network upgrade timeline."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative implication through delay announcement."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Remains relevant through Q3 development period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1514272446186233857",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "High-value NFT transaction notable in crypto art communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Records specific market activity with transaction details."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of marketplace activity."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Single transaction record with ephemeral relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1514256013800751113",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major protocol update announcement likely to be widely shared in crypto spaces."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Concrete timeline update about Ethereum's consensus mechanism change."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement of development timeline."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Remains relevant through Q3 implementation period."
+      }
+    }
+  }
+]

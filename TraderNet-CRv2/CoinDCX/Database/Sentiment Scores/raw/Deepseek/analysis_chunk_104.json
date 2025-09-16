@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1537158104114249729",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The comparison between traditional finance and crypto markets has strong community appeal and uses a memorable hook ('lol you pick'), making it shareable within crypto circles."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides a factual market cap comparison but lacks deeper analysis or actionable insights beyond surface-level observation."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Moderately positive tone with phrases like 'bear market is a gift,' indicating opportunistic optimism."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to current market conditions; impact diminishes with price fluctuations."
+      }
+    }
+  },
+  {
+    "tweet_id": "1537036424507432960",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Strong narrative contrasting crypto market cycles appeals to enthusiasts, though lacks viral hooks like visuals or humor."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Offers historical context and ecosystem progress analysis, valuable for understanding market phases."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone with factual comparisons; cautious optimism ('I’m not [fearful] now') lacks strong emotional valence."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant as long as crypto market structure comparisons hold validity."
+      }
+    }
+  },
+  {
+    "tweet_id": "1536782366932250625",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Meme-style format ('we are not the same') has shareability but limited to niche crypto humor communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "No substantive information beyond price-point bragging rights."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral competitive tone without overt positivity/negativity."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Ephemeral humor tied to specific price levels loses relevance quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1536614407580569600",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Environmental impact angle combines crypto and climate discourse, appealing to broader audiences beyond finance."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Quantifies emissions reductions with credible comparisons (Austria, EVs), supported by linked data."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual presentation of environmental benefits without overt emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Energy discourse remains relevant for weeks/months in climate conversations."
+      }
+    }
+  },
+  {
+    "tweet_id": "1536492361420636160",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Public figure criticism (Jim Cramer) combined with ironic price data drives engagement across finance communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Documents market prediction inaccuracy but lacks broader market context."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Implied criticism through contrasting claims and outcomes conveys negative sentiment."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance lasts until next major Cramer prediction or market reversal."
+      }
+    }
+  },
+  {
+    "tweet_id": "1536472997405544449",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Simplified version of previous Cramer critique benefits from meme-style conciseness."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Repeats basic price data without additional analysis."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Schadenfreude tone regarding failed prediction conveys mild negativity."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term relevance similar to related Cramer-focused tweets."
+      }
+    }
+  },
+  {
+    "tweet_id": "1536422225124814848",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Controversial comparison between crypto energy waste and transportation utility sparks debate."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific emissions metrics and critical analysis of blockchain utility."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of data with implied criticism through comparative framing."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Energy discourse persists as long as Proof-of-Waste remains topical."
+      }
+    }
+  },
+  {
+    "tweet_id": "1536414588828368899",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Brags about market timing with luxury imagery; appeals to crypto 'alpha' culture but lacks broad appeal."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No substantive information beyond personal boasting."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Strong positive sentiment through success narrative and luxury display."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Ephemeral flex tied to specific market conditions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1536369486152060930",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Data-rich list of crypto drawdowns satisfies market participants' need for consolidated information."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides comprehensive asset-specific decline metrics but lacks source attribution."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of bear market data without explicit commentary."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains referenceable until significant price recoveries occur."
+      }
+    }
+  },
+  {
+    "tweet_id": "1536273066476589057",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Market milestone ($1T breach) from notable figure (Peter Schiff) attracts broad attention across finance communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Contextualizes current prices within historical market cap trajectory with expert commentary."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Pessimistic tone ('most painful') conveys negative market outlook."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant as long as the $1T threshold remains psychologically significant."
+      }
+    }
+  }
+]

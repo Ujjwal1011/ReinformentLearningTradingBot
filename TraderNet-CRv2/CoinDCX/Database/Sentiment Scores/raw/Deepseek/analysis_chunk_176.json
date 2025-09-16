@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1732360546672844928",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Uses engaging emojis and promises hidden features, likely to attract crypto enthusiasts but limited to niche communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Explains specific portfolio management features but lacks broader educational context."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Enthusiastic tone with multiple fire emojis and positive reinforcement."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Product features remain relevant until platform updates, maintaining medium-term interest."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732359417482362975",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Capitalized text and altseason prediction likely to resonate strongly in crypto communities."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Makes market predictions without supporting data or sources."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Extremely bullish language with rocket emoji conveying excitement."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Tied to volatile market movements that could change within days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732357739240718462",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "SIWE integration news relevant to Ethereum developers but limited mainstream appeal."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Announces specific platform integration with credible mention of Shopify."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement tone with slight excitement (eye emoji)."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Ethereum ecosystem developments maintain relevance for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732347256094040166",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Airdrop announcements typically generate buzz in crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Detailed thread about tokenomics and technical partnerships."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive framing of upcoming launch opportunities."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Airdrop events maintain relevance until distribution completion."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732339145073164631",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Educational content valuable for developers but not inherently viral."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Comprehensive explanation of Starknet's technical architecture."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral educational tone without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Core protocol explanations remain relevant long-term."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732333362432598290",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Incomplete NFT guide without novel insights, unlikely to spread widely."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Basic introductory content cut short before completion."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral instructional tone without emotional valence."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Basic guides have standard relevance lifespan."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732328789911261223",
+    "analysis": {
+      "virality_potential": {
+        "score": 10,
+        "justification": "Extremely high engagement metrics suggest viral traction across crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Announces major platform milestones with specific user numbers."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Highly positive language about decentralized future and growth."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Network launches and exchange listings create sustained interest."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732321019778724333",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Vietnamese-language technical analysis limits global reach."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Compares Layer 2 fees with upcoming Ethereum upgrades."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive assessment of zkSync's advantages."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Fee comparisons become outdated with network upgrades."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732318081769185619",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Concise market prediction format popular in crypto circles."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Lacks fundamental analysis or data to support prediction."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Extremely bullish sentiment with rocket emoji."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Price predictions become irrelevant once market moves occur."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732308278259188112",
+    "analysis": {
+      "virality_potential": {
+        "score": 2,
+        "justification": "Vietnamese-language whale alert with limited engagement."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Reports specific on-chain transaction but lacks broader context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of transaction facts."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Single transactions lose relevance quickly unless part of larger trend."
+      }
+    }
+  }
+]

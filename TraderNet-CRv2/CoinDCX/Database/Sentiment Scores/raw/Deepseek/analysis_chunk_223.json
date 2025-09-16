@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1762515545356718194",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Product launch announcements in crypto communities often gain medium traction, but lack a viral hook beyond the target audience."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Directly announces a new Ethereum marketplace with a functional link, providing actionable information for crypto users."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone focused on platform expansion, though not emotionally charged."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Marketplace relevance lasts weeks as users explore the new platform, but superseded by future updates."
+      }
+    }
+  },
+  {
+    "tweet_id": "1762493455270613278",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Mix of crypto commentary and personal anecdotes lacks focus for broad sharing, though some relatability in market optimism."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Contains unsubstantiated market claims mixed with personal updates, offering minimal factual content."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong positive sentiment through phrases like 'good day' and success imagery across multiple domains."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Tied to daily market movements and personal experience, relevance expires within 24 hours."
+      }
+    }
+  },
+  {
+    "tweet_id": "1762323592895742373",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Specific royalty changes interest NFT communities, but limited appeal beyond crypto creators/collectors."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides exact percentage reductions and duration for royalty policy changes, relevant to NFT ecosystem."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement tone focused on policy changes without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "69-day policy window creates medium-term relevance for transaction decisions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1761940624083657089",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Speculative price predictions common in crypto circles but lack novel analysis for wider sharing."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Unsubstantiated multiplier predictions without data sources or analysis framework."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral comparison of asset classes without explicit emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Price predictions become irrelevant within days as markets fluctuate."
+      }
+    }
+  },
+  {
+    "tweet_id": "1761804473049969087",
+    "analysis": {
+      "virality_potential": {
+        "score": 2,
+        "justification": "Personal rant in Spanish with niche cultural references limits sharing potential."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "No substantive information beyond personal frustration and unrelated Ethereum price mention."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Strong negative emotions expressed through phrases like 'puteadas' and conflict description."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Context-specific argument loses relevance immediately after reading."
+      }
+    }
+  },
+  {
+    "tweet_id": "1761497328479772735",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Strategic partnership announcement likely to circulate within NFT communities through shared interests."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Details a first-of-its-kind tokenized physical collectible launch with clear platform implications."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive excitement conveyed through 'excited to announce' and partnership emojis."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Ongoing marketplace preference creates weeks-long relevance for collection launches."
+      }
+    }
+  },
+  {
+    "tweet_id": "1761453894880710922",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Breaking news about ETF approval has high shareability across financial and crypto communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Major regulatory development with market-moving implications from apparent official source."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Extremely positive tone implied by breaking news format and all-caps emphasis."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "ETF approvals have multi-year market structure impacts and ongoing analysis."
+      }
+    }
+  },
+  {
+    "tweet_id": "1761333316966564271",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Security warnings gain moderate traction in crypto communities but lack viral hooks."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides actionable cybersecurity advice about protecting sensitive crypto information."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative framing focusing on hacker threats and potential harm."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Evergreen security advice remains relevant but competes with similar warnings."
+      }
+    }
+  },
+  {
+    "tweet_id": "1761088692666646908",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "CEO statement on ETF likelihood drives speculation and sharing across investment communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Quotes authoritative source on significant regulatory development timeline."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of executive commentary without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Remains relevant until ETF decision date, then archived as prediction record."
+      }
+    }
+  },
+  {
+    "tweet_id": "1760766212479353059",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Corporate crypto adoption news attracts broad interest across tech and finance sectors."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Documents specific treasury strategy by major tech company with future intent."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of corporate financial decisions without value judgment."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Remains relevant for quarterly financial analyses and crypto adoption case studies."
+      }
+    }
+  }
+]

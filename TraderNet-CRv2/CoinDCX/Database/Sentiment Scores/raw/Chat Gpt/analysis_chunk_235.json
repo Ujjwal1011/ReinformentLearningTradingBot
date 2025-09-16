@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1565030915348303873",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet comes from a large, influential account and addresses a key Ethereum scaling event, which can resonate within the crypto community, but it lacks a strong emotional hook or meme, limiting broader viral spread."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It is a primary source announcement confirming the completion of Nitro migration, providing concrete, verifiable information about on-chain activity resumption."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tone is appreciative and positive, thanking the community and expressing gratitude, which conveys a moderately positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The announcement remains relevant for discussions about Ethereum scaling and Nitro usage for several weeks, but its urgency diminishes after the migration is fully integrated."
+      }
+    }
+  },
+  {
+    "tweet_id": "1564841463736782848",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Vitalik Buterin is a high-profile figure; a claim about a forthcoming book can spark widespread interest and sharing across crypto and tech audiences, giving it high viral potential."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "The tweet reports a rumor about a new book, offering some informational content, but it is not verified and lacks supporting evidence, so its informative value is moderate."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral in tone, simply stating a fact without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The relevance of the tweet lasts until the book is released, which could be months away, giving it a moderate duration of impact."
+      }
+    }
+  },
+  {
+    "tweet_id": "1564607992548540422",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "A personal reflection without a hook or broader relevance is unlikely to be widely shared, resulting in low virality potential."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "The tweet contains no factual or newsworthy content, merely a personal thought, so its informative value is very low."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, expressing a simple thought without emotional emphasis."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "The tweet's relevance fades quickly as it is tied to a fleeting personal moment, giving it a very short duration of impact."
+      }
+    }
+  },
+  {
+    "tweet_id": "1564458813616295937",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The reminder targets a large audience of Ethereum users and includes actionable advice, which can encourage sharing within the community, but it is not a sensational hook, so virality is moderate."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It provides a clear, actionable reminder about the merge and hard fork dates, making it highly informative for users needing to update clients."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral and factual, with no emotional language."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The tweet is relevant only until the hard fork date, after which its urgency drops, resulting in a short duration of impact."
+      }
+    }
+  },
+  {
+    "tweet_id": "1564339850735718406",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The sensational claim about Steve Aoki profiting from an NFT, combined with attention-grabbing emojis, can prompt widespread sharing, giving it high viral potential."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet makes an unverified claim without evidence, so its informational value is low."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet conveys a positive tone, celebrating profit, which is moderately positive."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The claim may generate interest for a few weeks but will likely fade after the initial buzz, giving it a short duration of impact."
+      }
+    }
+  }
+]

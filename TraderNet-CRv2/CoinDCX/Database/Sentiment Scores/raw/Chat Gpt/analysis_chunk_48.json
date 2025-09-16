@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1453815996641419281",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet taps into the hot debate over the Metaverse, contrasting Ethereum's open ethos with Facebook's closed approach, which resonates with crypto enthusiasts and can be shared widely within that community, though it lacks broader mainstream hooks."
+},
+"informative_value": {
+"score": 4,
+"justification": "It offers a perspective rather than new factual data or statistics; it does not present verifiable information, resulting in limited informative value."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The language is optimistic about Ethereum and critical of Facebook, conveying a hopeful and supportive tone, leading to a moderately positive sentiment."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The discussion about the Metaverse and the Ethereum vs. Facebook rivalry is likely to stay relevant for several months as the technologies develop, giving the tweet a medium‑long impact."
+}
+}
+},
+{
+"tweet_id": "1453783119123845124",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The personal story of quitting a job for crypto may resonate with the crypto community, but its appeal is limited to that niche and lacks a broader hook, resulting in moderate sharing potential."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet provides only a vague reference to Bitcoin's price swing and a generic claim about Ethereum awareness, offering minimal factual content."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The author expresses excitement about joining crypto while also showing mild frustration that others are unaware of Ethereum, leading to an overall neutral tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "As a personal announcement tied to a specific career change, its relevance is likely to fade within days, giving it a short impact duration."
+}
+}
+},
+{
+"tweet_id": "1453591691194257410",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet uses a humorous, meme‑style progression of crypto hype that can resonate with crypto enthusiasts, giving it decent shareability within that niche, though it lacks broader appeal."
+},
+"informative_value": {
+"score": 2,
+"justification": "It contains no factual data or news, only speculative statements and a self‑deprecating joke, resulting in very low informative value."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The self‑deprecating claim of 'Losing everything' conveys a negative outcome, though presented humorously, leading to a moderately negative tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "As a meme about speculative trading, its relevance is likely to be brief, fading after the immediate conversation, giving it a short impact period."
+}
+}
+},
+{
+"tweet_id": "1453559178501312512",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet poses a straightforward poll about Bitcoin vs. Ethereum performance, which can encourage replies and shares among crypto followers, giving it moderate viral potential within that community."
+},
+"informative_value": {
+"score": 3,
+"justification": "It does not provide any data or analysis, merely soliciting opinions, resulting in low informative value."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The content is a neutral inquiry without emotive language, leading to a neutral sentiment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Discussions about long‑term performance can persist for several weeks, giving the tweet a medium‑term relevance."
+}
+}
+},
+{
+"tweet_id": "1453083017174474761",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Bold price predictions for major cryptocurrencies tap into widespread interest and speculation, making the tweet highly shareable within the crypto community and potentially beyond, resulting in high virality potential."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet offers speculative price targets without supporting data or factual reporting, providing minimal informative value."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The enthusiastic language and celebratory emoji convey strong positive excitement about the predicted outcomes."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "While the predictions may spark discussion for several days or weeks, they quickly become outdated as market prices change, limiting the tweet's long‑term relevance."
+}
+}
+}
+]

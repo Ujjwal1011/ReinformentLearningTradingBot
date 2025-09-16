@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1732052415363621015",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet announces a new bridging feature from a well-followed DeFi platform, likely to be shared within the Ethereum and Solana communities. The high engagement and large follower base support a medium-high virality potential."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "It provides concrete details about bridging ETH, WETH, WBTC to Solana with zero slippage, which is useful for users. However, it is a product announcement rather than in-depth news, so it is moderately informative."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral to mildly positive, focusing on the feature rather than emotions."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The announcement will remain relevant as users adopt the bridge, likely sustaining interest for weeks to months, giving it a medium duration."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732049006463701445",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "The tweet is a typical hype post with emojis and a presale link. While it may attract some retweets from the crypto community, it lacks a unique hook or breaking news, resulting in a low virality potential."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "It mainly promotes a presale with no factual details beyond hype, so it offers minimal informative value."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tone is strongly positive and enthusiastic, using multiple fire emojis and hype language, indicating a very positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The presale hype is time-sensitive and will likely fade quickly after the presale ends, giving it a short duration of impact."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732048708047360432",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet announces a significant update from a well-known layer-2 solution, likely to be shared within the Ethereum and zkSync communities, giving it a medium virality potential."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "It provides concrete details about fee reduction and upcoming rewards, offering useful information to users."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral, simply stating facts about the update."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The update will remain relevant as users experience lower fees and await rewards, sustaining interest for weeks, giving it a medium duration."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732048681967444168",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet highlights a major update to a privacy-focused DeFi protocol, likely to be shared within the privacy and DeFi communities, giving it medium virality potential."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "It provides details about the new architecture and invites users to read more, offering useful information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral, presenting facts about the update."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The update will remain relevant as users explore the new features, sustaining interest for weeks, giving it a medium duration."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732047225562583159",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "The tweet is a personal announcement about an auction, unlikely to spread widely beyond the user's followers, giving it low virality potential."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "It provides minimal factual information about an auction, so its informative value is limited."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tone is warm and enthusiastic, expressing positivity and community building, resulting in a moderately positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The auction ends within 24 hours, so the tweet's relevance will fade quickly, giving it a short duration."
+      }
+    }
+  }
+]

@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1538252846403035138",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet uses a call-to-action and popular hashtags, which can drive engagement within the crypto community."
+},
+"informative_value": {
+"score": 4,
+"justification": "It's a subjective opinion without detailed information, but the hashtags provide context."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Expresses hope for market recovery, a positive sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days as market conditions change."
+}
+}
+},
+{
+"tweet_id": "1538178152358457344",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Breaking news with a link, likely shared among crypto enthusiasts."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides specific price data, valuable for investors."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "Negative due to price drops, but factual."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Impact lasts a day as prices fluctuate."
+}
+}
+},
+{
+"tweet_id": "1538146985345093632",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Detailed price info, engaging for traders."
+},
+"informative_value": {
+"score": 7,
+"justification": "Includes percentages, useful for analysis."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "Negative due to market downturn."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days."
+}
+}
+},
+{
+"tweet_id": "1538092349783429120",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Criticism of media, can spark debate."
+},
+"informative_value": {
+"score": 6,
+"justification": "Points out media bias, but opinion-based."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "Strongly negative towards CNBC."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Impact lasts a few days if it trends."
+}
+}
+},
+{
+"tweet_id": "1538072054494375937",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Technical analysis, appeals to traders."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides chart analysis, useful for investors."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive, confident in analysis."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Impact lasts a few days."
+}
+}
+},
+{
+"tweet_id": "1538053229870731265",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Significant milestone, likely widely shared."
+},
+"informative_value": {
+"score": 9,
+"justification": "Important price point, valuable info."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "Negative due to price drop."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days."
+}
+}
+},
+{
+"tweet_id": "1537861363233656832",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Shows blockchain efficiency, can engage tech community."
+},
+"informative_value": {
+"score": 8,
+"justification": "Illustrates Ethereum's benefits with real data."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Positive, highlights advantages."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Long-term relevance for blockchain discussion."
+}
+}
+},
+{
+"tweet_id": "1537421727625580545",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Announcement of a new product, likely shared among crypto users."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides details on a new stablecoin."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, factual announcement."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Impact lasts a week as people discuss the launch."
+}
+}
+},
+{
+"tweet_id": "1537410558089211904",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Quote from a founder, likely widely shared."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides insights from a key figure."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, presenting an opinion."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Long-term relevance for crypto discussions."
+}
+}
+},
+{
+"tweet_id": "1537371918495625216",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Engaging question, sparks opinions."
+},
+"informative_value": {
+"score": 6,
+"justification": "Raises investment question, no detailed info."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive, shows confidence."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Impact lasts a few days as discussions continue."
+}
+}
+}
+]

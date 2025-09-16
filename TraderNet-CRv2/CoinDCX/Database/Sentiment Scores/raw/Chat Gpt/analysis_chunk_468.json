@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1768318142466658497",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet is a positive shout-out to Ethereum devs, likely to resonate within the crypto community and receive retweets from followers, but it lacks a meme or breaking news hook that would drive global virality."
+},
+"informative_value": {
+"score": 7,
+"justification": "It announces the shipping of EIP-4844, a factual technical upgrade, providing clear news value to readers."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tone is enthusiastic and celebratory, expressing strong positive sentiment."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet will remain relevant for a few weeks as people discuss the upgrade, but it will eventually fade."
+}
+}
+},
+{
+"tweet_id": "1768313648982753629",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "An announcement of a successful upgrade to Metis Mainnet is newsworthy within the crypto space and can be shared by community members, but it is not a meme or global breaking news."
+},
+"informative_value": {
+"score": 7,
+"justification": "It provides factual information about the upgrade and the introduction of a decentralized sequencer."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet is celebratory and optimistic about the future of Layer 2s."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The upgrade will be discussed for some time, but the tweet will eventually lose relevance."
+}
+}
+},
+{
+"tweet_id": "1768292467739414582",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The warning about L2 security may prompt shares among concerned users, but it lacks a sensational hook."
+},
+"informative_value": {
+"score": 6,
+"justification": "It highlights potential risks of L2s, offering useful cautionary information."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The tone is negative, warning users about security risks."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The security concerns will remain relevant for a while as discussions continue."
+}
+}
+},
+{
+"tweet_id": "1768290377382138001",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "A rumor about Dencun on PulseChain could spark interest, but it is not verified news."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet is speculative and not backed by evidence, offering limited factual value."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, presenting a rumor and a question."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The rumor may be discussed for some time but will fade once clarified."
+}
+}
+},
+{
+"tweet_id": "1768283768048193744",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The bragging about PulseChain liquidity and fees may resonate with users, but it is not a meme or global news."
+},
+"informative_value": {
+"score": 6,
+"justification": "It provides comparative data on liquidity and gas fees, offering some useful information."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet is enthusiastic and positive about PulseChain."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The data will be relevant for a while but will eventually become outdated."
+}
+}
+}
+]

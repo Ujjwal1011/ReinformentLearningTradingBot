@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1360348542892732416",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The question invites engagement within the crypto community, but lacks a broader hook or emotional content that would drive widespread sharing."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet is a simple question with no factual information or context."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply asking a question without expressing strong emotions."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is limited to the immediate conversation and likely fades after the discussion ends."
+}
+}
+},
+{
+"tweet_id": "1359503393975328775",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The data-driven list may interest some followers but lacks a compelling hook for broad viral sharing."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides a comprehensive snapshot of year-over-year price changes across multiple assets, offering valuable factual insight."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, presenting data without emotional language."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The historical data remains relevant for a few months as a reference but will gradually lose immediacy."
+}
+}
+},
+{
+"tweet_id": "1359484612481863681",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "It's a personal anecdote with limited broader appeal, unlikely to spark widespread sharing."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet shares a personal transaction detail but offers little broader informational content."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The user expresses gratitude, indicating a moderately positive tone."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "The tweet is tied to a single transaction and will not remain relevant beyond the immediate context."
+}
+}
+},
+{
+"tweet_id": "1359423449786175496",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The question targets the BSC community and could generate engagement, but it lacks a broader hook for mass virality."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet poses a question and provides a brief context but does not deliver new factual information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply stating a fact and asking a question."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is tied to the ongoing discussion and will fade after the conversation ends."
+}
+}
+},
+{
+"tweet_id": "1359347606183313414",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "A high-profile announcement from Binance's CEO about a significant market shift is likely to be widely shared across the crypto community and beyond."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet delivers a factual update about BSC surpassing Ethereum in daily transactions, a noteworthy event with industry implications."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses optimism and gratitude, reflecting a moderately positive tone."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The milestone is significant and will remain relevant for months as a reference point for the evolving crypto ecosystem."
+}
+}
+}
+]

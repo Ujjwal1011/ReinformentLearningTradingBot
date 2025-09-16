@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1318898980026118145",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet announces PayPal's integration of crypto payments, a major development that appeals to both crypto enthusiasts and mainstream finance audiences, making it highly shareable beyond the author's followers."
+},
+"informative_value": {
+"score": 8,
+"justification": "It provides factual news about PayPal enabling BTC, ETH, and other cryptocurrencies for merchant payments, with a link to the source, offering high newsworthiness."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tone is enthusiastic and welcoming, celebrating the partnership between PayPal and the Ethereum ecosystem."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The integration is a significant step for crypto adoption and will remain relevant for months to years as it influences payment behavior and market perception."
+}
+}
+},
+{
+"tweet_id": "1318636297070825475",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet makes a striking claim about Bitcoin and Ethereum's electricity consumption compared to a country, which is likely to spark debate and be widely shared within environmental and crypto circles."
+},
+"informative_value": {
+"score": 6,
+"justification": "It presents specific energy consumption figures and a link, offering data that is informative but may be oversimplified or lacking context."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The language is critical of crypto's energy use, expressing concern and a negative viewpoint."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Energy consumption debates are ongoing, so the tweet may stay relevant for weeks to months as part of broader discussions."
+}
+}
+},
+{
+"tweet_id": "1318617260269895683",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The suggestion to segment the crypto market is thoughtful but lacks a strong hook, making it likely to be shared modestly among analysts rather than going viral."
+},
+"informative_value": {
+"score": 6,
+"justification": "It proposes a concrete analytical framework and includes a link, providing useful information for market participants."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral to mildly positive, offering a constructive recommendation without strong emotional language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "If adopted, the segmentation approach could influence analysis for months, though it is not a landmark event."
+}
+}
+},
+{
+"tweet_id": "1316506694839685125",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "A direct quote from the CFTC Chairman praising Ethereum is a high-profile endorsement that is likely to be widely shared across crypto and financial media."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet conveys a primary-source statement from a regulator, providing highly credible and newsworthy information."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The content is strongly positive, celebrating the regulator's admiration for Ethereum."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Regulatory endorsement can shape perception of Ethereum for years, giving the tweet long-lasting relevance."
+}
+}
+},
+{
+"tweet_id": "1316089530584240129",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The announcement of MetaMask Swaps is a notable product update for a large user base, likely to be shared within crypto communities but not beyond."
+},
+"informative_value": {
+"score": 7,
+"justification": "It informs users about a new feature, its availability, and provides a link for more details, offering clear and useful information."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet uses celebratory language and emojis, expressing strong positive excitement about the launch."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The feature will remain relevant for months as users adopt it, but it is not a timeless development."
+}
+}
+}
+]

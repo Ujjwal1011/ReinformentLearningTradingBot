@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1467656540706553859",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Provocative comparison between Bitcoin, gold, and Ethereum that can spark debate within crypto communities; user has large following, but content is niche, so medium-high virality potential."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Opinion-based claim without supporting data; minimal factual content."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone, no strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a few days to weeks; once the discussion resolves, it may fade."
+      }
+    }
+  },
+  {
+    "tweet_id": "1467387511743954950",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Speculative prediction that can attract attention within crypto community; user has large following; but not breaking news."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Opinion-based prediction without supporting evidence."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Optimistic tone about future price."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Potentially relevant for weeks as people discuss the prediction; eventually fades."
+      }
+    }
+  },
+  {
+    "tweet_id": "1467188362167480322",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Philosophical statement that can resonate with community but not necessarily go viral."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Opinion-based statement; no new factual info."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone praising Ethereum's mission."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Evergreen philosophical statement; can be referenced over time."
+      }
+    }
+  },
+  {
+    "tweet_id": "1467169412256083979",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Detailed breakdown of liquidations; can be widely shared among traders and crypto community; user Blockworks has large following."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides credible, newsworthy data about liquidations; includes numbers and totals."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral factual tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for days to a week; eventually fades."
+      }
+    }
+  },
+  {
+    "tweet_id": "1467080981387558918",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Humorous take on gas fees; can resonate with community; user has moderate following."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Opinion-based statement; no new factual info."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive, humorous tone."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant for a few weeks; eventually fades."
+      }
+    }
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1443947606258995204",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet discusses a significant NFT auction sale, which is a niche but growing topic, and mentions the first auction conducted in Ether, likely to attract attention within crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific details about the sale, including the amount and significance, making it highly informative."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, as it is a factual statement without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant for a few days as it pertains to a specific event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1443733085036560405",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Announcing TikTok's integration of NFTs on Ethereum is a major development, likely to be widely shared."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Informative about a major platform's integration, though lacking detailed explanation."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strongly positive with 'WOW!!!!'."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Impactful for a few weeks as it's a significant development."
+      }
+    }
+  },
+  {
+    "tweet_id": "1465817445244055556",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Discusses Vitalik's stake, which is interesting but more niche."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific stats about Vitalik's ether."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, just presenting facts."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term as it's about a specific person's stake."
+      }
+    }
+  },
+  {
+    "tweet_id": "1465805538206253056",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Talks about Ethereum outperforming Bitcoin, a hot topic."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Mentions performance and altseason, which is useful."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive with 'totally nuts'."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant for a few days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1465768966589083649",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Discusses a bug in a game on Ethereum, attracting attention in gaming and crypto circles."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Explains the issue and its impact."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, just stating the problem."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for a few weeks as it's a specific issue."
+      }
+    }
+  },
+  {
+    "tweet_id": "1465729399341395968",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Compares Solana and Ethereum growth, a debated topic."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "States growth projections."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, posing a question."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for a few weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1465696205573296146",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Launch of Bitcoin and Ethereum ETFs is significant."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides info on the ETFs."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive with 'JUST IN'."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for a few weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1465693934966001666",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Discusses market movements and potential outcomes, which is engaging."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Talks about market trends."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, presenting a scenario."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term, relevant for a few days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1465508191387611139",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Builders moving to Ethereum L2 is a niche but important topic."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "States the trend without details."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, shrug emoji."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for a few weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1465241679800111107",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Unlocking a home with Ethereum NFTs is innovative and could attract attention."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Explains the use case."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, just explaining."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for a few weeks."
+      }
+    }
+  }
+]

@@ -1,0 +1,107 @@
+[
+{
+"tweet_id":"1484757337512439809",
+"analysis":{
+"virality_potential":{
+"score":6,
+"justification":"The tweet expresses a strong opinion about privacy and restrictions, which may resonate with privacy-focused communities, but it lacks a hook for broad viral spread."
+},
+"informative_value":{
+"score":3,
+"justification":"The tweet is largely opinion-based and does not provide verifiable facts or data."
+},
+"sentiment_polarity":{
+"score":2,
+"justification":"The tweet expresses frustration and negative sentiment."
+},
+"duration_of_impact":{
+"score":4,
+"justification":"The topic of privacy concerns remains relevant, but the tweet is tied to a specific rant and may not sustain long-term engagement."
+}
+}
+},
+{
+"tweet_id":"1484668109894352896",
+"analysis":{
+"virality_potential":{
+"score":8,
+"justification":"The tweet promotes a video about a current crypto crash and offers a giveaway, which can attract broad attention within the crypto community."
+},
+"informative_value":{
+"score":6,
+"justification":"The tweet itself only links to a video and does not provide detailed information; it relies on the video for content."
+},
+"sentiment_polarity":{
+"score":5,
+"justification":"The tweet is neutral, with a promotional tone but no strong emotional language."
+},
+"duration_of_impact":{
+"score":5,
+"justification":"The topic of a crypto crash is time-sensitive, so the tweet will likely remain relevant for a few days to a week."
+}
+}
+},
+{
+"tweet_id":"1484642532440956930",
+"analysis":{
+"virality_potential":{
+"score":6,
+"justification":"The tweet makes a provocative claim that could spark discussion among NFT and crypto communities, but it lacks a hook for mass viral spread."
+},
+"informative_value":{
+"score":4,
+"justification":"The tweet offers a single opinionated statement without supporting evidence or data."
+},
+"sentiment_polarity":{
+"score":5,
+"justification":"The tweet is neutral, simply stating an opinion."
+},
+"duration_of_impact":{
+"score":5,
+"justification":"The claim about NFTs as a hedge may remain relevant for a while, but it is not tied to a specific event."
+}
+}
+},
+{
+"tweet_id":"1484543604618330117",
+"analysis":{
+"virality_potential":{
+"score":7,
+"justification":"The tweet summarizes several high-profile events in the crypto space, which can attract attention from crypto enthusiasts, but it is not a meme or breaking news."
+},
+"informative_value":{
+"score":7,
+"justification":"The tweet lists factual updates about platform rollouts and market movements, providing useful context."
+},
+"sentiment_polarity":{
+"score":6,
+"justification":"The tweet expresses a mildly positive view that the space is becoming more accessible."
+},
+"duration_of_impact":{
+"score":5,
+"justification":"The referenced events are time-sensitive, so the tweet will likely remain relevant for a few days to a week."
+}
+}
+},
+{
+"tweet_id":"1484346755814916096",
+"analysis":{
+"virality_potential":{
+"score":6,
+"justification":"The tweet provides a quick price update that may resonate with crypto traders, but it lacks a hook for widespread viral spread."
+},
+"informative_value":{
+"score":6,
+"justification":"The tweet gives specific price levels for Bitcoin and Ethereum, offering factual information."
+},
+"sentiment_polarity":{
+"score":2,
+"justification":"The tweet expresses frustration with the market, using the phrase 'oh crap...'."
+},
+"duration_of_impact":{
+"score":4,
+"justification":"Price updates are short-lived, so the tweet will likely remain relevant for a day or two."
+}
+}
+}
+]

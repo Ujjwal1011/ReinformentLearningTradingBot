@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1639123359811133440",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Uses multiple trending crypto/NFT hashtags and a meme phrase ('be there or be square'), which could resonate within crypto communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Primarily promotional content with no substantive information beyond hashtags and a token symbol."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone focused on participation rather than expressing clear emotion."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to immediate crypto/NFT market trends, likely fading within days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1639028559162511360",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major technical update from a verified crypto wallet provider (1.3M followers) with clear security implications."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Announces concrete EIP-4361 implementation with domain binding security features."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone emphasizing user safety and technical progress."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Standard-setting security features will remain relevant for wallet users long-term."
+      }
+    }
+  },
+  {
+    "tweet_id": "1638824989087367168",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Provocative question targeting Ethereum developers could spark niche technical debates."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Prompts discussion about testnet infrastructure but lacks specific data points."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral inquiry framed as a challenge to experts."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Testnet discussions typically remain relevant for weeks during development cycles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1638617228005220374",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Relatable failure narrative in crypto entrepreneurship may resonate with retail investors."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Personal anecdote without actionable insights or verifiable claims."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Self-deprecating humor masking negative financial outcome."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Personal story unlikely to sustain engagement beyond initial reactions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1638504396228108290",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Massive hashtag spam (20+ crypto tags) optimized for algorithmic visibility."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Price chart link without analysis or context diminishes informational value."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of market data without bullish/bearish commentary."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Price charts become obsolete within hours in volatile crypto markets."
+      }
+    }
+  },
+  {
+    "tweet_id": "1637983933764648960",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Controversial Bitcoin vs Ethereum supply debate amplified by fork proposal."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Contains specific numerical comparisons about blockchain economics."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Analytical tone focused on technical specifications rather than sentiment."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Supply metrics remain relevant for months in crypto investment discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1637928923693735936",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Standard NFT promotion with limited engagement drivers beyond existing collectors."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Basic artwork announcement without artistic context or utility details."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Mildly positive tone about creative output."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Single NFT drops typically have 24-48 hour relevance windows."
+      }
+    }
+  },
+  {
+    "tweet_id": "1637299914282618880",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Airdrop hunting is a perennial crypto interest, amplified by specific metrics ('highest degen score')."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides actionable strategy (tracking successful wallets) for crypto users."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive endorsement of specific on-chain tracking methodology."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Airdrop strategies remain relevant for months as projects continue launches."
+      }
+    }
+  },
+  {
+    "tweet_id": "1637140989478572032",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Sensational trading narrative ('20x leverage flip') with crisis/reversal structure."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Documents specific market behavior though lacks verifiable proof of whale actions."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Schadenfreude-adjacent tone about whale's losses preceding the long position."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Leverage positions are extremely time-sensitive in crypto markets."
+      }
+    }
+  },
+  {
+    "tweet_id": "1636804642108473352",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Controversial confession about NFT market manipulation taps into crypto cynicism."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Anecdotal claim without verifiable transaction proofs or data."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative characterization of NFT buyers ('people are so fucking stupid')."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term discussion about NFT market ethics before attention shifts."
+      }
+    }
+  }
+]

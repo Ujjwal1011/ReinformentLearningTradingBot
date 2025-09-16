@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1532670653555679232",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet provides a warning about entering the crypto market, which could resonate with crypto enthusiasts and generate some shares within the community."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet offers advice on market conditions but lacks detailed analysis or sources, making it moderately informative."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The sentiment is neutral, advising caution without strong positive or negative language."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The advice is relevant for a few days until market conditions change."
+}
+}
+},
+{
+"tweet_id": "1532465674102136833",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "A significant milestone in Ethereum usage is likely to be shared widely among crypto followers."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides a factual update on Ethereum adoption, which is highly informative."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The sentiment is positive, celebrating growth in the Ethereum network."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The information is relevant for a week as it pertains to recent trends."
+}
+}
+},
+{
+"tweet_id": "1532349335794503682",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "A giveaway can attract attention and engagement, especially within the crypto community."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet is a giveaway announcement with limited informative content."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The sentiment is positive, promoting excitement about the giveaway."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant until the giveaway period ends."
+}
+}
+},
+{
+"tweet_id": "1532347373732696064",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "An NFT raffle can generate significant interest and shares within the crypto and art communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet explains the raffle process, providing useful information for participants."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The sentiment is positive, encouraging participation."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevant until the raffle concludes."
+}
+}
+},
+{
+"tweet_id": "1532071107661926400",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Compares blockchain performance, which can spark discussions among crypto users."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides a comparison of blockchain functionalities, which is informative."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "The sentiment is moderately negative, highlighting issues with Solana and Ethereum."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevant for a few days as it pertains to current blockchain statuses."
+}
+}
+},
+{
+"tweet_id": "1531989440469471234",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "A fun fact about Ethereum transactions can attract attention from crypto enthusiasts."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides a specific, factual statistic about Ethereum usage."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The sentiment is positive, highlighting growth in Ethereum transactions."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for a week as it pertains to recent trends."
+}
+}
+},
+{
+"tweet_id": "1553533882703773696",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "A quote from Ethereum's founder on the metaverse is likely to be widely shared."
+},
+"informative_value": {
+"score": 10,
+"justification": "Provides direct insight from a key figure, highly informative."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The sentiment is neutral, presenting an opinion without strong emotion."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Relevant for several weeks as it touches on a significant topic."
+}
+}
+},
+{
+"tweet_id": "1553414402136834049",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "A personal observation about cryptocurrency adoption, with limited virality beyond niche audiences."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet is a personal anecdote without detailed information."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The sentiment is positive, indicating early stages of adoption."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a short period as it pertains to a specific event."
+}
+}
+},
+{
+"tweet_id": "1553331229285548044",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Celebrating Ethereum's anniversary can attract attention and shares from the community."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet marks a significant milestone, providing context on Ethereum's growth."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The sentiment is very positive, celebrating Ethereum's success."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevant for a few days around the anniversary."
+}
+}
+},
+{
+"tweet_id": "1553329802467229696",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "A historical回顾 of Ethereum's launch can generate significant interest and shares."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides historical context and current impact, which is informative."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The sentiment is positive, highlighting Ethereum's achievements."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for a week as it pertains to the anniversary and current state."
+}
+}
+}
+]

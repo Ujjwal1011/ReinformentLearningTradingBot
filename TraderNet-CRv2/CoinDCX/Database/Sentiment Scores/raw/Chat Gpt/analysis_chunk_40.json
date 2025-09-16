@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1435151046213578758",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The stark cost difference between Ethereum and Solana may be shared among crypto enthusiasts, but its appeal is limited to a niche audience."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides concrete, comparable transaction cost figures for two major blockchain platforms, offering useful data for users."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet presents factual numbers without emotive language, resulting in a neutral tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Transaction cost data can remain relevant for weeks to months as a benchmark, though fees may change over time."
+}
+}
+},
+{
+"tweet_id": "1434991923765424133",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Standard promotional content about Ethereum's ecosystem that may receive moderate shares within the crypto community."
+},
+"informative_value": {
+"score": 5,
+"justification": "Mentions developer activity and potential industry disruption but lacks specific data or sources, offering moderate informational content."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Enthusiastic language and positive framing convey a moderately positive sentiment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Discussion of Ethereum's developer growth and dApp potential can stay relevant for weeks to months as the ecosystem evolves."
+}
+}
+},
+{
+"tweet_id": "1434981937660116994",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The absurd claim may be shared as a meme within crypto circles, giving it moderate viral potential."
+},
+"informative_value": {
+"score": 1,
+"justification": "The statement provides no factual information; buying zero Ethereum is meaningless."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is presented in a neutral tone despite the sarcastic 'BREAKING' label."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "As a fleeting joke, its relevance is likely limited to a few hours or a day."
+}
+}
+},
+{
+"tweet_id": "1434701762141773825",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Criticism of Ethereum's high gas fees may resonate within the crypto community, leading to moderate sharing."
+},
+"informative_value": {
+"score": 5,
+"justification": "Makes a claim about gas fees outweighing NFT purchase costs but lacks specific numbers or sources."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The tweet expresses strong criticism of Ethereum's functionality, reflecting a very negative sentiment."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The ongoing issue of high gas fees keeps the tweet relevant for weeks to months."
+}
+}
+},
+{
+"tweet_id": "1434603677633761281",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Price predictions are common and may be shared among traders, but they rarely achieve broad viral reach."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet offers a speculative price target without supporting data, providing minimal factual information."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The optimistic forecast and celebratory emoji convey a very positive sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The prediction is tied to a specific upcoming holiday, limiting its relevance to a short time frame."
+}
+}
+}
+]

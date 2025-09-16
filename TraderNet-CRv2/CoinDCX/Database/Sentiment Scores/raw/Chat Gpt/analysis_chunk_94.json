@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1472822340606042115",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The claim that Terraluna is the second biggest DeFi platform behind Ethereum, combined with relevant hashtags (#DeFi, #Ethereum) and a link, makes it highly shareable within the crypto community, though it is unlikely to break into mainstream audiences."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet announces a specific ranking for Terraluna and includes a link to the source, providing newsworthy information for crypto enthusiasts."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The text is a neutral factual statement without emotive language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The ranking is relevant as long as Terraluna maintains its position, likely for weeks to months, but it may become outdated as the market evolves."
+}
+}
+},
+{
+"tweet_id": "1472803700322275335",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "A well-known crypto influencer asks a direct question about long-term coin holding, using popular hashtags (#altcoin, #ethereum, #bitcoin) and prompting many replies, which drives high shareability within the crypto niche."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet does not provide any factual information; it merely solicits opinions, resulting in very low informational content."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is a neutral inquiry without emotional language."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The question is timely and will generate discussion for a few hours to days, after which relevance declines."
+}
+}
+},
+{
+"tweet_id": "1472783520695308298",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet criticizes Argentine politicians for using Vitalik Buterin's image, a controversial political statement that can be shared among Spanish-speaking crypto and political audiences, giving it moderate virality."
+},
+"informative_value": {
+"score": 5,
+"justification": "It makes a claim about political misuse but offers no detailed data; the linked article may provide context, so the informational value is modest."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The language expresses strong frustration and condemnation, reflecting a very negative sentiment."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The relevance is tied to the specific political campaign, making its impact short-term."
+}
+}
+},
+{
+"tweet_id": "1472781585330020353",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The colloquial, meme-like phrase may resonate with a niche Spanish-speaking audience, leading to modest sharing but limited broader appeal."
+},
+"informative_value": {
+"score": 1,
+"justification": "The tweet contains no factual information, only a slang expression, resulting in very low informational value."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The wording carries a negative connotation, indicating moderate negativity."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "As a momentary meme, its relevance is likely short-lived."
+}
+}
+},
+{
+"tweet_id": "1472779874851069957",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "A humorous anecdote featuring the Ethereum creator explaining blockchain to a group of youths is entertaining and likely to be shared within crypto circles, giving it relatively high virality."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet is a story without factual data, offering minimal informational content."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tone is lighthearted and positive, showing moderate positive sentiment."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The anecdote may be discussed for a few days but lacks evergreen relevance, resulting in a neutral duration."
+}
+}
+}
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1731964749615677526",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Short opinion piece that may resonate with crypto enthusiasts but lacks a strong hook or breaking news, so moderate potential."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Personal opinion with no verifiable facts or data."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral statement with no strong emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-lived speculation that may lose relevance quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1731961719583396119",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Shares a technical achievement that may interest the Ethereum community and has moderate engagement, indicating potential for community sharing."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific, verifiable information about a new tool and its capabilities, which is informative for the Ethereum community."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Expresses enthusiasm and pride about the project."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tool's relevance may persist for weeks as the Ethereum community continues to use it, but it may not be evergreen."
+      }
+    }
+  },
+  {
+    "tweet_id": "1731958274239422646",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Promotional link with many hashtags but limited engagement, indicating low virality potential."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Offers minimal context and relies on the link for details, providing little standalone information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral inquiry about a project."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance tied to the project's launch and may fade quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1731958044739977346",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Promotes a DeFi product with emojis and hashtags, and the user has a large following, indicating moderate potential for community sharing."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Gives specific details about the lending product, which is useful for users."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Expresses enthusiasm about the product and encourages action."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The product's relevance may persist for weeks or months, but not necessarily evergreen."
+      }
+    }
+  },
+  {
+    "tweet_id": "1731954235967721555",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Presents a technical question that may resonate with the Ethereum community and has moderate engagement, indicating potential for community sharing."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Question invites discussion but does not provide factual information itself."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral inquiry."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Question about layer 2 transaction times remains relevant as the Ethereum ecosystem evolves, but may not be evergreen."
+      }
+    }
+  }
+]

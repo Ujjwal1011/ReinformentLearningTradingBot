@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1345981563394162689",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Humorous interaction with Siri and crypto-related emojis (🔥🚀) make it shareable within crypto communities, though lacks universal appeal."
+},
+"informative_value": {
+"score": 3,
+"justification": "Contains no factual data beyond a speculative price joke. The hashtag #Ethereum adds minimal context."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Strong positive tone conveyed through emojis and enthusiastic language about Ethereum's price rise."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Tied to momentary price excitement; relevance diminishes with market fluctuations."
+}
+}
+},
+{
+"tweet_id": "1345947942964899840",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Sensational headline ('EXPLOSIVE') and link to external content could drive shares among crypto enthusiasts."
+},
+"informative_value": {
+"score": 5,
+"justification": "Depends entirely on external link content (unverified), but headline suggests news value."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive framing of Ethereum growth through the adjective 'explosive'."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "If the linked content contains substantive analysis, relevance could extend for days."
+}
+}
+},
+{
+"tweet_id": "1345878123599065089",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Newsworthy price milestone announcement from a major exchange account (@binance) ensures wide sharing."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides concrete price data and documents a market milestone with timestamp context."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Celebratory tone about Ethereum's price breakthrough using the fire emoji."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Price benchmarks are quickly superseded in volatile crypto markets."
+}
+}
+},
+{
+"tweet_id": "1345863986676432896",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Provocative language ('FUCK THE HATERS') could drive engagement within crypto circles."
+},
+"informative_value": {
+"score": 2,
+"justification": "Pure celebratory statement without data or context beyond the price mention."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "Aggressive language indicates strong negative sentiment toward critics."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Emotional outburst tied to a specific price moment with no lasting value."
+}
+}
+},
+{
+"tweet_id": "1345740713678557185",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Price milestone announcement from a high-follower account (@binance) with visual confirmation (link)."
+},
+"informative_value": {
+"score": 7,
+"justification": "Documents a specific price achievement with supporting media."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Positive celebration of price growth through the fire emoji."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevance lasts until the next significant price movement."
+}
+}
+},
+{
+"tweet_id": "1345628331190849536",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Controversial Bitcoin vs Ethereum opinion likely to spark debates in crypto communities."
+},
+"informative_value": {
+"score": 5,
+"justification": "Personal opinion without supporting data, though frames an industry debate."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral comparison statement despite underlying positive bias toward Ethereum."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Perennial crypto debates have extended relevance cycles."
+}
+}
+},
+{
+"tweet_id": "1366110453571538945",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Bold price prediction ('$20k ETH') with call-to-action ('screenshot this') designed for maximum sharing."
+},
+"informative_value": {
+"score": 6,
+"justification": "Speculative prediction rather than factual information, but relevant to crypto investors."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "Extremely optimistic language about Ethereum's potential growth."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Year-long prediction window keeps it relevant through December 2021."
+}
+}
+},
+{
+"tweet_id": "1366005364404142080",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Educational thread about crypto fundamentals appeals to newcomers, encouraging shares within learning communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides actionable steps for engaging with decentralized finance systems."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral instructional tone despite underlying enthusiasm for the technology."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Evergreen educational content about foundational crypto concepts."
+}
+}
+},
+{
+"tweet_id": "1365763392464642048",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Detailed multi-coin price predictions from an influencer likely to be widely circulated in trading circles."
+},
+"informative_value": {
+"score": 7,
+"justification": "Specific numerical predictions provide concrete (though unverified) information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Optimistic price targets across multiple cryptocurrencies."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Predictions remain relevant until target dates or price levels are reached."
+}
+}
+},
+{
+"tweet_id": "1365602586217373697",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Niche comparison between cryptocurrencies unlikely to spread beyond dedicated communities."
+},
+"informative_value": {
+"score": 5,
+"justification": "Opinionated comparison without supporting analysis or context."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral comparative statement without explicit positivity/negativity."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevance limited to ongoing debates about specific crypto rivalries."
+}
+}
+}
+]

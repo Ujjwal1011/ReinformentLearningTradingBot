@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1771282521214300624",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet announces a significant project on Ethereum, which is likely to be shared within crypto communities but may not go viral beyond that."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides specific details about a new project and its backers, making it highly informative."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment as it's announcing a new project."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Ethereum-related news can remain relevant for a moderate period."
+}
+}
+},
+{
+"tweet_id": "1771255156664897740",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Announcing Google integrating ENS is a major development, likely to be widely shared."
+},
+"informative_value": {
+"score": 8,
+"justification": "Factual update on a significant integration."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment about the integration."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The impact is relevant for a moderate period."
+}
+}
+},
+{
+"tweet_id": "1770938551422554338",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Compares Solana and Ethereum, sparking debate within crypto circles."
+},
+"informative_value": {
+"score": 7,
+"justification": "Informs about each platform's focus."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, stating facts without emotion."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Timely but may fade quickly."
+}
+}
+},
+{
+"tweet_id": "1770910189572501954",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Corrects a misconception, likely shared among enthusiasts."
+},
+"informative_value": {
+"score": 8,
+"justification": "Educational content explaining Ethereum's settlement layer."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, informative tone."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Foundational topic with long-term relevance."
+}
+}
+},
+{
+"tweet_id": "1770693629742559712",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Compares asset highs, relevant to investors."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides current data on asset prices."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, factual presentation."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Timely information, short-term relevance."
+}
+}
+},
+{
+"tweet_id": "1770688970571055553",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Complaint about Solana vs Ethereum, shared in crypto circles."
+},
+"informative_value": {
+"score": 5,
+"justification": "Personal experience, less formal."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "Negative sentiment towards Solana."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Specific issue, short-term impact."
+}
+}
+},
+{
+"tweet_id": "1770623752251826631",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Breaking news from a major company, likely viral."
+},
+"informative_value": {
+"score": 9,
+"justification": "Significant announcement with details."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "Very positive sentiment."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Long-term impact expected."
+}
+}
+},
+{
+"tweet_id": "1770622972937839081",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Strong statement against the state, likely shared."
+},
+"informative_value": {
+"score": 4,
+"justification": "Opinion-based, less factual."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "Negative towards the state."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Strong sentiment but short-term."
+}
+}
+},
+{
+"tweet_id": "1770619152090497330",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Important news about BlackRock's fund, widely shared."
+},
+"informative_value": {
+"score": 9,
+"justification": "Detailed and factual."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Long-term relevance."
+}
+}
+},
+{
+"tweet_id": "1770613618423587232",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Strong opinion on BlackRock's impact, likely shared."
+},
+"informative_value": {
+"score": 6,
+"justification": "Opinion with context."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "Very positive sentiment."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Long-term impact expected."
+}
+}
+}
+]

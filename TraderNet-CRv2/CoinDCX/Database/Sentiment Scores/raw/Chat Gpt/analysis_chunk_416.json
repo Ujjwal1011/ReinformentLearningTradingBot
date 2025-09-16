@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1732074966211059933",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Product launch with strong community interest, but limited to Web3 niche."
+},
+"informative_value": {
+"score": 8,
+"justification": "Primary source announcement with credible details about ckETH and multi-chain integration."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Excited tone, uses 'thrilled', emojis, positive."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Product remains relevant for weeks to months as adoption continues."
+}
+}
+},
+{
+"tweet_id": "1732073328981037301",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Niche crypto bridge announcement, moderate community interest."
+},
+"informative_value": {
+"score": 7,
+"justification": "News about new bridge, credible source."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral announcement, no strong emotion."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Bridge remains relevant for ongoing usage."
+}
+}
+},
+{
+"tweet_id": "1732072349481029650",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "Whale movement is niche, limited audience."
+},
+"informative_value": {
+"score": 7,
+"justification": "Factual news about whale movement."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Event is one-time, relevance fades quickly."
+}
+}
+},
+{
+"tweet_id": "1732067579391590663",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Technical update, limited audience."
+},
+"informative_value": {
+"score": 7,
+"justification": "Technical explanation of IBC bridging."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Technical update remains relevant for weeks to months."
+}
+}
+},
+{
+"tweet_id": "1732067548961947662",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Product announcement with strong community interest."
+},
+"informative_value": {
+"score": 8,
+"justification": "Primary source announcement of new L2 architecture."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive excitement, but not extreme."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "New L2 architecture remains relevant for weeks to months."
+}
+}
+}
+]

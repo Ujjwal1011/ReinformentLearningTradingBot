@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1433239518937698309",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Significant technical prediction from Ethereum's co-founder about proof-of-stake transition, likely to generate widespread discussion in crypto communities."
+},
+"informative_value": {
+"score": 9,
+"justification": "Direct statement about Ethereum's roadmap from a primary source, carrying major implications for blockchain development."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral factual statement without emotional language."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Multi-year technical transition plan that will remain relevant throughout implementation."
+}
+}
+},
+{
+"tweet_id": "1433236426921971714",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Provocative suggestion about Dogecoin adopting Ethereum's technology from a prominent figure, likely to spark debate."
+},
+"informative_value": {
+"score": 7,
+"justification": "Contains specific technical proposal details and funding mechanism ideas for cryptocurrency development."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive tone advocating for public goods funding aligned with Dogecoin's ethos."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Proposal could influence ongoing blockchain development discussions for weeks."
+}
+}
+},
+{
+"tweet_id": "1433147666138112009",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Sarcastic commentary on Ethereum gas fees has meme potential within crypto communities."
+},
+"informative_value": {
+"score": 3,
+"justification": "Primarily humorous content with exaggerated transaction cost example."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "Negative sentiment implied through ironic complaint about high fees."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Tied to temporary gas fee conditions, relevance diminishes with network updates."
+}
+}
+},
+{
+"tweet_id": "1433121222489952257",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Tribal commentary on blockchain competition likely to engage crypto communities."
+},
+"informative_value": {
+"score": 4,
+"justification": "Opinion-based comparison without supporting data or specifics."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Moderately negative toward Bitcoin maximalists with implied criticism."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant to ongoing blockchain platform debates but tied to current market conditions."
+}
+}
+},
+{
+"tweet_id": "1433110606538846218",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Catchy metaphor but lacks strong engagement hooks for widespread sharing."
+},
+"informative_value": {
+"score": 2,
+"justification": "Figurative statement without concrete information or analysis."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive endorsement using optimistic metaphor for Ethereum."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Generic comparison that may circulate briefly but lacks staying power."
+}
+}
+},
+{
+"tweet_id": "1432945297223729153",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Price update from major exchange with inherent interest to crypto traders."
+},
+"informative_value": {
+"score": 6,
+"justification": "Specific price data point with market relevance, though time-bound."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral factual market update without emotional tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Price information becomes outdated quickly as markets fluctuate."
+}
+}
+},
+{
+"tweet_id": "1454874057501863943",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Simple investment advice format often shared in crypto communities."
+},
+"informative_value": {
+"score": 2,
+"justification": "Lacks any supporting rationale or context for the recommendation."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive endorsement implied by direct investment advice."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Generic advice with no specific context for long-term relevance."
+}
+}
+},
+{
+"tweet_id": "1454807230944002048",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Comparative historical data presented in digestible format likely to be widely referenced."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides verifiable historical price data for multiple cryptocurrencies."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral presentation of factual market data without commentary."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Annual comparisons may be referenced during market analysis for months."
+}
+}
+},
+{
+"tweet_id": "1454530287296126976",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Critical analysis of NFT market dynamics likely to spark discussion among creators."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides actionable advice about blockchain platform selection for NFT projects."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "Negative assessment of Ethereum's current state for new NFT projects."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Addresses ongoing challenges in NFT ecosystem with platform recommendations."
+}
+}
+},
+{
+"tweet_id": "1454455451739906055",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Technical explanation with limited appeal beyond crypto newcomers."
+},
+"informative_value": {
+"score": 6,
+"justification": "Educational content explaining Ethereum account basics with concrete example."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral explanatory tone without positive/negative judgment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Evergreen educational content about fundamental blockchain concepts."
+}
+}
+}
+]

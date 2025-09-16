@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1554501868201582592",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The giveaway is targeted at a specific crypto community, which can drive engagement within that niche."
+},
+"informative_value": {
+"score": 4,
+"justification": "Provides information about a giveaway but is primarily promotional."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral tone, focusing on promotion."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant only during the giveaway period."
+}
+}
+},
+{
+"tweet_id": "1554257595929690112",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Targets crypto enthusiasts, likely to be shared within that community."
+},
+"informative_value": {
+"score": 4,
+"justification": "Personal achievements with crypto mentions, not a formal report."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive and confident tone."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant for a short period around the announcement."
+}
+}
+},
+{
+"tweet_id": "1554243536127655938",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Technical info for crypto community, likely shared among enthusiasts."
+},
+"informative_value": {
+"score": 6,
+"justification": "Explains a specific event's impact on Ethereum."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive outlook on Ethereum's usage."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant during the bridge exploitation period."
+}
+}
+},
+{
+"tweet_id": "1554189757177102336",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Significant news for institutions in crypto, likely widely shared."
+},
+"informative_value": {
+"score": 8,
+"justification": "Announces a major service launch by Coinbase."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive news for Ethereum adoption."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Remains relevant as institutions adopt staking."
+}
+}
+},
+{
+"tweet_id": "1554141197995687938",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Opinion on market recovery, shared among NFT enthusiasts."
+},
+"informative_value": {
+"score": 6,
+"justification": "Offers a viewpoint on market trends."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive outlook on Ethereum and Solana."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant during NFT market discussions."
+}
+}
+},
+{
+"tweet_id": "1554045668871864322",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Factual report on Ethereum's financial performance."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides specific financial data."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral presentation of facts."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for a few weeks as July data is discussed."
+}
+}
+},
+{
+"tweet_id": "1553947112869572608",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Optimistic vision for Ethereum, resonating with believers."
+},
+"informative_value": {
+"score": 6,
+"justification": "Discusses Ethereum's future developments."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "Strong positive and encouraging tone."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Long-term relevance as Ethereum evolves."
+}
+}
+},
+{
+"tweet_id": "1575936247251734533",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Significant corporate move in crypto, widely shared."
+},
+"informative_value": {
+"score": 8,
+"justification": "Announces a major company's Ethereum involvement."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive for Ethereum adoption."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Long-term impact on Ethereum's infrastructure."
+}
+}
+},
+{
+"tweet_id": "1575885920221466624",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Technical contribution from a prominent figure, shared in crypto circles."
+},
+"informative_value": {
+"score": 8,
+"justification": "Educational content on cryptographic techniques."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Neutral yet informative tone."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Long-term educational value."
+}
+}
+},
+{
+"tweet_id": "1575670601330499584",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Historical discovery in NFT space, likely viral among enthusiasts."
+},
+"informative_value": {
+"score": 8,
+"justification": "Documents a significant historical find."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive discovery with caution."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Long-term interest in NFT history."
+}
+}
+}
+]

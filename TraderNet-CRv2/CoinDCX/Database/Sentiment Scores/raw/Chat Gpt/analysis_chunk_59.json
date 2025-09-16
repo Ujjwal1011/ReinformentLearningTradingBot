@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1446946050116227073",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet taps into the trending NFT and Metaverse conversation, using hype and emojis that can resonate within the crypto community, but it lacks a breaking news hook or strong emotional trigger."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet mainly offers hype about NFTs without providing factual details, data, or a link to a substantive source."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tone is enthusiastic and positive, celebrating NFTs as a way to flex and bring the Metaverse to reality."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Trending topics like NFTs typically remain relevant for a few days to a week before fading from the conversation."
+      }
+    }
+  },
+  {
+    "tweet_id": "1446516207159582743",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The announcement of the Ethereum 2.0 merge devnet is a technical update that will likely circulate within the crypto community, but it does not have a broad emotional hook."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet delivers a concrete, verifiable update about a major Ethereum upgrade, providing clear factual information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The exclamation and rocket emoji convey excitement and a positive outlook."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Technical milestones remain relevant for weeks as developers and users discuss the merge and its implications."
+      }
+    }
+  },
+  {
+    "tweet_id": "1446133641176698886",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "The claim about NFT authenticity is niche and may spread within the NFT community, but it lacks a broader hook."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "The tweet offers a claim about token ownership authenticity, but it does not provide verifiable evidence or detailed context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral, presenting a statement without strong positive or negative emotion."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The authenticity discussion may remain relevant for a moderate period as the NFT community debates ownership claims."
+      }
+    }
+  },
+  {
+    "tweet_id": "1445905599858806786",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet addresses a political issue involving the SEC and XRP, calling for action, which can resonate widely and encourage sharing."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "It provides information about SEC actions and the regulatory status of cryptocurrencies, though it is framed as an opinion."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "The language expresses frustration and anger toward the SEC, indicating a negative sentiment."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Regulatory debates around cryptocurrencies tend to persist for months, keeping the tweet relevant."
+      }
+    }
+  },
+  {
+    "tweet_id": "1445857060424347649",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "A list of performance figures can attract attention and be shared, but it lacks a dramatic hook or emotional content."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet presents concrete performance data for multiple assets, offering clear factual information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral, simply reporting numbers without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Year‑to‑date performance data remains relevant for a few months as investors compare returns."
+      }
+    }
+  }
+]

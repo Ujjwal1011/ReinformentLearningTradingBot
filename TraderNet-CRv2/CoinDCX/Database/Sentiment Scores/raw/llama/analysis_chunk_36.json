@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1460537319186997250",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet has a strong hook with a giveaway, uses engaging emojis, and encourages interaction by tagging friends, increasing its shareability."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet's primary purpose is promotional, with minimal informative content beyond announcing a giveaway."
+},
+"sentiment_polarity": {
+"score": 10,
+"justification": "The tweet expresses overwhelming joy and excitement with the use of '🎉' and 'Good luck 🚀', indicating extremely positive sentiment."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is short-term, tied to the duration of the giveaway."
+}
+}
+},
+{
+"tweet_id": "1460492220646113284",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet poses an interesting question that could spark discussion within specific communities, but its reach might be limited."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet presents a neutral, observational question without providing new information or insights."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet's sentiment is neutral, as it asks a question without expressing a clear emotional tone."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is standard, generating discussion for a day or two before fading."
+}
+}
+},
+{
+"tweet_id": "1460385414196432896",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet provides engaging content with price targets that could be shared within cryptocurrency communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet lists specific price targets for various cryptocurrencies, offering some useful information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet's sentiment is neutral, presenting information in a factual manner without emotional tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet remains relevant for days or weeks, as the price targets are not immediately outdated."
+}
+}
+},
+{
+"tweet_id": "1460289097004728326",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet is a wish list for cryptocurrency prices, which might not be widely shared beyond the author's followers."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet lists desired price outcomes for cryptocurrencies but doesn't provide new or actionable information."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses a positive, hopeful sentiment with the use of '❤️🎅', indicating a desire for positive outcomes."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is short-term, tied to immediate desires rather than long-term analysis."
+}
+}
+},
+{
+"tweet_id": "1460085031901224967",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet is a specific offer that might not be widely shared, targeting a niche group of furry artists."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides a clear, actionable offer with specific terms, offering useful information to the targeted group."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet expresses a moderately positive sentiment, showing willingness to compensate artists."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet remains relevant for days or weeks, as the offer doesn't have an immediate expiration."
+}
+}
+},
+{
+"tweet_id": "1460020344274792448",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The comparison might spark some discussion within cryptocurrency communities but lacks a strong hook for broader sharing."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides a clear, informative comparison between Ethereum and Bitcoin node sizes."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The tweet expresses a moderately negative sentiment towards decentralization in Ethereum, using 'mission' to imply a critique."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet's relevance extends for days or weeks, as the comparison remains valid over a short period."
+}
+}
+},
+{
+"tweet_id": "1459906508867653632",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The tweet's dramatic, personal juxtaposition with significant cryptocurrency events could lead to widespread sharing."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet mentions significant cryptocurrency milestones but focuses more on personal, non-informative content."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet's overall sentiment is neutral, balancing positive (ATHs) and negative (personal losses) elements."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is short-term, as the personal events and cryptocurrency milestones quickly lose immediacy."
+}
+}
+},
+{
+"tweet_id": "1459810147107282948",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet's engaging, personal story of early investments could be shared within cryptocurrency communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides some informative content about the author's early investments in various cryptocurrencies."
+},
+"sentiment_polarity": {
+"score": 10,
+"justification": "The tweet expresses overwhelming optimism and excitement about the future of cryptocurrency investments."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet remains relevant for days or weeks, as the narrative of early investment success is not immediately outdated."
+}
+}
+},
+{
+"tweet_id": "1459762532567203848",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet's comparison, while informative, lacks a strong hook for widespread sharing beyond the author's followers."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides a clear, comparative insight into the upgrade processes of Bitcoin and Ethereum."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The tweet expresses a moderately negative sentiment towards Ethereum's upgrade process by comparison."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance extends for days or weeks, as the comparison remains valid over a short period."
+}
+}
+},
+{
+"tweet_id": "1459606238996615178",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The question about Ethereum's potential price could spark discussion within cryptocurrency communities."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet asks a question without providing new or actionable information about Ethereum's price potential."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet's sentiment is neutral, posing a question without expressing a clear emotional tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet remains relevant for days or weeks, as the question about Ethereum's price potential does not immediately lose relevance."
+}
+}
+} 
+]

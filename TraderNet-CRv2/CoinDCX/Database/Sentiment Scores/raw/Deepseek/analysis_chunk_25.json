@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1452526722713149444",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Price prediction tweets with hashtags can gain traction in crypto communities, but lack unique hooks for broader virality."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Contains a speculative price target without supporting data or context."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Optimistic tone about Ethereum's price growth, though not overwhelmingly emotional."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance tied to short-term price movements rather than lasting discussion."
+      }
+    }
+  },
+  {
+    "tweet_id": "1452513158522982400",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Surprising comparative statistic presented with an attention-grabbing emoji increases shareability."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific trading volume data comparing two cryptocurrencies."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of factual data without explicit emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for current market cycle discussions but tied to 24-hour metrics."
+      }
+    }
+  },
+  {
+    "tweet_id": "1452334458066149377",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "High-profile influencer discussing cryptocurrency with controversial advice guarantees widespread sharing."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Blends personal experience with philosophical commentary about crypto's value."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Moderately negative stance on crypto speculation despite personal involvement."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Influencer's statements often spark sustained debates in crypto communities."
+      }
+    }
+  },
+  {
+    "tweet_id": "1452296880361201665",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Niche commentary about repetitive crypto debates with limited appeal beyond core enthusiasts."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Describes social media behavior patterns without new information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Observational tone without clear positive or negative leaning."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Tied to ephemeral daily conversations in niche communities."
+      }
+    }
+  },
+  {
+    "tweet_id": "1452266229935312899",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Dramatic comparative statistic presented in ALL CAPS format encourages sharing."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Specific exchange volume data with clear cryptocurrency comparisons."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of factual trading volume information."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance limited to current market activity cycle."
+      }
+    }
+  },
+  {
+    "tweet_id": "1451963672478187520",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Common crypto community meme format with moderate engagement potential."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No substantive information beyond rhetorical question about ownership."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Implied positive valuation of Ethereum ownership through aspirational framing."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Meme-style content typically has short engagement lifespan."
+      }
+    }
+  },
+  {
+    "tweet_id": "1451949960065335302",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Educational content with resource sharing appeals to developer communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides comparative blockchain development experience and resource recommendations."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Balanced tone acknowledging challenges while highlighting available resources."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Educational resources maintain relevance for developers over weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1451939146298056712",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Minimalist tweet lacks substantive content for widespread sharing."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "Contains no information beyond stating 'Ethereum' and 'Send tweet'."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Completely neutral statement without emotional valence."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Lack of substantive content prevents sustained engagement."
+      }
+    }
+  },
+  {
+    "tweet_id": "1451793916114657290",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Corporate adoption news relevant to crypto investors with moderate share potential."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Highlights platform developments affecting Ethereum's economic fundamentals."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Optimistic projection about Ethereum's future demand."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Corporate adoption timelines maintain relevance for weeks/months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1451464031064281107",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Poll-style engagement bait common in crypto communities with average virality."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Simple question without providing new information or context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral question format without emotional leaning."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Engagement limited to immediate poll responses."
+      }
+    }
+  }
+]

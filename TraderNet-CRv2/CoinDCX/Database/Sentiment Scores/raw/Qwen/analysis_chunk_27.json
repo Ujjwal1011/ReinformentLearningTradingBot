@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1450259807831617543",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "The tweet discusses investment strategies but is a personal anecdote, limiting its virality."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Provides a personal investment strategy but lacks detailed analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment, stating facts without strong emotion."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a short period as investment trends change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1450244524694024196",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Encourages early investment, which can resonate with crypto communities."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Informative about investment timing but lacks detailed information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive and encouraging tone."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant for a few days as market trends shift."
+      }
+    }
+  },
+  {
+    "tweet_id": "1450082988046393355",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Speculative prediction about Ethereum and Apple, likely to engage crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides a prediction with a call to action, though speculative."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive and encouraging tone."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant until Apple's announcement or lack thereof."
+      }
+    }
+  },
+  {
+    "tweet_id": "1449864478451912706",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Critique of Ethereum's gas fees, likely to engage users facing similar issues."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Highlights a significant issue in Ethereum transactions."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative sentiment towards high gas fees."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant until fee issues are addressed."
+      }
+    }
+  },
+  {
+    "tweet_id": "1449862975129407490",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Discusses NFTs and long-term investment, resonating with crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Shares investment philosophy and critique of short-term trading."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, presenting a balanced view."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant for a few weeks as market trends evolve."
+      }
+    }
+  },
+  {
+    "tweet_id": "1449807699982667777",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Price targets attract crypto enthusiasts, likely to generate discussion."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific price targets for various cryptocurrencies."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive and bullish tone."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant until the end of the year or market changes."
+      }
+    }
+  },
+  {
+    "tweet_id": "1449785866633764867",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Engages the community on Ethereum's future, likely to generate replies."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Shares personal bullish sentiment on Ethereum."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive and confident tone."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant for a few days as market sentiment shifts."
+      }
+    }
+  },
+  {
+    "tweet_id": "1449763400939184132",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Impressive growth numbers attract attention, likely to be shared widely."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides growth statistics for various cryptocurrencies."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive and exciting tone."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant for a few weeks as market trends evolve."
+      }
+    }
+  },
+  {
+    "tweet_id": "1449596350551760896",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Quotes a well-known figure, likely to generate discussion."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "References Ethereum's potential based on a notable investor's quote."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, presenting a quote without strong emotion."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant for a few days as market sentiment shifts."
+      }
+    }
+  },
+  {
+    "tweet_id": "1449477570227884032",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Claims Ethereum's growth over Bitcoin, likely to engage crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Highlights Ethereum's growth metrics."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive and confident tone."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant for a few weeks as market trends evolve."
+      }
+    }
+  }
+]

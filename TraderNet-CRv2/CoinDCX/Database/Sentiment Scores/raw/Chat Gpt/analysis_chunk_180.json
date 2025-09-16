@@ -1,0 +1,107 @@
+[
+{
+    "tweet_id": "1529173745021116416",
+    "analysis": {
+        "virality_potential": {
+            "score": 7,
+            "justification": "The tweet announces a new decentralized bridge between ElrondNetwork and Ethereum, a topic of interest to crypto enthusiasts, and includes a link. It has moderate virality within the crypto community but is unlikely to reach a broader audience."
+        },
+        "informative_value": {
+            "score": 7,
+            "justification": "The tweet provides factual information about the launch of a cross‑chain bridge, its security‑first design, and potential use cases, offering useful details for followers of blockchain developments."
+        },
+        "sentiment_polarity": {
+            "score": 8,
+            "justification": "The language is enthusiastic and positive, using words like \"LIVE!\", \"Fully decentralized\", \"Battle tested\", and \"Opening new opportunities\"."
+        },
+        "duration_of_impact": {
+            "score": 7,
+            "justification": "The announcement will stay relevant as long as the bridge is adopted and discussed, likely for weeks to months, but it is not a timeless piece of information."
+        }
+    }
+},
+{
+    "tweet_id": "1529130859814600705",
+    "analysis": {
+        "virality_potential": {
+            "score": 8,
+            "justification": "The tweet references Vitalik Buterin and a new concept (Soulbound tokens), which are hot topics in the Ethereum community, making it likely to be shared widely among crypto and tech audiences."
+        },
+        "informative_value": {
+            "score": 9,
+            "justification": "It conveys a significant development, cites a 37‑page paper, and provides a TLDR link, offering substantial educational content about SBTs."
+        },
+        "sentiment_polarity": {
+            "score": 6,
+            "justification": "The tone is primarily factual with a mildly positive outlook, describing SBTs as \"the future\" without strong emotional language."
+        },
+        "duration_of_impact": {
+            "score": 8,
+            "justification": "The concept of Soulbound tokens is likely to influence Ethereum standards and discussions for an extended period, giving the tweet long‑term relevance."
+        }
+    }
+},
+{
+    "tweet_id": "1529045488435343360",
+    "analysis": {
+        "virality_potential": {
+            "score": 7,
+            "justification": "The tweet highlights a $1.5 billion sales milestone for a popular NFT collection, which can attract attention within the NFT and crypto community but has limited appeal beyond that niche."
+        },
+        "informative_value": {
+            "score": 8,
+            "justification": "It provides a concrete statistic about total sales, offering useful market data for those tracking NFT performance."
+        },
+        "sentiment_polarity": {
+            "score": 6,
+            "justification": "The language is factual with a subtle celebratory tone, indicating a mildly positive sentiment."
+        },
+        "duration_of_impact": {
+            "score": 5,
+            "justification": "The sales figure is a snapshot that may be referenced in short‑term market analyses but will likely lose relevance as newer data emerges."
+        }
+    }
+},
+{
+    "tweet_id": "1528848671890186240",
+    "analysis": {
+        "virality_potential": {
+            "score": 5,
+            "justification": "The tweet promotes a specific live debate event, which may be shared among followers and crypto enthusiasts but lacks broader viral hooks."
+        },
+        "informative_value": {
+            "score": 6,
+            "justification": "It supplies details about the time, location, and nature of the debate, providing useful information for interested participants."
+        },
+        "sentiment_polarity": {
+            "score": 7,
+            "justification": "The tweet expresses excitement and anticipation with phrases like \"Should be fun\" and \"I'll have more details tomorrow\"."
+        },
+        "duration_of_impact": {
+            "score": 3,
+            "justification": "Relevance is tied to the specific event date; after the debate the tweet quickly becomes outdated."
+        }
+    }
+},
+{
+    "tweet_id": "1528727831039119360",
+    "analysis": {
+        "virality_potential": {
+            "score": 8,
+            "justification": "Announcing that GameStop, a well‑known retailer, released a non‑custodial Ethereum wallet is a newsworthy development likely to be shared across both crypto and mainstream audiences."
+        },
+        "informative_value": {
+            "score": 8,
+            "justification": "The tweet conveys a factual product launch, informing followers about a new Ethereum wallet from GameStop, which is a notable addition to the crypto ecosystem."
+        },
+        "sentiment_polarity": {
+            "score": 8,
+            "justification": "The language is enthusiastic, using \"BREAKING\" and a rocket emoji, indicating strong positive sentiment."
+        },
+        "duration_of_impact": {
+            "score": 7,
+            "justification": "The wallet launch will remain relevant as the product is adopted and discussed, likely maintaining interest for several months."
+        }
+    }
+}
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1644412401822097410",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet provides technical information about a blockchain bridge, which is likely to be shared within the cryptocurrency community but not beyond."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "The tweet offers specific details about a blockchain project, which is highly relevant to its niche audience."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, providing factual information without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The information is relevant for a few weeks as it pertains to a specific project's development."
+      }
+    }
+  },
+  {
+    "tweet_id": "1644016993996247040",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "The issue is niche but could gain attention within the blockchain community."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet provides critical information about a smart contract issue, which is highly informative."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "The tweet expresses frustration about funds being stuck."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The issue is time-sensitive and may lose relevance once resolved."
+      }
+    }
+  },
+  {
+    "tweet_id": "1643884643525984257",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The update is relevant to the PulseChain community but unlikely to go viral beyond that."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "The tweet provides specific project updates, which is informative for its audience."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, focusing on project progress."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The information is relevant for a few weeks as it pertains to ongoing developments."
+      }
+    }
+  },
+  {
+    "tweet_id": "1643818895604695043",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet discusses validator rewards, which is niche but could be shared within the blockchain community."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "The tweet provides detailed information about validator economics, which is informative."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, presenting factual information."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The information is relevant for a few weeks as it pertains to ongoing project changes."
+      }
+    }
+  },
+  {
+    "tweet_id": "1643481645133996032",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "The rant is likely to be shared within the crypto community but not beyond."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "The tweet provides a personal opinion without detailed analysis."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "The tweet expresses strong negative sentiment towards Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The rant is time-sensitive and may lose relevance quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1641980557650452481",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The sale is niche but could attract attention within the NFT community."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "The tweet provides information about a specific NFT sale."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, announcing the sale."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The sale is time-bound and may lose relevance quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1641976775239675905",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The migration is niche but could attract attention within the NFT community."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "The tweet provides specific information about the migration process."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, providing factual information."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The migration is time-bound and may lose relevance quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1663784295670988802",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The airdrop is niche but could attract attention within the crypto community."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "The tweet provides information about an airdrop opportunity."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet expresses positive sentiment about the airdrop."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The airdrop is time-bound and may lose relevance quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1663626521821708288",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The airdrop announcement is likely to be shared within the crypto community."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "The tweet provides detailed information about the airdrop."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tweet expresses strong positive sentiment about the airdrop."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The airdrop is time-bound and may lose relevance quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1663618690061946881",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The airdrop announcement is likely to be shared within the crypto community."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "The tweet provides detailed information about the airdrop."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tweet expresses strong positive sentiment about the airdrop."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The airdrop is time-bound and may lose relevance quickly."
+      }
+    }
+  }
+]

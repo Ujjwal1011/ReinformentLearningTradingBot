@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1732497131691270397",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet highlights JPMorgan's crypto involvement and calls out FUD, which may resonate within crypto communities, but it's not a globally viral hook."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "It provides specific details about JPMorgan's crypto activities, offering factual information to readers."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "The tweet expresses negative sentiment towards JPMorgan, labeling them as spreading FUD."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The content may remain relevant for a few weeks as JPMorgan's crypto activities continue to be discussed."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732491004861624349",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "A simple question to a user, unlikely to go viral."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "The tweet is a question, not providing new information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is a neutral question."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The tweet is relevant only for a short period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732490112766705908",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet announces a new product with strong marketing language and emojis, likely to be shared within the Baby Doge community and beyond."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "It informs users about a new tool and provides links to use it."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "The tweet expresses strong excitement and positivity about the new product."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The announcement may remain relevant for weeks as users explore the new tool."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732488356620288427",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet discusses a technical topic that may resonate with developers, but it's not a breaking news."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet provides detailed information about WASM and EVM, offering educational content."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet presents factual information without strong emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The comparison remains relevant for developers for months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732479268632891868",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet highlights a potential breakout, which could attract attention from traders and crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "The tweet mentions a breakout but lacks detailed information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet expresses excitement about the breakout."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The tweet is relevant for a short period as the breakout may be short-lived."
+      }
+    }
+  }
+]

@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1503343966057545729",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The surprising comparison between Visa and Ethereum may be shared within finance and crypto circles but is unlikely to go mainstream."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides a specific statistic about payment volumes, offering factual insight though lacking a source."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is factual with a thinking emoji, showing no strong emotional tone."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The data is tied to 2021 and may be referenced for a short period; it is not evergreen."
+}
+}
+},
+{
+"tweet_id": "1503328775915937793",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The claim that Elon Musk bought Ethereum is a strong hook likely to be widely retweeted."
+},
+"informative_value": {
+"score": 3,
+"justification": "No evidence or source is provided; it is a sensational, unsubstantiated claim."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "All caps convey excitement; the claim is positive for Ethereum."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Interest peaks quickly unless verified; relevance fades within days."
+}
+}
+},
+{
+"tweet_id": "1503327146135244800",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Musk's statement about owning Bitcoin, Ethereum, and Doge is highly shareable."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides a claim with a link, offering some context but lacking detailed information."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Expresses confidence in holding cryptos, which is moderately positive for the community."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevant while Musk's statements are in the news cycle, lasting a few days."
+}
+}
+},
+{
+"tweet_id": "1503299334942740487",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Technical details about Ethereum's emission cut may be shared among crypto enthusiasts but not mainstream."
+},
+"informative_value": {
+"score": 9,
+"justification": "Delivers detailed, quantitative information about Ethereum's post-Merge economics."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Purely factual without emotive language."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The emission and inflation changes are long-term, remaining relevant for months or years."
+}
+}
+},
+{
+"tweet_id": "1503259076628987905",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Elon Musk mention triggers high interest and shares."
+},
+"informative_value": {
+"score": 3,
+"justification": "Unsubstantiated claim with no source."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Excited tone about Musk owning Ethereum."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Likely a fleeting rumor; relevance fades quickly."
+}
+}
+}
+]

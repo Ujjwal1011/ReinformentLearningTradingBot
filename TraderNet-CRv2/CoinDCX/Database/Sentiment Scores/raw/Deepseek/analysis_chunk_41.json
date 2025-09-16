@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1456659329617211396",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Mentions Elon Musk and Dogecoin, which have viral communities, but lacks a universal emotional hook for broader appeal."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Primarily a humorous quote without substantive information or context about the mentioned cryptocurrencies."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive tone emphasized by the laughing emoji and playful reference to crypto assets."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to current crypto culture buzz but lacks evergreen content for sustained engagement."
+      }
+    }
+  },
+  {
+    "tweet_id": "1456634154783756300",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Whale transactions attract significant attention in crypto communities, especially with SHIB's popularity."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific transactional data with verifiable TXID link, though lacks broader context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of a transaction without explicit emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for days as crypto communities track whale movements, but superseded by newer transactions over time."
+      }
+    }
+  },
+  {
+    "tweet_id": "1456596960048304130",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "JPMorgan's institutional analysis carries weight in financial circles, likely to be shared in crypto/finance communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Credible market analysis linking interest rates to crypto performance from a major financial institution."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual presentation of analysis without overt positive/negative language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant for weeks as macroeconomic factors continue influencing crypto markets."
+      }
+    }
+  },
+  {
+    "tweet_id": "1456367942497705998",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Broad investment thesis appeals to crypto enthusiasts but lacks unique hooks for exponential sharing."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Opinion-based prediction without supporting data or sources."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Optimistic outlook expressed through 'best investments' phrasing."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Decade-long prediction gives it medium-term relevance in investment discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1456314965460242433",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Heartwarming story about youth adoption has strong relatability in tech/crypto communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Personal anecdote without broader educational or news value."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Strong positive emotions conveyed through parental pride and future-oriented excitement."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Novelty story with relevance lasting days before being overshadowed by new content."
+      }
+    }
+  },
+  {
+    "tweet_id": "1456295183008534531",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Bold price prediction likely to be widely shared in crypto trading communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Unsubstantiated price claim without analytical backing."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Extremely bullish tone with rocket emoji emphasizing excitement."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Price predictions become irrelevant quickly if market moves contrary to prediction."
+      }
+    }
+  },
+  {
+    "tweet_id": "1456198725504798721",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Spanish-language encouragement to hold ETH has limited reach beyond specific crypto circles."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Simple statement lacking data, analysis, or news value."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral encouragement without strong emotional indicators."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Generic holding advice loses relevance quickly in fast-moving crypto markets."
+      }
+    }
+  },
+  {
+    "tweet_id": "1456071144075776001",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Addresses ongoing Ethereum fee debate, relevant to current crypto community discussions."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Highlights important network issue but lacks specific data or sources."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative implication through 'absurd fee situation' criticism."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant for weeks as Ethereum's fee structure is an ongoing industry concern."
+      }
+    }
+  },
+  {
+    "tweet_id": "1456018351474544649",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Comparative ROI statistics are highly shareable in investment communities, especially with SHIB's extreme numbers."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific (though unverified) investment return data across multiple assets."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone highlighting investment successes, though presented factually."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Time-bound to 2021 performance, relevance decreases with new annual data."
+      }
+    }
+  },
+  {
+    "tweet_id": "1455791603352850433",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Extreme price target and rocket emoji make it highly shareable in crypto trading circles."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Unsupported technical analysis claim without chart evidence or methodology."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Extremely bullish sentiment with enthusiastic emoji and capitalization."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Price predictions lose relevance quickly if market conditions change."
+      }
+    }
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1567113884388950016",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news about a significant blockchain upgrade is likely to be widely shared among crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides factual information about a major network upgrade."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment as it's a significant milestone in Ethereum's transition."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for a few days as the merge approaches and discussions continue."
+      }
+    }
+  },
+  {
+    "tweet_id": "1567001402068566018",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Statement from a key figure in the crypto space, likely to be shared within the community."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides a direct quote from Vitalik Buterin about the merge timeline."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment, simply stating a fact."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for a few days as the merge approaches."
+      }
+    }
+  },
+  {
+    "tweet_id": "1566873633548558337",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Warns about scams, which can resonate within the NFT community."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides advice on avoiding scams, which is useful information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment, cautionary advice."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Impact is short-term as it relates to a specific event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1566751496548532228",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Fun fact about an upcoming upgrade, likely to be shared among enthusiasts."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides a factual update about the upgrade timeline."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment, informative without strong emotion."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Impact is short-term as it relates to a specific event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1566716836636344322",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Milestone achievement in the Ethereum network, likely to be shared among enthusiasts."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides a factual update on network performance."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment, informative without strong emotion."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Impact is short-term as it relates to a specific event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1566616585015422976",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Provides actionable advice for ETH holders, likely to be shared within the community."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Offers detailed steps for preparing for the merge, which is highly informative."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive sentiment, encouraging and helpful."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for a week as the merge approaches and discussions continue."
+      }
+    }
+  },
+  {
+    "tweet_id": "1565928294054338560",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Explains a complex topic in relatable terms, likely to be shared within the community."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Educational content explaining the Ethereum Merge in NBA terms."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive sentiment, informative and engaging."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for a week as the merge approaches and discussions continue."
+      }
+    }
+  },
+  {
+    "tweet_id": "1565781100865003520",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "High-profile individual's wallet being hacked is likely to be widely shared."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides factual information about a significant security incident."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative sentiment due to the hacking incident."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant for a few days as the incident is discussed."
+      }
+    }
+  },
+  {
+    "tweet_id": "1565625320887095296",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Statement from a key figure about the future of crypto, likely to be widely shared."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides insights from Vitalik Buterin about future crypto volatility."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment, informative without strong emotion."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for a week as discussions about crypto's future continue."
+      }
+    }
+  },
+  {
+    "tweet_id": "1565416127378882560",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Provides financial data about Ethereum miners, likely to be shared among enthusiasts."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides factual information about revenue generated by Ethereum miners."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment, informative without strong emotion."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant for a few days as the data is discussed."
+      }
+    }
+  }
+]

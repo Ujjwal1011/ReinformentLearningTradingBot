@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1494025302699384835",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet features a prominent figure's opinion on crypto, which is likely to be shared widely among crypto communities."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides performance data on crypto assets, offering useful information for investors."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral statement about investment choices."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Impact lasts a few days due to the significance of the figure's opinion."
+}
+}
+},
+{
+"tweet_id": "1493974442321616903",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "Personal realization in Spanish, limited to crypto enthusiasts."
+},
+"informative_value": {
+"score": 2,
+"justification": "Minimal information, focuses on personal understanding."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive sentiment about understanding Ethereum."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short-term impact as it's a personal insight."
+}
+}
+},
+{
+"tweet_id": "1493920584127950853",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Report from a major financial institution, widely shared."
+},
+"informative_value": {
+"score": 8,
+"justification": "Credible report on blockchain technology."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment towards Bitcoin's decentralization."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Impact lasts a week due to the report's significance."
+}
+}
+},
+{
+"tweet_id": "1493541849830670337",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Speculation about Apple's involvement, shared among crypto enthusiasts."
+},
+"informative_value": {
+"score": 4,
+"justification": "Speculative advice without concrete info."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive encouragement to buy."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Impact until Apple's announcement."
+}
+}
+},
+{
+"tweet_id": "1493334225893875723",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "CEO's crypto ownership from a credible source."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides info on a company executive's crypto holdings."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment about crypto adoption."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Impact lasts a week due to the executive's influence."
+}
+}
+},
+{
+"tweet_id": "1493307107537416192",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Personal journey in crypto art, niche audience."
+},
+"informative_value": {
+"score": 3,
+"justification": "Personal story without much info."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Positive and enthusiastic tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Short-term impact as it's a personal update."
+}
+}
+},
+{
+"tweet_id": "1493204171755077632",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Significant profit announcement, widely shared."
+},
+"informative_value": {
+"score": 5,
+"justification": "Shares success story without detailed info."
+},
+"sentiment_polarity": {
+"score": 10,
+"justification": "Extremely positive and excited tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Impact until the news fades, a few days."
+}
+}
+},
+{
+"tweet_id": "1493029471464693760",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Promotion with a giveaway, high engagement."
+},
+"informative_value": {
+"score": 4,
+"justification": "Promotional content with giveaway details."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive and encouraging tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Impact until the giveaway ends, a few days."
+}
+}
+},
+{
+"tweet_id": "1492956846298128387",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Inspirational story, widely shared in crypto communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "Shares a success story with crypto."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Positive and uplifting tone."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Impact lasts a week due to the story's inspiration."
+}
+}
+},
+{
+"tweet_id": "1492951137636466696",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Price prediction, shared among crypto enthusiasts."
+},
+"informative_value": {
+"score": 5,
+"justification": "Speculative prediction without data."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Confident and positive tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Impact until the prediction is proven, a few months."
+}
+}
+}
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1530533720033316865",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet offers a hook about quitting a 9-to-5 job by becoming an Ethereum validator, which may resonate within the crypto community, but it lacks a breaking news element or meme, so it is likely to see moderate sharing."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "It states a factual requirement—32 ETH to become a validator—which is useful information, though it does not provide a source or deeper context."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tone is encouraging and positive, promoting freedom and financial opportunity."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The validator requirement remains constant, so the tweet can stay relevant for months as people consider staking."
+      }
+    }
+  },
+  {
+    "tweet_id": "1530392300052185094",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet covers multiple markets (stocks, Bitcoin, gold) and links to an article, which can attract shares across finance and crypto audiences, but it is not a sensational headline."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "It provides a concise summary of the article’s key points and includes a link for deeper reading, offering useful market insight."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, simply reporting market conditions without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Market conditions change quickly; the tweet’s relevance is likely limited to a few days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1530059058539274240",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The claim of a crypto winter and capitulation dump is a trending topic that can spread within the crypto community, but it lacks a breaking news element."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "It summarizes the article’s main point about a significant market downturn and links to the source."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "The tweet expresses a negative view of the market, indicating disappointment."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The concept of a crypto winter remains relevant for weeks, though it may fade as markets recover."
+      }
+    }
+  },
+  {
+    "tweet_id": "1529692372833288192",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Highlighting a market turning point can attract shares among investors, but it is not a sensational headline."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "It provides specific data on price declines and links to an article for further details."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "The tweet conveys a negative sentiment about the market’s performance."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The decline remains relevant for weeks as traders discuss the downturn."
+      }
+    }
+  },
+  {
+    "tweet_id": "1529622992203882496",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The comparison between Terra 2.0 and Ethereum 2.0 raises curiosity and can prompt discussion, but it is not a breaking news event."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "The tweet poses a question rather than providing new factual information."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "The tone is mildly critical, questioning Ethereum’s progress."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The question may remain relevant for a while as the Ethereum upgrade timeline is debated."
+      }
+    }
+  }
+]

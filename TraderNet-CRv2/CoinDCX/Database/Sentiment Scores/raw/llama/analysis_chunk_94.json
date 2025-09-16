@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1524862906130743323",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Announcements about significant policy changes (e.g., tax exemptions for cryptocurrencies) can generate substantial interest and sharing within the crypto community, potentially extending beyond."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides direct, newsworthy information about a country's (Germany) tax policy on Bitcoin and Ethereum, impacting the crypto community."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tone is positive, indicating a favorable development for crypto holders in Germany, though the language remains formal and informative."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for several days or weeks, especially among German crypto holders and those interested in global crypto regulations, but its impact will diminish as the news ages."
+}
+}
+},
+{
+"tweet_id": "1524779791316045831",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Insightful analysis from a former banker on a significant DeFi market crash has potential for sharing within the crypto and finance communities."
+},
+"informative_value": {
+"score": 9,
+"justification": "Offers in-depth, expert analysis on the UST market crash, providing valuable insights to readers interested in DeFi and crypto markets."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "The sentiment is moderately negative due to the discussion of a market crash, but the tone is analytical rather than emotional."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Given the significance of the UST crash in DeFi history, this analysis will remain relevant for months, serving as a reference point for similar future events."
+}
+}
+},
+{
+"tweet_id": "1524756386063667200",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Success of a shadow fork, while important for Ethereum's development, may not resonate widely beyond the Ethereum and crypto development communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "Informs about a specific, significant event in Ethereum's development (The Merge), relevant to those interested in Ethereum and its ecosystem."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "Expresses a very positive sentiment, indicating excitement and anticipation for The Merge."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Relevant for several weeks, especially as The Merge approaches, but its immediate impact will wane once the event passes."
+}
+}
+},
+{
+"tweet_id": "1524752406470283272",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "A provocative question about promoters of a failed crypto project (Luna, UST) can spark significant engagement and sharing, especially if it leads to a broader discussion."
+},
+"informative_value": {
+"score": 5,
+"justification": "While it mentions a significant event (Luna/UST collapse), the tweet's primary focus is on eliciting a response rather than providing detailed information."
+},
+"sentiment_polarity": {
+"score": 1,
+"justification": "Expresses a very negative sentiment towards the promoters of Luna and UST, with a tone of accusation and possibly outrage."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a short period, as the immediate aftermath of the collapse is when such questions are most pertinent."
+}
+}
+},
+{
+"tweet_id": "1524700995351347203",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "A market update, while informative, is less likely to go viral unless it captures a pivotal moment in the market."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides a brief update on the crypto market, including Bitcoin and altcoin performances, but lacks in-depth analysis."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "Moderately negative due to the discussion of market collapses, but the tone is neutral and informative."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "Very short relevance, as market updates are most valuable in the immediate moment and quickly become outdated."
+}
+}
+},
+{
+"tweet_id": "1524662325021716481",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The launch of Australia's first Bitcoin and Ethereum ETFs is significant news with potential for broad sharing within the crypto and finance sectors."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides direct, newsworthy information about a significant development in the crypto market (first ETFs in Australia)."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "Expresses a very positive sentiment, indicating a favorable development for crypto adoption in Australia."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Relevant for several weeks, especially among those interested in crypto adoption and regulatory news in Australia and globally."
+}
+}
+},
+{
+"tweet_id": "1524652531170881537",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "A technical update about Tether's operations might interest the crypto community but is unlikely to spread widely beyond."
+},
+"informative_value": {
+"score": 8,
+"justification": "Informs about a specific operational change (chain swap) for Tether, relevant to those holding or interested in USDt."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, as the update is purely informational without emotional tone."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short-term relevance, primarily of interest during the swap process and immediately after."
+}
+}
+},
+{
+"tweet_id": "1524530815534780418",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Insightful predictions about market shifts (from altcoins to Ethereum and L2s) can generate significant interest and sharing within the crypto community."
+},
+"informative_value": {
+"score": 9,
+"justification": "Offers in-depth analysis on why Ethereum and L2s might benefit from the demise of Luna, providing valuable insights to crypto investors."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Moderately positive, as the analysis suggests a shift towards Ethereum but acknowledges the demise of another project (Luna)."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Given the analysis of market trends and the aftermath of Luna's collapse, this will remain relevant for months as a predictive piece."
+}
+}
+},
+{
+"tweet_id": "1524501750715142144",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "A personal reflection on the underestimation of altcoin drops might resonate within the crypto community but is less likely to go viral."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides a personal perspective on the crypto market's volatility, lacking broad, newsworthy information."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "Expresses a very negative sentiment due to the acknowledgment of being wrong and the sadness associated with the market's performance."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short-term relevance, primarily of interest in the immediate aftermath of the altcoin market drop."
+}
+}
+},
+{
+"tweet_id": "1524415758138228736",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Listing significant events in crypto history can spark engagement, especially if it leads to a broader discussion on resilience and adaptation."
+},
+"informative_value": {
+"score": 8,
+"justification": "Informs about pivotal, historic events in crypto (Mt. Gox Hack, The Dao Hack, Terra Luna Collapse), relevant to both new and veteran crypto enthusiasts."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Moderately positive, as despite discussing negative events, the overall message is one of resilience and adaptation."
+},
+"duration_of_impact": {
+"score": 9,
+"justification": "Given the historical context, this tweet will remain relevant for a long time, serving as a reference point for significant crypto events."
+}
+}
+} 
+]

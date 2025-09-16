@@ -1,0 +1,215 @@
+--- RAW RESPONSE FROM MODEL ---
+[
+{
+"tweet_id": "1618234366966247424",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet announces a new NFT scene on OpenSea, which may generate interest within the NFT community, but lacks broad appeal for widespread virality."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet informs about a new NFT scene, providing a link for more information, but the content is somewhat niche."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The user expresses strong positive emotions with '10\10', indicating high satisfaction or excitement."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to the initial interest in the new NFT scene, likely fading after a short period."
+}
+}
+},
+{
+"tweet_id": "1616273583008874497",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet's controversial statement about J.P. Morgan and Ethereum could spark discussion within the crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides a potentially newsworthy claim, though without additional context or sources."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The user expresses a negative sentiment towards the decentralization of Ethereum due to J.P. Morgan's involvement."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's impact could last for several days as it sparks debate within the Ethereum and broader crypto community."
+}
+}
+},
+{
+"tweet_id": "1615456623195222021",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The enthusiastic endorsement of a new wallet experience might generate interest within the Solana, Ethereum, and Polygon communities."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet informs about a new wallet feature, highlighting its multi-chain support, but lacks in-depth details."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The user expresses very positive emotions, calling the experience 'elite' and 'the future'."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is standard, generating discussion for a day or two before fading."
+}
+}
+},
+{
+"tweet_id": "1613951306036645925",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The announcement of MetaMask's beta program for Ethereum staking may interest the Ethereum community but lacks broader appeal."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides newsworthy information about a significant development in Ethereum staking."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet presents information in a neutral, factual manner without expressing a sentiment."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet remains relevant for days or weeks as users discuss and engage with the new beta program."
+}
+}
+},
+{
+"tweet_id": "1613848879862013955",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet's critique of Alameda's Ethereum use, with specific examples, could generate significant discussion within the crypto community."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides detailed, informative content about Alameda's actions on Ethereum, offering insights into their strategies."
+},
+"sentiment_polarity": {
+"score": 1,
+"justification": "The user expresses strong negative emotions towards Alameda's competence in using Ethereum."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's impact could last for several days as it sparks debate and discussion within the community."
+}
+}
+},
+{
+"tweet_id": "1613422940766482432",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The reflective tweet on Ethereum's transition to PoS might generate interest within the Ethereum community."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides a historical context and an opinion on Ethereum's transition, but lacks new information."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The user expresses a positive sentiment, highlighting the underappreciated success of Ethereum's transition."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is standard, generating discussion for a day or two before fading."
+}
+}
+},
+{
+"tweet_id": "1613199688877891584",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet about a CryptoPunk sale is niche, primarily interesting to those following CryptoPunks or the buyer/seller."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides detailed, newsworthy information about a significant CryptoPunk sale, including the price and participants."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet presents information in a neutral, factual manner without expressing a sentiment."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is short-term, primarily of interest at the time of the sale."
+}
+}
+},
+{
+"tweet_id": "1611911890057166849",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The giveaway tweet, especially with a simple engagement requirement, is highly likely to be shared and attract participants."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet informs about a giveaway but lacks substantial content beyond the promotional aspect."
+},
+"sentiment_polarity": {
+"score": 10,
+"justification": "The user expresses an extremely positive sentiment, encouraging engagement with a promising reward."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to the duration of the giveaway, likely remaining relevant until its conclusion."
+}
+}
+},
+{
+"tweet_id": "1630090731733012480",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet about a significant bid on a Golden Key, with its dramatic language, could generate substantial interest within the NFT and gaming communities."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet informs about a notable event in the NFT space but focuses more on the dramatic aspect than providing detailed information."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The user expresses very positive emotions, using enthusiastic language to announce the bid."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's impact could last for several days as it generates excitement and discussion within the community."
+}
+}
+},
+{
+"tweet_id": "1629851874135351297",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The list of top cryptocurrencies may interest those in the crypto space but lacks a hook for broader virality."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides a clear, informative list of the top cryptocurrencies by market cap, excluding stablecoins."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet presents information in a neutral, factual manner without expressing a sentiment."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is standard, generating interest for a day or two before the rankings change."
+}
+}
+}
+]
+
+--- FULL PROMPT SENT TO MODEL ---

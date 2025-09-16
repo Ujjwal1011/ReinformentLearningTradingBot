@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1639123359811133440",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet uses catchy phrases and multiple hashtags targeting a niche community, which may generate moderate engagement."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet is a slogan without substantial information, providing minimal value."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The sentiment is neutral, as it's a phrase without strong emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The tweet's relevance is short-lived, tied to a trend."
+      }
+    }
+  },
+  {
+    "tweet_id": "1639028559162511360",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "A significant update from a well-known brand, likely to be shared widely within the community."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides detailed and credible information about a new feature."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment due to the announcement of a useful feature."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Relevant for weeks as users adopt the new feature."
+      }
+    }
+  },
+  {
+    "tweet_id": "1638824989087367168",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "A question aimed at a specific community, may generate some discussion."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Seeks information but doesn't provide much itself."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, as it's a question without emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant only for the duration of the discussion."
+      }
+    }
+  },
+  {
+    "tweet_id": "1638617228005220374",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Inspirational and relatable, likely to be shared within motivational circles."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Personal story with minimal factual information."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strongly positive, encouraging and motivational."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "May remain relevant for a few weeks as it's shared."
+      }
+    }
+  },
+  {
+    "tweet_id": "1638504396228108290",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Targets crypto communities with price charts, generating some interest."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Provides a link without context, minimal information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, factual without emotion."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant only for the current price trends."
+      }
+    }
+  },
+  {
+    "tweet_id": "1637983933764648960",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Detailed analysis for crypto enthusiasts, may be shared within the community."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides in-depth analysis on a significant topic."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, informative without emotion."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Relevant for weeks as it's a topic of ongoing interest."
+      }
+    }
+  },
+  {
+    "tweet_id": "1637928923693735936",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Niche announcement about an NFT scene, limited to specific collectors."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Announcement without detailed context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, factual announcement."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant only for the release period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1637299914282618880",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Informative for crypto investors, likely shared within the community."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Detailed analysis on a significant crypto topic."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, factual without emotion."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Relevant for weeks as a recurring topic."
+      }
+    }
+  },
+  {
+    "tweet_id": "1637140989478572032",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Breaking news in crypto, likely to be widely shared immediately."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides critical information on a significant event."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment due to the whale's move."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant only for the duration of the event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1636804642108473352",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Personal story with a critical tone, may resonate within crypto circles."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Opinion-based without substantial information."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative, critical of others' actions."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant only for the personal story's lifespan."
+      }
+    }
+  }
+]

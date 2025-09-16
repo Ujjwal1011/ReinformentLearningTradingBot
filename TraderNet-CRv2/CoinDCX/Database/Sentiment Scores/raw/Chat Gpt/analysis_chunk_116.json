@@ -1,0 +1,107 @@
+[
+{
+  "tweet_id": "1483548554874564613",
+  "analysis": {
+    "virality_potential": {
+      "score": 7,
+      "justification": "The meme format and user reach can lead to moderate sharing."
+    },
+    "informative_value": {
+      "score": 2,
+      "justification": "It is a parody with no factual content."
+    },
+    "sentiment_polarity": {
+      "score": 5,
+      "justification": "The tweet is a lighthearted joke, no strong emotional tone."
+    },
+    "duration_of_impact": {
+      "score": 4,
+      "justification": "The meme may be relevant for a few hours to a day, then fades."
+    }
+  }
+},
+{
+  "tweet_id": "1483444379943841795",
+  "analysis": {
+    "virality_potential": {
+      "score": 8,
+      "justification": "The tweet covers trending topics (Ethereum, NFTs, gaming, metaverse) and has a link, making it shareable across communities."
+    },
+    "informative_value": {
+      "score": 6,
+      "justification": "Provides a concise timeline of real events linking Ethereum and gaming, but not a primary source."
+    },
+    "sentiment_polarity": {
+      "score": 5,
+      "justification": "The tweet presents facts without strong emotional tone."
+    },
+    "duration_of_impact": {
+      "score": 6,
+      "justification": "The tweet remains relevant for ongoing discussions about Ethereum and gaming, but not timeless."
+    }
+  }
+},
+{
+  "tweet_id": "1483301615323033601",
+  "analysis": {
+    "virality_potential": {
+      "score": 6,
+      "justification": "The tweet's brevity and link could spark discussion among crypto communities, but it lacks a strong hook."
+    },
+    "informative_value": {
+      "score": 2,
+      "justification": "The tweet does not provide any context or information beyond the two words."
+    },
+    "sentiment_polarity": {
+      "score": 5,
+      "justification": "No strong emotional tone."
+    },
+    "duration_of_impact": {
+      "score": 4,
+      "justification": "The tweet may be relevant for a short period, then fades."
+    }
+  }
+},
+{
+  "tweet_id": "1483173552828391426",
+  "analysis": {
+    "virality_potential": {
+      "score": 7,
+      "justification": "The tweet's emotional content and relatability can lead to moderate sharing."
+    },
+    "informative_value": {
+      "score": 4,
+      "justification": "Shares personal investment details but not generalizable info."
+    },
+    "sentiment_polarity": {
+      "score": 2,
+      "justification": "The tweet expresses frustration and disappointment."
+    },
+    "duration_of_impact": {
+      "score": 5,
+      "justification": "The tweet may generate discussion for a day or two before fading."
+    }
+  }
+},
+{
+  "tweet_id": "1482946173413597186",
+  "analysis": {
+    "virality_potential": {
+      "score": 5,
+      "justification": "The tweet shares personal experiences that may resonate with some, but not a strong hook."
+    },
+    "informative_value": {
+      "score": 6,
+      "justification": "Lists various NFT projects and lessons learned, providing some educational content."
+    },
+    "sentiment_polarity": {
+      "score": 8,
+      "justification": "Expresses positive emotions about learning and community."
+    },
+    "duration_of_impact": {
+      "score": 6,
+      "justification": "The tweet remains relevant for ongoing discussions about NFTs and gaming, but not timeless."
+    }
+  }
+}
+]

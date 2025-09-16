@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1732524328862834885",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet discusses crypto prices and mentions Bitcoin and Ethereum, which are popular topics, likely to resonate within crypto communities."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Provides some information about asset managers and ETFs but is more of a personal opinion."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Neutral to slightly positive tone, expressing flattery and a balanced view."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a few days as crypto trends can change quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732508474884657381",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Bold claims about Solana disrupting major companies, likely to attract attention in crypto circles."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Presents a thesis without supporting data."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive and confident tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for weeks as Solana's growth is a topic of interest."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732508278687514886",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Direct and thought-provoking, likely to spark discussions in crypto communities."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Makes a claim without explanation."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Topic is ongoing, so medium duration."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732505003007553932",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "In Vietnamese, so relevant within that community."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Provides some info but limited to Vietnamese speakers."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, informative tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term update."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732503294700884134",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Promotes an NFT collection, which is popular but specific."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Explains the collection but is promotional."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive and excited tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Could be relevant for weeks if successful."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732497131691270397",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Targets crypto audience interested in JPMorgan's activities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides details on JPMorgan's crypto involvement."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative towards Jamie."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a few days as news."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732491004861624349",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Specific question, may not go viral."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Minimal info, just a question."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term query."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732490112766705908",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Combines AI and NFTs, which are trending."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Explains the product but is promotional."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive and exciting tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for weeks if successful."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732488356620288427",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Technical, within developer communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides info on tech advancements."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, informative tone."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Long-term as tech evolves."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732479268632891868",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Targets crypto traders, moderate reach."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Shares a link without context."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive and excited tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term specific moment."
+      }
+    }
+  }
+]

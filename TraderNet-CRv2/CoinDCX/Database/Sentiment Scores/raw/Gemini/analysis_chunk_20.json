@@ -1,0 +1,1052 @@
+[
+  {
+    "tweet_id": "1520612362986078208",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "This is a major announcement from Yuga Labs, a prominent player, regarding a critical issue (Ethereum outage for ApeCoin) and a significant proposed solution (migration to its own chain). This has high virality within the crypto and NFT communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides critical, newsworthy information from a primary source about ApeCoin's scalability issues and a strategic direction for its future, with significant implications for holders and the wider ecosystem."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Starts with an apology ('We're sorry') for a service disruption (negative), but then pivots to proposing a solution for scaling, which carries a pragmatic, forward-looking (less negative, potentially positive for the long-term) tone. Overall, moderately negative due to the initial problem."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "A strategic decision of this magnitude concerning a major crypto asset will generate discussion and have implications for months, potentially years, as the community debates and implements the proposed changes."
+      }
+    }
+  },
+  {
+    "tweet_id": "1520587188307697667",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Highlights a positive technical achievement for Ethereum (handling high gas without breaking) and praises developers, which is likely to be shared widely within the tech and crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides useful technical insight into Ethereum's resilience and improved performance under high gas conditions, contrasting it with historical issues."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Clearly expresses strong positive emotions, praising Ethereum's stability and giving a 'Big shout out' to researchers and developers, framing high gas as an acceptable side effect of functionality."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The underlying message about Ethereum's resilience and scalability is an ongoing topic. This specific instance will be referenced for weeks or months in discussions about network performance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1520586527180574720",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "'BREAKING' combined with large monetary figures ($69,000,000) and a key crypto event ('burned Ethereum') from a large news account ensures high virality within the crypto space."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides specific, verifiable, and newsworthy market data about Ethereum's supply mechanics, which is highly relevant for crypto investors."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Presents factual market information without explicit emotional framing. While 'burned' might imply a loss, in crypto context, it's often a deflationary mechanism."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "This is a snapshot of an hourly event. While the overall burning mechanism is important, this specific instance is highly time-sensitive and quickly superseded by new data."
+      }
+    }
+  },
+  {
+    "tweet_id": "1520577210704441344",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Reports an extremely high gas fee, a common pain point for Ethereum users, and uses 'Lulz' to express exasperation. This can resonate and be shared within the crypto community for its relatability."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides a real-time, albeit extreme, piece of market data (gas price) which is informative of the current state of the network, even if presented casually."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "'Lulz' implies sarcasm, disbelief, and exasperation regarding the extreme cost, indicating a moderately negative observation of a problematic situation."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Gas prices fluctuate rapidly. This tweet captures a fleeting moment of extreme cost, making its relevance very short-lived."
+      }
+    }
+  },
+  {
+    "tweet_id": "1520570399762780160",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "A dramatic personal anecdote ('Ethereum is broken,' 'spent $1,000 for a transaction') with a strong emotional appeal that can resonate widely and spark discussion within the crypto community."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Primarily a personal complaint, but it implicitly informs others about a very high transaction cost, serving as a data point or warning to the community."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Clearly expresses strong negative emotions like anger and frustration with phrases like 'Ethereum is broken' and 'What happened!?' due to high costs."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Tied to a specific, short-lived event (extreme gas prices). Its impact will quickly fade as gas prices change or other news emerges."
+      }
+    }
+  },
+  {
+    "tweet_id": "1541952241409658880",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "News about a major Brazilian bank adopting Bitcoin and Ethereum is highly significant for crypto adoption and global market trends, ensuring broad sharing within the crypto and finance communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "This is a factual, newsworthy announcement from a reputable news source reporting on a major traditional financial institution's entry into crypto."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Reports a positive development for crypto adoption and mainstream acceptance. The tone is factual but implies positive implications."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "While the immediate announcement is time-sensitive, the broader impact of a major bank adopting crypto will be discussed as a significant step in institutional adoption for weeks or months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1541496690003304448",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "'JUST IN' combined with a major institution (Morgan Stanley) and a critical assessment of a highly anticipated crypto event (Ethereum's PoS transition) makes this highly viral, sparking debate within the crypto community."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Reports on a significant finding from a reputable financial institution regarding Ethereum's technical roadmap, providing highly informative content for investors and developers."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "The tweet factually reports a critical assessment from Morgan Stanley that Ethereum's PoS transition 'will not solve scaling problems,' which is a moderately negative piece of news for Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Ethereum's transition to PoS and its scaling solutions are long-term, ongoing debates. A report from a major institution on this topic will fuel discussions for months, if not years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1541384246140538880",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "A concise headline from a reputable crypto news outlet (Blockworks) reporting a significant, critical finding from Morgan Stanley about Ethereum's future ensures high virality."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Directly states a key finding from a Morgan Stanley report, providing important, newsworthy information for the crypto community regarding a critical technical aspect of Ethereum."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Factually reports a critical assessment that PoS 'will not solve Ethereum’s scaling problems,' conveying a moderately negative tone regarding a major crypto development."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "This discusses a fundamental, ongoing debate about Ethereum's future and scalability. The report's findings will be referenced for a long time as part of that discussion."
+      }
+    }
+  },
+  {
+    "tweet_id": "1541109541567434752",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "'JUST IN' combined with large, specific figures related to a major positive milestone (Ethereum 2.0 Deposit Contract reaching a new high) ensures high shareability within the crypto investment community."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides specific, verifiable, and newsworthy market data about the progress of Ethereum 2.0, which is highly informative for those following the project."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Reports a significant positive milestone for Ethereum, as the accumulation of value in the deposit contract is generally seen as a positive indicator for its future."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "While the specific number is a snapshot, it's a milestone in the ongoing development of Ethereum 2.0. The broader trend and significance of the deposit contract will remain relevant as the merge approaches and thereafter."
+      }
+    }
+  },
+  {
+    "tweet_id": "1540788868428926982",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "A photo of a famous figure (Vitalik Buterin) with his father can generate interest and be shared within communities interested in crypto personalities or human interest stories."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Contains minimal factual information, essentially just identifying two individuals. Its primary purpose is social, not to inform about events or technical details."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "A personal photo is generally neutral to mildly positive, evoking curiosity or warmth without strong emotional framing."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "A personal photo, unless it captures a truly iconic moment, has a very short shelf-life, relevant for a day at most before fading."
+      }
+    }
+  },
+  {
+    "tweet_id": "1540240792333295616",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "'Major announcement' about a 'European nation embracing public Ethereum' (Norwegian Government) is groundbreaking news, ensuring extremely high virality within crypto, tech, and policy communities, despite the user's follower count."
+      },
+      "informative_value": {
+        "score": 10,
+        "justification": "Provides critical, verifiable, and primary-source information of high importance regarding government adoption of public blockchain for a specific use case, a significant milestone for the industry."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Overwhelmingly positive, signifying a major validation and real-world utility for the Ethereum ecosystem through government adoption."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "Government adoption of blockchain for a core function is a landmark event that will be discussed and referenced for years, if not decades, as a precedent and example of utility."
+      }
+    }
+  },
+  {
+    "tweet_id": "1540122390079934464",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Makes a strong, controversial claim ('Solana poses a large and growing threat to Ethereum') that challenges common perceptions and is designed to provoke discussion and debate within the crypto community, especially as part of a thread."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Offers an informed opinion and promises a detailed explanation, which can be educational for those following the competitive landscape between major blockchain ecosystems."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Challenges Ethereum's assumed dominance and presents a critical view of its position relative to Solana, leading to a moderately negative sentiment for Ethereum maximalists."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The rivalry and competitive landscape between major blockchains like Ethereum and Solana are evergreen topics. This argument will contribute to ongoing discussions for months or years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1540089073305518084",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Lists, especially 'Top X' rankings of popular cryptocurrencies by a widely understood metric (Twitter followers), are inherently shareable and relevant to a large crypto audience."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific, verifiable data (Twitter follower counts for various cryptocurrencies) at a particular point in time, useful for market observers and enthusiasts."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Strictly neutral and factual, presenting data without emotional interpretation."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "A snapshot of data that becomes outdated relatively quickly as follower counts change. Relevant for a few days to a week."
+      }
+    }
+  },
+  {
+    "tweet_id": "1539738034807214082",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High-value NFT sales, especially of iconic projects like CryptoPunks, are always viral within the NFT and broader crypto art communities, attracting significant attention."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides specific, verifiable data about an NFT transaction, including the asset, price in ETH and USD, and involved addresses, which is highly informative for the NFT market."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral and factual, reporting a transaction without emotional commentary, though the large sum might evoke excitement or criticism in different audiences."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The specific sale is a singular event. While the overall trend of NFT sales is ongoing, this particular transaction quickly fades into the history of sales."
+      }
+    }
+  },
+  {
+    "tweet_id": "1539606196927225856",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "This is a humorous and highly relatable jab at a common, often exaggerated, online behavior in the crypto space. It's likely to be widely shared within the community for its comedic value and accuracy."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "Purely observational humor, offering no factual or verifiable information."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Humorous but mildly sarcastic and critical, poking fun at a perceived inflated sense of investment scale among some crypto participants, leaning moderately negative."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Memes and relatable humor have a standard lifespan. This joke is likely to be relevant for a few days or weeks as long as the underlying behavior continues to be common."
+      }
+    }
+  },
+  {
+    "tweet_id": "1539392566994644992",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "'FUN FACT' about a prominent figure (Vitalik Buterin) and a foundational crypto document (Ethereum whitepaper) highlighting an impressive detail is highly shareable and inspiring."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides a specific, verifiable biographical fact about Vitalik Buterin, relevant to the history and origins of Ethereum."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive, as it highlights an impressive achievement of a young individual and contributes to the narrative of Ethereum's brilliant founder."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "This is an evergreen 'fun fact' about a foundational figure in crypto. It will remain relevant for many years and decades as a piece of historical trivia."
+      }
+    }
+  },
+  {
+    "tweet_id": "1539292126105706496",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "An official announcement from a major Layer 2 solution (Arbitrum) about a new, long-term, gamified community event ('Arbitrum Odyssey') generates excitement and calls to action, ensuring high virality within the Ethereum and L2 communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Announces a new program/event, its duration, and its purpose. It's informative for those interested in Arbitrum and Ethereum L2s, with 'brief yourself below' implying more details in a thread."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Highly positive and exciting, promoting an engaging event for its community, conveyed through enthusiastic language and emojis."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The '8-week long journey' ensures the event itself has an extended period of relevance. The announcement will be referenced throughout this period, and its success could have longer-term implications for Arbitrum."
+      }
+    }
+  },
+  {
+    "tweet_id": "1539189397446344706",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Social media 'unfollows' between prominent crypto figures (Vitalik Buterin and Zhu Su, amidst 3AC's collapse) can signal drama or shifts in allegiance, generating significant interest and sharing."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific, verifiable social media interaction between two prominent figures in crypto. In context, this action is highly informative about underlying market events and sentiment."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "The action itself is factual, but the context (Zhu Su's company collapsing) implies a moderately negative underlying situation that this 'unfollow' signals. The '👀' hints at intriguing drama."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The significance is tied to the immediate news cycle around Zhu Su and 3AC's collapse. While the collapse has a long tail, this specific social media action's relevance is short-lived, quickly absorbed into the larger narrative."
+      }
+    }
+  },
+  {
+    "tweet_id": "1539090118182674433",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "'🚨 JUST IN' and the dramatic claim 'VITALIK BUTERIN PROVES HE IS IN FACT ALIVE' using 'BLOCKCHAIN AS VERIFICATION' is incredibly attention-grabbing and highly viral due to its sensational nature and unique use case."
+      },
+      "informative_value": {
+        "score": 10,
+        "justification": "Provides critical, verifiable, and primary-source information debunking a major rumor about a prominent figure, while also showcasing a novel and important utility of blockchain for verification."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Overwhelmingly positive, as it refutes a serious negative rumor about a key figure and highlights a powerful, positive use case for blockchain technology."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "While tied to a specific rumor, the method of verification (using blockchain) makes this a memorable case study that will be referenced for weeks or months as an example of blockchain utility."
+      }
+    }
+  },
+  {
+    "tweet_id": "1538926926068338688",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "'JUST IN' and 'new all-time high' for a key metric (addresses holding ETH) from a major news account makes this highly shareable within the crypto investment community as positive market news."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides specific, verifiable, and newsworthy market data about Ethereum's adoption and distribution, which is highly informative for market participants."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Factual reporting, but the 'new all-time high' for holding addresses is a strongly positive indicator for Ethereum's health and decentralization, conveying positive news."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "While the specific number is a snapshot, reaching an 'all-time high' for addresses is a significant trend that will be discussed for weeks or months as an indicator of growing adoption."
+      }
+    }
+  },
+  {
+    "tweet_id": "1538804424478445568",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "'JUST IN' and a 'flip' between two major stablecoins ($USDC vs $USDT) in a key metric (daily transactions) on Ethereum is significant news for the crypto community, especially those involved in DeFi and stablecoins."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides specific, verifiable, and newsworthy market data about stablecoin usage on the Ethereum network, highly informative for market participants."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral and factual reporting of a market event. While some might view USDC's rise positively, the tweet itself makes no explicit emotional judgment."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "A 'flip' in daily transactions is an important data point, but it's also a snapshot that can change quickly. Its immediate relevance is high, but it will be superseded by new daily data."
+      }
+    }
+  },
+  {
+    "tweet_id": "1538706290553327618",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "'FUN FACT' about a well-known figure (Vitalik Buterin) tied to a quirky, relatable origin story (WoW character nerfing) is highly shareable and entertaining across gaming and crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides an interesting, specific, and widely cited anecdote about Ethereum's origin, offering historical and biographical context in an engaging way."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Mostly neutral as a factual anecdote, but it can evoke amusement or appreciation for the quirky origin, leaning slightly positive for its entertaining value."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "This is an evergreen 'fun fact' that is often repeated in crypto circles. It's a foundational story for Ethereum that will be referenced for many years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1538627103339565060",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "A list of significant price increases for major cryptocurrencies is highly attractive and shareable for investors and enthusiasts, especially during a positive market swing, from a large news account."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific, verifiable 24-hour price performance data for multiple major cryptocurrencies, which is highly informative for market participants."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Overwhelmingly positive, as it reports significant price gains for multiple assets, creating excitement and optimism for investors."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "24-hour price changes are extremely time-sensitive. This information becomes irrelevant very quickly as prices fluctuate throughout the day."
+      }
+    }
+  },
+  {
+    "tweet_id": "1538536940269490178",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Presents a strong counter-narrative to market downturns, highlighting fundamental strengths of Ethereum ('DeFi works, NFTs work, more devs'). It's a rallying cry for believers and provides a hopeful perspective, making it shareable among investors."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Offers an analytical perspective on market conditions, backing it up with several verifiable claims about the state of the Ethereum ecosystem and its ongoing development."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Extremely positive and optimistic, framing the market downturn as an opportunity and asserting that Ethereum's fundamentals 'could not be stronger'."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "This tweet discusses the fundamental health and future of Ethereum, which are long-term considerations. While specific price comparisons will date it, the underlying arguments about fundamentals will remain relevant for months or years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1538432374643609600",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "'JUST IN' and 'all-time high' for a significant metric related to Ethereum 2.0 (Deposit Contract value) makes this highly shareable within the crypto investment community as positive news."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides specific, verifiable, and newsworthy market data about the progress of Ethereum 2.0, which is highly informative for those tracking the project."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Factual reporting, but the 'all-time high' for the deposit contract is a strongly positive indicator for Ethereum's future and the success of the PoS transition."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "This is a milestone in the ongoing development of Ethereum 2.0 (The Merge). The broader trend and significance of the deposit contract will remain relevant as the merge approaches and thereafter."
+      }
+    }
+  },
+  {
+    "tweet_id": "1538348857825828864",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Makes a strong, slightly conspiratorial claim ('someone is purposefully ‘chasing liquidations’') about market dynamics during a downturn. It offers an alternative explanation to macro factors, making it highly engaging for investors seeking reasons behind market moves."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Presents an analysis of market behavior and suggests a theory for it. While it's an opinion, it's an informed one from a market analyst, offering a perspective on market dynamics during a downturn."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "The tweet discusses assets 'getting crushed' and implies market manipulation ('chasing liquidations'), conveying a sense of concern and criticism, making it moderately negative."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Discussions about market manipulation, liquidations, and the performance of different crypto segments are ongoing during bear markets. This type of analysis remains relevant as long as those market conditions persist."
+      }
+    }
+  },
+  {
+    "tweet_id": "1538336919033094144",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Peter Schiff's direct attack on crypto 'experts' and the media is highly controversial, critical, and appeals to skeptics, ensuring high potential for sharing and debate from a large audience."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Offers a strong, critical opinion about industry dynamics and media coverage of crypto, providing a critical perspective on the credibility of 'experts'."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Clearly expresses strong negative emotions, using terms like 'shills' and criticizing the lack of genuine expertise, conveying cynicism and distrust."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The debate around the credibility of crypto experts, media bias, and market predictions is an evergreen topic. Schiff's recurring criticisms have a long tail of relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1538316619717353472",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Addresses a significant market downturn ('extreme fear,' 'crashed too hard too fast') and offers a reassuring, contrarian investment strategy ('build a position for long term gains'). This combination is highly appealing to investors and can generate significant shares."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific data points on market retracements for Bitcoin and Ethereum and then offers actionable investment advice/strategy for long-term gains."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "While acknowledging negative market conditions, the overall tone shifts to one of long-term optimism and strategic buying, framing a negative situation as a positive opportunity."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Investment advice during bear markets, especially about 'building positions for long term gains,' has long-term relevance, as market cycles are a recurring theme in financial history."
+      }
+    }
+  },
+  {
+    "tweet_id": "1538302000202391552",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "A sarcastic, humorous, and provocative take on Ethereum's price drop. It's highly relatable to those experiencing the bear market, ensuring wide sharing within the crypto community for its dark humor."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Primarily opinion-based humor, but it does inform about Ethereum's price dropping below $1K, serving as a data point within the joke."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Sarcastic and critical of the crypto market's performance, implying that crypto is not a viable path and reinforcing a negative outlook on the current market situation."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "This is a market-specific joke. Its relevance is tied to Ethereum being below $1K and the general bear market sentiment. It will fade when prices recover or the joke becomes old."
+      }
+    }
+  },
+  {
+    "tweet_id": "1538253890906247173",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "'JUST IN' and a significant price drop for a major crypto (Ethereum below $900) for the first time in a long period is major breaking news for the crypto community, generating fear and discussion."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides specific, verifiable, and newsworthy market data about Ethereum's price performance, including a historical comparison ('first time since December 2020')."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "The news of a major asset falling below a significant psychological price point and to a multi-year low is strongly negative for investors."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "This is a breaking news alert about a specific price point. While the bear market context is long, this specific instance is short-lived, as new price movements quickly supersede it."
+      }
+    }
+  },
+  {
+    "tweet_id": "1538252846403035138",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "A direct call to action ('Press like') appealing to a common desire among crypto investors (end the bear market) is highly relatable and designed for engagement within the community."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "Purely opinion-based and a social engagement prompt. Contains no factual or educational content beyond implicitly acknowledging the bear market."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Expresses a desire for a negative situation (bear market) to end, which is an implicit negative sentiment about the current state, tempered by hope."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Tied directly to the current bear market sentiment. Its relevance will persist as long as the bear market does but will quickly become irrelevant once sentiment shifts."
+      }
+    }
+  },
+  {
+    "tweet_id": "1538178152358457344",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "'NOW' and reporting significant price drops for both Bitcoin and Ethereum from a large news aggregator makes this highly viral, as these are critical market events generating widespread interest and fear."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides specific, verifiable, and newsworthy real-time market data about major cryptocurrency prices, crucial for investors during a volatile period."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "The news of major assets dipping below significant psychological price points is strongly negative for investors, despite the factual tone of the report."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "This is a real-time price alert. Its relevance is extremely short-lived, superseded by the next price movement within minutes or hours."
+      }
+    }
+  },
+  {
+    "tweet_id": "1538146985345093632",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "'BROKEN NEWS' (a humorous twist on 'breaking news') reporting critical price milestones for both Bitcoin and Ethereum generates strong interest and concern, making it highly viral within financial and crypto communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides specific, verifiable, and newsworthy real-time market data about major cryptocurrency prices, including specific percentage drops, crucial for market understanding."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "The term 'BROKEN NEWS' combined with significant price drops clearly conveys a very negative sentiment about the market's current state."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Similar to other price alerts, this is highly time-sensitive. While the 'broken news' aspect adds unique flair, the core information quickly becomes outdated as prices move."
+      }
+    }
+  },
+  {
+    "tweet_id": "1538092349783429120",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Peter Schiff's direct call for an apology from a major financial news network (CNBC) for 'bad investment advice' during a market collapse is highly provocative and controversial, ensuring very high virality."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Implicitly informs about significant price collapses and makes a strong claim about media's role in promoting crypto. It offers a critical perspective on financial journalism and market advice."
+      },
+      "sentiment_polarity": {
+        "score": 1,
+        "justification": "Strongly negative towards CNBC's coverage and the crypto market's performance, expressing anger and a demand for accountability for 'bad investment advice'."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "This tweet ties into the long-running debate about financial media's responsibility and the validity of crypto as an investment. Schiff's criticisms are evergreen and will be referenced in future market downturns."
+      }
+    }
+  },
+  {
+    "tweet_id": "1538072054494375937",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "A market analyst claiming successful prediction of a major market event ('20k Bitcoin target achieved') after 'many a doubter' is highly engaging for traders and investors, especially during a market downturn, showcasing expertise."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides an expert's analysis and claim of a successful prediction, offering insight into technical analysis perspective during a major market event."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive, expressing confidence and validation of their own analysis and expertise, even in the context of a market downturn. It's a self-congratulatory, confident tone."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "A specific prediction being fulfilled has a strong but short-term impact. While the analyst's reputation gains long-term, this particular tweet's relevance will fade as market conditions continue to evolve."
+      }
+    }
+  },
+  {
+    "tweet_id": "1538053229870731265",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "'JUST IN' and a significant price drop for Ethereum (under $1,000) for the first time in a year and a half is major breaking news for the crypto community, generating fear and discussion."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides specific, verifiable, and newsworthy market data about Ethereum's price performance, including a historical comparison ('first time since January, 2021')."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "The news of a major asset falling below a significant psychological price point and to a multi-year low is strongly negative for investors."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "This is a breaking news alert about a specific price point. While the bear market context is long, this specific instance is short-lived, as new price movements quickly supersede it."
+      }
+    }
+  },
+  {
+    "tweet_id": "1537861363233656832",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Highlights a key value proposition of blockchain (low fees for large transfers, censorship resistance) using a dramatic, real-world example ($57M for $1.93). This is highly shareable for crypto advocates and tech enthusiasts."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides specific, verifiable data about a large, low-cost, censorship-resistant transaction on Ethereum, educating on a core benefit of blockchain technology."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Highly positive towards blockchain and its capabilities, emphasizing efficiency, decentralization, and censorship resistance as core advantages."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "While the specific transaction is a snapshot, the demonstration of blockchain's efficiency and censorship resistance is an evergreen argument for its utility. This example can be referenced for a long time."
+      }
+    }
+  },
+  {
+    "tweet_id": "1537421727625580545",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "A major company (Circle) launching a new stablecoin (Euro Coin) on Ethereum is significant news for the entire crypto ecosystem and traditional finance, ensuring high virality, especially as a multi-part thread."
+      },
+      "informative_value": {
+        "score": 10,
+        "justification": "This is a critical, verifiable, and primary-source announcement from the CEO of Circle about a major new product, its features, and its launch date, with significant market implications."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Overwhelmingly positive, announcing a new product and expansion of stablecoin offerings, which is generally seen as a positive development for crypto adoption and utility."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "The launch of a new major stablecoin has long-term implications for the market, payment systems, and Euro-denominated crypto activities. This announcement will be discussed for months and years as a foundational event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1537410558089211904",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "'JUST IN' and a statement from Vitalik Buterin on the fundamental role of crypto ('alternative asset' vs. 'take over the world') is highly newsworthy and opinion-provoking, challenging maximalist views and generating significant discussion."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides a direct quote/statement from Vitalik Buterin on his perspective of crypto's future role, which is highly informative for understanding the vision of a key industry leader."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Reports a statement that tempers maximalist expectations for crypto's future role, which might be seen as less optimistic by some enthusiasts, leading to a moderately negative interpretation."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "Vitalik Buterin's philosophical views on crypto's role are foundational and will be discussed and referenced for years as part of the ongoing debate about crypto's long-term impact."
+      }
+    }
+  },
+  {
+    "tweet_id": "1537371918495625216",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "A prominent personality making a large, public, high-stakes investment and directly asking 'Smart or stupid?' is designed for maximum engagement, debate, and virality from a large audience."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Informs about a personal, very large investment decision. While personal, the scale makes it newsworthy within the investment community and prompts discussion about market sentiment."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The underlying act shows high conviction, but the direct question 'Smart or stupid?' introduces uncertainty and potential for negative outcomes, creating a neutral yet suspenseful emotional mix."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "While the immediate debate is high, the outcome of the investment will determine its longer-term relevance. It could be referenced for months or years as an example of a good or bad call."
+      }
+    }
+  },
+  {
+    "tweet_id": "1537158104114249729",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Makes a highly provocative and impactful comparison between a traditional finance giant (Wells Fargo) and a major crypto (Ethereum) at similar market caps, framing it as an investment choice during a bear market 'gift.' Highly likely to go viral among investors and tech enthusiasts."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific market cap data for two different asset classes and draws a provocative comparison, offering a strong investment perspective and an analysis of relative value."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Highly positive and optimistic, portraying the bear market as a 'gift' and emphasizing the potential of Ethereum relative to traditional finance with a confident, slightly dismissive tone ('lol you pick')."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "The comparison between traditional finance and crypto, and the framing of bear markets as opportunities, are evergreen themes. This tweet can be referenced for years as an example of a market cycle and long-term investment thesis."
+      }
+    }
+  },
+  {
+    "tweet_id": "1537036424507432960",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Offers a strong, well-reasoned, and optimistic counter-narrative to bear market fear, contrasting the current state of crypto with a previous bear market. It's highly appealing to investors and those seeking deeper understanding, making it very shareable."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides historical context and current factual claims about the development of DeFi, NFTs, and Ethereum's roadmap, offering an analytical perspective on the ecosystem's maturation."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Overwhelmingly positive and optimistic, directly countering fear with confidence in crypto's progress and fundamentals ('I was fearful then. I’m not now.')."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "The arguments about crypto's maturation, the development of DeFi/NFTs, and Ethereum's roadmap are fundamental to the long-term narrative. This type of analysis will be referenced in future market cycles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1536782366932250625",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "A humorous and highly relatable meme-style tweet that plays on the emotional experience of buying at different price points, especially after a significant drop. It's designed to go viral within the crypto community for its relatability and dark humor."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "Purely observational humor, with no factual or educational content beyond the implicit mention of price points."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Humorous but with an underlying negative sentiment about price drops and poor investment timing. It's self-deprecating or mocking towards others' timing, leaning moderately negative."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "A market-specific joke/meme. Its relevance is tied to recent price drops and the emotional experience of buying the top. It will fade as market conditions change or the joke gets old."
+      }
+    }
+  },
+  {
+    "tweet_id": "1536614407580569600",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Connects a major market event (crypto crash) with a globally relevant environmental impact (reduced energy/carbon emissions). This appeals to a wide audience beyond just crypto, making it highly shareable."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides specific, quantitative data on the energy consumption reduction of crypto networks during a crash, drawing comparisons to a country and EVs. This is highly informative on an important and often debated topic."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "While the crash is negative, the implication of reduced carbon emissions is presented as a significant positive outcome for the environment, creating a moderately positive sentiment ('silver lining')."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The debate around crypto's energy consumption and environmental impact is a long-term, evergreen topic. This data point will be referenced in ongoing discussions about sustainability for extended periods."
+      }
+    }
+  },
+  {
+    "tweet_id": "1536492361420636160",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Calling out a prominent financial pundit (Jim Cramer) for a spectacularly wrong prediction is highly viral, especially among those who dislike Cramer or enjoy seeing predictions fail. It's humorous and critical."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific data points (Cramer's prediction, actual price change) to highlight a notable financial event (a bad prediction) and critique financial punditry."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Critical and mocking of Jim Cramer, highlighting his incorrect prediction. This is moderately negative towards Cramer and financial punditry in general."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The 'Cramer inverse' phenomenon is a long-running joke in financial circles. This specific instance contributes to that ongoing meme/joke, remaining relevant for weeks/months, though specific details may fade over time."
+      }
+    }
+  },
+  {
+    "tweet_id": "1536472997405544449",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "A concise and direct call-out of Jim Cramer's incorrect prediction, leveraging the popular 'Cramer inverse' meme. Highly viral due to its humor and criticism of financial media."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific data points (Cramer's prediction, actual price change) to highlight a notable financial event and critique financial punditry."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Critical and mocking of Jim Cramer, highlighting his incorrect prediction. This is moderately negative towards Cramer and financial punditry in general."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Contributes to the 'Cramer inverse' meme. The specific data will fade, but the joke's underlying relevance (Cramer's track record) is long-lasting, remaining relevant for weeks/months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1536422225124814848",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Connects the Ethereum crash to environmental impact (reduced emissions) but adds a sarcastic, critical twist about crypto's utility. This controversial take is likely to spark debate and be widely shared by both critics and supporters."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides a specific, quantitative comparison regarding CO2 emissions reduction. While the latter part is opinion, the initial statistic is factual and informs about the environmental aspect, prompting discussion on utility."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "The first part is factual, but the latter part ('Except usually... there's at least some utility to it') is strongly sarcastic and critical of crypto's value proposition, making the overall sentiment moderately negative."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The debate around crypto's environmental impact and its utility is an ongoing, evergreen topic. This tweet provides a specific (and controversial) data point and argument that can be referenced for a long time in those discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1536414588828368899",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Combines a boastful display of wealth ('eating $600 an ounce caviar') with a claim of expert market timing ('call the #bitcoin and #ethereum tops'). This is provocative, attention-grabbing, and likely to be shared widely for both admiration and criticism."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Implicitly informs about market movements by claiming to have called the tops, but its primary purpose is boastful and lacks verifiable facts beyond the claim."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Extremely positive in a self-congratulatory, boastful way, expressing immense satisfaction and triumph over the market, emphasizing personal success."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "A boast about calling market tops, if proven true or seen as plausible, can contribute to an individual's legend and be referenced as an example of market expertise for months or years, though the specific event is fleeting."
+      }
+    }
+  },
+  {
+    "tweet_id": "1536369486152060930",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "A comprehensive list of major cryptocurrency price drops from their all-time highs is highly attention-grabbing and shareable during a bear market, as it quantifies the market pain for many investors."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides specific, verifiable data (percentage drop from ATH) for a large number of major cryptocurrencies, making it highly informative for market participants tracking losses."
+      },
+      "sentiment_polarity": {
+        "score": 1,
+        "justification": "Overwhelmingly negative, as it details significant losses for almost all listed cryptocurrencies, reflecting widespread negative market performance."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "While individual percentages will change, this type of comprehensive snapshot provides a historical record of a significant bear market moment. It will be referenced as a data point for this period for a long time."
+      }
+    }
+  },
+  {
+    "tweet_id": "1536273066476589057",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Peter Schiff's commentary on major market milestones (BTC/ETH price, total market cap below $1T) combined with his signature pessimistic and critical tone ('The last trillion will be the most painful') is highly provocative and viral, appealing to both skeptics and those looking for market analysis."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides specific, verifiable market data (BTC/ETH price, total market cap figures) and a dire, but expert, market analysis/prediction, offering crucial insights during a market downturn."
+      },
+      "sentiment_polarity": {
+        "score": 0,
+        "justification": "Extremely negative, detailing massive losses and predicting even worse outcomes ('$1 trillion left to go. The last trillion will be the most painful'), conveying intense despair and dire warnings for the market."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "Schiff's predictions and analyses of market cycles, especially during bear markets, are evergreen for his audience. This tweet captures a significant market moment with a strong, memorable prediction that will be referenced for years, particularly if it proves true."
+      }
+    }
+  }
+]

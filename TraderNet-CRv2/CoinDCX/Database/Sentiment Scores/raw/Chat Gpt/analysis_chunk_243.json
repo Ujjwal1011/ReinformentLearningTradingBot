@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1558277572139548672",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet announces a positive market cap update with a clear hook and hashtag, likely to be shared within the crypto community but not expected to go globally viral."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides a specific, verifiable figure about Ethereum's market cap, which is a credible news update."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The tweet expresses a positive sentiment by highlighting a recovery in market cap."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The information remains relevant for a few days to weeks as market cap fluctuates, but eventually becomes outdated."
+      }
+    }
+  },
+  {
+    "tweet_id": "1558072902972473344",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet contains technical details about the merge, a major event in crypto, and includes a prediction link, making it likely to be shared within the crypto community and beyond."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides detailed technical data and a prediction about the merge, offering credible, newsworthy information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet presents factual information without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The information about the merge remains relevant for weeks to months, but the exact date prediction may lose relevance once the merge occurs."
+      }
+    }
+  },
+  {
+    "tweet_id": "1557891995254808577",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet references a well-known analyst and a dramatic market drop, which may attract attention within finance circles, though it is not a globally viral hook."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "It provides a specific claim about a recommendation and its past performance, offering some factual context."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "The tweet expresses disappointment and criticism of the recommendation, indicating a negative sentiment."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The relevance is tied to the specific event of the recommendation and its past performance, which will likely fade quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1557818615637966849",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "The tweet contains conspiratorial language that may resonate within niche communities, but lacks a broad hook for widespread sharing."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "The tweet is largely opinion and conspiracy, providing no verifiable information."
+      },
+      "sentiment_polarity": {
+        "score": 1,
+        "justification": "The tweet expresses distrust and negative sentiment towards the deep state."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "The content is tied to a specific rant and is unlikely to remain relevant beyond the immediate context."
+      }
+    }
+  },
+  {
+    "tweet_id": "1557765858876952577",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet mentions a high-profile figure and discusses a major event, which may attract attention within the crypto community, but the personal nature limits broader virality."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "It provides context about the merge and a personal interaction with Vitalik, offering some factual insight."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet expresses optimism and good wishes for the merge, indicating a positive tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The merge remains a significant event for weeks to months, and the personal anecdote may continue to be referenced, though it will eventually fade."
+      }
+    }
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1523380046282469376",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "High potential within crypto communities due to highlighting a failed prediction from a public figure, but limited broader appeal."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific dates, percentages, and a source for market analysis, though focused on a single event."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Implies criticism through factual contradiction of a prediction, carrying negative undertones."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance tied to current market movements and Cramer's next prediction cycle (short-term)."
+      }
+    }
+  },
+  {
+    "tweet_id": "1523306186761596929",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news about a major crypto event with suspicious timing elements likely to spread rapidly."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Detailed timeline of transactions with specific figures, providing actionable intelligence for crypto traders."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative implications through words like 'fiasco' and 'fishy', suggesting misconduct concerns."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Likely to remain relevant through ongoing investigations into the UST collapse (weeks)."
+      }
+    }
+  },
+  {
+    "tweet_id": "1523144546087235584",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major platform integration news with cross-industry implications for NFTs and social media."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Newsworthy announcement about a mainstream platform adopting multiple blockchain technologies."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of factual development without explicit emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant until feature launch and through subsequent platform adoption cycles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1523141891289944064",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Tech giant's Web3 move attracts attention across crypto and traditional tech communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Reports strategic corporate development with market implications, though lacks specific details."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive framing through phrases like 'tremendous potential' and 'demand'."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant through Google's subsequent Web3 announcements and product launches."
+      }
+    }
+  },
+  {
+    "tweet_id": "1523087037837967360",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Surprising comparison between crypto and traditional finance likely to be shared as a talking point."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides a factual market cap comparison but lacks context about volatility/timeframe."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of comparative data without explicit commentary."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to current market valuations (short-term unless recirculated during major price moves)."
+      }
+    }
+  },
+  {
+    "tweet_id": "1522995781866721280",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Relatable humor for NFT communities across blockchain ecosystems."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Personal anecdote about consumer behavior without substantive data or analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral observation framed as humorous commentary."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Meme-style content with relevance fading as NFT market trends evolve."
+      }
+    }
+  },
+  {
+    "tweet_id": "1522614727880359937",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Controversial insider trading allegations likely to spread rapidly in NFT communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides transaction timeline analysis with purported evidence of misconduct."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative implications through accusations of unethical behavior."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Likely to remain relevant through community investigations and any official responses."
+      }
+    }
+  },
+  {
+    "tweet_id": "1522606093347831809",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Whale activity news often circulates in crypto markets as potential market signal."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Specific transaction details but lacks context about wallet history or market impact."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of a market event without explicit bullish/bearish framing."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to immediate price action following the reported purchase."
+      }
+    }
+  },
+  {
+    "tweet_id": "1522484113495711744",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Highly promotional language about free offerings likely to generate shares, though may be perceived as spammy."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Vague claims about an airdrop without verifiable details or official documentation."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Extremely positive language with phrases like 'save you' and 'world's largest free airdrop'."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance limited to the airdrop announcement period unless proven fraudulent/legitimate."
+      }
+    }
+  },
+  {
+    "tweet_id": "1522475765899890690",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Standard industry news update with moderate sharing potential among crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Reports a verifiable blockchain milestone event with market implications."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of technical blockchain event."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant through the next halving countdown period (years)."
+      }
+    }
+  }
+]

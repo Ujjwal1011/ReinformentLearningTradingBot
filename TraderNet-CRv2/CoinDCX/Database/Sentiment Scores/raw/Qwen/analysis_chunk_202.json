@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1732126697389208042",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet uses multiple emojis and a link, which might indicate excitement, but without context, it's hard to gauge virality. It could get some shares within the user's niche."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet is not informative as it lacks context and is very short."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The use of multiple emojis suggests a positive sentiment."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's impact is likely short due to the lack of context and reliance on a link."
+}
+}
+},
+{
+"tweet_id": "1732126663486353776",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet is about a significant financial decision, likely to be shared among crypto communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides credible, newsworthy information about the SEC delaying an ETF."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment as it's a factual statement."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for a few days as ETF news can stay relevant for a short period."
+}
+}
+},
+{
+"tweet_id": "1732125428603814218",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Technical discussion, likely shared within a niche audience."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides in-depth educational content about Ethereum's design."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment, presenting information factually."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Addresses a foundational topic, remaining relevant for months."
+}
+}
+},
+{
+"tweet_id": "1732125383724572817",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "Announcement about a loan, relevant to a specific community."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides useful information about a loan listing."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment with the use of an emoji."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Impact is short-term as it's tied to a specific event."
+}
+}
+},
+{
+"tweet_id": "1732124936343519262",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Excitement indicated by emojis, likely shared within a niche."
+},
+"informative_value": {
+"score": 4,
+"justification": "Minimal information, vague statement."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment with emojis."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Impact is short-term without context."
+}
+}
+},
+{
+"tweet_id": "1732124936343519262",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Celebrates a historic event, likely widely shared."
+},
+"informative_value": {
+"score": 9,
+"justification": "Announces a significant milestone with relevant links."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "Very positive sentiment with enthusiastic language."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Remains relevant for months as it's a significant event."
+}
+}
+},
+{
+"tweet_id": "1732123893190602840",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Reports a high-priced NFT sale, likely shared in crypto communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides specific details about the sale."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment with emojis."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Impact is short-term as it's a specific transaction."
+}
+}
+},
+{
+"tweet_id": "1732123248752529766",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Compares projects, relevant to a niche audience."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides useful information about NFTs and blockchain."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment with emojis."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Remains relevant for a few weeks as it's a trend."
+}
+}
+},
+{
+"tweet_id": "1732121318236225625",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Technical discussion about Ethereum services."
+},
+"informative_value": {
+"score": 7,
+"justification": "Explains a service with relevant links."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment, factual information."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Remains relevant for months as it's a tool."
+}
+}
+},
+{
+"tweet_id": "1732121007551291465",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Explains ZKT, relevant to a niche audience."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides detailed information about ZKT."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment, factual explanation."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Remains relevant for months as it's a technical advancement."
+}
+}
+}
+]

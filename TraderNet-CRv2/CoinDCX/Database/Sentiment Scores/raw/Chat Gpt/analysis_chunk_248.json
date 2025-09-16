@@ -1,0 +1,107 @@
+[
+{
+    "tweet_id": "1556581761785573377",
+    "analysis": {
+        "virality_potential": {
+            "score": 8,
+            "justification": "The tweet quotes Vitalik Buterin, a high‑profile figure, and uses a 'JUST IN' hook about crypto payments becoming viable, which strongly resonates within the crypto community and has already generated thousands of likes and retweets, indicating high sharing potential."
+        },
+        "informative_value": {
+            "score": 8,
+            "justification": "It conveys a specific statement from the Ethereum founder about future transaction fees, providing newsworthy information that is relevant to investors and developers."
+        },
+        "sentiment_polarity": {
+            "score": 5,
+            "justification": "The tone is neutral, simply reporting a quote without expressing strong emotion."
+        },
+        "duration_of_impact": {
+            "score": 6,
+            "justification": "The relevance of lower transaction fees will persist for weeks to months as the ecosystem debates payment viability, but it is not a timeless topic."
+        }
+    }
+},
+{
+    "tweet_id": "1556539367673380864",
+    "analysis": {
+        "virality_potential": {
+            "score": 7,
+            "justification": "Chainlink is a major oracle provider; its decision not to support Ethereum PoW forks is a notable stance that can spark discussion, especially with a 'JUST IN' framing and strong engagement metrics."
+        },
+        "informative_value": {
+            "score": 7,
+            "justification": "The tweet delivers a clear, factual update from Chainlink about protocol support, which is relevant to developers and the broader crypto audience."
+        },
+        "sentiment_polarity": {
+            "score": 5,
+            "justification": "The wording is factual and neutral, lacking emotive language."
+        },
+        "duration_of_impact": {
+            "score": 6,
+            "justification": "The decision will be referenced while the PoW fork debate continues, likely remaining relevant for several weeks."
+        }
+    }
+},
+{
+    "tweet_id": "1556377184373178370",
+    "analysis": {
+        "virality_potential": {
+            "score": 7,
+            "justification": "The tweet makes a sensational claim about the Ethereum Foundation selling most of its ETH, a topic that often triggers debate and sharing among crypto skeptics and enthusiasts."
+        },
+        "informative_value": {
+            "score": 6,
+            "justification": "It provides specific numbers about ETH holdings and sales, but without source verification, the information is partially informative yet questionable."
+        },
+        "sentiment_polarity": {
+            "score": 3,
+            "justification": "The language is critical of the foundation’s actions, conveying a moderately negative sentiment."
+        },
+        "duration_of_impact": {
+            "score": 6,
+            "justification": "Discussion about the foundation’s holdings will stay relevant for weeks to months as investors monitor on‑chain activity."
+        }
+    }
+},
+{
+    "tweet_id": "1555930519694675968",
+    "analysis": {
+        "virality_potential": {
+            "score": 6,
+            "justification": "A concise announcement of Ethereum’s market‑cap rebound is positive news that can be shared within the crypto community, though its brevity limits broader viral appeal."
+        },
+        "informative_value": {
+            "score": 7,
+            "justification": "It reports a concrete market‑cap figure, which is factual and newsworthy for investors."
+        },
+        "sentiment_polarity": {
+            "score": 8,
+            "justification": "The phrasing 'reclaimed' conveys a strong positive sentiment about Ethereum’s performance."
+        },
+        "duration_of_impact": {
+            "score": 4,
+            "justification": "Market‑cap figures fluctuate daily; the tweet’s relevance will likely fade within a few days as new data emerges."
+        }
+    }
+},
+{
+    "tweet_id": "1555902237548896256",
+    "analysis": {
+        "virality_potential": {
+            "score": 7,
+            "justification": "The author’s personal take on an Ethereum PoW fork, combined with a confident tone, invites discussion and retweets among those following the fork debate."
+        },
+        "informative_value": {
+            "score": 6,
+            "justification": "The tweet offers a reflective analysis and prediction, providing insight rather than hard facts, making it moderately informative."
+        },
+        "sentiment_polarity": {
+            "score": 5,
+            "justification": "The tone is largely neutral, presenting a personal viewpoint without strong emotional language."
+        },
+        "duration_of_impact": {
+            "score": 6,
+            "justification": "The fork discussion is expected to continue for weeks or months, keeping the tweet relevant for a medium period."
+        }
+    }
+}
+]

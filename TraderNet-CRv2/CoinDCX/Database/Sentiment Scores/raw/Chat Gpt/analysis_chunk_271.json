@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1566616585015422976",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet offers actionable steps for Ethereum holders and mentions a timely airdrop, making it shareable within the crypto community, but it lacks a globally viral hook."
+},
+"informative_value": {
+"score": 7,
+"justification": "It provides specific steps and key dates about the Merge and airdrop, giving holders practical guidance."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, presenting facts without strong emotion."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The relevance is limited to the days surrounding the Merge and the airdrop, after which the content becomes less timely."
+}
+}
+},
+{
+"tweet_id": "1565928294054338560",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet is a brief hook for a thread, offering little content on its own, so its shareability is modest."
+},
+"informative_value": {
+"score": 3,
+"justification": "It only signals that a thread will explain the Merge in NBA terms, providing minimal information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply announcing a thread."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The thread will be relevant for a few days after the Merge announcement."
+}
+}
+},
+{
+"tweet_id": "1565781100865003520",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Breaking news about a celebrity hack is likely to spread widely across both crypto and mainstream audiences."
+},
+"informative_value": {
+"score": 6,
+"justification": "It reports a hack incident with a monetary figure, but lacks source verification."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is factual and neutral, with no strong emotional language."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The hack remains newsworthy for days to weeks, but eventually fades."
+}
+}
+},
+{
+"tweet_id": "1565625320887095296",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "A statement from Vitalik Buterin about future volatility is notable within crypto circles, but not a headline event."
+},
+"informative_value": {
+"score": 7,
+"justification": "It conveys a direct quote about market expectations, offering insight into future volatility."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, presenting a factual statement."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The statement remains relevant for a while as it informs market expectations."
+}
+}
+},
+{
+"tweet_id": "1565416127378882560",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Revenue data for Ethereum miners is of interest to the crypto community, but not a headline event."
+},
+"informative_value": {
+"score": 7,
+"justification": "It provides a specific revenue figure for a recent month, giving concrete data."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply reporting a figure."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The revenue figure is relevant for a month or so, then becomes historical."
+}
+}
+}
+]

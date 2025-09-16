@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1497624510631059459",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Breaking news about a government accepting crypto donations is likely to be widely shared, especially given the large follower base and the global relevance of Ukraine and crypto."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet provides verifiable information about a new donation method, though it is not from an official source."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is a factual statement with no emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The acceptance of crypto donations is a significant development that will likely be referenced for an extended period, though it may eventually become less relevant as the situation evolves."
+      }
+    }
+  },
+  {
+    "tweet_id": "1497606742724816898",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "The tweet is a personal comment with no strong hook or breaking news, unlikely to go viral."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "The tweet references a new project but offers no details, providing minimal information."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "The tweet conveys mild frustration."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The relevance is tied to current gas fees and the new project, likely to fade quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1497594592438497282",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet is a call to support Ukraine, likely to be shared widely by supporters."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet gives specific addresses for donations, providing actionable information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet expresses solidarity and encouragement."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The addresses will be used for a prolonged period, making the tweet relevant for weeks or months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1497560311494320130",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "A fun fact about a well-known figure may attract interest but is not breaking news."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "The tweet shares a factual anecdote, but it is not highly newsworthy."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet is lighthearted and positive."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The tweet may be referenced for a few weeks but will eventually fade."
+      }
+    }
+  },
+  {
+    "tweet_id": "1497420614746841090",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet provides a weekly update on NFT sales, which may interest the crypto community."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "The tweet includes specific data about sales and search trends."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is factual with no emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The weekly update will be relevant for a short period before new data emerges."
+      }
+    }
+  }
+]

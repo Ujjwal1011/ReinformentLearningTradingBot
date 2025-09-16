@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1762884103718748371",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "High-profile finance personality with >2M followers discussing a hot crypto topic (Ethereum ETF) that interests both finance and crypto communities, giving it moderate sharing potential."
+},
+"informative_value": {
+"score": 5,
+"justification": "Only speculative opinion based on the known success of the Bitcoin ETF; it does not provide new factual data."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Uses optimistic language ('pretty obvious', 'will soon bloom') indicating a positive tone."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "ETF discussions are likely to continue for weeks or months as regulators consider an Ethereum ETF, giving the tweet medium‑long relevance."
+}
+}
+},
+{
+"tweet_id": "1762856905716768809",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Very short, generic statement with a link and no strong hook, limiting its shareability beyond the NFT community."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet itself offers no substantive information, merely pointing to an external link without context."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral tone; the tweet simply states a noun without emotive language."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Impact is tied to the linked content, which is likely time‑bound and expected to fade within a day or two."
+}
+}
+},
+{
+"tweet_id": "1762800060184826069",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Mentions a U.S. Representative selling large crypto holdings, combining political and financial angles that attract broad attention across crypto, political, and mainstream audiences."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides specific, verifiable figures about the representative’s crypto sales, constituting newsworthy factual content."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Tone is largely neutral, presenting facts with a brief introductory phrase."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The story can fuel ongoing debate about crypto regulation and ethics, keeping it relevant for several weeks."
+}
+}
+},
+{
+"tweet_id": "1762652123206939059",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "A complaint about content theft within a niche community; unlikely to spread beyond interested parties."
+},
+"informative_value": {
+"score": 5,
+"justification": "Announces a new Ethereum Launchpad and reports perceived plagiarism, offering some product context."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "Expresses frustration and annoyance, reflecting a very negative emotional tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Concern is tied to the launch period; relevance is expected to diminish once the issue is resolved, likely within a few days."
+}
+}
+},
+{
+"tweet_id": "1762515560900780066",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Announces the launch of a new marketplace created by two major NFT players; likely to be shared widely within the NFT and crypto ecosystems."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides a concrete announcement with links to the marketplace, delivering clear, factual information."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Celebratory language ('02.27 is here') conveys strong positive excitement."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The marketplace will be a lasting platform; the announcement may be referenced for months, giving it long‑term relevance."
+}
+}
+}
+]

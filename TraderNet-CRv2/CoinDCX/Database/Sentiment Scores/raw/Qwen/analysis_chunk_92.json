@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1526724640994906113",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet provides a significant update on Ethereum's market cap, which is likely to be shared among crypto enthusiasts and investors."
+},
+"informative_value": {
+"score": 6,
+"justification": "It offers a factual update on Ethereum's market performance, which is useful for investors."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The sentiment is neutral, simply stating a fact."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The impact is short-term as market caps can change rapidly."
+}
+}
+},
+{
+"tweet_id": "1526681603010871296",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The humorous take on Vitalik's activities may be shared within crypto communities."
+},
+"informative_value": {
+"score": 4,
+"justification": "It's more of a joke than an informative statement."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment, as it's a light-hearted comment."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short-term impact as it's a specific event."
+}
+}
+},
+{
+"tweet_id": "1526634062944903168",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The critical analysis may be shared among tech-savvy users."
+},
+"informative_value": {
+"score": 8,
+"justification": "It provides a detailed critique of Ethereum's challenges."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Negative sentiment towards Ethereum's current state."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Medium-term impact as it's a critique that could be discussed for a while."
+}
+}
+},
+{
+"tweet_id": "1526420435897810949",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The bold claims about different blockchains are likely to be shared widely."
+},
+"informative_value": {
+"score": 6,
+"justification": "It's informative but speculative, comparing different blockchains."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Positive sentiment towards Cardano."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Short-term impact as it's a current event."
+}
+}
+},
+{
+"tweet_id": "1526413115621052416",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The list of points may get some shares among crypto communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "It's somewhat informative but not very structured."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment, presenting various observations."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Short-term impact as it's about recent events."
+}
+}
+},
+{
+"tweet_id": "1526398917461835776",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The comparison of price changes may be shared among investors."
+},
+"informative_value": {
+"score": 6,
+"justification": "It provides data on price movements."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment, presenting facts."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Short-term impact as it's about recent price changes."
+}
+}
+},
+{
+"tweet_id": "1526378791898992640",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "A deep technical discussion from Vitalik may be shared among tech-savvy users."
+},
+"informative_value": {
+"score": 9,
+"justification": "It's a detailed and insightful discussion on Ethereum's challenges."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment, presenting a technical analysis."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Long-term impact as it's a foundational issue."
+}
+}
+},
+{
+"tweet_id": "1526339577069375489",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The news about Coinbase's new feature may be shared among users."
+},
+"informative_value": {
+"score": 6,
+"justification": "It's informative about a new product feature."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment, stating a fact."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Short-term impact as it's a product update."
+}
+}
+},
+{
+"tweet_id": "1526317789480423428",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The meme comparing Ethereum to Solana may get some shares."
+},
+"informative_value": {
+"score": 4,
+"justification": "It's not very informative, more of a joke."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Negative sentiment towards Ethereum."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short-term impact as it's a joke."
+}
+}
+},
+{
+"tweet_id": "1526314566879158282",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The announcement about Cloudflare is significant and likely to be shared."
+},
+"informative_value": {
+"score": 9,
+"justification": "It's a critical announcement about Ethereum infrastructure."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Positive sentiment towards the move."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Long-term impact as it's a strategic move with lasting effects."
+}
+}
+}
+]

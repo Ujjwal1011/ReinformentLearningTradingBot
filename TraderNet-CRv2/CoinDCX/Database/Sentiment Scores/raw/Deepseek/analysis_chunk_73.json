@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1507943287671255041",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Crypto-related speculation with multiple hashtags could engage niche communities, but lacks strong emotional hooks for broader virality."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Announces upcoming product releases with crypto context, though lacks detailed technical or source verification."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral speculative statement without clear positive/negative emotional indicators."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevance depends on product release outcomes, potentially maintaining interest for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1507880581278752769",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Engaging question format about crypto assets encourages participation and debate within the community."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Poses a theoretical question without providing factual information or educational content."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral comparative question without inherent emotional valence."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Conversation likely tied to current crypto market conditions rather than lasting topics."
+      }
+    }
+  },
+  {
+    "tweet_id": "1507678660928557059",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major partnership announcement between established gaming company and blockchain platform has cross-industry appeal."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific business collaboration details with named entities and crypto context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual announcement without explicit emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Partnership developments could remain relevant through product development cycles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1507588464950198272",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Influential account bridging NFT communities could generate cross-platform discussion."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides comparative ecosystem analysis with linked content for further exploration."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive invitation framing with 'you might like it' suggests optimistic outlook."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevance tied to ongoing blockchain ecosystem competition and adoption timelines."
+      }
+    }
+  },
+  {
+    "tweet_id": "1507503596975362049",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Bold price prediction from influential account likely to generate discussion and sharing."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Speculative statement without supporting data or analysis."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Extremely optimistic price target conveys strong positive expectation."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance limited to current market cycle and price movement validation."
+      }
+    }
+  },
+  {
+    "tweet_id": "1507367673117687810",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Breaking news about traditional finance adoption from credible source has high share potential."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Specific institutional adoption details from named banking entity with crypto implications."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of factual development without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Signals broader institutional adoption trend with lasting crypto market implications."
+      }
+    }
+  },
+  {
+    "tweet_id": "1507276933217894422",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news format from influencer account, though slightly less authoritative than primary source."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Repeats key institutional adoption news with proper entity names and asset specifics."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement style despite exclamation mark punctuation."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Duplicate announcement may have slightly reduced longevity compared to original source."
+      }
+    }
+  },
+  {
+    "tweet_id": "1507180543531794435",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Large transaction alerts attract crypto community attention through novelty and speculation."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Specific transaction data with blockchain explorer link, though lacking context about implications."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of blockchain transaction activity."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Individual transactions typically have short-term market relevance unless part of larger pattern."
+      }
+    }
+  },
+  {
+    "tweet_id": "1506779959242764288",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Major Ethereum upgrade explanation from credible source with thread format encourages sharing."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides educational content about significant technical development with promised simple explanation."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Informational tone focused on explanation rather than emotional appeal."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The Merge represents fundamental blockchain infrastructure change with long-term industry implications."
+      }
+    }
+  },
+  {
+    "tweet_id": "1506765063834767369",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Comparative market cap factoid easily shareable for crypto advocacy communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides verifiable comparative data point between crypto and traditional finance."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of factual comparison without explicit commentary."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Market cap comparisons fluctuate frequently, reducing long-term relevance."
+      }
+    }
+  }
+]

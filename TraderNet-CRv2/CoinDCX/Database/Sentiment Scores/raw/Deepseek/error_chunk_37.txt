@@ -1,0 +1,205 @@
+--- RAW RESPONSE FROM MODEL ---
+[
+{
+"tweet_id": "1459566888783163395",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet discusses a comparison between major cryptocurrencies, which could resonate within the crypto community, but it lacks a strong hook for broader virality."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides a comparison between Ethereum, Bitcoin, and Solana, which could be informative for those interested in cryptocurrencies."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet expresses a neutral sentiment, as it's a simple statement of opinion without strong emotional language."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance may last as long as the discussion around the cryptocurrencies it mentions, which could be for a few days to weeks."
+}
+},
+{
+"tweet_id": "1459507826645164033",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet lists several significant events in the crypto world, which could be interesting to a wide range of followers."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides a summary of important events in the crypto world, which could be valuable to followers."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet expresses a positive sentiment, as it lists several positive developments in the crypto world."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance may last as long as the events it mentions, which could be for a few days to weeks."
+}
+},
+{
+"tweet_id": "1459163600178843648",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet discusses a phone call with an NFT startup, which could be interesting to those in the NFT community."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet provides some information about the startup's decision to choose Solana over Ethereum, but it's a personal anecdote rather than a formal announcement."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet expresses a neutral sentiment, as it's a simple statement of fact without strong emotional language."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance may last as long as the startup's decision to choose Solana over Ethereum, which could be for a few days to weeks."
+}
+},
+{
+"tweet_id": "1458974884609019916",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet announces AMC's acceptance of various cryptocurrencies, which could be interesting to a wide range of followers."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides specific information about AMC's acceptance of various cryptocurrencies, which could be valuable to followers."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet expresses a neutral sentiment, as it's a simple statement of fact without strong emotional language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance may last as long as AMC's acceptance of various cryptocurrencies, which could be for a few days to weeks."
+}
+},
+{
+"tweet_id": "1458904167355924485",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet announces AMC's acceptance of various cryptocurrencies, which could be interesting to a wide range of followers."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides specific information about AMC's acceptance of various cryptocurrencies, which could be valuable to followers."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet expresses a neutral sentiment, as it's a simple statement of fact without strong emotional language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance may last as long as AMC's acceptance of various cryptocurrencies, which could be for a few days to weeks."
+}
+},
+{
+"tweet_id": "1458879108750979072",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet encourages buying Ethereum before a potential announcement, which could be interesting to a wide range of followers."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet provides a vague suggestion, but it doesn't provide any specific information."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet expresses a neutral sentiment, as it's a simple statement of fact without strong emotional language."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance may last as long as the potential announcement, which could be for a few hours to a day."
+}
+},
+{
+"tweet_id": "1458762806891716615",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet discusses the value of various cryptocurrencies, which could be interesting to a wide range of followers."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides specific information about the value of various cryptocurrencies, which could be valuable to followers."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet expresses a neutral sentiment, as it's a simple statement of fact without strong emotional language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance may last as long as the value of the cryptocurrencies it mentions, which could be for a few days to weeks."
+}
+},
+{
+"tweet_id": "1458522980716265475",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet discusses a potential new token from Metamask, which could be interesting to a wide range of followers."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet provides some information about the potential new token, but it's a personal anecdote rather than a formal announcement."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet expresses a neutral sentiment, as it's a simple statement of fact without strong emotional language."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance may last as long as the potential new token from Metamask, which could be for a few days to weeks."
+}
+},
+{
+"tweet_id": "1458317624048115715",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet discusses Ethereum, which could be interesting to a wide range of followers."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet provides a simple statement of interest in Ethereum, but it doesn't provide any specific information."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet expresses a neutral sentiment, as it's a simple statement of fact without strong emotional language."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance may last as long as the interest in Ethereum, which could be for a few days to weeks."
+}
+},
+{
+"tweet_id": "1458271567331221504",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet announces the listing of Ethereum Name Service on Binance, which could be interesting to a wide range of followers."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides specific information about the listing of Ethereum Name Service on Binance, which could be valuable to followers."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet expresses a neutral sentiment, as it's a simple statement of fact without strong emotional language."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance may last as long as the listing of Ethereum Name Service on Binance, which could be for a few hours to a day."
+}
+}
+]
+
+--- FULL PROMPT SENT TO MODEL ---

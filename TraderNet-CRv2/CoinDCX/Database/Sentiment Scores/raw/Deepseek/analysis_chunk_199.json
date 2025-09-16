@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1732143110518603784",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Niche NFT content with minimal engagement metrics. Unlikely to spread beyond crypto-art communities."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Only references an existing NFT listing without providing context or analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral statement about NFT availability without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Relevance limited to current NFT collectors interested in this specific piece."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732142593100874142",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Regulatory news about Ethereum ETF could generate discussion in crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific regulatory update with source links about a major financial product."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual reporting without evident emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant until January decision date, with potential follow-up discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732140926275883467",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High engagement metrics and product launch announcement likely to spread in crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Announces specific feature launch with technical details and contingency plan."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone celebrating platform expansion with celebratory hashtags."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevance depends on feature adoption but could sustain weeks of discussion."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732139873182585292",
+    "analysis": {
+      "virality_potential": {
+        "score": 2,
+        "justification": "Technical debate in reply thread with limited audience appeal."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Opinion-based comparison of blockchain platforms without data."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Moderately negative toward crypto 'hippies and anarchists'."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance tied to current blockchain governance debates."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732139278594126336",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Price prediction from influential analyst likely shared in trading communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides technical analysis with specific price targets."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Optimistic tone about market movement potential."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Price targets could influence discussions for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732138394132554213",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Regulatory update relevant to crypto markets but with limited engagement."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Reports SEC decision with market impact analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of facts with optimistic market interpretation."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant until next regulatory development occurs."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732138363438694540",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Niche technical debate in reply thread with limited sharing potential."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Opinion-based discussion of blockchain fundamentals without new data."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral analytical tone acknowledging potential disagreement."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance limited to current cycle debates about Ethereum."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732136389066543454",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "ETF speculation could interest crypto investors but with modest engagement."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Speculative claim about future financial products without evidence."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement format without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant until ETF approvals occur or speculation changes."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732135996471509502",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Higher engagement suggests stronger spread potential for ETF speculation."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Similar speculative content as previous tweet but with better engagement."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of speculative claim."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Matches market speculation cycle duration."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732134555711353219",
+    "analysis": {
+      "virality_potential": {
+        "score": 1,
+        "justification": "Basic NFT sale announcement with minimal engagement metrics."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Only reports sale price without context or analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral transaction reporting."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Immediately irrelevant after initial sale notice."
+      }
+    }
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1756249005263056914",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet uses a dramatic hook and a link to Ethereum stats, likely to be shared within the crypto community, but not beyond."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "The tweet points to a link with 30‑day stats but offers no summary, so it provides limited factual information."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The tone is light‑hearted and humorous, expressing a playful exaggeration."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The content is tied to a specific time period and may lose relevance after a few days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1755957594932306329",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Offering a large reward for testnet participation is likely to be shared widely among stakers and crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "The tweet gives concrete details about the reward program, testnet, and tasks, providing useful information."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tweet is enthusiastic and positive about the incentive program."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevance will fade after the testnet period, so the tweet remains useful for a few weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1755929540700807211",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Announcing a breakthrough SNARK proving ASIC that could solve Ethereum fragmentation is a significant technical development likely to spread among developers."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet provides technical details about the new hardware and its potential impact."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tone is optimistic and excited about solving a major issue."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The hardware announcement is foundational and will remain relevant for years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1755658452482056523",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Claiming lower gas fees and free coins addresses a common pain point, likely to be shared widely."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "The tweet references a technology that reduces gas fees but does not explain it in detail."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet is enthusiastic and positive about the benefits."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevance may decline after the technology is adopted or becomes obsolete."
+      }
+    }
+  },
+  {
+    "tweet_id": "1755499470471524831",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "A general positive comment about users moving to PulseChain may get some engagement but is not a major announcement."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet offers no new facts or details, just a vague statement."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tone is positive and celebratory."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The trend may continue for a few weeks, but the tweet itself will not remain relevant long."
+      }
+    }
+  }
+]

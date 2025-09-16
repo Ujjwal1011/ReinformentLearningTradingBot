@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1489741361045721088",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Targets a niche NFT community with mentions of other creators, but unlikely to spread beyond that group."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides details about an upcoming auction and links to the NFT, offering useful information for collectors."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive tone expressing hope and excitement about the new addition."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevant mainly during the 2-day auction period; relevance fades afterward."
+}
+}
+},
+{
+"tweet_id": "1489628720449175556",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "A factual market statistic that may interest crypto followers but lacks a hook for mass virality."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides verifiable data on Ethereum‑NFT trading volume, which is newsworthy."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral tone with no emotional language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for a few months as a reference point for market trends."
+}
+}
+},
+{
+"tweet_id": "1489547530127900675",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Hype statement that could spread among crypto enthusiasts, though not guaranteed to go viral."
+},
+"informative_value": {
+"score": 4,
+"justification": "No factual backing; mainly motivational hype."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Strongly positive, encouraging tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Short‑lived hype; relevance diminishes quickly."
+}
+}
+},
+{
+"tweet_id": "1489545904642093056",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "On‑chain analysis link may be shared within crypto circles but unlikely to reach a broader audience."
+},
+"informative_value": {
+"score": 5,
+"justification": "Provides a link to analysis but no summary or context."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral tone."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevant for a few days to weeks as the market moves."
+}
+}
+},
+{
+"tweet_id": "1489385954058067972",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Breaking news about a major company’s market cap loss, likely to be widely shared."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides verifiable data about Facebook’s market cap decline."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Negative tone regarding Facebook’s performance."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for weeks to months as a reference point for market trends."
+}
+}
+}
+]

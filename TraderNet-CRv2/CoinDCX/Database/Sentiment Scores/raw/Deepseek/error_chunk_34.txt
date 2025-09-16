@@ -1,0 +1,145 @@
+--- RAW RESPONSE FROM MODEL ---
+[
+{
+"tweet_id": "1462277275701833730",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "The tweet uses a popular meme format but is unlikely to go beyond the crypto community."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet is a personal prediction without any factual basis or reference."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet expresses a positive sentiment towards Ethereum and a negative sentiment towards Bitcoin."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is tied to the current state of Ethereum and Bitcoin, which can change rapidly."
+}
+},
+{
+"tweet_id": "1462262941085061132",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet is a respectful request for proof, which may generate some discussion within the crypto community."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet asks for evidence to support claims about Ethereum and Avax, which could lead to informative discussions."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, expressing neither strong positive nor negative emotions."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to the ongoing discussion about Ethereum and Avax's dominance."
+}
+},
+{
+"tweet_id": "1462222041868689408",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet's claim about Ethereum's gas fees could generate discussion within the Ethereum community."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet provides information about a potential Ethereum update, but it's from an unverified source."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet expresses positive emotions about the upcoming Ethereum update."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to the upcoming Ethereum update."
+}
+},
+{
+"tweet_id": "1462215180067082241",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet's prediction about Ethereum's price could generate discussion and shares within the crypto community."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides a prediction about Ethereum's price, which could be informative to some users."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses strong positive emotions about Ethereum's future price."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is tied to Ethereum's price, which can change rapidly."
+}
+},
+{
+"tweet_id": "1462158305351012355",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet's prediction about Bitcoin and Ethereum's future prices could generate discussion and shares within the crypto community."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides a prediction about Bitcoin and Ethereum's future prices, which could be informative to some users."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses strong positive emotions about Bitcoin and Ethereum's future prices."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance is tied to Bitcoin and Ethereum's future prices, which can change rapidly."
+}
+},
+{
+"tweet_id": "1462090579387559941",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet's claim about Ethereum's dilution could generate discussion within the Ethereum community."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides information about Ethereum's dilution, which could be informative to some users."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, expressing neither strong positive nor negative emotions."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is tied to the ongoing discussion about Ethereum's dilution."
+}
+},
+{
+"tweet_id": "1461932035245707270",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet's claim about Bitcoin's price could generate discussion within the crypto community."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides a prediction about Bitcoin's price, which could be informative to some users."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, expressing neither strong positive nor negative emotions."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is tied to Bitcoin's price, which can change rapidly."
+}
+}
+]
+
+--- FULL PROMPT SENT TO MODEL ---

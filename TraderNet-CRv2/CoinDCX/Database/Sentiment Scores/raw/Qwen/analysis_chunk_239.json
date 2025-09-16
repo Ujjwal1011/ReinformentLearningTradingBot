@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1766139659414131169",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet provides specific cryptocurrency price updates, which can attract attention within crypto communities, but it's unlikely to go viral beyond that."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "The tweet offers factual information about cryptocurrency prices but lacks depth or context."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The positive tone is evident with the mention of price increases and the call to action for likes."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Cryptocurrency prices are volatile, so the tweet's relevance is short-term."
+      }
+    }
+  },
+  {
+    "tweet_id": "1766036870973026455",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "The investment advice is relevant to crypto enthusiasts but unlikely to be widely shared outside that community."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides useful advice on investment strategies, though it's not a formal analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral advice without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The advice is timely but may lose relevance as market conditions change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1766019561038524420",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Significant financial event likely to be shared among crypto communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides critical information about a major financial event."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment due to the substantial amount of USDT minted."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The event is notable but may not remain relevant indefinitely."
+      }
+    }
+  },
+  {
+    "tweet_id": "1765987450474856448",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Targets crypto investors but may not reach a broader audience."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Shares investment performance data, useful for crypto enthusiasts."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone with congratulations on investment gains."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Based on past performance, relevance is short-term."
+      }
+    }
+  },
+  {
+    "tweet_id": "1765967035723620494",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Encourages followers about crypto gains, likely shared within crypto circles."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Informative but lacks detailed analysis."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive and encouraging tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance is tied to current crypto trends."
+      }
+    }
+  },
+  {
+    "tweet_id": "1765963643664093217",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Significant price increases attract attention within crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides detailed price updates, valuable for investors."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Strong positive tone with excitement about price gains."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance is short due to crypto volatility."
+      }
+    }
+  },
+  {
+    "tweet_id": "1765935584076267981",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news about Solana and Ethereum, likely widely shared."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Critical information about a significant market shift."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of a market event."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance extends beyond the day but may fade as market conditions change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1765908171489779780",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Investment advice relevant to crypto investors but not widely shared."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Offers insights into investment strategies."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral advice without strong emotion."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance is tied to current market conditions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1765902712905068716",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Predictions about crypto prices attract attention within the community."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Shares predictions and past performance data."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive outlook on price increases."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Predictions are timely and may not hold long-term."
+      }
+    }
+  },
+  {
+    "tweet_id": "1765900597046472971",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Discusses Ethereum layers, relevant to crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides information on Ethereum's layer technology."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral discussion of technology choices."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance is tied to current technological discussions."
+      }
+    }
+  }
+]

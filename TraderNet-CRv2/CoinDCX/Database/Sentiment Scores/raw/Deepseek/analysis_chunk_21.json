@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1433611146414551043",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Crypto market speculation threads often gain traction within investment communities, especially with popular hashtags like #bitcoin and #ethereum."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Poses strategic questions about market cycles but lacks concrete data or sources."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone focused on speculative questions without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Market cycle discussions remain relevant for weeks in crypto communities."
+      }
+    }
+  },
+  {
+    "tweet_id": "1433571788383039494",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Niche appeal limited to specific Ethereum communities with low retweet count."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Simple invitation to discuss investment thesis without substantive content."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral request without emotional valence."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Time-bound relevance to a potential upcoming show appearance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1433541547216277504",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Humorous futuristic predictions about crypto dominance have strong meme potential."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Clearly marked parody content without factual claims."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Playful tone with aspirational technological claims."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Memetic content typically circulates for 1-2 weeks before fading."
+      }
+    }
+  },
+  {
+    "tweet_id": "1433520798724206600",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Breaking news about major platform integration of cryptocurrencies with extremely high engagement metrics."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Concrete platform update with verification link from a reputable source."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual announcement without emotional framing."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Platform changes create lasting impact on user behavior and industry standards."
+      }
+    }
+  },
+  {
+    "tweet_id": "1433513082949718017",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Tribal debates between crypto communities often generate moderate engagement."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Focuses on community perceptions rather than technical or market information."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Criticism of community tribalism with negative connotations like 'shitcoiner'."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Community drama typically has short attention cycles in crypto spaces."
+      }
+    }
+  },
+  {
+    "tweet_id": "1433434633396318213",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Provocative asset comparison from a known figure drives debate engagement."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Contains comparative performance data across asset classes with specific timeframes."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Analytical tone questioning metrics rather than expressing direct sentiment."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Asset comparison frameworks remain reference points for months in investment discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1433323563893755908",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "NFT giveaway with multiple engagement mechanics (retweet, follow) drives high participation."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Primarily promotional content without educational value."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Energetic tone with emojis and promotional excitement."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Giveaways have sharp engagement spikes that decline post-event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1433307063757639680",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Absurdist humor targeting Ethereum's founder has strong meme potential in crypto circles."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "Pure satire without factual content or actionable information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral absurdism without clear positive/negative valence."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Joke tweets typically have very short cultural half-lives."
+      }
+    }
+  },
+  {
+    "tweet_id": "1433304084610641924",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Price prediction tweets from influencers often get amplified in crypto communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Speculative price targets without fundamental analysis."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong optimistic framing using 'sound right' and 'reality'."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Price predictions remain relevant until either achieved or disproven."
+      }
+    }
+  },
+  {
+    "tweet_id": "1433296020805496836",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Personal investment success stories often resonate in crypto communities."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Provides anecdotal portfolio strategy without verifiable data."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive reflection on perceived wise investment decisions."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Asset allocation discussions maintain moderate relevance in investor communities."
+      }
+    }
+  }
+]

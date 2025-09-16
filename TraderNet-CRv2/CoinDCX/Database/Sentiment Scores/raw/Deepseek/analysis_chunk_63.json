@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1497624510631059459",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news about government adoption of cryptocurrency during a major geopolitical event has high sharing potential across financial and tech communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides critical information about official donation channels with specific cryptocurrency details during a crisis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement without emotional language, presented as factual information."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Will remain relevant as long as the conflict persists and cryptocurrency remains a donation option."
+      }
+    }
+  },
+  {
+    "tweet_id": "1497606742724816898",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Humorous crypto meme likely to be shared within Ethereum communities but limited broader appeal."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Primarily a joke about gas fees without substantive information."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Sarcastic tone expressing mild frustration with blockchain fees."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance tied to current gas fee trends, likely to become outdated quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1497594592438497282",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Official donation request from a national government during active conflict has extremely high sharing potential."
+      },
+      "informative_value": {
+        "score": 10,
+        "justification": "Contains critical donation addresses and official cryptocurrency policy information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive call to action supporting Ukraine, though primarily functional rather than emotional."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Will remain historically significant as documentation of cryptocurrency's role in modern conflict."
+      }
+    }
+  },
+  {
+    "tweet_id": "1497560311494320130",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Interesting trivia about Ethereum's origins but limited to crypto enthusiast circles."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides historical context about Ethereum's creation with verifiable information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of a factual anecdote."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Evergreen backstory content that will maintain relevance in crypto history discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1497420614746841090",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Market trend analysis relevant to NFT investors but lacks emotional hook for broader sharing."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Contains specific metrics about NFT market trends with cited data sources."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of market statistics without clear positive/negative framing."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Tied to specific 30-day metrics that will be superseded by newer data."
+      }
+    }
+  },
+  {
+    "tweet_id": "1497178495658647556",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "List of major corporate Ethereum adopters has shareability in business/tech circles."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides verifiable information about enterprise blockchain adoption."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of factual information without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Corporate adoption list will remain reference material until significant changes occur."
+      }
+    }
+  },
+  {
+    "tweet_id": "1496491000113639429",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Major browser integration news important to DeFi community with moderate viral potential."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Announces significant technical integration affecting millions of users."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive tone indicated by 'Happy L2'22' celebration."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant until next major browser update or Layer 2 development."
+      }
+    }
+  },
+  {
+    "tweet_id": "1496379980963803136",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Specialized market data primarily relevant to stablecoin traders."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Contains specific growth metrics about stablecoin markets with time-bound data."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of market statistics."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "54-day specific data point with limited long-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1496286132820221955",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Niche praise tweet likely limited to Ethereum developer communities."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Personal opinion without substantive information."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong positive sentiment with phrases like 'massive respect' and 'mad props'."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Ephemeral social media praise without lasting significance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1496177095453683719",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Provocative comparison of crypto valuations has debate-sparking potential."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides current market cap figures with verifiable data points."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Paradoxical presentation of data without explicit sentiment indicators."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Market cap figures will become outdated quickly as values fluctuate."
+      }
+    }
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1732074966211059933",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Product launch with multiple hashtags (#ckETH, #ICP, #ETH) and celebratory emojis. High engagement (725 likes, 245 retweets) suggests strong shareability within Web3 communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Announces a new technical capability (trustless multi-chain interactions) with multiple educational links. Direct from project's official account."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Enthusiastic tone with phrases like 'thrilled to announce' and rocket emoji. Focuses on positive technological advancement."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Introduction of new blockchain interoperability feature will remain relevant for weeks as developers explore implementation."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732073328981037301",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Technical bridge announcement limited to crypto-native audiences. Moderate engagement (87 likes) suggests niche appeal."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific details about cross-chain bridging capabilities with 0 slippage, but requires prior knowledge of mentioned protocols."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement tone using industry jargon without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to current bridge functionality updates, likely superseded by future technical developments."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732072349481029650",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Niche crypto news in Spanish about whale activity. Very low engagement (6 likes) indicates limited reach."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Reports specific on-chain event ($90M ETH movement) with verifiable transaction data potential."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual reporting without apparent bias or emotional language."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Whale movements typically only impact short-term market speculation."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732067579391590663",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Technical discussion about blockchain interoperability. Low engagement (37 likes) reflects specialized audience."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Explains specific technical integration (IBC to Ethereum) with ecosystem implications."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone focusing on technological collaboration between protocols."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Blockchain interoperability solutions remain relevant for months as implementations develop."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732067548961947662",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Major technical announcement (Ethereum L2 with IBC) with strong engagement (762 likes). Appeals to both Ethereum and Cosmos communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Detailed architecture announcement with technical documentation link. From project's official account."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive language using 'excited' and mission-oriented framing."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Layer 2 solutions and interoperability standards have long development cycles, maintaining relevance for months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732066924404818372",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Controversial claim about sandwich attacks could spark debate. Moderate engagement (105 likes) within trading communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific statistics about Ethereum MEV issues but promotes a specific product solution."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Moderately positive endorsement of UNIBOT with urgency-building language ('insane', 'ensure complete protection')."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "MEV discussion is ongoing, but product-specific recommendations have shorter relevance unless widely adopted."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732064305418297652",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Quoted analysis about Ripple/XRP's role might engage crypto legal community. Moderate engagement (137 likes)."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Summarizes expert perspective on blockchain's infrastructure role, though lacks primary sources."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral analysis of technological positioning without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Discussions about blockchain's role in financial infrastructure remain relevant for months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732063025933500849",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Celebrity involvement (Andrew Tate) combined with crypto topic drives high engagement (2117 likes). Controversial figure amplifies spread."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "States investment fact without verification sources or contextual analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of investment activity with speculative emojis (📈🤔)."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Celebrity investment news typically has short-term attention cycle unless followed by major developments."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732061082385002944",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Generic price analysis tweet with very low engagement (4 likes). Lacks unique angle or data."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Mentions market indicators but provides no specific data or analysis methodology."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement of market analysis without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Price predictions without unique insight become irrelevant within hours in volatile crypto markets."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732060178571247850",
+    "analysis": {
+      "virality_potential": {
+        "score": 2,
+        "justification": "Personal opinion thread about dApp design with minimal engagement (60 likes). No hooks for broad sharing."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Shares anecdotal perspective on user adoption challenges without supporting data."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone discussing shifted perspectives in blockchain development."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Personal developer opinions typically have short relevance unless sparking larger debate."
+      }
+    }
+  }
+]

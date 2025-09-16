@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1314714956131164161",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "A provocative statement comparing Ethereum to Bitcoin can spark debate within the crypto community, potentially leading to shares and discussions."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet expresses a personal opinion without providing factual, newsworthy, or educational content."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The user expresses a moderately positive sentiment towards Ethereum by stating it's better than Bitcoin."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is standard, generating discussion for a day or two before fading, as opinions on cryptocurrencies are frequently shared and debated."
+}
+}
+},
+{
+"tweet_id": "1313959574244859905",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "A response to a discussion about Ethereum's decentralization, unlikely to be widely shared beyond the engaged community."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides useful information about the nature of an immutable smart contract on Ethereum and the existence of independent frontends."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, focusing on clarifying aspects of Ethereum's technology."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Remains relevant for days or weeks, as discussions about decentralization and Ethereum's architecture are of ongoing interest."
+}
+}
+},
+{
+"tweet_id": "1313943695016767488",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "A provocative statement about the decentralization of Ethereum-based apps, likely to generate shares and discussions within the crypto and tech communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "Raises a point about the potential centralization risk through AWS, providing some useful insight."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "Expresses a moderately negative sentiment towards the current state of Ethereum-based 'DeFi' apps."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Remains relevant for days or weeks, as the topic of decentralization in crypto is of ongoing interest and debate."
+}
+}
+},
+{
+"tweet_id": "1313228298642575360",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "A milestone achievement for MetaMask, moderately engaging but not designed to go viral beyond the Ethereum community."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides credible information about MetaMask's growth, including a link to a detailed blog post."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "Expresses a very positive sentiment, using celebratory language and emojis."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Remains relevant for days or weeks, as community growth milestones are of interest to followers and the broader Ethereum ecosystem."
+}
+}
+},
+{
+"tweet_id": "1313035954358292482",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "A giveaway with clear rules and significant prizes is very likely to be shared broadly, especially within the crypto community."
+},
+"informative_value": {
+"score": 3,
+"justification": "Provides minimal information beyond the giveaway rules, lacking in educational or newsworthy content."
+},
+"sentiment_polarity": {
+"score": 10,
+"justification": "Expresses an extremely positive sentiment, aiming to excite and incentivize engagement."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant only until the giveaway's end date, making its impact short-term."
+}
+}
+},
+{
+"tweet_id": "1333478962576715777",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "An announcement about Ethereum 2.0's upgrade, moderately engaging for the crypto community but not viral beyond it."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides critical, verifiable information about a significant upgrade to Ethereum, including a link to more details."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, focusing on informing about the upcoming launch and Coinbase's support."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Remains relevant for months, as the transition to Ethereum 2.0 is a significant, ongoing process."
+}
+}
+},
+{
+"tweet_id": "1332047468004077569",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "A solution to a critical bug, especially one that could impact the entire Ethereum network, is very likely to be shared within the developer and crypto communities."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides highly useful, technical information about a fix for a significant bug, including a link to more details."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Expresses a very positive sentiment, using enthusiastic language to present the solution."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Remains relevant for days or weeks, as the fix for a critical bug is of immediate and ongoing interest to developers and the Ethereum community."
+}
+}
+},
+{
+"tweet_id": "1331899357562454016",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "A daily update on cryptocurrency prices, unlikely to be widely shared due to its ephemeral nature."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides some useful, factual information about current cryptocurrency prices."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, simply reporting on market fluctuations without emotional tone."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "Instantly irrelevant after the day, as cryptocurrency prices constantly change."
+}
+}
+},
+{
+"tweet_id": "1331639190526824454",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "A statement about the current Ethereum bull run, moderately engaging for the crypto community but not viral beyond it."
+},
+"informative_value": {
+"score": 2,
+"justification": "Lacks concrete, newsworthy, or educational content, merely expressing a personal viewpoint."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Expresses a very positive sentiment towards the Ethereum bull run."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Remains relevant for days or weeks, as discussions about the bull run are of ongoing interest to the crypto community."
+}
+}
+},
+{
+"tweet_id": "1324018999458295809",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The release of the ETH2 deposit contract is moderately engaging, especially within the Ethereum and crypto developer communities."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides critical, direct information about a significant development in Ethereum 2.0, including a link to the contract."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, focusing on informing about the release."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Remains relevant for months, as the transition to Ethereum 2.0 is a significant, ongoing process."
+}
+}
+}
+]

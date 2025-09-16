@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1732082409829695518",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "This tweet is likely to be shared within the blockchain and developer communities due to its collaboration announcement, but it's niche."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides valuable information about real-time price feeds and Mode Network, useful for developers."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone, informative without strong emotion."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for weeks as it's a new service launch."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732081240226861524",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Excitement about ckETH could drive shares within the ICP and Ethereum communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Explains ckETH and its potential benefits, though brief."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong positive sentiment with excitement about web3 benefits."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a few days as it's a launch announcement."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732079496746983557",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Standard news link without a strong hook, likely limited sharing."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Reports on NFT resurgence, useful for crypto enthusiasts."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, factual report."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant for a few days as a market update."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732078400523604133",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "High excitement with emojis and hashtags, likely shared widely in crypto communities."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Minimal info, just a pump signal."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Very positive with excitement about price increases."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevant for a few hours as a market moment."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732078132197282070",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Excitement about ETH and ETFs, likely shared among French-speaking crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides info on ETFs and ETH's potential."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive with excitement about ETH's rise."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for weeks as ETF news is ongoing."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732077388098683375",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Technical discussion, likely shared among niche blockchain communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Detailed technical info on DA solutions."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, factual discussion."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Long-term relevance as it's a foundational technical topic."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732077064243777915",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Bridging update, limited to specific communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Informs about DAI bridging, useful for users."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, factual update."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a few days as a transaction update."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732076695056765230",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Breaking news with Coinbase prediction, likely widely shared."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides news on crypto prices and CEO prediction."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive with excitement about price increases."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a day as a news event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732076371113890142",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Bridging update, niche audience."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Informs about DAI bridging to PulseChain."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, factual update."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a few days as a transaction update."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732076191408935418",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Drop alert for NFT, likely shared in Spanish-speaking NFT communities."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Announces an NFT drop, basic info."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive with excitement about the drop."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant until the drop date, a few days."
+      }
+    }
+  }
+]

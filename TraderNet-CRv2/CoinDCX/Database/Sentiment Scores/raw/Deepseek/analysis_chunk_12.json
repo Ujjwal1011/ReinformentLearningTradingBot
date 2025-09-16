@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1361462058005397507",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Bold price prediction with cryptocurrency hashtags could generate discussion in crypto communities, but lacks concrete evidence for explosive virality."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Contains speculative price targets without supporting data or educational context."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strongly optimistic prediction using definitive language ('nothing can stop this now')."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Price predictions remain relevant until either achieved or disproven, typically weeks/months in crypto markets."
+      }
+    }
+  },
+  {
+    "tweet_id": "1361183385046061066",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Concise market data presentation from a trusted source attracts financial audiences, but limited emotional engagement."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific, verifiable 24-hour performance metrics for multiple cryptocurrencies."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of factual data without explicit commentary."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Daily price changes become outdated quickly in volatile crypto markets."
+      }
+    }
+  },
+  {
+    "tweet_id": "1360941400607633413",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Engagement-driven format (heart emoji prompt) combined with price speculation encourages participation."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Pure speculation without supporting analysis or data."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Optimistic tone implied by price growth anticipation and heart emoji use."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to specific price target that either gets hit or becomes outdated."
+      }
+    }
+  },
+  {
+    "tweet_id": "1360576535099363328",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Clear market capitalization data presented in accessible format, valuable for financial discussions."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides concrete, verifiable market value figures for multiple cryptocurrencies."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of factual information without commentary."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Market cap figures change daily in crypto markets, limiting long-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1360519835453689857",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Celebrity investment disclosure combined with crypto topic has high sharing potential."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Documents a specific investment action but lacks broader educational context."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone implied by public investment disclosure and platform endorsement."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Celebrity investment decisions can influence market sentiment for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1360348542892732416",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Simple poll-style question encourages community engagement within crypto circles."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No factual content or educational value beyond soliciting audience position."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral question without emotional language or implied bias."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Engagement limited to immediate responses with no lasting relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1359503393975328775",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Comparative data presentation with striking crypto vs traditional asset performance attracts sharing."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides comprehensive, verifiable annual performance data across multiple asset classes."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual presentation without explicit commentary, though implied crypto advocacy through data selection."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Annual performance data remains relevant for economic discussions throughout the year."
+      }
+    }
+  },
+  {
+    "tweet_id": "1359484612481863681",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Niche trading anecdote with limited appeal beyond immediate crypto trading circles."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Personal trading experience without broader market insights."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone from perceived favorable trade execution."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Relevance expires with next price fluctuation in fast-moving crypto markets."
+      }
+    }
+  },
+  {
+    "tweet_id": "1359423449786175496",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Platform comparison question from official account drives community engagement and debate."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Highlights transaction metrics but primarily serves to solicit opinions rather than inform."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral question format though implicitly promotes Binance ecosystem."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Platform competition discussions remain relevant for weeks in crypto development communities."
+      }
+    }
+  },
+  {
+    "tweet_id": "1359347606183313414",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Milestone announcement from industry leader with strategic implications for blockchain ecosystem."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Documents significant platform achievement with analysis of underlying factors."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Celebratory tone with multiple gratitude emojis and forward-looking commitments."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Infrastructure milestones serve as long-term reference points in blockchain development history."
+      }
+    }
+  }
+]

@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1437281199731449856",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet offers a personal view on Ethereum vs Solana that may resonate within crypto circles, giving it moderate shareability but unlikely to break beyond that niche."
+},
+"informative_value": {
+"score": 3,
+"justification": "It is mainly an opinion about portfolio allocation and community perception, providing no new factual data."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "The tone mixes love for Ethereum with mild criticism of Solana, resulting in a moderately negative sentiment."
+},
+"duration_of_impact:": {
+"score": 4,
+"justification": "The discussion is tied to a specific community debate and is likely to be relevant for only a few days."
+}
+}
+},
+{
+"tweet_id": "1437271588429258755",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "A short question from a celebrity (Jason Derulo) about a hot crypto topic, combined with high engagement numbers, gives it high potential to be widely shared."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet only asks a question and does not provide any factual information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply posing a question without emotional language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The Solana vs Ethereum debate is ongoing, so the tweet could stay relevant for weeks or months."
+}
+}
+},
+{
+"tweet_id": "1437135725611393029",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet tags major crypto projects, " 
+},
+"informative_value": {
+"score": 7,
+"justification": "It points to an external article about regulatory actions, offering potentially high‑value news content."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "The language questions fairness and shows frustration, giving it a moderately negative tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Regulatory issues tend to be discussed over weeks, so the tweet may retain relevance for a medium period."
+}
+}
+},
+{
+"tweet_id": "1436949520835911683",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Listing multiple blockchain projects and claiming they are all congested may attract attention among crypto enthusiasts, but lacks a strong hook for broader virality."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet makes a broad claim about network congestion without supporting data or sources, limiting its informational value."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "The tone is critical of the projects' scalability, resulting in a moderately negative sentiment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Scalability debates persist, so the tweet could be referenced for several weeks."
+}
+}
+},
+{
+"tweet_id": "1436742655724167181",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "A personal confession about not understanding NFTs from an early crypto investor may resonate with many, giving it moderate shareability."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet expresses personal confusion and does not provide factual information about NFTs."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The language conveys frustration and skepticism toward NFTs, resulting in a moderately negative sentiment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "NFT discussions are ongoing, so the tweet could stay relevant for weeks to months, giving it medium duration."
+}
+}
+}
+]

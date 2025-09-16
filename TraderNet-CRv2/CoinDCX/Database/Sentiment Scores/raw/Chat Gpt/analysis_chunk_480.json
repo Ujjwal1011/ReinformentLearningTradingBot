@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1765899672571560044",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet's claim about a U.S. ETF is a hot topic that can spark discussion within the crypto community and beyond. The influencer status and hashtag increase shareability. However, it lacks a strong emotional trigger or breaking news, so it's not extremely high."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "The tweet provides some perspective but is not backed by primary sources. It's speculative."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The tweet conveys enthusiasm for Ethereum and mild criticism of Bitcoin, reflecting a positive sentiment overall."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The topic of a potential ETF will continue to be discussed for some time, but it may lose relevance as new developments occur."
+      }
+    }
+  },
+  {
+    "tweet_id": "1765835905976164458",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "It's a generic statement with no hook or emotional trigger beyond mild surprise."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "It's an opinion, not factual."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "The tweet expresses disbelief at low prices, reflecting a somewhat negative sentiment."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The tweet is relevant for a short period as prices fluctuate."
+      }
+    }
+  },
+  {
+    "tweet_id": "1765815082376740871",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet references a specific event that could generate discussion among a niche community."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "It provides info about the claim event and numbers, offering useful context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, asking a question without strong emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The claim event is relevant for a week or so, and the discussion may continue for a few days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1765803384458948784",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet uses a popular hashtag and a meme-like phrase that could resonate with the community."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "It's not informative; it's a meme."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral or slightly positive."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "It's a meme, might be relevant for a short period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1765580934407987317",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "The tweet is a personal anecdote and thesis that may get some engagement but is not a hook."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "It's a thesis about bull run but not factual."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet expresses optimism and excitement about the bull run."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The bull run is trending, and the tweet may remain relevant for a while."
+      }
+    }
+  }
+]

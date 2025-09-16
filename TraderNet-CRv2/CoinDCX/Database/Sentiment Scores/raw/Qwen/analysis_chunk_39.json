@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1457850996068081667",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Announcement of Ethereum integration with Discord is likely to be widely shared within crypto and tech communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides relevant information about a potential integration, though it's a teaser without details."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong positive sentiment expressed with excitement."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Relevant until more details about the integration are released."
+      }
+    }
+  },
+  {
+    "tweet_id": "1457844953070116864",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "From a trusted source, likely to go viral in crypto circles."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Clear and relevant information about the partnership."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment with enthusiasm."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Relevance until more information is available."
+      }
+    }
+  },
+  {
+    "tweet_id": "1457842402106830849",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Personal reflection, niche audience."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Educational background on ENS's success."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive and appreciative tone."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Timeless advice, long-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1457811131611815936",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Price update engages crypto traders."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Minimal info beyond price announcement."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive and excited tone."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term relevance due to price fluctuations."
+      }
+    }
+  },
+  {
+    "tweet_id": "1457746293586022405",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Engages Bitcoin and Ethereum communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Technical info, though subjective."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral with a critical tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for a few weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1457710025732993030",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Major announcement about Reddit and Ethereum."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Predicts future impact without details."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Optimistic and enthusiastic."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Long-term if integration occurs."
+      }
+    }
+  },
+  {
+    "tweet_id": "1457519739572424711",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Engages crypto traders with price update."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Minimal info beyond price."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive and excited."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1457392179786272773",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Legal implications, high interest."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Newsworthy legal perspective."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, informative tone."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Long-term legal implications."
+      }
+    }
+  },
+  {
+    "tweet_id": "1457368008054214657",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Controversial, generates debate."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Subjective claim without data."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Negative towards Solana."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevance until more data."
+      }
+    }
+  },
+  {
+    "tweet_id": "1457312828998705152",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Targets NFT community."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Market insight, though subjective."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive and optimistic."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant until market changes."
+      }
+    }
+  }
+]

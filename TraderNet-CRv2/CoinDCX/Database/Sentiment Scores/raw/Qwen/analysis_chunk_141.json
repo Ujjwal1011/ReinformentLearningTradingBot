@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1592484156994641920",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "A detailed thread from a prominent figure in the Ethereum community may attract attention within the crypto community but is unlikely to go viral beyond niche audiences."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides technical insights into Ethereum's challenges and future directions, valuable for those interested in blockchain technology."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral and factual discussion about Ethereum's adoption challenges."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Addresses foundational issues in blockchain technology, likely to remain relevant for months as the community works on solutions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1592403855572025344",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news about Ethereum's solvency and withdrawals is likely to be widely shared among crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Rumors without concrete evidence, providing minimal information."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative sentiment due to concerns about Ethereum's stability."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Impact is short-term as the situation may be resolved quickly or proven false."
+      }
+    }
+  },
+  {
+    "tweet_id": "1592344706130022400",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Promotional tweet about Ethereum's future may resonate within crypto communities."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Expresses opinion without providing substantial information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive and confident about Ethereum's future."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevance extends through the upcoming cycle, likely discussed for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1592309025680822273",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Analytical tweet about crypto trends may attract attention within the community."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides insights into market shifts and future predictions."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive outlook on Ethereum's role in the next cycle."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Addresses long-term trends, likely referenced for months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1591995728318152710",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Breaking news about FTX's impact on Ethereum is likely to be widely shared."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Explains the potential consequences of FTX's collapse on Ethereum."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative sentiment due to concerns about Ethereum's future."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Impact extends through the ongoing fallout from FTX, likely discussed for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1591723135497379845",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Strong opinions against multiple cryptocurrencies may spark debates and go viral."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Opinion-based without providing factual information."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Strong negative sentiment towards various cryptocurrencies."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Impact is short-term as it's a polarizing opinion without new information."
+      }
+    }
+  },
+  {
+    "tweet_id": "1591642525236101121",
+    "analysis": {
+      "virality_potential": {
+        "score": 10,
+        "justification": "Breaking news about a major crypto exchange error is likely to go viral globally."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides critical information about a significant financial error."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative sentiment due to the loss of user funds."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "Impact is long-term as it affects trust in exchanges and may lead to regulatory changes."
+      }
+    }
+  },
+  {
+    "tweet_id": "1591339383961313280",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Technical discussion comparing blockchain platforms may attract niche audiences."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Explains the advantages of smart contracts in Ethereum over other chains."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Critical of non-smart contract chains, showing negative sentiment towards them."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Relevance extends as the debate on blockchain infrastructure continues for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1590737576910258182",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Discusses the significance of DeFi post-FTX, likely shared among crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Highlights the importance of decentralized finance in the crypto ecosystem."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment towards DeFi and Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Addresses long-term trends in crypto, likely referenced for months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1590338086990290944",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Contrasting views on Ethereum may spark discussions within the crypto community."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides insights into different perspectives on Ethereum's future."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of contrasting opinions."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Addresses foundational issues in crypto, likely relevant for months."
+      }
+    }
+  }
+]

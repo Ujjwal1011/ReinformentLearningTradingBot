@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1355159836971970564",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet references the trending GameStop event and uses emojis and a clear call to action, which can resonate within crypto communities and attract shares, but it lacks a strong emotional hook or breaking news."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The content is largely opinionated and does not provide verifiable data or sources, offering only a list of opinions about which assets solve the GameStop problem."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The tweet expresses a positive stance toward Ethereum, DeFi, and Uniswap, encouraging investment, which reflects a moderately positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The relevance is tied to the short‑lived GameStop hype; it will likely remain relevant for a few days to a week before fading."
+      }
+    }
+  },
+  {
+    "tweet_id": "1355131681657679878",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet is a high‑energy hype message with emojis and a bold price target, which can quickly spread among crypto enthusiasts and generate retweets."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "It offers a speculative prediction without any supporting data or analysis, so it provides little factual information."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "The language is extremely positive and enthusiastic, aiming to pump sentiment around Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The hype may persist until the price target is reached or the community loses interest, typically lasting a few weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1355128728376889348",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Like tweet 2, this short, enthusiastic call to action with emojis is likely to be shared widely within the crypto community."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "It is a declarative statement of maximalism with no data or explanation, offering minimal factual content."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "The tweet conveys strong positive excitement and encouragement to invest in Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The hype will probably last for a few weeks as the community discusses the maximalist stance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1354999123582152704",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The claim that Dogecoin volume briefly overtook Bitcoin and Ethereum is surprising and can spark discussion, but it is not a breaking news event."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet provides a specific data point ($3.4B volume) and a factual claim that can be verified, giving it high informative value."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is one of disbelief and surprise, which is neutral to slightly positive, without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The relevance is tied to a short‑term market event and will likely fade after a few days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1354907793057325069",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet uses hype language, emojis, and a comparison between Dogecoin and Ethereum, which can quickly spread among crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "It offers no factual data or analysis, merely a speculative statement about future performance."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The message is positively charged, encouraging excitement about Ethereum's upcoming moves."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The hype may last for a few weeks as the community speculates about Ethereum's next steps."
+      }
+    }
+  }
+]

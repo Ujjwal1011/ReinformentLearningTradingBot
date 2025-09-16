@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1732181119800615210",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet's comparison of cryptocurrency values over a year, accompanied by a clear call to action ('Good opportunity to accumulate...'), has potential to be shared within specific communities (e.g., crypto enthusiasts), but its reach might be limited by its niche topic."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides specific, verifiable information about the performance of various cryptocurrencies (Bitcoin, Ethereum, LINK, HEX, PLS, PLSX) over a defined period, making it a valuable resource for those interested in crypto markets."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The overall sentiment is moderately positive, as the tweet frames the current market situation as a 'Good opportunity' for accumulation, despite mentioning declines in some assets."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to the current market conditions and the linked content, making its impact relatively short-term, likely spanning a few days or until the market conditions significantly change."
+}
+}
+},
+{
+"tweet_id": "1732181091572719713",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "The tweet, being a straightforward news share about Ethereum NFT creators, lacks a strong hook to encourage widespread sharing beyond its immediate audience."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet informs readers about a specific issue (Thirdweb threat) affecting Ethereum NFT creators, providing a link for more information, thus offering some value to those in the NFT space."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet maintains a neutral sentiment, simply reporting on a situation without expressing a clear emotional stance."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is short-term, tied to the immediacy of the news cycle regarding the Thirdweb threat to Ethereum NFT projects."
+}
+}
+},
+{
+"tweet_id": "1732181048015098351",
+"analysis": {
+"virality_potential": {
+"score": 2,
+"justification": "This tweet, written in Vietnamese and discussing a specific guide for 'Retroactive Bebop,' has a very niche audience, limiting its potential for broad sharing."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides detailed information (albeit in Vietnamese) about Bebop, a decentralized exchange, including its optimization for user benefits across three chains, indicating high informative value for its target audience."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet's educational nature suggests a neutral sentiment, focusing on informing rather than evoking emotions."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Given its informative and instructional content, the tweet's relevance could extend for days or weeks, especially for those seeking information on Bebop."
+}
+}
+},
+{
+"tweet_id": "1732180705411555725",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet's claim of achieving a costly process ('IPFS migration') for 'pennies' and its invitation for others to learn how, coupled with popular hashtags, has a high potential for being shared within the Web3 and Ethereum communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "While the tweet hints at a significant achievement and offers a solution, its informative value is somewhat reduced due to the lack of detailed information within the tweet itself."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The overall sentiment is very positive, reflecting excitement and a sense of accomplishment ('just did the migration for pennies')."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's impact is somewhat neutral in terms of duration, as its relevance could last for more than a day but might not extend far beyond the initial week without further engagement or follow-up."
+}
+}
+},
+{
+"tweet_id": "1732180228162584635",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The announcement about $ckETH, despite its potential interest to a specific audience (ETH/ICP apps), lacks a broad appeal that would drive widespread sharing."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides specific, newsworthy information about the launch of $ckETH, including its benefits (fast transactions without gas fees) and its potential for ETH/ICP apps, making it valuable for its niche audience."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The tweet expresses a very positive sentiment, using enthusiastic language ('Update alert', 'major milestone', 'Big potential') to announce the launch."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The relevance of this tweet could extend for days or weeks, especially as the implications of $ckETH's launch unfold for ETH/ICP applications."
+}
+}
+},
+{
+"tweet_id": "1732179985815961780",
+"analysis": {
+"virality_potential": {
+"score": 1,
+"justification": "This tweet, focused on a specific NFT sale and using somewhat obscure references ('THE 69 THING'), has a very limited potential for broad sharing due to its niche interest."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet provides some information about an NFT sale, but its value is limited by its specificity to a single item and lack of broader context or insights."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses a positive sentiment, indicated by the use of celebratory emojis ('🔥🚀') in response to the NFT sale."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "The tweet's relevance is very short-term, primarily of interest at the moment of the NFT sale and losing significance shortly after."
+}
+}
+},
+{
+"tweet_id": "1732179628708749815",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet's discussion about EIP-4844's potential impact on the Ethereum ecosystem, though niche, could generate interest and sharing within the crypto and Ethereum communities due to its forward-looking analysis."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides insightful, forward-looking information about EIP-4844's expected benefits for Ethereum, indicating a high informative value for those interested in the ecosystem's development."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The overall sentiment is very positive, reflecting anticipation and approval for the upcoming changes ('turbo charge the Ethereum ecosystem')."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Given its focus on a future development, the tweet's relevance could extend for months, remaining a point of interest until EIP-4844's implementation and possibly beyond."
+}
+}
+},
+{
+"tweet_id": "1732178977064632776",
+"analysis": {
+"virality_potential": {
+"score": 2,
+"justification": "This response to another user, discussing 'Flash Loan Attacks' in a nuanced manner, is unlikely to be widely shared due to its specificity and the context requiring prior knowledge of the conversation."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet clarifies the nature of 'Flash Loan Attacks,' providing educational value to those interested in the topic, especially within the context of MultiversX (MvX)."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet maintains a neutral sentiment, focusing on educational clarification rather than expressing a clear emotional stance."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The relevance of this clarifying tweet is somewhat neutral, lasting as long as the conversation it's part of remains active, but not extending far beyond without additional engagement."
+}
+}
+},
+{
+"tweet_id": "1732178849478164987",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet's analysis of $DMTR, including its performance against Ethereum and Bitcoin, might generate some interest within crypto communities, but its appeal is somewhat limited by its specificity."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides some analysis and comparison of $DMTR's performance, offering insights for those interested in this specific cryptocurrency, albeit in a brief manner."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The tweet expresses a very positive sentiment, indicated by the enthusiastic language ('Magnifique', 'Prêt pour choquer tout le monde') and the use of celebratory emojis ('🚀🚀🚀🚀')."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is relatively short-term, primarily of interest at the moment of posting and in the immediate aftermath, as market conditions can quickly change."
+}
+}
+},
+{
+"tweet_id": "1732178702325198857",
+"analysis": {
+"virality_potential": {
+"score": 1,
+"justification": "This brief, comparative statement about top Ethereum and Solana NFTs, lacking a clear call to action or broader context, has very limited potential for widespread sharing."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet provides minimal information about the top NFTs on Ethereum and Solana, without additional context or insights, limiting its informative value."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet maintains a neutral sentiment, simply stating facts without expressing a clear emotional stance."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "The tweet's relevance is very short-term, as the 'top' status of NFTs can change rapidly, making the information outdated quickly."
+}
+}
+}
+]

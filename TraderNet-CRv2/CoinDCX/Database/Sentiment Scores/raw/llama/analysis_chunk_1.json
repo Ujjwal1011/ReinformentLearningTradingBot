@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1271910397356974082",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet uses humor and a provocative comparison, which could generate shares within crypto communities but lacks broad appeal for global virality."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Mentions a factual detail about the clitoris but frames it as a sarcastic jab at a public figure, reducing its educational value."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Expresses mild negative sentiment through sarcastic criticism of @IOHK_Charles."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance tied to a specific moment of friction in crypto discourse, unlikely to persist beyond immediate context."
+      }
+    }
+  },
+  {
+    "tweet_id": "1267464298919534593",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Announcement from a major figure about critical Ethereum development with a thread hook, likely to be shared within tech and crypto communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides expert insight into Ethereum's technical progress with a promise of detailed explanation in the thread."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone celebrating technical achievements while acknowledging ongoing work."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Relevant to Ethereum's long-term development roadmap, maintaining value for weeks as updates unfold."
+      }
+    }
+  },
+  {
+    "tweet_id": "1288890420316053504",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Celebratory milestone with hashtags and visuals likely to be amplified by the Ethereum community."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Primarily a celebratory message with minimal factual content beyond the birthday announcement."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Strongly positive tone with emojis and celebratory language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Tied to a specific date-based event, losing relevance quickly after the birthday."
+      }
+    }
+  },
+  {
+    "tweet_id": "1288847095055646720",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Financial performance data presented in a visually striking way often drives shares among investors."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific percentage gains for major assets, offering concrete data for discussion."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive framing of investment successes without overt emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for retrospective analysis of investment trends, maintaining value for several months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1299892964160749570",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Niche appeal to Ethereum enthusiasts interested in visual metaphors, but limited broader hooks."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Describes a visualization and its metaphorical significance, offering moderate educational value."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive appreciation for the visualization with reflective tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevance tied to the specific visualization, which may be referenced for weeks but not indefinitely."
+      }
+    }
+  },
+  {
+    "tweet_id": "1294183084640759815",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Cautionary advice from a prominent figure may circulate within Ethereum community discussions."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides actionable guidance about DeFi participation risks and alternative dapps."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral/instructional tone focused on practical advice rather than emotional expression."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Evergreen advice about crypto participation remains relevant as new users enter the space."
+      }
+    }
+  },
+  {
+    "tweet_id": "1291223375667326976",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Strongly worded statement from a major figure about blockchain ideology likely to spark debate and sharing."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Details technical progress (PoS, sharding, rollups) and ecosystem dynamics in a substantive way."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Optimistic about Ethereum's progress with a critical edge toward opposing viewpoints."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Addresses fundamental blockchain development topics that remain relevant for extended periods."
+      }
+    }
+  },
+  {
+    "tweet_id": "1289785091346989056",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Large financial figure in liquidations often drives sharing among traders and crypto observers."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific market data about significant liquidations in major cryptocurrencies."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of factual market data without emotional framing."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance limited to the immediate market conditions at the time of posting."
+      }
+    }
+  },
+  {
+    "tweet_id": "1309013763861946368",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Interactive challenge format with crypto projects encourages engagement and sharing."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Minimal informational content beyond promoting two crypto projects."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive and playful tone designed to encourage participation."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Tied to a short-term promotional campaign with limited lasting relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1306385710434451461",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Major protocol token launch announcement from a key player likely to generate widespread attention."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides detailed information about the token launch including address and background link."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Excited and celebratory tone about a significant development milestone."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "Token launches have lasting implications for the ecosystem, maintaining relevance for years."
+      }
+    }
+  }
+]

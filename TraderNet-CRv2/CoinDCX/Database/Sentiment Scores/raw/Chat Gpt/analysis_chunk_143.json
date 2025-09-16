@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1488969447482273794",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet announces a major institutional addition of Ethereum by Fidelity, a well-known financial institution, which is likely to be shared among crypto and finance communities, though it lacks a strong emotional hook."
+},
+"informative_value": {
+"score": 8,
+"justification": "It provides a credible, newsworthy update about institutional demand and platform expansion, sourced from Fidelity."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is a neutral factual statement with no emotional tone."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The addition of Ethereum to Fidelity's platform is a lasting change that will remain relevant for months, influencing institutional adoption."
+}
+}
+},
+{
+"tweet_id": "1488573276775333889",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "A personal opinion about Bitcoin and Ethereum with hashtags; may resonate within crypto circles but unlikely to go viral globally."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet offers a subjective viewpoint rather than verifiable facts, providing limited informational content."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet expresses a positive outlook toward Bitcoin and Ethereum, indicating moderate optimism."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "As a personal opinion, it may be referenced briefly but is unlikely to sustain long-term relevance."
+}
+}
+},
+{
+"tweet_id": "1509626286884466693",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Breaking news that a city now accepts Bitcoin and Ethereum for utility payments, likely to be widely shared among crypto enthusiasts and the general public."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet delivers a credible, newsworthy update about a policy change, providing factual information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply reporting the policy change."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The policy change will remain relevant for months as it represents a significant shift in crypto adoption."
+}
+}
+},
+{
+"tweet_id": "1509081777058594816",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "A whale alert about a massive USDT transfer to Binance; such alerts often attract attention from traders and crypto communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet reports a verifiable, large-scale transaction, offering valuable market information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, presenting factual data without emotional language."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The event may be referenced for a while but is a one-time transaction, so its relevance is moderate."
+}
+}
+},
+{
+"tweet_id": "1508973557207998464",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "A personal update about swapping a large amount of ETH for SOL; the large numbers may attract attention but it's a personal tweet."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet shares a personal transaction but offers little broader informational value."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, asking a question about trading floors."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "As a personal transaction, it is likely to fade quickly and has limited long-term relevance."
+}
+}
+}
+]

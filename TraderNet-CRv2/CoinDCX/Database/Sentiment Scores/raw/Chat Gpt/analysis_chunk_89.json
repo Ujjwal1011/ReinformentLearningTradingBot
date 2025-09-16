@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1474274270305939459",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Bold speculative claim may resonate within crypto communities, but lacks broader appeal."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Provides specific price predictions but lacks verifiable source or evidence, so limited informative value."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is factual speculation without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The tweet may generate discussion for a few days but will likely fade as predictions are either proven or disproven."
+      }
+    }
+  },
+  {
+    "tweet_id": "1474148459158679562",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Short statement with a hashtag, limited hook, unlikely to go viral."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Provides minimal information about the presence of Ethereum's creator, but lacks details or source."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is a factual statement without emotional content."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The tweet is relevant only for a short period after the event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1474088236062425088",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet addresses a common question about Ethereum and Vitalik, likely to be shared among crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "The tweet offers a brief explanation and a link for further reading, providing moderate informative value."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is a neutral question."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tweet addresses a common topic that may remain relevant for weeks or months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1474012550354259972",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "The tweet is a simple comparison, likely to get some retweets within tech communities but not high virality."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "The tweet offers a brief comparison but lacks depth or sources."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is a factual comparison."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The tweet may generate discussion for a few days but will fade."
+      }
+    }
+  },
+  {
+    "tweet_id": "1473914193527070770",
+    "analysis": {
+      "virality_potential": {
+        "score": 10,
+        "justification": "Elon Musk's tweets often go viral, especially about Dogecoin, and the tweet includes many mentions, likely to be widely shared."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet is a personal opinion, not providing new facts."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tweet expresses strong positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The tweet remains relevant for weeks as Dogecoin continues to be discussed."
+      }
+    }
+  }
+]

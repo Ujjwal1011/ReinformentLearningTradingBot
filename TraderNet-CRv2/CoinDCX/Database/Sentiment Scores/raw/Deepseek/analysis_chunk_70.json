@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1490685624407441414",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Uses urgent language and historical references that could excite crypto communities, though limited to niche audiences."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Makes a speculative market prediction without verifiable data or sources."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Expresses optimism about market movement with words like 'MASSIVE' and exclamation points."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Market predictions remain relevant for weeks in crypto circles but depend on actual price movements."
+      }
+    }
+  },
+  {
+    "tweet_id": "1490653661315289091",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Giveaway mechanics incentivize sharing, shown by high retweet/reply counts."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Primarily promotional content for an NFT project with no factual information."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Celebratory emojis and giveaway announcement create positive engagement."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Time-limited promotion loses relevance after 24-hour deadline."
+      }
+    }
+  },
+  {
+    "tweet_id": "1490643884262764544",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Credible Bloomberg citation attracts crypto/tech audiences but lacks viral hooks."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "States Ethereum's role in NFTs/stablecoins but lacks original data or context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral statement of fact without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Foundational tech discussion remains relevant for weeks in blockchain circles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1490391141677633537",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Technical analysis from Ethereum's founder attracts developer attention but lacks mass appeal."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides expert technical explanation with external link to detailed content."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral educational tone without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Core protocol discussions remain reference material for years in blockchain development."
+      }
+    }
+  },
+  {
+    "tweet_id": "1489799208269979653",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Satirical take on banks could resonate in crypto communities but lacks broad appeal."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Opinion-based critique without new data or actionable insights."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Mocking tone implies criticism of traditional institutions."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant until next banking/crypto news cycle, typically days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1489741361045721088",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "NFT auction announcement with influencer tags drives niche engagement."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Promotes specific NFT collection without educational or news value."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Enthusiastic emojis and 'hope everyone likes' shows positive intent."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance limited to 2-day auction duration."
+      }
+    }
+  },
+  {
+    "tweet_id": "1489628720449175556",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Striking NFT growth statistics attract crypto audiences but lack viral hooks."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides verifiable market data about NFT trading volumes."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of factual data without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Annual comparison remains reference point for months in market analyses."
+      }
+    }
+  },
+  {
+    "tweet_id": "1489547530127900675",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Encouraging message to crypto holders drives community engagement."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Empty motivational statement without data or actionable insights."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive reinforcement using 'you are going to make it!'"
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Generic hype loses relevance quickly without specific triggers."
+      }
+    }
+  },
+  {
+    "tweet_id": "1489545904642093056",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "On-chain analysis appeals to crypto enthusiasts but lacks broad interest factors."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Reports blockchain transaction activity with external analysis link."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of on-chain movements without emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Time-sensitive transaction data loses relevance within days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1489385954058067972",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Striking comparison between tech/crypto markets attracts broad interest."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides verifiable market cap data with clear comparative context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of factual market information."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Market cap comparisons remain relevant for weeks in financial discussions."
+      }
+    }
+  }
+]

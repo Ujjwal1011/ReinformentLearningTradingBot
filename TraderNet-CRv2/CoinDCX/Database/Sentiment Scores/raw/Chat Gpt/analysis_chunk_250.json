@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1554501868201582592",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Giveaway tweets often encourage retweets and tagging, which can spread quickly within niche communities, but the limited scope of the NFT audience keeps it from reaching a broad mainstream audience."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "The tweet provides details about a giveaway and the NFT collection, but it is primarily promotional and lacks broader news or factual depth."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The tone is upbeat and encouraging, typical of promotional content."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The giveaway is only open for 24 hours, so relevance drops quickly after that."
+      }
+    }
+  },
+  {
+    "tweet_id": "1554257595929690112",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "The hype-filled self-promotion may attract attention within crypto circles, but the exaggerated claims and aggressive tone limit its appeal to a wider audience."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "The tweet contains unverified claims and promotional content rather than factual news."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The message is highly positive about the speaker's achievements, with a dismissive negative tone toward critics."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The promotional hype is likely to fade quickly once the initial buzz subsides."
+      }
+    }
+  },
+  {
+    "tweet_id": "1554243536127655938",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "A brief market observation is unlikely to go viral beyond a small group of traders."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "The tweet offers a concise insight into Ethereum price movement, providing some market context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral, simply stating a fact."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Such market commentary typically remains relevant for a day or two before the price moves."
+      }
+    }
+  },
+  {
+    "tweet_id": "1554189757177102336",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "A timely announcement about institutional staking could be shared by industry stakeholders, giving it moderate reach."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet delivers a clear news update about Coinbase's new service, which is factual and relevant."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral, reporting the news without bias."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The information remains useful for weeks as institutions consider staking options."
+      }
+    }
+  },
+  {
+    "tweet_id": "1554141197995687938",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "An opinion about the NFT market may resonate within the community but is unlikely to spread widely."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet expresses a viewpoint rather than providing new data or facts."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The statement is optimistic, suggesting a positive outlook for Ethereum and Solana."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The opinion may stay relevant as long as the NFT market remains in a bear phase."
+      }
+    }
+  }
+]

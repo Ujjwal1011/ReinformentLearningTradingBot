@@ -1,0 +1,9 @@
+to extract the data of any futures 
+run it in the DataExtractor folder 
+python DataExtractor.py --pair "B-SOL_USDT" --start "2023-05-01" --end "2024-06-01"
+
+the output will be saved in the 
+TraderNet-CRv2\CoinDCX\Database\raw 
+this folder 
+
+

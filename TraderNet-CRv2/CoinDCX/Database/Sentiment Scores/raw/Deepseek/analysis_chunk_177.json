@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1732302743548919701",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Giveaway mechanics incentivize sharing and follower growth, likely to spread within crypto communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Primarily promotional content without substantive information about the token or project."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Neutral-positive tone focused on distributing rewards to participants."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance limited to the duration of the giveaway campaign."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732298798968529307",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Airdrop announcements typically generate buzz in crypto communities but lack mass appeal."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific technical update about blockchain bridging with GitHub reference."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual presentation of development progress without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant until the airdrop occurs and bridge functionality is tested."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732270781491728791",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Niche technical content about gaming infrastructure improvements."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Explains Immutable's scaling solutions and their Epic Games integration."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral explanation of technological developments."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant as long as games continue migrating to Ethereum-based solutions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732256818364354578",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Controversial protocol change discussion within Bitcoin community drives engagement."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Reports significant technical debate about Bitcoin's future from key figures."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Implies negative consequences for Ordinals protocol supporters."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Long-term implications for Bitcoin's functionality and developer governance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732256299641950398",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Educational content with limited viral hooks beyond art/NFT communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides concrete steps for digital art creation workflow."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone about creative process and tool usage."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Standard lifespan for tutorial content unless methodology becomes outdated."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732255842395951458",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "ETF approval speculation drives discussion in financial crypto circles."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Details regulatory timeline for major financial instrument approvals."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of regulatory process milestones."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Remains relevant until SEC decisions are finalized and implemented."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732251780807827599",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Technical comparison targets engaged DeFi users but lacks mass appeal."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Analyzes emerging Ethereum infrastructure solutions and capacity issues."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral technical discussion with implied criticism of network congestion."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant as long as Ethereum scaling debates continue."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732247535476150496",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Repeated ETF news with emojis/formatting increases engagement potential."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides updated regulatory timeline and specific fund names."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of administrative delays and deadlines."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Important until final ETF approval/rejection decisions occur."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732238865405297085",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Large transaction news interests crypto traders but lacks broader appeal."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Reports significant market movement with specific figures and exchange context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of wallet activity without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term relevance tied to immediate market reactions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732232835304673405",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Standard market analysis common in crypto circles."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides context about Ethereum's market position relative to Bitcoin."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Balanced discussion of both prospects and challenges."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant until significant market movements alter the discussed dynamics."
+      }
+    }
+  }
+]

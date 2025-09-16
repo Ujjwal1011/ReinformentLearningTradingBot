@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1767243677825458295",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet discusses Ethereum transactions, which could be shared within crypto communities but lacks a strong hook for broader virality."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Provides some information about Ethereum transactions but lacks detailed context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral statement without strong emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevant only for the specific transaction mentioned."
+      }
+    }
+  },
+  {
+    "tweet_id": "1767221258759045387",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Important upgrade news for Ethereum, likely shared among enthusiasts."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Significant update with a link for more details."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone about the upgrade."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant for the upgrade's duration."
+      }
+    }
+  },
+  {
+    "tweet_id": "1767212277285969979",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major funding announcement for Ethereum improvement."
+      },
+      "informative_value": {
+        "score": 10,
+        "justification": "Critical information about a significant development."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong positive sentiment about the funding."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Long-term impact on Ethereum's performance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1767177208869839307",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Important news for crypto investors."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Significant update about LSE accepting crypto ETNs."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment about the acceptance."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant for the quarter mentioned."
+      }
+    }
+  },
+  {
+    "tweet_id": "1767133352266506543",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news about LSE crypto ETNs."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Critical information about a major development."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment about the announcement."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for the quarter mentioned."
+      }
+    }
+  },
+  {
+    "tweet_id": "1767100835929128990",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "News about LSE crypto ETNs, less detailed."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Informative but less detailed than others."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive sentiment about the news."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for the next quarter."
+      }
+    }
+  },
+  {
+    "tweet_id": "1767044294710538269",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Addresses a common Ethereum issue with a solution."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides a solution to high fees."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment about reducing fees."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Ongoing relevance for fee issues."
+      }
+    }
+  },
+  {
+    "tweet_id": "1767010626684256555",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Raises concern about high fees affecting low-income users."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Highlights a significant issue."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative sentiment about high fees."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Ongoing relevance for fee concerns."
+      }
+    }
+  },
+  {
+    "tweet_id": "1766956377719861335",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Engaging question about gas fees during a bull market."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Speculative question without detailed info."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment, seeking opinions."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term relevance as it's speculative."
+      }
+    }
+  },
+  {
+    "tweet_id": "1766956138065703067",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Encourages engagement on reducing gas fees."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Mentions a solution to high fees."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive sentiment about reducing fees."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term call to action."
+      }
+    }
+  }
+]

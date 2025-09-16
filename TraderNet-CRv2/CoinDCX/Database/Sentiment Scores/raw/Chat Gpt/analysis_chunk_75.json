@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1458879108750979072",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Call to action referencing Apple may attract attention within crypto community, but not a meme or breaking news, so moderate potential."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Tweet offers no factual data, just a recommendation."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive encouragement to buy, optimistic tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevant until Apple announces, short-term."
+      }
+    }
+  },
+  {
+    "tweet_id": "1458762806891716615",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Data-driven list of returns is highly shareable, especially among crypto enthusiasts, and the user has a large following."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides credible, verifiable data on crypto performance."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone, factual presentation."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Return data remains relevant for months as people compare past performance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1458522980716265475",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Speculation about a potential token can spark discussion and shares within the community."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Speculative content with some context, but not verified."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Optimistic, positive tone."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Speculation may lose relevance once token is announced or dismissed."
+      }
+    }
+  },
+  {
+    "tweet_id": "1458317624048115715",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Meme-like tweet with a link, may get shares within niche community."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No factual content, just a meme."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive, enthusiastic tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Meme relevance fades quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1458271567331221504",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "News about Binance listing ENS is breaking news, likely to be widely shared."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Direct announcement of a significant event, high informational value."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, factual tone."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "ENS listing remains relevant for a long time, evergreen for crypto community."
+      }
+    }
+  }
+]

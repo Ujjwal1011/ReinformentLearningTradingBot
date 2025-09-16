@@ -1,0 +1,212 @@
+[
+{
+  "tweet_id": "1345981563394162689",
+  "analysis": {
+    "virality_potential": {
+      "score": 7,
+      "justification": "Humorous meme referencing Siri and trending hashtag #Ethereum, likely to be shared within crypto community."
+    },
+    "informative_value": {
+      "score": 2,
+      "justification": "Tweet is a joke, no factual information."
+    },
+    "sentiment_polarity": {
+      "score": 7,
+      "justification": "Expresses excitement about price, positive tone."
+    },
+    "duration_of_impact": {
+      "score": 4,
+      "justification": "Relevant for a few hours to a day as price fluctuates."
+    }
+  }
+},
+{
+  "tweet_id": "1345947942964899840",
+  "analysis": {
+    "virality_potential": {
+      "score": 8,
+      "justification": "Strong headline, trending topic, link to article, likely to be shared widely."
+    },
+    "informative_value": {
+      "score": 4,
+      "justification": "Minimal info, link only, no summary."
+    },
+    "sentiment_polarity": {
+      "score": 7,
+      "justification": "Hype about growth."
+    },
+    "duration_of_impact": {
+      "score": 5,
+      "justification": "Standard lifespan, relevant for a few days."
+    }
+  }
+},
+{
+  "tweet_id": "1345878123599065089",
+  "analysis": {
+    "virality_potential": {
+      "score": 7,
+      "justification": "Price update, trending, likely to be shared."
+    },
+    "informative_value": {
+      "score": 7,
+      "justification": "Provides factual price info."
+    },
+    "sentiment_polarity": {
+      "score": 5,
+      "justification": "Factual statement, no strong emotion."
+    },
+    "duration_of_impact": {
+      "score": 4,
+      "justification": "Short-lived relevance."
+    }
+  }
+},
+{
+  "tweet_id": "1345863986676432896",
+  "analysis": {
+    "virality_potential": {
+      "score": 6,
+      "justification": "Opinion may spark discussion."
+    },
+    "informative_value": {
+      "score": 4,
+      "justification": "Opinion, no factual info."
+    },
+    "sentiment_polarity": {
+      "score": 7,
+      "justification": "Positive excitement."
+    },
+    "duration_of_impact": {
+      "score": 6,
+      "justification": "Discussion may continue for weeks."
+    }
+  }
+},
+{
+  "tweet_id": "1345740713678557185",
+  "analysis": {
+    "virality_potential": {
+      "score": 7,
+      "justification": "Price update, trending, likely to be shared."
+    },
+    "informative_value": {
+      "score": 7,
+      "justification": "Provides factual price info."
+    },
+    "sentiment_polarity": {
+      "score": 5,
+      "justification": "Factual statement, no strong emotion."
+    },
+    "duration_of_impact": {
+      "score": 4,
+      "justification": "Short-lived relevance."
+    }
+  }
+},
+{
+  "tweet_id": "1345628331190849536",
+  "analysis": {
+    "virality_potential": {
+      "score": 6,
+      "justification": "Opinion may spark discussion."
+    },
+    "informative_value": {
+      "score": 4,
+      "justification": "Opinion, no factual info."
+    },
+    "sentiment_polarity": {
+      "score": 7,
+      "justification": "Positive excitement."
+    },
+    "duration_of_impact": {
+      "score": 6,
+      "justification": "Discussion may continue for weeks."
+    }
+  }
+},
+{
+  "tweet_id": "1366110453571538945",
+  "analysis": {
+    "virality_potential": {
+      "score": 8,
+      "justification": "Strong prediction, hype, likely to be shared."
+    },
+    "informative_value": {
+      "score": 4,
+      "justification": "Speculation, not factual."
+    },
+    "sentiment_polarity": {
+      "score": 7,
+      "justification": "Positive excitement."
+    },
+    "duration_of_impact": {
+      "score": 7,
+      "justification": "Prediction remains relevant for months."
+    }
+  }
+},
+{
+  "tweet_id": "1366005364404142080",
+  "analysis": {
+    "virality_potential": {
+      "score": 7,
+      "justification": "Educational list, likely to be shared."
+    },
+    "informative_value": {
+      "score": 8,
+      "justification": "Step-by-step guide, credible info."
+    },
+    "sentiment_polarity": {
+      "score": 6,
+      "justification": "Encouraging tone."
+    },
+    "duration_of_impact": {
+      "score": 8,
+      "justification": "Evergreen educational content."
+    }
+  }
+},
+{
+  "tweet_id": "1365763392464642048",
+  "analysis": {
+    "virality_potential": {
+      "score": 7,
+      "justification": "Price forecast, trending, likely to be shared."
+    },
+    "informative_value": {
+      "score": 5,
+      "justification": "Speculation, not factual."
+    },
+    "sentiment_polarity": {
+      "score": 5,
+      "justification": "Factual statement of predictions."
+    },
+    "duration_of_impact": {
+      "score": 7,
+      "justification": "Forecast remains relevant for months."
+    }
+  }
+},
+{
+  "tweet_id": "1365602586217373697",
+  "analysis": {
+    "virality_potential": {
+      "score": 6,
+      "justification": "Opinion may spark debate."
+    },
+    "informative_value": {
+      "score": 4,
+      "justification": "Opinion, no factual info."
+    },
+    "sentiment_polarity": {
+      "score": 5,
+      "justification": "Statement, no strong emotion."
+    },
+    "duration_of_impact": {
+      "score": 6,
+      "justification": "Debate may continue for weeks."
+    }
+  }
+}
+]

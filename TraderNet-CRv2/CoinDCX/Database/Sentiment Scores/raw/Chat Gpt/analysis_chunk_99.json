@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1471293227626078208",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Personal opinion about Ethereum congestion; unlikely to spark widespread sharing beyond niche community."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No factual data or source; just a claim."
+      },
+      "sentiment_polarity": {
+        "score": 1,
+        "justification": "Negative tone about Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance fades as congestion issues are addressed."
+      }
+    }
+  },
+  {
+    "tweet_id": "1471240502691385347",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Short opinion; unlikely to go viral."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No factual content."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive tone praising Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-lived relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1471238658736930820",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Technical content with link; likely to be shared within crypto community."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides summary of research on MEV and Flashbots; credible source."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive excitement about learning."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Topic remains relevant for ongoing discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1471178240643448837",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Brand announcement with potential to spread among collectors and crypto community."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Details about new platform, carbon neutrality, gas-free trading."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Positive excitement about future of collectibles."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for collectors and brand fans for months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1471173109998882819",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Product announcement; likely to be shared among dev community."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Explains new tool for contract viewing."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Frustration with Etherscan, but positive about new tool."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Tool remains useful for developers over time."
+      }
+    }
+  }
+]

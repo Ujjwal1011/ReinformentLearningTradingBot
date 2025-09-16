@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1570309693314310144",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Announcing a significant event in the Ethereum community, likely to be shared among crypto enthusiasts."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides information about Ethereum transitioning to Proof of Stake."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Positive sentiment with celebration of the event."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Impact will last as it's a major change, but not timeless."
+}
+}
+},
+{
+"tweet_id": "1570309632962473987",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Celebration of a major event, likely shared within Ethereum circles."
+},
+"informative_value": {
+"score": 6,
+"justification": "Informative about the merge and its significance."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment with congratulations."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Impact is medium as it's a significant event."
+}
+}
+},
+{
+"tweet_id": "1570308371995328512",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Technical discussion, less likely to go viral."
+},
+"informative_value": {
+"score": 5,
+"justification": "Opinion on cryptocurrency ecosystems."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Short-term impact as it's a specific viewpoint."
+}
+}
+},
+{
+"tweet_id": "1570306185391378434",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Major announcement from a key figure, high engagement."
+},
+"informative_value": {
+"score": 9,
+"justification": "Critical information about the merge."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "Very positive sentiment."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Long-term impact as a major milestone."
+}
+}
+},
+{
+"tweet_id": "1570306068932358144",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Breaking news, likely shared widely."
+},
+"informative_value": {
+"score": 7,
+"justification": "Informative about the merge."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Medium-term impact."
+}
+}
+},
+{
+"tweet_id": "1570305825574379522",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Environmental impact discussed, shared within community."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides data on energy reduction."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Medium-term impact."
+}
+}
+},
+{
+"tweet_id": "1570305605352697856",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Specific to AWS, less viral."
+},
+"informative_value": {
+"score": 5,
+"justification": "Congratulates AWS for their role."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Short-term impact."
+}
+}
+},
+{
+"tweet_id": "1570304046883291136",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Celebration of Proof of Stake, shared among followers."
+},
+"informative_value": {
+"score": 6,
+"justification": "Announces Proof of Stake arrival."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Medium-term impact."
+}
+}
+},
+{
+"tweet_id": "1570302943349604353",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Thanks Ethereum, less likely to go viral."
+},
+"informative_value": {
+"score": 4,
+"justification": "Minimal information, just a thanks."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Short-term impact."
+}
+}
+},
+{
+"tweet_id": "1570302526297354242",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Breaking news, likely shared widely."
+},
+"informative_value": {
+"score": 7,
+"justification": "Informative about the merge."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Medium-term impact."
+}
+}
+}
+]

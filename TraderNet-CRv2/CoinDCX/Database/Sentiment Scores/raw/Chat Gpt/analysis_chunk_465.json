@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1770179511864131856",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet references a major financial institution and a popular cryptocurrency, likely to resonate within the crypto community, but it is a brief commentary rather than a breaking news announcement, so it has medium virality potential."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet offers a brief opinion about BlackRock's presence on Ethereum and a price statement, but lacks verifiable details or links to sources, so it is low informative."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet expresses excitement about BlackRock's involvement with Ethereum, indicated by the rocket emoji and positive language, reflecting a moderately positive sentiment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet references a significant event (BlackRock's involvement) that could be discussed for days or weeks, but the price comment may become outdated quickly, giving it medium duration."
+}
+}
+},
+{
+"tweet_id": "1770177665099596282",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The tweet announces a significant event involving BlackRock and a large deposit on Ethereum, likely to attract widespread attention across finance and crypto communities, giving it high virality potential."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet delivers verifiable facts about BlackRock's new fund and a substantial deposit, providing clear, newsworthy information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet presents factual information without strong emotional language, resulting in a neutral sentiment."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The launch of a digital asset fund by BlackRock is a significant development that will remain relevant for an extended period, giving it a long duration of impact."
+}
+}
+},
+{
+"tweet_id": "1770167246423257343",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet announces a major development with BlackRock and Ethereum, using strong language and a breaking news tag, likely to spread widely within the crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides clear, verifiable information about BlackRock's new tokenized asset fund on Ethereum, making it highly informative."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses strong enthusiasm about the new fund, reflecting a very positive sentiment."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The introduction of a new fund by BlackRock on Ethereum is a foundational development that will remain relevant for an extended period."
+}
+}
+},
+{
+"tweet_id": "1770164192437211333",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet discusses a widely anticipated regulatory development, likely to generate interest and shares within the crypto community, giving it medium to high virality potential."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet presents an unverified claim about ETF approval, providing limited factual information and lacking sources, so it has low informative value."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet reports a rumor without strong emotional language, resulting in a neutral sentiment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The rumor about the ETF approval will likely be discussed for weeks as the regulatory process unfolds, giving it a medium duration of impact."
+}
+}
+},
+{
+"tweet_id": "1770087855916028394",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet highlights a specific DeFi platform and its interoperability feature, appealing to the Solana and cross-chain community, giving it moderate virality potential."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides clear information about Jupiter's services and Wormhole's role, offering useful knowledge to users."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet conveys a positive tone about the platform's capabilities, but remains largely informational."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The description of Jupiter's cross-chain functionality is a foundational feature that will remain relevant for an extended period."
+}
+}
+}
+]

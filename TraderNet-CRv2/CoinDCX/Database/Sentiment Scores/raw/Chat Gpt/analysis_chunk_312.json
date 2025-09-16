@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1678952026372284416",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet highlights potential abuse of Brazil's CBDC, a topic of interest to crypto enthusiasts and regulators, likely to spread within niche communities but not guaranteed global virality."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It provides specific details about the modifications to the CBDC code and potential implications, offering credible news content."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "The tone is cautionary and slightly negative, warning about possible misuse, but not overly emotional."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The issue of CBDC abuse remains relevant for some time, though the specific incident may fade as new developments occur."
+      }
+    }
+  },
+  {
+    "tweet_id": "1677919715375677441",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet uses sensational language and highlights a notable price discrepancy, likely to attract attention from traders and crypto communities, increasing shareability."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "It reports real-time price differences between exchanges, providing useful market information, though not from an official source."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tweet expresses excitement and surprise with words like 'WOAH' and emojis, indicating a very positive emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Price discrepancies are typically short-lived; the tweet's relevance will diminish quickly as markets adjust."
+      }
+    }
+  },
+  {
+    "tweet_id": "1697298361110417841",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news about the first Ethereum smartphones selling out within 24 hours is likely to be widely shared among tech and crypto audiences."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "It announces a new product launch and its rapid sell-out, providing timely and relevant information."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The tweet conveys excitement and positive anticipation about the product, but remains relatively neutral."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The product's launch and sell-out news will remain relevant for weeks as the market discusses its implications."
+      }
+    }
+  },
+  {
+    "tweet_id": "1697247082208448904",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "A legal ruling that classifies Bitcoin and Ethereum as commodities is a significant development likely to be shared across financial and crypto communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "The tweet reports a primary source legal decision, offering high-value, verifiable information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is factual and neutral, presenting the court's decision without emotional bias."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Legal classifications remain relevant for an extended period, influencing regulation and market perception."
+      }
+    }
+  },
+  {
+    "tweet_id": "1696936577925091493",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Breaking news about Robinhood adding support for major cryptocurrencies is likely to spread among retail investors and crypto users."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "It provides a concrete update on platform capabilities, offering useful information for users."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, simply stating the new feature without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The support for swaps will remain relevant for users for months as they continue to use the platform."
+      }
+    }
+  }
+]

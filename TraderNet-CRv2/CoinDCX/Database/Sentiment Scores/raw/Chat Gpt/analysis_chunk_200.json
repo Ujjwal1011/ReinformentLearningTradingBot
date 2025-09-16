@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1520612362986078208",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Apology and suggestion from a major NFT project; likely to be shared within the crypto community but not globally viral."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides factual information about an Ethereum outage and a recommendation for ApeCoin to migrate to its own chain."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Apologetic tone with mild negative sentiment."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The issue may remain relevant for days until resolved, but it is event‑specific."
+      }
+    }
+  },
+  {
+    "tweet_id": "1520587188307697667",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Lighthearted reminder with a friendly tone; may get some retweets within the community but unlikely to go viral."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Shares a factual update about gas fees, but no new data or deep insight."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive, friendly tone with a shout‑out."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Gas fee situation is short‑lived; relevance fades quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1520586527180574720",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Breaking news about a large Ethereum burn; likely to be widely shared across the crypto ecosystem."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides a concrete figure and monetary value for the burn, offering verifiable news."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral factual statement."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The burn event remains relevant for days or weeks as it impacts market perception."
+      }
+    }
+  },
+  {
+    "tweet_id": "1520577210704441344",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Humorous tweet about gas price; may get some retweets but not a global viral hit."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Shares a factual gas price figure, but no deeper context."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive, humorous tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Gas price changes quickly; relevance fades within hours."
+      }
+    }
+  },
+  {
+    "tweet_id": "1520570399762780160",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Complaint about high transaction cost; may resonate within the community but unlikely to go viral."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Personal anecdote with no verifiable data; low informational content."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Strong negative sentiment expressing frustration."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance is short‑term; likely to fade after a day or two."
+      }
+    }
+  }
+]

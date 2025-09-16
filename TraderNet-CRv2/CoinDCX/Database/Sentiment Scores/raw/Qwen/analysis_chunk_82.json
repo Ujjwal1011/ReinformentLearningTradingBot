@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1519754312712429568",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet presents a controversial opinion on Ethereum's proof of work, which could spark debate within the crypto community."
+},
+"informative_value": {
+"score": 4,
+"justification": "It's an opinion without sources, so it's not very informative."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral stance on a technical topic."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant only during the current debate on Ethereum's future."
+}
+}
+},
+{
+"tweet_id": "1519667776847335424",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Partnership news could be shared among crypto and finance communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides specific details and a link to a credible source."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive with celebratory emojis."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant for a short period as it's a specific event."
+}
+}
+},
+{
+"tweet_id": "1519513208503078912",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Survey results could be shared by crypto enthusiasts."
+},
+"informative_value": {
+"score": 8,
+"justification": "Includes a survey result and a link to an article."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive outlook on crypto's future."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant for a short time as it's a survey result."
+}
+}
+},
+{
+"tweet_id": "1519442802073124870",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Large purchase could attract attention in crypto circles."
+},
+"informative_value": {
+"score": 6,
+"justification": "Reports a significant transaction without much context."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive due to the purchase."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant only for the duration of the news cycle."
+}
+}
+},
+{
+"tweet_id": "1519326733161447424",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Real estate accepting crypto is a notable trend."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides specific information with a link."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive about crypto adoption."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant for a short period as it's a specific announcement."
+}
+}
+},
+{
+"tweet_id": "1519166370197667845",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Clash over Web3 could engage developers and enthusiasts."
+},
+"informative_value": {
+"score": 6,
+"justification": "Summarizes a conflict with a link."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral report on the conflict."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant for a short time as it's a specific event."
+}
+}
+},
+{
+"tweet_id": "1518730242504159232",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "NFT volume increase could attract crypto traders."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides specific data with a link."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive about NFT growth."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant for a short period as it's a weekly update."
+}
+}
+},
+{
+"tweet_id": "1518577744635904001",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "EU policy news could be shared among crypto watchers."
+},
+"informative_value": {
+"score": 8,
+"justification": "Reports on internal documents with a link."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral report on policy intentions."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant for a short time as it's a specific event."
+}
+}
+},
+{
+"tweet_id": "1517999573247172608",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Humorous take on Ethereum's use could go viral in crypto circles."
+},
+"informative_value": {
+"score": 4,
+"justification": "A meme without substantial information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive and humorous."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant for a short time as it's a meme."
+}
+}
+},
+{
+"tweet_id": "1517966379147837442",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Critique of Ethereum's mainstreaming could engage the community."
+},
+"informative_value": {
+"score": 4,
+"justification": "Opinion without sources."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Negative sentiment about Ethereum's direction."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant for a short period as it's a personal opinion."
+}
+}
+}
+]

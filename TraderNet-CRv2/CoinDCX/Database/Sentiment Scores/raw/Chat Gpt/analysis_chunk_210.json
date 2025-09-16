@@ -1,0 +1,107 @@
+[
+{
+"tweet_id":"1536260581442867200",
+"analysis":{
+"virality_potential":{
+"score":6,
+"justification":"The tweet highlights a dramatic 99% loss and a $1M trade, which can attract attention within the crypto community, but its niche focus limits broader viral spread."
+},
+"informative_value":{
+"score":4,
+"justification":"It shares specific trade details, but as a personal anecdote it offers limited general informational value."
+},
+"sentiment_polarity":{
+"score":2,
+"justification":"The tweet expresses negative emotions such as loss and frustration."
+},
+"duration_of_impact":{
+"score":3,
+"justification":"The event is time‑specific and unlikely to remain relevant beyond the immediate crypto community."
+}
+}
+},
+{
+"tweet_id":"1536241082350059520",
+"analysis":{
+"virality_potential":{
+"score":7,
+"justification":"A prediction from a well‑known economist about a major price crash can spark widespread discussion, especially among crypto enthusiasts."
+},
+"informative_value":{
+"score":5,
+"justification":"The tweet relays a speculative forecast rather than verified facts, providing moderate informational content."
+},
+"sentiment_polarity":{
+"score":3,
+"justification":"The statement conveys negative sentiment toward Bitcoin and Ethereum."
+},
+"duration_of_impact":{
+"score":4,
+"justification":"The prediction may be referenced for a few days or weeks, but its relevance fades if the crash does not materialize."
+}
+}
+},
+{
+"tweet_id":"1536227205616893952",
+"analysis":{
+"virality_potential":{
+"score":8,
+"justification":"Breaking news of a price drop to the lowest level in two years is likely to be shared widely across crypto channels."
+},
+"informative_value":{
+"score":8,
+"justification":"It delivers a factual, time‑stamped price update, which is highly informative."
+},
+"sentiment_polarity":{
+"score":5,
+"justification":"The tweet is neutral, simply reporting a price change."
+},
+"duration_of_impact":{
+"score":5,
+"justification":"The price drop remains relevant for a short period until the market stabilizes."
+}
+}
+},
+{
+"tweet_id":"1535979507840167943",
+"analysis":{
+"virality_potential":{
+"score":7,
+"justification":"Announcing a new EVM sidechain on Cardano targets a niche but active developer community, encouraging shares within that space."
+},
+"informative_value":{
+"score":7,
+"justification":"It provides details about a new product and its technical capabilities, offering useful information."
+},
+"sentiment_polarity":{
+"score":8,
+"justification":"The tone is upbeat and optimistic about interoperability."
+},
+"duration_of_impact":{
+"score":6,
+"justification":"The announcement will stay relevant for weeks as developers test the sidechain."
+}
+}
+},
+{
+"tweet_id":"1535926975151362051",
+"analysis":{
+"virality_potential":{
+"score":7,
+"justification":"Linking a price crash to environmental benefits can resonate with eco‑conscious audiences, prompting shares."
+},
+"informative_value":{
+"score":8,
+"justification":"It cites specific emission reductions, giving concrete data that adds informational value."
+},
+"sentiment_polarity":{
+"score":7,
+"justification":"The tweet expresses a positive view of reduced emissions."
+},
+"duration_of_impact":{
+"score":6,
+"justification":"The environmental impact discussion will remain relevant for months as the network evolves."
+}
+}
+}
+]

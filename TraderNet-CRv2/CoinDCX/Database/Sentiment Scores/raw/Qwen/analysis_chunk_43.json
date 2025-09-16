@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1475478842777030662",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet is a direct challenge to a common crypto topic, likely to be shared within the Ethereum community."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "It's a dare without providing information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral with a confrontational tone."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a few days in the crypto space."
+      }
+    }
+  },
+  {
+    "tweet_id": "1475270753469841416",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "A common question in crypto, likely shared among enthusiasts."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "A question without info."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral with sarcasm."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a day."
+      }
+    }
+  },
+  {
+    "tweet_id": "1474977413591441408",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "A meme about a crypto debate, shared in communities."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "A meme without info."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a few days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1474749047831412737",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "A complaint that others might relate to."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Personal opinion."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Strong negative sentiment."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant until the issue is addressed."
+      }
+    }
+  },
+  {
+    "tweet_id": "1474738515271421952",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Compares historical crypto prices, sparking discussions."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides historical data."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1474580983596912641",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "A funny meme about Ethereum."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "A joke."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Negative towards Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Seasonal relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1474568678242934792",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Local event, limited reach."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "A joke."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive humor."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Very short-lived."
+      }
+    }
+  },
+  {
+    "tweet_id": "1474530617165504514",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Giveaway with high engagement."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Promotional."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant until giveaway ends."
+      }
+    }
+  },
+  {
+    "tweet_id": "1474468752381075459",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Compares investment growth, sparking discussions."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides investment data."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1474440094861901826",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Giveaway in Turkish crypto community."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Promotional."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant until giveaway ends."
+      }
+    }
+  }
+]

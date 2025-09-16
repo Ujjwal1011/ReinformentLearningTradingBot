@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1725513725187166439",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news about a major blockchain interoperability feature between prominent networks, likely to generate significant interest in crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Announces a technical development with industry implications, though details are limited to a teaser."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement without explicit emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Blockchain bridges remain relevant for weeks/months as developers and users assess implementation."
+      }
+    }
+  },
+  {
+    "tweet_id": "1725227252189704569",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High engagement metrics and brand partnership (Ubisoft) create strong sharing potential within gaming/crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Clear announcement of a specific NFT event with participation instructions."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive and enthusiastic tone with fire emoji and call to action."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Primarily relevant during the minting event period (short-term)."
+      }
+    }
+  },
+  {
+    "tweet_id": "1725225075480154133",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Explosive allegations about Ethereum's foundation from a primary source, likely to spark intense debate."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Claims to provide primary evidence (recordings) about foundational blockchain history."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Implied negative sentiment through use of 'corruption' terminology."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Historic allegations could influence Ethereum's perception long-term if verified."
+      }
+    }
+  },
+  {
+    "tweet_id": "1725118908984648175",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Provocative comparison between blockchain networks sparks debate, but limited to crypto-native audiences."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific transaction cost comparisons between networks."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive advocacy for PulseChain with comparative metrics."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Fee discussions are recurring but not permanently relevant."
+      }
+    }
+  },
+  {
+    "tweet_id": "1725113878596424059",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Major institutional adoption news with widespread implications for crypto markets."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Reports a landmark regulatory filing with market-moving potential."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of factual information."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "ETF approvals have multi-year market structure implications."
+      }
+    }
+  },
+  {
+    "tweet_id": "1725112879429406851",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Concise breaking news format from established account amplifies sharing potential."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Clear reporting of critical financial instrument development."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual presentation without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "ETF developments remain relevant through approval/denial process and beyond."
+      }
+    }
+  },
+  {
+    "tweet_id": "1725063403948097604",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Controversial opinion about major cryptocurrencies sparks engagement within crypto communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Personal investment decision without substantive technical analysis."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Strong negative language ('shitcoin', 'outdated') directed at Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Personal rants typically have very short relevance cycles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1724651439069282800",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Humorous meme format has moderate sharing potential but limited to existing Ethereum community."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No substantive information beyond implied criticism through imagery."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Mocking tone suggests moderate negative sentiment."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Memes typically have short cultural relevance windows."
+      }
+    }
+  },
+  {
+    "tweet_id": "1724588794387612138",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Practical UX comparison between blockchain networks drives moderate sharing in developer circles."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Personal anecdote about platform usability without technical details."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive assessment of Solana's user experience."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Onboarding discussions remain relevant for months in UX-focused communities."
+      }
+    }
+  },
+  {
+    "tweet_id": "1724452398276477003",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Significant corporate adoption news from China with broad market implications."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific financial commitment amount and corporate details provided."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of corporate action."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Institutional adoption signals have medium-term market impact."
+      }
+    }
+  }
+]

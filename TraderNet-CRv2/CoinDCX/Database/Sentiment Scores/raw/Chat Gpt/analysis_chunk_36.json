@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1437862296827613188",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet makes a sensational claim about Solana crashing, which can attract attention within crypto communities, but it lacks a primary source or breaking news element, limiting its global viral potential."
+},
+"informative_value": {
+"score": 3,
+"justification": "It states a claim but provides no verifiable data or source, so it offers limited factual information."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The tweet expresses negative sentiment about Solana's crash, indicating disappointment or alarm."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The relevance of a crash is short-term; once the market stabilizes, the tweet's impact will fade quickly."
+}
+}
+},
+{
+"tweet_id": "1437847825572892672",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet references a high-profile Apple Event and poses a relatable question comparing a premium iPhone to Ethereum, likely to spark engagement across tech and crypto audiences."
+},
+"informative_value": {
+"score": 6,
+"justification": "It links to external content that may provide more information, but the tweet itself mainly poses a question rather than delivering facts."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, presenting a question without strong emotional language."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is tied to the Apple Event cycle, which typically lasts a few days to a week."
+}
+}
+},
+{
+"tweet_id": "1437774633969885189",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet offers bold price predictions for multiple cryptocurrencies, which can attract attention and debate within crypto communities, though it lacks a primary source."
+},
+"informative_value": {
+"score": 6,
+"justification": "It provides specific price ranges for several cryptocurrencies, offering potentially useful information for traders, though the predictions are speculative."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses optimism about future price increases, reflecting a positive sentiment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The predictions may spark discussion for weeks or months, but their relevance will diminish as market conditions change."
+}
+}
+},
+{
+"tweet_id": "1437445755472601090",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet announces a substantial giveaway of 60 Ethereum, which can attract significant attention and shares within the crypto community."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet merely announces a giveaway without providing factual or educational content."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses a positive, generous sentiment by offering a large reward."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is limited to the duration of the giveaway, after which it will quickly lose interest."
+}
+}
+},
+{
+"tweet_id": "1437411853961936896",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet uses a humorous dialogue between Walmart executives to poke fun at cryptocurrency choices, which can resonate widely and encourage retweets."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet is a comedic statement rather than a source of factual information."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet conveys a lighthearted, positive tone through humor."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The joke may be shared for a few weeks, but its relevance will fade as the novelty wears off."
+}
+}
+}
+]

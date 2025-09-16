@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1487126706519306241",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet offers a strong opinion about Ethereum gas, likely to resonate within the crypto community, but it is not a meme or breaking news, so it has medium virality potential."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet references Ethereum gas and power dynamics, but it is mainly an opinion with a link, lacking detailed factual data."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The tweet expresses frustration about Ethereum gas, indicating a negative sentiment."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet is relevant for a short period until the issue is resolved or new developments arise."
+}
+}
+},
+{
+"tweet_id": "1486976379396956160",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The technical analysis may interest crypto traders but is unlikely to go viral beyond the niche community."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides specific market data and analysis, offering useful information to readers."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, presenting factual analysis without strong emotional tone."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The market data remains relevant for a few days until market conditions change."
+}
+}
+},
+{
+"tweet_id": "1486875086233620481",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Speculating that Elon Musk will acquire Ethereum is a high-profile claim that could spark widespread discussion."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet is speculative and lacks verifiable evidence, so its informative value is low."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses excitement and optimism about a potential acquisition."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The speculation remains relevant for a few days until the claim is confirmed or disproved."
+}
+}
+},
+{
+"tweet_id": "1486856307328098307",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The factual comparison of Avalanche and Ethereum may resonate with the crypto community, but it is not a meme or breaking news."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides credible data about transaction volumes and fees, offering high informational value."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, presenting factual information without strong emotional tone."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The data remains relevant for a few days until new statistics are released."
+}
+}
+},
+{
+"tweet_id": "1486774501736075264",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The corporate announcement about Mastercard's partnership may interest the crypto community but is unlikely to go viral globally."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet informs readers about a partnership aimed at increasing Ethereum scalability."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, providing factual information."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The partnership may remain relevant for weeks as it develops."
+}
+}
+}
+]

@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1560683605206220800",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet discusses a significant event in the Ethereum community, which may attract attention from crypto enthusiasts but is unlikely to go viral beyond niche audiences."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet provides a personal opinion on Ethereum's future but lacks detailed, verifiable information."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The user expresses strong negative sentiment about Ethereum's direction and government intervention."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is tied to the immediate situation around government intervention and the user's decision to sell ETH, which may lose relevance as the situation evolves."
+}
+}
+},
+{
+"tweet_id": "1560665770816081920",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "A giveaway with clear instructions often generates significant engagement and retweets within the target community."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet informs about a giveaway but lacks substantial factual content beyond promotional details."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet conveys a positive and enthusiastic tone, encouraging participation in the giveaway."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The giveaway is time-bound, losing relevance once the event concludes."
+}
+}
+},
+{
+"tweet_id": "1560643202025136128",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet presents a bold price prediction that could spark debate among Ethereum enthusiasts, though it's unlikely to go viral beyond crypto circles."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet offers an opinion on Ethereum's price but lacks detailed analysis or sources."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The tweet expresses a moderately negative view on Ethereum's potential price."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to the price prediction, which may remain relevant for a few days as the market reacts."
+}
+}
+},
+{
+"tweet_id": "1560570981738958855",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet discusses significant Ethereum developments, likely attracting attention from the crypto community."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides detailed analysis and a link to further information, making it informative."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The tweet expresses concerns and criticism about Ethereum's direction."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The discussion around the Merge and PoS is an ongoing topic, maintaining relevance for weeks."
+}
+}
+},
+{
+"tweet_id": "1560340754077306880",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet provides a snapshot of crypto followers, which may interest the crypto community but lacks a strong hook for virality."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet offers factual data on Twitter followers for various cryptocurrencies."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet presents information neutrally without strong emotional language."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The data is a snapshot, relevant for a short period until updated."
+}
+}
+},
+{
+"tweet_id": "1560271759328260130",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The giveaway with clear instructions and incentives often generates significant engagement and retweets."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet promotes a giveaway but lacks substantial factual content beyond promotional details."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet conveys a positive and enthusiastic tone, encouraging participation."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The giveaway is time-bound, losing relevance once the event concludes."
+}
+}
+},
+{
+"tweet_id": "1560068622621491201",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet critiques a prominent figure in the crypto space, likely attracting attention from the community."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet provides context on Vitalik's statements but lacks detailed analysis."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The tweet expresses strong negative sentiment towards Vitalik's stance."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is tied to the specific event and may lose impact as the situation evolves."
+}
+}
+},
+{
+"tweet_id": "1560049658457513985",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet discusses regulatory issues in the crypto space, which may attract attention from enthusiasts but is unlikely to go viral beyond niche audiences."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet provides a commentary on regulatory matters without detailed analysis."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet expresses a positive stance against regulations."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The discussion around regulations is an ongoing topic, maintaining relevance for weeks."
+}
+}
+},
+{
+"tweet_id": "1560035176562016262",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet announces a significant policy decision by Yuga Labs, likely attracting attention from the NFT community."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides specific information about Yuga Labs' stance on the Merge."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet presents information neutrally without strong emotional language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The announcement relates to an upcoming event, maintaining relevance for weeks."
+}
+}
+},
+{
+"tweet_id": "1559972466402988037",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet announces a milestone in the Ethereum ecosystem, which may attract attention from the crypto community."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides factual data on ENS registrations."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet conveys a positive tone about the milestone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The announcement is a one-time update, relevant for a short period."
+}
+}
+}
+]

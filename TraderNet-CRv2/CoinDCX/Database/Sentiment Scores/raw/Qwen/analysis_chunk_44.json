@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1474438037203566593",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "A personal Christmas message with a mention of a crypto figure may resonate within specific communities but lacks a strong hook for broader virality."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet is a greeting with a personal anecdote, providing minimal information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment expressed through festive greetings."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Seasonal message, relevant for a short period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1474428589240033282",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "A conspiracy theory about Vitalik's identity is likely to be shared widely within crypto communities."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Speculative content with no credible information."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Negative sentiment due to质疑和讽刺."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Meme-like content, relevant for a few days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1474424836478885895",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Local news about a political figure and Vitalik may be shared within Argentinian crypto circles."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Provides a news event but without in-depth information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment as a news report."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Current event, relevant for a few days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1474415320110665739",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Encourages crypto collaboration, likely shared within the community."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Discusses crypto projects but without detailed information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment promoting unity."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Crypto topics remain relevant for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1474384130469150721",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Humorous take on Vitalik's background likely to be shared widely."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Speculative content with no factual information."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Negative sentiment through mockery."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Meme-like content, relevant for a few days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1474274270305939459",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Speculative crypto prices may be shared within the community."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Personal predictions without credible sources."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment as a speculative statement."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Crypto discussions remain relevant for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1474148459158679562",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Mention of Vitalik at an event with low engagement."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Minimal information provided."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment towards Vitalik."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Event-specific, relevant for a short time."
+      }
+    }
+  },
+  {
+    "tweet_id": "1474088236062425088",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Questions about Ethereum taxes may be shared within crypto communities."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Raises a relevant topic but lacks detailed information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment as a question."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Tax issues are ongoing, relevant for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1474012550354259972",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Comparison of tech leaders may be shared within crypto and tech communities."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Provides a contrast but without in-depth analysis."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment towards Vitalik."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for weeks as a comparison."
+      }
+    }
+  },
+  {
+    "tweet_id": "1473914193527070770",
+    "analysis": {
+      "virality_potential": {
+        "score": 10,
+        "justification": "Elon Musk's tweet about Doge has high visibility and engagement."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Personal opinion without detailed information."
+      },
+      "sentiment_polarity": {
+        "score": 10,
+        "justification": "Extremely positive sentiment from Elon Musk."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Crypto trends can remain relevant for months."
+      }
+    }
+  }
+]

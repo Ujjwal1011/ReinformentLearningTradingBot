@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1752362433203835342",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Breaking financial news about SEC approval of Ethereum ETFs from a bank source has high sharing potential in crypto communities."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides specific regulatory timeline and institutional investment figure from Standard Chartered Bank."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral announcement without emotional language."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "ETF approvals have medium-term market implications until the decision date."
+}
+}
+},
+{
+"tweet_id": "1752346237817196579",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Vitalik meme reference with Japanese/Chinese text may spread in Asian crypto communities."
+},
+"informative_value": {
+"score": 2,
+"justification": "Contains a humorous meme translation without substantive information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Playful tone with meme reference shows moderate positivity."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Meme content typically has short cultural relevance."
+}
+}
+},
+{
+"tweet_id": "1752159070604132567",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Provocative comparison question between crypto communities encourages engagement."
+},
+"informative_value": {
+"score": 5,
+"justification": "Chart discussion prompt without concrete data or analysis."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral competitive framing without clear emotional bias."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Price chart debates typically remain relevant for days."
+}
+}
+},
+{
+"tweet_id": "1752136916156416077",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Historical FUD discussion may resonate with long-term crypto investors."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides market cycle perspective with specific price examples."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Negative connotation through FUD references and price drop example."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Market cycle analysis remains relevant for weeks during volatility."
+}
+}
+},
+{
+"tweet_id": "1751300364698063285",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Niche complaint about NFT mechanics unlikely to spread widely."
+},
+"informative_value": {
+"score": 3,
+"justification": "Personal UX complaint without broader educational value."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "Strong frustration expressed through 'horrible experience' and procedural complaints."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "Platform-specific UX issues become irrelevant after problem resolution."
+}
+}
+},
+{
+"tweet_id": "1750819186832515268",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Personal investment story with modest engagement potential."
+},
+"informative_value": {
+"score": 4,
+"justification": "Contains specific price points but lacks analysis or context."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive outlook expressed through long-term holding strategy."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Price references become outdated with market movements."
+}
+}
+},
+{
+"tweet_id": "1750558058801922193",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Breaking regulatory news from major entity with high retweet potential."
+},
+"informative_value": {
+"score": 8,
+"justification": "Concrete update about ETF approval process from authoritative source."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral announcement of procedural development."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "ETF delays impact market sentiment for weeks until next decision."
+}
+}
+},
+{
+"tweet_id": "1750265146054975890",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Controversial CEO statement about Ethereum likely to spark debates."
+},
+"informative_value": {
+"score": 5,
+"justification": "Reports on executive opinion without substantive analysis."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "Negative connotation through 'fuds' terminology."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Executive commentary remains relevant until next news cycle."
+}
+}
+},
+{
+"tweet_id": "1750250411972559210",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "BlackRock ETF news has high sharing potential in financial circles."
+},
+"informative_value": {
+"score": 8,
+"justification": "Specific regulatory update about major institutional player."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral procedural update without emotional language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "ETF delays maintain relevance until next SEC decision date."
+}
+}
+},
+{
+"tweet_id": "1750246931656237518",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "High-profile regulatory delay from BlackRock/Watcher.Guru guarantees wide spread."
+},
+"informative_value": {
+"score": 8,
+"justification": "Clear update about key ETF approval process from reliable source."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Factual reporting without emotional bias."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Major ETF decisions influence market discussions for weeks."
+}
+}
+}
+]

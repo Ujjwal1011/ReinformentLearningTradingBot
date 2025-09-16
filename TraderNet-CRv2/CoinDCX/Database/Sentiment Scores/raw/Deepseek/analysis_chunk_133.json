@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1570051148177874944",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High virality potential due to discussing a major crypto event (Ethereum Merge) with emotional language ('awe and gratitude') that resonates with the crypto community."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides context about a historically significant technical event in blockchain, though lacks direct links to primary sources."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Expresses strong positive emotions like awe and gratitude toward developers."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The Ethereum Merge is a foundational event in crypto history, ensuring long-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570046417619779587",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Dramatic language ('nuclear hell') and high-stakes scenario could drive engagement within crypto communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Primarily speculative opinion about consequences rather than factual information."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Strong negative sentiment with phrases like 'feel terrible' and 'market goes to nuclear hell'."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to immediate post-Merge outcomes, fading after initial market reaction."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570042834182459394",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Generic price speculation without unique insight, unlikely to drive shares beyond basic discussion."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No substantive information beyond stating obvious market behavior possibilities."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral statement without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Immediately irrelevant once price movement occurs post-Merge."
+      }
+    }
+  },
+  {
+    "tweet_id": "1569978701584138240",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Breaking news-style update about a highly anticipated event, likely to be widely shared in real-time."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific, actionable data about blockchain progress from a news-focused account."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual reporting without emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant until Merge completion, then becomes historical data."
+      }
+    }
+  },
+  {
+    "tweet_id": "1569914082240897024",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "High urgency ('24 hours remain') and event significance drive retweet potential."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Clear countdown to a major technical milestone with supporting links."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement format."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Time-sensitive but part of a sequence of updates preserved in crypto history."
+      }
+    }
+  },
+  {
+    "tweet_id": "1569750046106873857",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Niche technical NFT project details, primarily relevant to crypto-art communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Explains a technical creative project but lacks implementation specifics."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral technical description without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Could maintain interest in NFT communities during project development phases."
+      }
+    }
+  },
+  {
+    "tweet_id": "1569739402913644544",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High-profile figure (Patrick Collison) praising a major crypto milestone, likely to be amplified."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Recognizes technical achievement but focuses on congratulations rather than new information."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Strong positive sentiment with phrases like 'excited' and 'congratulations'."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Part of permanent historical record regarding Ethereum's development."
+      }
+    }
+  },
+  {
+    "tweet_id": "1569683674643275777",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Critical milestone update during peak anticipation period for Merge event."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Precise blockchain progress metric from a trusted news source."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral factual reporting."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Temporally relevant until Merge completion, then archival."
+      }
+    }
+  },
+  {
+    "tweet_id": "1569553088981389313",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Early-stage countdown tweet with high retweet potential as anticipation builds."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides a clear timeline update with visual support."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement style."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Part of a sequence of time-bound updates with lasting historical relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1569414063075086338",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Relatable humor about crypto complexity could drive shares among casual observers."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No factual content; purely humorous self-deprecation."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral humorous tone without strong positivity/negativity."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance diminishes quickly post-Merge as context fades."
+      }
+    }
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1504760633342021645",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Major news outlet, high-profile subject, high engagement, likely to be widely shared."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides factual info about Vitalik Buterin's role and current stance, but not deep primary source."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral factual statement, no strong emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Ongoing story about Vitalik's fight for crypto's future, likely to remain relevant for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1504559950537924614",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Question about blockchain competition, moderate interest, not a major news event."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Minimal information, just a poll question."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Topic remains relevant over time, but not time-sensitive."
+      }
+    }
+  },
+  {
+    "tweet_id": "1504473731963371522",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Hype tweet about DeFi winners, high engagement, likely to spread within crypto community."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Promotional claim with no detailed info."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Very positive celebratory tone with emojis."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Event-specific, relevance fades after expo."
+      }
+    }
+  },
+  {
+    "tweet_id": "1504121561833345030",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major Ethereum merge news, high engagement, likely to be widely shared."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides factual update on merge success."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Neutral statement with slight excitement."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Event-specific, relevance may decline after main merge."
+      }
+    }
+  },
+  {
+    "tweet_id": "1504115023836332032",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Philosophical statement, moderate interest, not a trending event."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "General statement about Ethereum's purpose."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Philosophical message may remain relevant over time."
+      }
+    }
+  }
+]

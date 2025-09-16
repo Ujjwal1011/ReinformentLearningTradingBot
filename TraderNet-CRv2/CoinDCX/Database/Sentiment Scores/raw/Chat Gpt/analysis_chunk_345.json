@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1732550752059695150",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet discusses Ethereum price speculation and institutional interest, which can resonate within the crypto community, but it lacks a strong hook or breaking news, so its virality potential is moderate."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "It provides factual information about Ethereum’s price, a target of $3,000, and mentions institutional investors, offering useful context for followers."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral, simply reporting market movement without strong positive or negative emotion."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Crypto price speculation is typically short-lived; relevance fades as the market moves."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732550536938070136",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "A personal greeting with a brief crypto comment is unlikely to spread widely beyond the user’s immediate followers."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "The tweet offers minimal factual content, mainly a personal sentiment about Bitcoin and ETH."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "The use of sad emojis and mention of losses indicates a negative emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The content is tied to a short-term sentiment and will not remain relevant for long."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732541059903918380",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "A short nostalgic phrase about Ethereum is unlikely to go viral; it may attract a few retweets within a niche."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "The tweet contains no new information beyond a nostalgic reference."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "The crying emoji signals a negative emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The tweet’s relevance is limited to the moment it was posted."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732525859418857702",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tip about domain registration on Avalanche could be shared among crypto enthusiasts, giving it moderate virality potential."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It provides actionable, credible information linking Ethereum domains to Avalanche, which is valuable to the audience."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral, simply offering advice without strong emotion."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Domain registration tips remain relevant for days or weeks as users plan purchases."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732524953902153869",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "A personal airdrop success story can attract interest within the crypto community, giving it moderate virality potential."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "It shares specific details about a JTO airdrop value and a strategy, providing useful information to followers."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet expresses excitement and pride about the airdrop, indicating a positive emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The relevance of the airdrop story will diminish as the event concludes and new airdrops emerge."
+      }
+    }
+  }
+]

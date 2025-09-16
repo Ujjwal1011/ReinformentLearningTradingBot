@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1473887809211711491",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "High-profile user @jack and a strong opinion about Ethereum can spark discussion within crypto circles and beyond, but the niche topic limits broader reach."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet is primarily an opinion and does not provide new data or verifiable facts."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The tone is negative towards Ethereum, expressing distrust and criticism."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The statement may be referenced for some time within crypto discussions but is unlikely to remain relevant long-term."
+}
+}
+},
+{
+"tweet_id": "1473873779231272965",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "A short, generic statement with no hook or context; unlikely to go viral beyond a few retweets."
+},
+"informative_value": {
+"score": 2,
+"justification": "No factual content or new information is provided."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses a positive outlook on Ethereum."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The statement is fleeting and likely to fade quickly."
+}
+}
+},
+{
+"tweet_id": "1473835928334618627",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Contains compelling statistics and a positive tone, likely to be shared widely within the crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides specific metrics about Avalanche's growth, making it highly informative."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet is upbeat and expresses pride, indicating a very positive sentiment."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The growth data remains relevant for months, but the tweet's impact will gradually diminish."
+}
+}
+},
+{
+"tweet_id": "1473805837869064195",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Personal anecdote that may resonate with some followers, but limited to a niche audience."
+},
+"informative_value": {
+"score": 4,
+"justification": "Shares personal experience but lacks broader factual data."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Mixed sentiment: negative about being called lucky, but positive about personal actions."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The personal story may not sustain long-term relevance."
+}
+}
+},
+{
+"tweet_id": "1473754055600009216",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Highlights a significant milestone with a large governance vote, likely to be shared widely."
+},
+"informative_value": {
+"score": 8,
+"justification": "Details the successful launch of Uniswap on Polygon and the governance process."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Positive tone celebrating the milestone."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Milestone will be referenced for a long time, but the tweet's immediate impact will wane."
+}
+}
+}
+]

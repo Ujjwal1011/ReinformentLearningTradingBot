@@ -1,0 +1,107 @@
+[
+{
+"tweet_id":"1725903544660705728",
+"analysis":{
+"virality_potential":{
+"score":6,
+"justification":"The tweet targets a specific niche (Lightning/Bitcoin community) and includes a hook about learning payment channels, which can generate interest within that community but unlikely to go global."
+},
+"informative_value":{
+"score":4,
+"justification":"The tweet shares a personal learning experience and a link, but lacks verifiable facts or news."
+},
+"sentiment_polarity":{
+"score":2,
+"justification":"The tweet contains negative language towards Ethereum, expressing disdain."
+},
+"duration_of_impact":{
+"score":4,
+"justification":"The tweet is a personal anecdote about learning payment channels; relevance will fade after a few days."
+}
+}
+},
+{
+"tweet_id":"1725818416060059651",
+"analysis":{
+"virality_potential":{
+"score":5,
+"justification":"Short, catchy statement that could resonate within crypto circles but unlikely to go global."
+},
+"informative_value":{
+"score":1,
+"justification":"The tweet is purely opinion with no factual content."
+},
+"sentiment_polarity":{
+"score":7,
+"justification":"The tweet expresses positive feelings towards Solana."
+},
+"duration_of_impact":{
+"score":5,
+"justification":"The tweet may generate discussion for a day or two but will fade."
+}
+}
+},
+{
+"tweet_id":"1725646552180592741",
+"analysis":{
+"virality_potential":{
+"score":9,
+"justification":"Breaking news about a major asset manager filing for an ETF is likely to be widely shared."
+},
+"informative_value":{
+"score":9,
+"justification":"The tweet provides verifiable news about Fidelity filing for an ETF, a significant event."
+},
+"sentiment_polarity":{
+"score":5,
+"justification":"The tweet is neutral, presenting factual information."
+},
+"duration_of_impact":{
+"score":8,
+"justification":"The ETF filing is a significant event that will be referenced for months."
+}
+}
+},
+{
+"tweet_id":"1725643971630608602",
+"analysis":{
+"virality_potential":{
+"score":9,
+"justification":"Breaking news about a huge asset manager filing for an ETF is likely to go viral."
+},
+"informative_value":{
+"score":9,
+"justification":"The tweet provides verifiable news about a major asset manager filing for an ETF."
+},
+"sentiment_polarity":{
+"score":5,
+"justification":"The tweet is neutral, presenting factual information."
+},
+"duration_of_impact":{
+"score":8,
+"justification":"The ETF filing is a significant event that will be referenced for months."
+}
+}
+},
+{
+"tweet_id":"1725641601077174439",
+"analysis":{
+"virality_potential":{
+"score":7,
+"justification":"The tweet references a major event but is less detailed; still likely to be shared within crypto community."
+},
+"informative_value":{
+"score":6,
+"justification":"The tweet provides a brief factual statement about Fidelity filing for an ETF, but lacks detail."
+},
+"sentiment_polarity":{
+"score":5,
+"justification":"The tweet is neutral, presenting factual information."
+},
+"duration_of_impact":{
+"score":7,
+"justification":"The ETF filing is a significant event that will remain relevant for weeks to months."
+}
+}
+}
+]

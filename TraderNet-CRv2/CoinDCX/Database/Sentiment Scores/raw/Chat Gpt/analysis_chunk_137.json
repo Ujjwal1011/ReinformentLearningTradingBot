@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1491821215924690950",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet announces a critical Ethereum layer‑2 bug and a $2 million bounty, topics that are highly interesting to the crypto community and likely to be shared widely among enthusiasts."
+},
+"informative_value": {
+"score": 8,
+"justification": "It provides concrete factual information about a security vulnerability, its patch status, and the bounty amount, making it a valuable informational update."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tone is proud and positive about the discovery and reward, expressing moderate positive emotion without strong intensity."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "While the bug is patched, the tweet may serve as a reference for security discussions for weeks or months, giving it medium‑term relevance."
+}
+}
+},
+{
+"tweet_id": "1491506132636086277",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "A practical guide to earning passive income with ETH appeals to many crypto holders and can be retweeted within that niche, though it is unlikely to break out to a broader audience."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet promises concrete, low‑risk strategies for generating yield on Ethereum, offering useful educational content."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The language is upbeat and encouraging, showing strong positive sentiment about putting idle ETH to work."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Yield‑generation advice remains relevant for several weeks or months, but may become outdated as rates and protocols change."
+}
+}
+},
+{
+"tweet_id": "1491502663149703168",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Combining a new iPhone feature claim with popular crypto hashtags creates a hook that can attract both tech and crypto audiences, giving it high sharing potential."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet offers an unverified alert without details or sources, providing minimal factual information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The wording is neutral, simply stating an alert without expressing strong emotion."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "If the feature is real, interest will peak quickly around the announcement and then fade, making its relevance short‑term."
+}
+}
+},
+{
+"tweet_id": "1491452010863857665",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "A call for inclusivity from Vitalik Buterin, a high‑profile figure, is likely to be widely shared across the Ethereum community and beyond."
+},
+"informative_value": {
+"score": 6,
+"justification": "While the tweet is an opinion rather than data, it conveys an important perspective on community culture from a key leader."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tone is constructive and hopeful, expressing moderate positive sentiment about improving anonymity friendliness."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Discussions about community inclusivity can persist for months or years, giving the tweet medium‑to‑long relevance."
+}
+}
+},
+{
+"tweet_id": "1491423787203821572",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The playful claim about doubling Ethereum may attract some attention as a meme, but lacks a strong hook to become widely viral."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet provides no verifiable information; it is a speculative or humorous statement without factual basis."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The phrasing is light‑hearted and optimistic, indicating moderate positive sentiment."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "As a meme‑style claim, its relevance is likely to fade quickly after the initial curiosity subsides."
+}
+}
+}
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1618234366966247424",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Announcement of an NFT scene release with relevant hashtags may drive engagement within crypto communities, but lacks broad emotional appeal."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Provides a release update but lacks contextual details about the content or its significance."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement tone without explicit emotional language."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Standard relevance period for NFT drops, likely discussed for 1-2 days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1616273583008874497",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Controversial claim about institutional ownership could spark debates in crypto circles."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Makes an unsubstantiated claim without supporting evidence or sources."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Implies criticism through the 'not decentralized' statement."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Taps into ongoing decentralization debates, maintaining relevance for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1615456623195222021",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Positive product review of a multi-chain wallet could resonate strongly in crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Highlights key features of a new wallet beta but lacks technical details."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong positive language like 'elite' and 'future' demonstrates enthusiasm."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Product launches typically maintain interest for several days to weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1613951306036645925",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major product update from a well-known platform likely to generate significant shares."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Concrete news about Ethereum staking from a credible source."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual announcement without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Staking features have long-term relevance in crypto ecosystems."
+      }
+    }
+  },
+  {
+    "tweet_id": "1613848879862013955",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Technical critique of high-profile liquidation attempts could spread in developer circles."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific examples of operational failures in blockchain transactions."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative tone evident in words like 'painful' and criticism of competence."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Specific event analysis with relevance limited to current market conditions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1613422940766482432",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Positive milestone commentary likely to be shared in Ethereum communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Highlights successful network transition with historical context."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive appraisal of Ethereum's achievement using 'insanely under appreciated'."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Discusses fundamental network changes with long-term implications."
+      }
+    }
+  },
+  {
+    "tweet_id": "1613199688877891584",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Standard NFT sale announcement common in crypto spaces, unlikely to stand out."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Reports transaction details without broader context or analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of a marketplace transaction."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Single sales events typically have short relevance windows."
+      }
+    }
+  },
+  {
+    "tweet_id": "1611911890057166849",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Retweet contest from an influencer with massive reach guarantees high engagement."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Pure promotional content without educational or news value."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Enthusiastic call-to-action with celebratory emojis."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Contests typically have relevance limited to their entry period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1630090731733012480",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High-value NFT bid announcement with multiple tags and emojis drives meme community engagement."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Reports a marketplace bid but lacks context about its significance."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Excited tone with phrases like 'LFG!!!' and multiple emojis."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "NFT bids typically have relevance until the transaction resolves."
+      }
+    }
+  },
+  {
+    "tweet_id": "1629851874135351297",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Ranked lists often generate discussion and shares in financial communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides current market cap data valuable to crypto investors."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of factual data without commentary."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Market cap rankings become outdated quickly as prices fluctuate."
+      }
+    }
+  }
+]

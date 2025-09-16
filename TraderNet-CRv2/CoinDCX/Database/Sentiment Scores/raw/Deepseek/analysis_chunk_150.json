@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1636608740513263617",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Technical crypto security content from a prominent figure likely to be shared within blockchain communities, but lacks mass appeal for global virality."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides concrete guidance on wallet security best practices with a detailed external resource link."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral instructional tone without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Wallet security remains a perennial concern in crypto, giving this content weeks/months of relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1636066380993708032",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Meta-commentary about Ethereum decentralization might spark niche discussion but lacks broad appeal."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Vague announcement about a testnet without technical details or verifiable claims."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone discussing decentralization concepts without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance limited to the testnet launch cycle (days/weeks)."
+      }
+    }
+  },
+  {
+    "tweet_id": "1635695064692273161",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Combines trending AI and blockchain security topics with concrete examples, likely to generate widespread interest."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Demonstrates practical AI application in smart contract auditing with specific exploit examples."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual presentation of security analysis without emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "AI's role in cybersecurity remains a lasting topic, though specific exploit details may become outdated."
+      }
+    }
+  },
+  {
+    "tweet_id": "1635459389955133440",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Celebrity-style gossip about a crypto founder could generate temporary buzz but lacks substantive content."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Pure personal speculation without factual content or news value."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive emojis suggest lighthearted interest in the subject."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Tabioid-style content typically has very short relevance window (hours)."
+      }
+    }
+  },
+  {
+    "tweet_id": "1634765888070057984",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Major exchange news likely to circulate in crypto circles but lacks viral hooks."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Specific details about new trading pairs from a credible source."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant until the trading pairs go live, then becomes historical data."
+      }
+    }
+  },
+  {
+    "tweet_id": "1633940076634808323",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Minimal-content tweet unlikely to drive engagement beyond existing followers."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Single word with link provides no inherent information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "No discernible emotional content."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Immediately irrelevant without context from the link."
+      }
+    }
+  },
+  {
+    "tweet_id": "1633932628662407171",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major regulatory news likely to spread rapidly through financial and crypto communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Critical legal development with market-moving implications from a credible source."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Implied negative context for Ethereum through regulatory classification."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Legal precedents in crypto regulation could have multi-year ramifications."
+      }
+    }
+  },
+  {
+    "tweet_id": "1632878186089291776",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "High gas fees are a common pain point that could resonate widely with Ethereum users."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Highlights an ongoing network issue but lacks new data or solutions."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Expresses frustration through complaint about transaction costs."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Remains relevant until network upgrades address fee issues (months)."
+      }
+    }
+  },
+  {
+    "tweet_id": "1632861957828014080",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Technical testnet details primarily interest developers rather than general audiences."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific timeline and context about testnet iterations."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive language about 'fun' and 'free coins' shows enthusiasm."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance limited to current testnet phase (weeks)."
+      }
+    }
+  },
+  {
+    "tweet_id": "1632411798740582402",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Comparative market data presented dramatically could attract investor attention."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Contains specific percentage data about asset performance with time context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of market data without overt bullish/bearish bias."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Market comparisons remain relevant until significant price movements occur (weeks)."
+      }
+    }
+  }
+]

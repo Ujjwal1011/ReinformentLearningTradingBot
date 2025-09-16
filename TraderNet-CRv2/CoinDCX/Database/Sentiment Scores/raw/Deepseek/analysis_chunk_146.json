@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1629234333327269891",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Significant environmental milestone in crypto with clear data (99.99% reduction) likely to be shared widely in tech/eco communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides verifiable, impactful data about Ethereum's energy consumption changes post-Merge."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of factual information without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Key sustainability metric that will remain relevant in blockchain discussions for years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1628793462786228226",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major exchange launching L2 solution with ambitious user adoption target (1B+ people)."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Official announcement of Base L2 with clear technical purpose and roadmap."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone emphasizing economic freedom and scalability improvements."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Infrastructure development that could shape crypto adoption for years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1628761182386458626",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Emphasizes massive user base integration (110M users) likely to excite crypto community."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Highlights strategic implications of Coinbase's L2 but lacks technical details."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong positive language ('massive day', 'how the world goes bankless')."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Strategic partnership impact will remain relevant through product rollout phases."
+      }
+    }
+  },
+  {
+    "tweet_id": "1628760201254903809",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Official Coinbase announcement with exceptional engagement metrics (10k+ likes)."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Detailed technical specifications and clear roadmap for Base L2 platform."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Enthusiastic language ('excited', 'developer-friendly', 'goal to onboard 1B+')."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Foundational infrastructure announcement with multi-year adoption timeline."
+      }
+    }
+  },
+  {
+    "tweet_id": "1628757265728536578",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news format with urgency indicators (siren emojis) and thread engagement."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Technical details about OP Stack integration and maintenance structure."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive excitement conveyed through emojis and engagement invitation."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Will remain relevant through Base's development cycle but may be superseded by updates."
+      }
+    }
+  },
+  {
+    "tweet_id": "1628756662088568833",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Concise announcement format suitable for quick sharing in crypto circles."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Clear statement of partnership (Optimism) but lacks implementation details."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting style without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Important partnership note but likely overshadowed by official announcements."
+      }
+    }
+  },
+  {
+    "tweet_id": "1628410398058708992",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Historic technical milestone (transactions surpassing Ethereum) with visual proof."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific performance metric with ecosystem implications."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Proud tone celebrating community achievement ('huge milestone')."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Benchmark data point that will be referenced in scaling discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1628192654340005889",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Signals paradigm shift in Ethereum roadmap but from individual account."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Reiterates Arbitrum milestone with historical context."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive community-focused message ('Congrats Arbinauts')."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Important but less impactful than the original network announcement."
+      }
+    }
+  },
+  {
+    "tweet_id": "1628072730418417664",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Technical semantic debate likely limited to crypto-native audiences."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Educates about blockchain fundamentals but presents opinion as fact."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral technical correction despite imperative tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Evergreen educational content about wallet mechanics."
+      }
+    }
+  },
+  {
+    "tweet_id": "1627820697539190785",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Provocative Bitcoin/ETH comparison likely to spark community debates."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Opinionated comparison using hyperbolic emojis rather than data."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative framing through poop emojis and criticism of ETH fundamentals."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Tribal arguments tend to resurface but rarely shift long-term narratives."
+      }
+    }
+  }
+]

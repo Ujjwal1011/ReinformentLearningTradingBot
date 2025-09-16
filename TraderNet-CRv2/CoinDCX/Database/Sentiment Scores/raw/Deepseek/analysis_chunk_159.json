@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1715991005038571716",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Cryptocurrency-related question with hashtag might engage niche communities, but lacks a strong hook for broader sharing."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Vague question with links but no context or verifiable information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone - asks a question without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Question's relevance depends on external content in links, likely short-term interest."
+      }
+    }
+  },
+  {
+    "tweet_id": "1714093811142402396",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Specific crypto platform update likely to spread within blockchain communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific details about fee structure changes in a major DeFi platform."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual presentation without clear positive/negative language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Fee changes could remain relevant for weeks in crypto trading discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1712996850427707414",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Product launch announcement with strong engagement metrics (330 replies)."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Clear announcement of technical development with bridge launch details."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone implied by 'We're coming home' announcement."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Blockchain bridge functionality could remain relevant for weeks post-launch."
+      }
+    }
+  },
+  {
+    "tweet_id": "1712893232806302095",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Humorous take on crypto rivalry with strong engagement (941 retweets)."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Entertainment-focused content without substantive information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive/humorous tone indicated by laughing emoji."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Meme content typically has short cultural lifespan."
+      }
+    }
+  },
+  {
+    "tweet_id": "1711387697141395524",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High-stakes financial news from influential account (3.4M followers)."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific financial transaction data from major crypto organization."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting style without explicit sentiment."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Transaction news typically impacts market for 1-2 days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1711195656143208523",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Controversial take could spark debates in crypto communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Opinion-based critique without supporting evidence."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Strong negative language ('disaster', 'looting', 'censored')."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Personal opinion likely to fade without institutional backing."
+      }
+    }
+  },
+  {
+    "tweet_id": "1710533774071787587",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Protocol changes from Ethereum's founder (5.8M followers) with massive engagement."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Technical proposal from primary source about blockchain fundamentals."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral technical documentation style."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Protocol changes could influence Ethereum's development for years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1710082517817266410",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Comparative critique using humor (poop emojis) might engage crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Explains technical differences through analogy, though biased."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative comparison using critical emojis and language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Ongoing Bitcoin vs Ethereum debates maintain medium-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1709965454599500128",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High-value financial data from popular account drives engagement."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Specific derivatives market data relevant to traders."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of financial event."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Options expiry events have 24-48 hour relevance window."
+      }
+    }
+  },
+  {
+    "tweet_id": "1709628344667422825",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Comparative technical claims could spread in crypto circles."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific metrics comparing blockchain performance."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive framing of platform advantages ('cheaper', 'faster')."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Blockchain efficiency claims remain relevant for weeks in tech discussions."
+      }
+    }
+  }
+]

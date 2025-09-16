@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1572262118778609664",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "The tweet is a philosophical statement that may resonate within the Ethereum community but lacks a hook or breaking news, so its shareability is moderate."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "It offers a viewpoint rather than new factual information, so its informative value is low."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral, presenting a statement without strong emotion."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The statement is evergreen but not tied to a specific event, so it may remain relevant for a few weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1572241752635084800",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "A short positive statement with a hashtag from a well-known figure, likely to spread within the crypto community but not beyond."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "It is a speculative opinion about the future of EVM chains, providing limited factual content."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The tweet expresses moderate optimism about EVM chains."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The claim about the future of EVM chains remains relevant for months as the technology evolves."
+      }
+    }
+  },
+  {
+    "tweet_id": "1572210251713351686",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news about Nasdaq launching a digital assets unit is highly shareable across finance and crypto audiences."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It reports a factual development from a reputable source, providing high informational value."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, simply reporting the news."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The launch of a custody unit is a significant event that will be referenced for months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1572139360509624322",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet announces a breaking SEC claim, which is likely to be widely shared among crypto and regulatory followers."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It conveys a factual statement about SEC jurisdiction, offering high informational value."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral, presenting the claim without emotional bias."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The SEC claim will remain relevant for weeks or months as the regulatory landscape evolves."
+      }
+    }
+  },
+  {
+    "tweet_id": "1572118169665572865",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "A concise statement of a SEC claim that is likely to spread widely due to its relevance to the crypto community."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It reports a factual claim about jurisdiction, providing high informational value."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, simply stating the claim."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The claim will remain relevant for weeks or months as regulatory discussions continue."
+      }
+    }
+  }
+]

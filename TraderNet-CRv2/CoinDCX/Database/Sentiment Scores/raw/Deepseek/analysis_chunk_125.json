@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1554501868201582592",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Giveaway mechanics incentivize sharing through required follows and retweets, creating strong engagement drivers within crypto communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Primarily promotional content for an NFT project launch without substantial educational or news value."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral instructional tone focused on contest mechanics rather than emotional expression."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance limited to the 24-hour giveaway period and immediate project launch context."
+      }
+    }
+  },
+  {
+    "tweet_id": "1554257595929690112",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Boastful claims about financial success may resonate within crypto circles but lack broad appeal factors."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Contains self-reported achievements and project mentions but lacks verifiable data or sources."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong positive tone celebrating personal successes with phrases like 'went up 10,000x' and 'flawless operation'."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Claims about historical market calls may retain some relevance, but most content is tied to current market conditions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1554243536127655938",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Timely commentary on market movements and bridge exploit could spread quickly among crypto traders."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides insight into market behavior patterns though lacks technical details about the exploit."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral observation about market dynamics without clear positive/negative framing."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Tied to specific market event likely to be overshadowed by subsequent developments."
+      }
+    }
+  },
+  {
+    "tweet_id": "1554189757177102336",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Significant platform update from major exchange likely to be widely shared in institutional crypto circles."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Newsworthy announcement about regulated financial service expansion with clear institutional implications."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual announcement without emotional language or value judgment."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Service availability announcement will remain relevant through platform adoption phase."
+      }
+    }
+  },
+  {
+    "tweet_id": "1554141197995687938",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Opinionated market commentary may spark debate but lacks concrete evidence or calls to action."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Personal prediction without supporting data or analysis."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Moderately positive outlook expressed through definitive statement about market recovery."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to current NFT market conditions rather than long-term trends."
+      }
+    }
+  },
+  {
+    "tweet_id": "1554045668871864322",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Substantial revenue figure presented in headline-friendly format likely to be shared in mining communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific, quantifiable data point about network economics with clear sourcing implication."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of financial metric without positive/negative framing."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Monthly revenue figure primarily relevant for current network analysis cycles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1553947112869572608",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Strong pro-Ethereum thesis presented in declarative statements likely to be amplified within crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Combines technical roadmap elements with market prediction, though lacks supporting evidence."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Very positive outlook using terms like 'huge success' and 'inevitable' market dominance."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Discusses long-term network upgrades (The Merge) that will remain relevant through implementation."
+      }
+    }
+  },
+  {
+    "tweet_id": "1575936247251734533",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major corporate adoption news likely to be widely shared across both crypto and traditional tech communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Significant infrastructure development from established telecom corporation with clear blockchain implications."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement format typical of news reporting accounts."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Corporate blockchain adoption represents long-term strategic commitment with ongoing implications."
+      }
+    }
+  },
+  {
+    "tweet_id": "1575885920221466624",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Technical educational resource from prominent figure likely to be shared in developer communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides open-source educational tool for complex cryptography concept with practical implementation."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral technical announcement focused on educational utility."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Educational resources about fundamental cryptographic primitives maintain long-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1575670601330499584",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Historic blockchain artifact discovery likely to generate significant interest in NFT and crypto history communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Documents important historical find in blockchain development with preservation recommendations."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral archaeological tone focused on discovery details rather than emotional response."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "Rediscovery of foundational blockchain artifacts has permanent historical significance for the ecosystem."
+      }
+    }
+  }
+]

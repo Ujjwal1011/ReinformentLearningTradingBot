@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1552947565510795264",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet reports a significant financial loss, likely to be shared widely in crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides a report from a reputable source about a major financial event."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative sentiment due to the loss of funds."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Impact lasts a few days as people discuss the implications."
+      }
+    }
+  },
+  {
+    "tweet_id": "1552727078394527744",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Market cap news, likely shared among crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Single metric update, somewhat informative."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment about market cap growth."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term relevance as market caps fluctuate."
+      }
+    }
+  },
+  {
+    "tweet_id": "1552717181430939648",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Important technical update for Ethereum's transition."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Detailed technical information from developers."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive sentiment about the merger."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevance lasts weeks as the community discusses the merger."
+      }
+    }
+  },
+  {
+    "tweet_id": "1552712874543439876",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Announcement of a significant event with a bullish sentiment."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides a clear update on the merge date."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Strong positive sentiment with emojis."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Impact lasts weeks as the community prepares for the merge."
+      }
+    }
+  },
+  {
+    "tweet_id": "1551930840233418754",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Personal doubt about Ethereum, may resonate with some."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Personal opinion without detailed analysis."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Moderately negative sentiment questioning decisions."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term relevance as opinions may shift."
+      }
+    }
+  },
+  {
+    "tweet_id": "1551749304594882562",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Story about NFT reporting, may attract attention in crypto circles."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Shares a personal experience with NFTs."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative sentiment due to frustration with the platform."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term relevance as the issue may be resolved."
+      }
+    }
+  },
+  {
+    "tweet_id": "1551633443741646848",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Legal case discussion, may interest Ripple and SEC watchers."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides a summary of a legal document."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment praising the attorney's work."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Impact lasts a few weeks as the case progresses."
+      }
+    }
+  },
+  {
+    "tweet_id": "1551494824536276992",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Technical update on Vyper language, relevant to developers."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Details progress and contributions to the language."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive sentiment praising the team's work."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevance lasts weeks as the community discusses updates."
+      }
+    }
+  },
+  {
+    "tweet_id": "1551311567970373632",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Lists crypto followers, may attract crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Provides a snapshot of Twitter follower counts."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment, presenting data without emotion."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term relevance as follower counts change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1551258987185709057",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Fun fact about Ethereum's price history, may attract interest."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Shares historical price data."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment highlighting growth."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term relevance as historical data may not stay current."
+      }
+    }
+  }
+]

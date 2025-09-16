@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1455377272442028040",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet expresses frustration about Ethereum gas fees, a common issue in the crypto community, which may resonate with a specific audience but is unlikely to go viral beyond that."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet provides a personal opinion about gas fees but does not offer any new information or data."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The tweet expresses frustration and disgust, indicated by the use of the face with a vomiting emoji."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet is relevant only for as long as the high gas fees are a current issue, which could be a short period."
+}
+}
+},
+{
+"tweet_id": "1455173582154342407",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet is a poll about blockchain projects for charity, which may generate some engagement but is unlikely to go viral beyond the crypto community."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet asks for opinions on blockchain projects for charity but does not provide any new information or data."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, as it is asking for opinions rather than expressing a strong emotion."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet is relevant only for the duration of the poll, which is likely to be short."
+}
+}
+},
+{
+"tweet_id": "1455073268218544129",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet discusses the adoption of crypto by normie friends, which is a relatable topic in the crypto community and may generate some engagement."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides insights into the factors that influenced the adoption of crypto, which is useful information for the crypto community."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses a positive sentiment, highlighting the success of crypto adoption through use cases."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet discusses trends that are relevant for a longer period, as the adoption of crypto is an ongoing topic."
+}
+}
+},
+{
+"tweet_id": "1476813266462539779",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet details a rug pull incident involving the $YEAR token, which is a significant event in the crypto community and likely to be shared widely."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides detailed information about the incident, which is valuable for the crypto community."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The tweet expresses frustration and disappointment due to the rug pull incident."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet is relevant for a medium period, as rug pulls are a recurring issue in the crypto space."
+}
+}
+},
+{
+"tweet_id": "1476606711511273473",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet is a humorous take on the availability of NFTs and Ethereum, which may generate some engagement but is unlikely to go viral."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet does not provide any new information or data, but it is a humorous take on the topic."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses a positive sentiment through humor."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet is relevant only for a short period, as it is a joke about a specific scenario."
+}
+}
+},
+{
+"tweet_id": "1476312812431499274",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet promotes a sacrifice on Ethereum for human rights, which may resonate with a specific audience but is unlikely to go viral beyond that."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides information about a specific action on Ethereum, which is useful for the crypto community."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses a positive sentiment, promoting belief in human rights."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet is relevant for a medium period, as it discusses a specific event but the topic of human rights is ongoing."
+}
+}
+},
+{
+"tweet_id": "1476190876917542921",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The tweet shows a luxury purchase using Ethereum, which is a significant event and likely to be shared widely in the crypto community."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet provides a personal anecdote about using Ethereum for a purchase, which is not particularly informative."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The tweet expresses a very positive sentiment, showing excitement about the purchase."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet is relevant only for a short period, as it is a personal achievement."
+}
+}
+},
+{
+"tweet_id": "1476161318923165697",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet is a niche topic about gamers and Ethereum, which may generate some engagement but is unlikely to go viral."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet provides a brief statement about the origin of Ethereum, which is somewhat informative."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, as it is a statement rather than expressing a strong emotion."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet is relevant only for a short period, as it is a specific statement about a topic."
+}
+}
+},
+{
+"tweet_id": "1475845130082918402",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet explains the evolution from Bitcoin to NFTs, which is a significant topic in the crypto space and likely to be shared widely."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides a clear and concise explanation of the evolution of crypto, which is highly informative."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses a positive sentiment, highlighting the significance of each development."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The tweet discusses foundational concepts that are relevant for a long period, as they are part of the history of crypto."
+}
+}
+},
+{
+"tweet_id": "1475763564145254405",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet asks if 10 ETH would change someone's life, which is a relatable question in the crypto community and may generate some engagement."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet provides a question about the impact of ETH, which is somewhat informative but not particularly detailed."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, as it is a question rather than expressing a strong emotion."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet is relevant only for a short period, as it is a specific question about a topic."
+}
+}
+}
+]

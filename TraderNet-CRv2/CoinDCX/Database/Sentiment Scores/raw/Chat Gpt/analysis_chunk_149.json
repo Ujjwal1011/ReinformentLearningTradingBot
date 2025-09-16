@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1506277389910872066",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet is from a celebrity and references a well-known figure, generating high engagement, but it lacks a strong emotional hook or breaking news."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet offers no factual or newsworthy content; it is a vague statement with no context."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is a neutral statement with no strong emotional tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "As a meme referencing a historical event, it may remain relevant for a few days but will likely fade."
+}
+}
+},
+{
+"tweet_id": "1506242165764235271",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Breaking news about Japan's regulatory change is likely to be widely shared within the crypto community and beyond."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides factual, newsworthy information about a new green list of coins."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is a neutral factual announcement."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The regulatory change will remain relevant for weeks or months, sustaining engagement."
+}
+}
+},
+{
+"tweet_id": "1506238649557471242",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The story of Ukraine raising funds via crypto is emotionally resonant and likely to spread widely."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet reports a significant factual event with financial details."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses positive sentiment about crypto aiding Ukraine."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The fundraising effort will continue for weeks, keeping the tweet relevant."
+}
+}
+},
+{
+"tweet_id": "1506002002949591042",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "A quote from Vitalik Buterin is likely to be shared widely within the crypto community."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet offers insight into the philosophy of crypto, providing some educational content."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet conveys a moderately positive view of crypto's purpose."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The quote may be referenced for months as a foundational statement about crypto."
+}
+}
+},
+{
+"tweet_id": "1505995779240079365",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The hype statement is short, punchy, and likely to be shared widely."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet offers no factual or newsworthy information."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses strong positive hype about Ethereum."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The hype will likely fade quickly, with limited long-term relevance."
+}
+}
+}
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1764439614448869747",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Strong hook about Bitcoin and Ethereum as digital gold and oil, likely to spark debate within crypto communities, but limited by lack of link or hashtag."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Provides a general statement without verifiable data or sources."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual statement without strong emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "General statement may be referenced for a few days or weeks but not long-term."
+      }
+    }
+  },
+  {
+    "tweet_id": "1764379331290436018",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Technical update relevant to developers, but limited to niche community."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides verifiable technical information with a link to the update."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "No emotional tone, purely informational."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Technical update remains relevant for developers for weeks until next update."
+      }
+    }
+  },
+  {
+    "tweet_id": "1764237667309326461",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Large amount minted, high engagement, widely shared."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides verifiable data about USDT minting."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Emojis suggest excitement, but overall neutral."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Event remains relevant for a few days or weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1763602745720775005",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Promotional content may be shared within community but limited beyond."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Provides information about fee structure but not newsworthy."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone, encouraging users."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Limited time offer, relevance fades after."
+      }
+    }
+  },
+  {
+    "tweet_id": "1763585856189702325",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High-profile source, likely to be shared widely."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides a statement from a known figure, but lacks depth."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Expresses disappointment for .eth community, but with humor."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "May be referenced for weeks as ETF discussion continues."
+      }
+    }
+  }
+]

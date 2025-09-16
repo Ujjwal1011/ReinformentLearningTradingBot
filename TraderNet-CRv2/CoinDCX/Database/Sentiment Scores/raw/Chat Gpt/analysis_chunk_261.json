@@ -1,0 +1,107 @@
+[
+{
+    "tweet_id": "1570320009976778755",
+    "analysis": {
+        "virality_potential": {
+            "score": 6,
+            "justification": "It's a personal update about starting Ethereum mining that may interest crypto enthusiasts but lacks a strong hook for broad viral spread."
+        },
+        "informative_value": {
+            "score": 3,
+            "justification": "The tweet shares a personal milestone without substantive factual or educational content."
+        },
+        "sentiment_polarity": {
+            "score": 7,
+            "justification": "The user expresses hopeful and positive sentiment, wishing luck and using a praying emoji."
+        },
+        "duration_of_impact": {
+            "score": 3,
+            "justification": "The tweet is tied to a specific personal event and will likely lose relevance after the initial excitement."
+        }
+    }
+},
+{
+    "tweet_id": "1570316410093436929",
+    "analysis": {
+        "0": {
+            "score": 9,
+            "justification": "The tweet announces the completion of the Ethereum Merge from a high-profile source (Binance), a major blockchain event likely to be widely shared across crypto communities."
+        },
+        "informative_value": {
+            "score": 9,
+            "justification": "It conveys verifiable, newsworthy information about the Ethereum Merge and the resumption of deposits and withdrawals on Binance."
+        },
+        "sentiment_polarity": {
+            "score": 5,
+            "justification": "The tweet presents factual information without strong emotional language, remaining neutral."
+        },
+        "duration_of_impact": {
+            "score": 8,
+            "justification": "The Ethereum Merge is a historic milestone, giving the tweet lasting relevance for months as it is referenced in discussions about the network."
+        }
+    }
+},
+{
+    "tweet_id": "1570313573880197137",
+    "analysis": {
+        "virality_potential": {
+            "score": 7,
+            "justification": "The tweet celebrates the Ethereum merge completion with enthusiastic language, likely to be shared among crypto enthusiasts."
+        },
+        "informative_value": {
+            "score": 5,
+            "justification": "It announces the merge is complete but provides no additional details or sources."
+        },
+        "sentiment_polarity": {
+            "score": 8,
+            "justification": "The tweet expresses strong excitement and optimism about the new era."
+        },
+        "duration_of_impact": {
+            "score": 6,
+            "justification": "While the merge remains significant, the tweet's generic nature limits its long‑term relevance."
+        }
+    }
+},
+{
+    "tweet_id": "1570313251447246848",
+    "analysis": {
+        "virality_potential": {
+            "score": 6,
+            "justification": "The tweet discusses the start of Ethereum's proof‑of‑stake roadmap, which is of interest to the crypto community but lacks a strong hook for broader virality."
+        },
+        "informative_value": {
+            "score": 4,
+            "justification": "It hints at future developments without providing concrete details or context."
+        },
+        "sentiment_polarity": {
+            "score": 7,
+            "justification": "The language is optimistic, welcoming the proof‑of‑stake world."
+        },
+        "duration_of": {
+            "score": 7,
+            "justification": "References to an ongoing roadmap can keep the tweet relevant for weeks or months as updates unfold."
+        }
+    }
+},
+{
+    "tweet_id": "1570310664236994561",
+    "analysis": {
+        "virality_potential": {
+            "score": 8,
+            "justification": "The tweet highlights a notable environmental benefit of the Ethereum merge, a topic that can attract broad interest beyond crypto enthusiasts."
+        },
+        "informative_value": {
+            "score": 7,
+            "justification": "It presents a quantitative claim that the merge will reduce worldwide electricity consumption by 0.2%, offering informative content despite lacking a source."
+        },
+        "sentiment_polarity": {
+            "score": 6,
+            "justification": "The tweet conveys a positive environmental outcome without strong emotional language."
+        },
+        "duration_of_impact": {
+            "score": 8,
+            "justification": "The claim about reduced electricity consumption remains relevant as sustainability discussions persist over months."
+        }
+    }
+}
+]

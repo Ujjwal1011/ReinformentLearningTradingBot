@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1456659329617211396",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "A quote from Elon Musk about Dogecoin, a popular cryptocurrency, with humor, likely to be shared widely."
+},
+"informative_value": {
+"score": 4,
+"justification": "Personal anecdote about acquiring crypto, not a formal report."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment due to humor and mention of Dogecoin."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Short-term impact as it's a specific moment."
+}
+}
+},
+{
+"tweet_id": "1456634154783756300",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Significant purchase news, likely shared among crypto communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides specific data on a large purchase."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment about the purchase."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Impact lasts a few days."
+}
+}
+},
+{
+"tweet_id": "1456596960048304130",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Statement from JPMORGAN, a reputable source, likely widely shared."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides analysis on Ethereum's potential."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment about Ethereum."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Impact lasts due to future trends discussion."
+}
+}
+},
+{
+"tweet_id": "1456367942497705998",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Bold investment prediction, generates discussion."
+},
+"informative_value": {
+"score": 5,
+"justification": "Opinion without data."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Positive sentiment about Ethereum."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Impact lasts due to long-term prediction."
+}
+}
+},
+{
+"tweet_id": "1456314965460242433",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Personal story about crypto accessibility, likely shared."
+},
+"informative_value": {
+"score": 5,
+"justification": "Story about crypto use."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Positive sentiment about crypto."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Short-term impact."
+}
+}
+},
+{
+"tweet_id": "1456295183008534531",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Price prediction, generates excitement."
+},
+"informative_value": {
+"score": 5,
+"justification": "Speculative prediction."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Positive sentiment about Ethereum."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Impact lasts due to bull cycle context."
+}
+}
+},
+{
+"tweet_id": "1456198725504798721",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Encouragement to hold Ethereum in Spanish, shared in specific communities."
+},
+"informative_value": {
+"score": 5,
+"justification": "Encouragement without detailed info."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Short-term impact."
+}
+}
+},
+{
+"tweet_id": "1456071144075776001",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Discusses crypto network issues, shared among users."
+},
+"informative_value": {
+"score": 7,
+"justification": "Information on Ethereum fees."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "Negative sentiment towards Ethereum fees."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Impact lasts due to current issues."
+}
+}
+},
+{
+"tweet_id": "1456018351474544649",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Investment comparison, likely shared."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides historical data."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment about crypto growth."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Timeless historical comparison."
+}
+}
+},
+{
+"tweet_id": "1455791603352850433",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Technical analysis with bullish prediction."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides analysis on price target."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "Very positive sentiment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Impact lasts due to technical discussion."
+}
+}
+}
+]

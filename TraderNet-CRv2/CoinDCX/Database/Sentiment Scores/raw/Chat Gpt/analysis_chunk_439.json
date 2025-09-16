@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1745884941102235915",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet announces a major development in crypto finance, referencing BlackRock and Larry Fink, and is posted by a well-followed crypto news outlet. The topic is trending and likely to be shared widely within the crypto community and beyond."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "It provides a concise news update that BlackRock is moving toward an Ethereum ETF and that Larry Fink supports tokenization, offering readers a quick insight into a significant market development."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet expresses enthusiasm and optimism about the ETF, using exclamation marks and positive language."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The announcement of a BlackRock Ethereum ETF is a landmark event that will be referenced for months or years as it shapes the crypto market."
+      }
+    }
+  },
+  {
+    "tweet_id": "1745805579095056648",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "A speculative question about a future price target can spark discussion among followers, but it lacks a breaking news hook, so its spread is moderate."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet poses a question rather than delivering factual information, offering minimal new knowledge."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral, simply asking a question without expressing strong emotions."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Speculation about a price target remains relevant for a short period, likely a few days to weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1745778861583819124",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "A commentary on Larry Fink's stance may attract attention from crypto enthusiasts, but it is not a headline event, so its reach is limited."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "The tweet presents an opinion about Fink's actions without supporting evidence, providing limited factual content."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The tweet conveys a positive view of Fink's involvement, indicating optimism."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The commentary is tied to a current event and will likely fade after a few weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1745777713544143241",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "A breaking news tweet quoting BlackRock's CEO about an Ethereum ETF is highly shareable, especially within finance and crypto circles."
+      },
+      "informative_value": {
+        "score": 10,
+        "justification": "It contains a direct quote from a primary source, delivering verifiable information about BlackRock's stance."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is a neutral report of a statement, lacking emotional language."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The news about BlackRock's ETF plans will remain relevant for months as the market reacts."
+      }
+    }
+  },
+  {
+    "tweet_id": "1745769388177842359",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "A headline announcing BlackRock's interest in an Ethereum ETF is likely to attract attention, though it may not go viral beyond the finance community."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The headline conveys a factual statement from a news source, providing clear information about BlackRock's position."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, simply reporting the headline."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The announcement will stay relevant for months as the ETF development unfolds."
+      }
+    }
+  }
+]

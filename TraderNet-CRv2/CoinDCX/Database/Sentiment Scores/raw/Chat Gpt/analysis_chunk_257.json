@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1570959238536790017",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Personal update with humor but no strong hook or trending topic, unlikely to go viral."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No factual or newsworthy content, just personal description."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Lighthearted, neutral tone with mild positivity."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Personal content quickly becomes irrelevant, short-lived."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570888703257739265",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet addresses a serious incident and includes hashtags, potentially resonating within Turkish communities, but the lack of a clear hook limits global virality."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "It shares details about a violent incident, but the information is unverified and anecdotal."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "The tweet expresses sadness and condemnation, reflecting a negative emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The incident is time-bound; relevance may fade after a few days or weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570621003545575424",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet highlights major milestones and uses popular handles, which can attract attention within entrepreneurial and crypto communities, giving it medium-to-high virality potential."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It cites specific financial figures and a notable merger, providing verifiable and newsworthy information."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tweet conveys pride and positivity about the achievements mentioned."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The referenced events remain relevant for weeks to months, sustaining engagement beyond the immediate moment."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570593439896711168",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "A concise, intriguing fact about a prominent figure can be widely shared, especially within crypto communities, giving it moderate virality potential."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet states a verifiable historical fact about Vitalik Buterin, providing clear informational value."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral, presenting the fact without emotional bias."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The fact is historically relevant and will remain interesting for a long time."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570573636603641856",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet references a potential regulatory shift for a major cryptocurrency, a topic that can spark widespread discussion and sharing."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "It cites a reputable news outlet (WSJ) and provides a clear, verifiable statement about a regulatory assessment."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet reports the information factually, with no strong emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The regulatory assessment is likely to be referenced for weeks or months as the situation develops."
+      }
+    }
+  }
+]

@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1522430106920275968",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet presents a surprising fact about Ethereum's transaction volume compared to Visa, which could attract attention within the cryptocurrency community and beyond."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides a specific, verifiable fact about Ethereum's performance, making it informative for those interested in blockchain technology."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, presenting a fact without strong emotional language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The information is likely to be relevant for some time, as it highlights Ethereum's capabilities, which could be referenced in discussions about blockchain scalability."
+}
+}
+},
+{
+"tweet_id": "1522341627062554625",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet provides a snapshot of cryptocurrency price changes, which may be shared among crypto enthusiasts but lacks a strong hook for broader virality."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet offers specific data on price changes, which is useful for investors and those following the crypto market."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The overall tone is negative due to the price drops mentioned."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The information is relevant for a short period, as cryptocurrency prices are highly volatile and this data will quickly become outdated."
+}
+}
+},
+{
+"tweet_id": "1522284534598967300",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The announcement of Hop becoming Ethereum infrastructure could be shared within the Ethereum and blockchain communities."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides information about a significant project update, which is valuable for those following Hop Protocol and Ethereum infrastructure."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses excitement and positivity about the project's future."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The information will remain relevant for some time, as it pertains to a foundational infrastructure development."
+}
+}
+},
+{
+"tweet_id": "1522229736415674369",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet combines humor with a well-known figure, making it likely to be shared within the Ethereum community and among Spanish-speaking users."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet contains minimal information beyond a joke and a link, which does not provide substantial value."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The tweet contains negative language and a derogatory comment about Vitalik Buterin."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is limited to the joke and will likely fade quickly."
+}
+}
+},
+{
+"tweet_id": "1522172309003726850",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet connects market movements to a significant event (historic rate hike), which could be shared among investors and crypto enthusiasts."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides context on market reactions to a major economic event, which is useful for investors."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, presenting information without strong emotional language."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The information is relevant for a few days, as it pertains to a specific event and its immediate aftermath."
+}
+}
+},
+{
+"tweet_id": "1521929393987330048",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet uses a well-known figure (Vitalik Buterin) and a motivational message, which could resonate with the Ethereum and blockchain communities."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet provides a historical fact about Vitalik Buterin but does not offer substantial new information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet has a positive and encouraging tone."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's message is motivational and could be referenced for some time, but its relevance will diminish as new developments emerge."
+}
+}
+},
+{
+"tweet_id": "1521812657854160901",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet connects a significant price increase to a well-known figure (Elon Musk), making it likely to be shared widely within the crypto and NFT communities."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides specific information about the impact of Elon Musk's action on BAYC's floor price."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses excitement about the price increase."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The information is relevant for a few days, as it pertains to a specific event and its immediate aftermath."
+}
+}
+},
+{
+"tweet_id": "1521699713615278080",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet critiques Yuga Labs, which could be shared within the NFT community, but lacks a strong hook for broader virality."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet highlights issues in the NFT space, providing valuable insights for those interested in the industry."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "The tweet has a critical tone, pointing out problems in the NFT space."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The information will remain relevant for some time, as it pertains to ongoing issues in the NFT market."
+}
+}
+},
+{
+"tweet_id": "1521688731006259201",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet quotes a well-known figure (Vitalik Buterin) on a critical topic (transaction fees), making it likely to be shared within the Ethereum community."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides a direct quote from Vitalik Buterin on a key issue in the Ethereum network."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, presenting Vitalik's statement without additional commentary."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The information will remain relevant for some time, as transaction fees are a持续关注的问题 in the Ethereum network."
+}
+}
+},
+{
+"tweet_id": "1521597610590670850",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet highlights a significant sale in the Ethereum domain market, which could be shared among those interested in blockchain and NFTs."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides specific information about a high-profile domain sale, which is valuable for those following the Ethereum ecosystem."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet has a positive tone, emphasizing the high price paid for the domain."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The information is relevant for a few days, as it pertains to a specific event and its immediate aftermath."
+}
+}
+}
+]

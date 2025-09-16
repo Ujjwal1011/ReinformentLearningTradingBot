@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1486722980512092163",
+"analysis": {
+"virality_potential": {
+"score": 2,
+"justification": "The tweet contains only a brief mention of two cryptocurrencies and a link, with no hashtags or engaging hook, making it unlikely to spread beyond the author's followers."
+},
+"informative_value": {
+"score": 3,
+"justification": "It links to content about Ethereum and Cardano but provides no context or summary, offering minimal information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply stating two names without emotional language."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The link may be relevant for a short period, but the tweet itself lacks evergreen content, so its impact is expected to fade within a day or two."
+}
+}
+},
+{
+"tweet_id": "1486611133561667584",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet offers a how-to guide on monetizing NFTs, includes multiple relevant hashtags, and a link, which can attract shares within crypto communities, but it is not a globally viral hook."
+},
+"informative_value": {
+"score": 7,
+"justification": "It provides actionable steps and references to major cryptocurrencies, making it a useful resource for NFT creators."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral and instructional, with no strong emotional language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "As a guide, it can remain useful for weeks as NFT monetization remains a relevant topic."
+}
+}
+},
+{
+"tweet_id": "1486429218250518532",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet presents a market analysis linking NFTs and Ethereum, which may resonate with crypto traders and be shared within niche communities, but it lacks a broader hook."
+},
+"informative_value": {
+"score": 6,
+"justification": "It offers speculative insight into market trends and mentions transaction burning, providing moderate informational value."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, presenting an opinion without strong emotional words."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The analysis may stay relevant for a few weeks as market conditions evolve."
+}
+}
+},
+{
+"tweet_id": "1486406411336704002",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet commemorates a historic event with a photo link and a hashtag, appealing to Ethereum enthusiasts and potentially shared within the community."
+},
+"informative_value": {
+"score": 8,
+"justification": "It recounts a factual historical moment with specific details and a visual reference, offering high informational value."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, simply recounting an event."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Historical events remain relevant for years, making the tweet's impact long-lasting."
+}
+}
+},
+{
+"tweet_id": "1486404880486961155",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet alerts about a significant whale purchase during a market correction, a headline-worthy event likely to be widely shared."
+},
+"informative_value": {
+"score": 9,
+"justification": "It provides a specific figure and context, delivering high-value market information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, reporting a fact."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Market events like large whale buys can influence trading for days or weeks, giving the tweet medium-term relevance."
+}
+}
+}
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1754825764896202877",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Crypto community memes about competitor networks often get shared within niche communities, but lack universal appeal."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Primarily a meme/joke about Solana's outage with no substantive information about the incident."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral observational humor without clear positive/negative emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant until next network outage occurs, typically weeks/months in crypto space."
+      }
+    }
+  },
+  {
+    "tweet_id": "1754613381250584833",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Engagement-driving question about crypto narratives from a major account, likely to spark widespread discussion."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides historical context of crypto trends but lacks new data/analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of historical data with an open-ended question."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Annual narrative discussions remain relevant throughout the year in crypto communities."
+      }
+    }
+  },
+  {
+    "tweet_id": "1754578828679164110",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Warning about scams may resonate within crypto communities but lacks viral hooks."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "General warning without specific examples or verifiable data about scams."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Moderately negative tone criticizing 'terrible coins' and exploitation."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Scam warnings have standard relevance cycle in crypto spaces (1-2 weeks)."
+      }
+    }
+  },
+  {
+    "tweet_id": "1754531833604186175",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major partnership announcement between established companies in web3 space."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Concrete news about domain integration with ENS names from verified source."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual announcement without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Partnership implications will be discussed for weeks as integration develops."
+      }
+    }
+  },
+  {
+    "tweet_id": "1754130433770700829",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Speculative question about Bitcoin airdrops taps into crypto community interests."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Raises concept without supporting evidence or concrete details."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral question framed as hypothetical scenario."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to potential (unconfirmed) airdrop announcements."
+      }
+    }
+  },
+  {
+    "tweet_id": "1753794973387067678",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Engaging hypothetical price scenario from major crypto account prompts discussion."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Pure speculation without data or analysis about price predictions."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive excitement about potential price surges implied by 'You blinked' framing."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Hypotheticals lose relevance quickly without real price movement."
+      }
+    }
+  },
+  {
+    "tweet_id": "1753315841582756030",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "'Free coins' claims attract attention but may be perceived as spammy."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Vague promotion without explaining what the 'free coins' entail."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive language ('awesome', 'free coins') though potentially misleading."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term relevance unless scam allegations emerge."
+      }
+    }
+  },
+  {
+    "tweet_id": "1753031721031967045",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Project statistics might interest crypto enthusiasts but lack broad appeal."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Provides platform usage stats with source links, though context is limited."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of statistics with mild positive adjective ('looking good')."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Statistics become outdated quickly in fast-moving crypto markets."
+      }
+    }
+  },
+  {
+    "tweet_id": "1774270090994909671",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Extreme ROI story (+122,000%) with community criticism creates strong engagement drivers."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Specific transaction example with verifiable on-chain data, though single anecdote."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative comparison criticizing Cardano/Ethereum holders."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Notable trade example will be referenced in crypto circles for months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1774183769714356226",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Humorous critique of crypto complexity resonates with experienced community members."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Rant about system complexity without educational content."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Frustrated tone evident in 'what the fuck' opener and critical structure analysis."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevant until next instance of similar crypto infrastructure debate."
+      }
+    }
+  }
+]

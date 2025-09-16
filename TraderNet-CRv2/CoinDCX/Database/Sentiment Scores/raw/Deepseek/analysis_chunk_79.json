@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1502404977175810061",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Significant crypto milestone presented as breaking news, likely to generate substantial interest within cryptocurrency communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides verifiable market data about staking assets with clear numerical metrics."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement without emotional language or explicit opinion."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for weeks/months as a notable market development, but may be superseded by newer data."
+      }
+    }
+  },
+  {
+    "tweet_id": "1502298042837483523",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Unconstitutional proposal likely to spark discussion in tech circles but lacks mass appeal."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Presents a speculative personal idea rather than factual information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Expresses optimistic ambition about creating new communities."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Could maintain relevance for weeks in niche discussions about techno-utopianism."
+      }
+    }
+  },
+  {
+    "tweet_id": "1502188549394690050",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Niche crypto news with limited appeal beyond cryptocurrency enthusiasts."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Reports specific blockchain transaction data with verifiable details."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting style without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance limited to current market cycle for Bitcoin transactions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1502148988371300358",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Technical critique likely to resonate within blockchain developer communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides insightful technical comparison between blockchain architectures."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Critically compares new chains to Ethereum with implied skepticism."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant for ongoing discussions about blockchain scalability."
+      }
+    }
+  },
+  {
+    "tweet_id": "1501896694161559555",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Historical Bitcoin transaction news with moderate interest to crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Reports verifiable on-chain activity with specific monetary values."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of blockchain activity without emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term relevance tied to this specific transaction event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1501720852416503811",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Humorous crypto-related life advice with strong meme potential."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Jocular suggestion without substantive information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Playful positive suggestion about cryptocurrency adoption."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-lived humor tied to current crypto culture trends."
+      }
+    }
+  },
+  {
+    "tweet_id": "1501414564428091398",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Important network metrics likely to interest Ethereum users and developers."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific, verifiable data about network fee trends."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of network statistics."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for weeks as users consider transaction cost implications."
+      }
+    }
+  },
+  {
+    "tweet_id": "1501309972822515715",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Major financial institution adoption news with broad crypto market implications."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Reports significant institutional development with source attribution."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of business development."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Will remain relevant for months as institutional crypto adoption progresses."
+      }
+    }
+  },
+  {
+    "tweet_id": "1501042422356189188",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Relatable crypto humor combining current events with insider perspective."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Primarily humorous content without substantive information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Playful positive comparison using crypto in-joke."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term relevance tied to current gas price discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1501004812716023808",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Striking demonstration of blockchain efficiency with large transaction example."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific transaction metrics highlighting blockchain features."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of transaction facts with implied positive spin."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Will be referenced in blockchain efficiency discussions for months."
+      }
+    }
+  }
+]

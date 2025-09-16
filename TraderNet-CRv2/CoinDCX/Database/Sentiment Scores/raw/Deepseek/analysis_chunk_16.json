@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1441370938675589123",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Humorous take on crypto market manipulation with popular hashtags could resonate within crypto communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Primarily a joke about market prices without substantive information."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Playful tone with implied optimism about buying opportunities."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Tied to specific price levels that may become outdated quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1441120804637270017",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Fear-driven financial advice about multiple crises from an influential account has high share potential."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific economic warnings and investment recommendations."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Strong negative tone regarding economic collapse."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Economic crash predictions maintain relevance for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1441080057603235841",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Price comparison meme format popular in crypto circles."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Basic historical price data without context."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive encouragement to hold crypto assets."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Price-based content becomes quickly outdated."
+      }
+    }
+  },
+  {
+    "tweet_id": "1440551464129101831",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Personal trade update lacks broader appeal beyond crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Specific price-level purchase but no deeper analysis."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive action (buying) implied confidence."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Immediate price reference with short-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1439950651241476100",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Humorous comparison between crypto and real estate could spread as a meme."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No substantive information - purely a joke."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral humor without clear positive/negative direction."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Jokes typically have short cultural lifespans."
+      }
+    }
+  },
+  {
+    "tweet_id": "1439396776054767617",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Inside joke about ETH pronunciation could engage crypto community."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Highlights governance aspects of Ethereum network."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral observation about community dynamics."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Ongoing debates about decentralization maintain relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1439340434719916033",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Authoritative take on Ethereum's dominance from an analyst account."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides perspective on blockchain competition landscape."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Confident positive assessment of Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Discussions about layer-1 competition remain relevant for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1439221165785030663",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Simple question lacks inherent shareability drivers."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No information conveyed - purely a question."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral inquiry without emotional valence."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Question's relevance expires with market conditions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1439091781547687937",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Controversial take on Ethereum from an influencer likely to spark debates."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Personal investment decision with some ecosystem commentary."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Strong negative language ('Fool's coin')."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Ongoing ETH vs BTC debates maintain relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1439063583405522946",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Mirroring a controversial Bitcoin take likely to generate engagement."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Mirror argument about Bitcoin with ecosystem commentary."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Strong negative language ('Fool's gold')."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Part of persistent crypto tribalism discussions."
+      }
+    }
+  }
+]

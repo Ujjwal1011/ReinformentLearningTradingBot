@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1487126706519306241",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet discusses a niche topic (Ethereum gas fees) but may not reach a broad audience beyond crypto enthusiasts."
+},
+"informative_value": {
+"score": 5,
+"justification": "Provides a personal opinion on Ethereum gas fees without detailed data or sources."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Expresses frustration with Ethereum gas fees, indicating moderately negative sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a short period, as it pertains to current issues that may resolve with updates."
+}
+}
+},
+{
+"tweet_id": "1486976379396956160",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Targets a specific audience interested in crypto, but lacks a strong hook for broader sharing."
+},
+"informative_value": {
+"score": 6,
+"justification": "Contains market analysis with relevant hashtags, providing some useful information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment, presenting information without strong emotion."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days, tied to short-term market movements."
+}
+}
+},
+{
+"tweet_id": "1486875086233620481",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Speculation about Elon Musk's actions could generate buzz within crypto communities."
+},
+"informative_value": {
+"score": 5,
+"justification": "Opinion-based prediction without concrete data."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Expresses optimism about Ethereum's future, indicating very positive sentiment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for weeks as it discusses future trends and potential acquisitions."
+}
+}
+},
+{
+"tweet_id": "1486856307328098307",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Compares transaction fees, likely shared within blockchain communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides concrete data on transaction volumes and fees, highly informative."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment, encouraging blockchain development."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for weeks as it discusses ongoing blockchain improvements."
+}
+}
+},
+{
+"tweet_id": "1486774501736075264",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Announcement from a reputable company, likely shared within crypto circles."
+},
+"informative_value": {
+"score": 9,
+"justification": "Critical information about Ethereum's scalability from Mastercard, highly informative."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment about Ethereum's future improvements."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Long-term impact as it addresses foundational infrastructure improvements."
+}
+}
+},
+{
+"tweet_id": "1486722980512092163",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Links without context, unlikely to go viral beyond niche audiences."
+},
+"informative_value": {
+"score": 3,
+"justification": "Minimal information provided, primarily a link without explanation."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment, no strong emotional tone."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Very short-term relevance as it's a simple link without context."
+}
+}
+},
+{
+"tweet_id": "1486611133561667584",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Provides actionable advice on NFTs, likely shared within crypto communities."
+},
+"informative_value": {
+"score": 7,
+"justification": "Educational content on monetizing NFTs, useful for enthusiasts."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive sentiment, encouraging NFT adoption."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for weeks as it discusses ongoing trends in NFTs."
+}
+}
+},
+{
+"tweet_id": "1486429218250518532",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Speculation about Ethereum's future could generate interest in crypto circles."
+},
+"informative_value": {
+"score": 6,
+"justification": "Discusses NFTs and Ethereum's potential, providing some insight."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment about Ethereum's growth and future."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for weeks as it addresses future trends and market movements."
+}
+}
+},
+{
+"tweet_id": "1486406411336704002",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Celebrates Ethereum's anniversary, likely shared within the crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides historical context and mentions key figures, highly informative."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment, celebrating Ethereum's milestones."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Long-term impact as it marks a significant historical event."
+}
+}
+},
+{
+"tweet_id": "1486404880486961155",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Alert about whales buying Ethereum could generate interest in crypto communities."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides information on market movements and whale activity."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment, indicating optimism about Ethereum's market performance."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a short period, tied to current market events."
+}
+}
+}
+]

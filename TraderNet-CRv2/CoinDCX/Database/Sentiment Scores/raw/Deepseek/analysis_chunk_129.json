@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1570552928586563586",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Provides timely educational content about a major blockchain event (ETH merge) with clear value for crypto communities, likely to be shared widely within these circles."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Offers structured educational content with a thread link explaining critical technical concepts following a major network upgrade."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral instructional tone focused on education rather than emotional expression."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Proof-of-Stake concepts will remain relevant for Ethereum users long-term, though technical details may become dated."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570510964092735489",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Personal boast about price prediction lacks broader appeal or value proposition for sharing beyond crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Contains no verifiable information or context about the claimed price prediction."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong positive self-congratulatory tone using 'I was right' declaration."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Price commentary becomes irrelevant almost immediately as markets change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570504058087280641",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Sarcastic comparison to Turkish lira creates humorous engagement potential in crypto communities during price volatility."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Primarily humorous commentary without substantive information about the merge."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Moderately negative tone implied through sarcastic price criticism."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Tied to immediate post-merge price movement with fleeting relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570489098522984455",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Breaking news framing combined with price impact creates high share potential in crypto circles."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Reports verifiable event (The Merge) with price impact data, though contains opinionated language ('most divisive competitor')."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Moderately negative tone through phrases like 'gave up competing' and price decline focus."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Historic network change will be referenced in crypto discussions for years, though specific price impact is short-term."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570484385694224384",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Official congratulations from public figure with environmental impact claim boosts shareability."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific environmental impact statistic (.2% reduction) though source isn't cited."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Strong positive sentiment through congratulatory message and environmental benefit emphasis."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Environmental impact claims will remain part of long-term Ethereum discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570431939571597312",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Paradoxical headline about historic event vs price drop creates engagement potential."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "States basic price movement without deeper analysis or context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of factual price information despite implied criticism."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Price snapshot loses relevance quickly, though event remains historic."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570431798210924544",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Generic congratulatory message with moderate engagement metrics from established account."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Contains no substantive information beyond basic congratulations."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Clear positive sentiment through congratulatory language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Event-specific message with fading relevance post-merge."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570430783684321281",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Sarcastic question captures community sentiment during price disappointment, encouraging engagement."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Rhetorical question without informational content beyond expressing doubt."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Moderately negative tone through implied disappointment in price performance."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Tied to immediate post-merge price expectations with short relevance window."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570416213548990468",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Provocative comparison between Ethereum and Bitcoin mechanics could spark debates in crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Explains technical differences in reward distribution between two blockchains."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral explanatory tone despite implied Bitcoin preference."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Ongoing debate about proof-of-work vs proof-of-stake ensures lasting relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570379858907365376",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Notable NFT record with high transaction fee creates shareable curiosity factor."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Reports verifiable on-chain event with specific transaction details."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of transaction facts without explicit commentary."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Historic NFT record will be referenced in crypto discussions, though transaction fees may change."
+      }
+    }
+  }
+]

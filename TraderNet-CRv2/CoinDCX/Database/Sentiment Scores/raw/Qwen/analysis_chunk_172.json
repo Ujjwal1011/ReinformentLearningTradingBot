@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1732570659941761183",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet addresses a specific community issue and uses a relevant hashtag, likely to be shared within the niche."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides clear information about a change in claim resolution, useful for the community."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive sentiment with a heart emoji, indicating community support."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The change affects current users and may be relevant for a few weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732565692489101667",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Discusses a significant investment in Solana, a hot topic in crypto."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides a detailed thesis on Solana's potential, valuable for investors."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive, highlighting potential and opportunity."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The thesis could influence long-term investment decisions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732564122892751020",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Discusses the booming NFT market, a trending topic."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific data on transaction volume."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive, indicating market recovery."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Market trends can be relevant for a few weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732555298341302325",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "News about Bitcoin and NFTs in Vietnam."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides news on market trends and El Salvador's investment."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, presenting facts."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Current news, relevant for a few days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732551684117995725",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Introduces a new stablecoin, of interest to the crypto community."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Details about a new financial product."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive, introducing a new product."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant as long as the stablecoin is in use."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732550752059695150",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Discusses price movements, attracting attention."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides price data and investor interest."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive, indicating growth."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Price trends relevant for a few weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732550536938070136",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Personal update with emojis and hashtags."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Minimal, more of a personal update."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative, expressing frustration about losses."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term, personal update."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732541059903918380",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Emotional appeal with a sad emoji, resonates with the crypto community."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Minimal, just a reminder."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Negative, expressing nostalgia or concern."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term, reminder."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732525859418857702",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Tips for domain registration, niche but useful."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides actionable advice."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, informative."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant as long as domains are available."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732524953902153869",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Shares success with Solana airdrop, attracting attention."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides a personal success story."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive, excited about the outcome."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for a few weeks as others might follow the method."
+      }
+    }
+  }
+]

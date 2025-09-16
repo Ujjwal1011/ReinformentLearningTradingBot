@@ -1,0 +1,107 @@
+[
+{
+    "tweet_id": "1594744015433367552",
+    "analysis": {
+        "virality_potential": {
+            "score": 7,
+            "justification": "The tweet links to a detailed report mapping the FTX attack, a topic of high interest within the crypto community, which can be widely shared among enthusiasts but is unlikely to break into mainstream audiences."
+        },
+        "informative_value": {
+            "score": 8,
+            "justification": "It provides a primary source of data (addresses related to the FTX hack) and promises ongoing updates, offering substantial factual information for investigators and analysts."
+        },
+        "sentiment_polarity": {
+            "score": 5,
+            "justification": "The language is neutral and factual, simply announcing the report without expressing strong positive or negative emotions."
+        },
+        "duration_of_impact": {
+            "score": 7,
+            "justification": "The mapping of addresses will remain relevant for weeks or months as the investigation into the FTX collapse continues, giving it a medium‑long lifespan."
+        }
+    }
+},
+{
+    "tweet_id": "1594680142416199681",
+    "analysis": {
+        "virality_potential": {
+            "score": 5,
+            "justification": "The personal shift from DeFi to Bitcoin maximalism may resonate with a niche audience debating crypto philosophies, leading to moderate sharing within that community."
+        },
+        "informative_value": {
+            "score": 3,
+            "justification": "The tweet is primarily an opinion statement without verifiable data or news, offering limited informational content."
+        },
+        "sentiment_polarity": {
+            "score": 3,
+            "justification": "The author expresses frustration and negativity toward DeFi, using strong language like \"used AGAINST us,\" indicating a moderately negative tone."
+        },
+        "duration_of_impact": {
+            "score": 4,
+            "justification": "As a personal viewpoint, its relevance is likely short‑term, tied to ongoing debates but unlikely to be referenced long after the discussion fades."
+        }
+    }
+},
+{
+    "tweet_id": "1594656058693197825",
+    "analysis": {
+        "virality_potential": {
+            "score": 6,
+            "justification": "Concrete data about Grayscale holdings is valuable to investors and analysts, prompting sharing within financial and crypto circles, though not likely to go viral beyond those groups."
+        },
+        "informative_value": {
+            "score": 8,
+            "justification": "The tweet discloses specific, quantitative information about Bitcoin and Ethereum trust holdings, which is newsworthy and useful for market participants."
+        },
+        "sentiment_polarity": {
+            "score": 5,
+            "justification": "The tone is neutral, simply presenting figures without emotional language."
+        },
+        "duration_of_impact": {
+            "score": 6,
+            "justification": "While the data is a snapshot for a specific date, it may be referenced for weeks as analysts assess market positions before newer reports replace it."
+        }
+    }
+},
+{
+    "tweet_id": "1594508410497949697",
+    "analysis": {
+        "virality_potential": {
+            "score": 6,
+            "justification": "A humorous speculation about Ethereum reaching $4k around Thanksgiving can attract retweets within the crypto meme community, giving it moderate viral potential."
+        },
+        "informative_value": {
+            "score": 2,
+            "justification": "The tweet is speculative and lacks factual basis, offering no verifiable information."
+        },
+        "sentiment_polarity": {
+            "score": 7,
+            "justification": "The language conveys excitement and optimism about a price surge, reflecting a strongly positive sentiment."
+        },
+        "duration_of_impact": {
+            "score": 3,
+            "justification": "Its relevance is tied to the holiday period and price speculation, likely fading within a few days after Thanksgiving."
+        }
+    }
+},
+{
+    "tweet_id": "1594490756466900992",
+    "analysis": {
+        "virality_potential": {
+            "score": 7,
+            "justification": "Rumors about Satoshi moving coins and negotiating a bailout are sensational and can spread quickly among crypto enthusiasts, giving it high viral potential within that niche."
+        },
+        "informative_value": {
+            "score": 2,
+            "justification": "The claim is unverified rumor without supporting evidence, providing little factual information."
+        },
+        "sentiment_polarity": {
+            "score": 5,
+            "justification": "The tweet reports the rumor in a neutral tone, neither praising nor condemning, resulting in a neutral sentiment."
+        },
+        "duration_of_impact": {
+            "score": 5,
+            "justification": "Rumors about Satoshi can linger for weeks as the community debates their credibility, giving it a medium‑term relevance."
+        }
+    }
+}
+]

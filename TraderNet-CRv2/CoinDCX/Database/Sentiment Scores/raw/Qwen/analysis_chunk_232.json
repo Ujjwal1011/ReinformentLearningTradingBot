@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1770470493201567885",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet contains significant news about the Ethereum Foundation being investigated, which is likely to be widely shared within crypto communities."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides credible information from a reputable source (CoinDesk) about a serious investigation, making it highly informative."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The tweet conveys negative sentiment due to the investigation, indicating concern or worry."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet is relevant for several days as the investigation unfolds and its implications are discussed."
+}
+}
+},
+{
+"tweet_id": "1770469360710095256",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet is about the Ethereum Foundation investigation, which is significant but lacks the source mentioned, slightly reducing its virality."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides factual information about the investigation, though it doesn't include the source."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The tweet expresses negative sentiment regarding the investigation."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance will diminish after a day or two as the news cycle moves on."
+}
+}
+},
+{
+"tweet_id": "1770232793299112171",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet announces a significant investment by BlackRock in Ethereum, which is likely to be shared within crypto communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides substantial information about a major investment, contributing to its informative value."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses strong positive sentiment, indicating excitement about the investment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet will remain relevant for several days as the investment's implications are discussed."
+}
+}
+},
+{
+"tweet_id": "1770214477251674606",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet is a personal opinion comparing Ethereum and Solana, which may not have broad appeal."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet provides a viewpoint rather than factual information, limiting its informative value."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet expresses a positive sentiment towards Ethereum, though not extremely so."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is limited to a few days as it's a personal opinion without broader implications."
+}
+}
+},
+{
+"tweet_id": "1770196664349032857",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet announces a significant move by BlackRock, likely to be widely shared within crypto communities."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides credible information about a major investment, making it highly informative."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses strong positive sentiment, indicating excitement about the investment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet will remain relevant for several days as the investment's implications are discussed."
+}
+}
+},
+{
+"tweet_id": "1770179511864131856",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet expresses optimism about Ethereum's price, which may resonate within crypto communities."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides a personal opinion about Ethereum's price, which is somewhat informative."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The tweet expresses very positive sentiment, indicating strong optimism about Ethereum."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is limited to a few days as it's a personal opinion without broader implications."
+}
+}
+},
+{
+"tweet_id": "1770177665099596282",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The tweet announces a significant investment by BlackRock, which is likely to be widely shared within crypto communities."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides detailed and credible information about a major investment, making it highly informative."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The tweet expresses extremely positive sentiment, indicating strong excitement about the investment."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet will remain relevant for several weeks as the investment's implications are discussed."
+}
+}
+},
+{
+"tweet_id": "1770167246423257343",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet announces a significant move by BlackRock, likely to be widely shared within crypto communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides factual information about a major investment, contributing to its informative value."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The tweet expresses very positive sentiment, indicating excitement about the investment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet will remain relevant for several days as the investment's implications are discussed."
+}
+}
+},
+{
+"tweet_id": "1770164192437211333",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet is a rumor about ETF approval, which may be shared within crypto communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides speculative information, which is somewhat informative but not definitive."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses positive sentiment, indicating optimism about the potential ETF approval."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is limited to a few days as it's a rumor without confirmation."
+}
+}
+},
+{
+"tweet_id": "1770087855916028394",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet is about a decentralized exchange on Solana, which may not have broad appeal beyond niche communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides information about a product update, which is somewhat informative."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet expresses positive sentiment, indicating approval of the exchange's features."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is limited to a few days as it's a product update without broader implications."
+}
+}
+}
+]

@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1550930748760154113",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet is a direct investment recommendation with a hashtag, likely to be shared in crypto communities."
+},
+"informative_value": {
+"score": 3,
+"justification": "It's a brief recommendation without detailed information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive and encouraging tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a short period, tied to a specific timeframe."
+}
+}
+},
+{
+"tweet_id": "1550724821377437696",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Detailed roadmap from a credible source, likely shared within Ethereum communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides specific information about Ethereum's development stages."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral and factual tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Remains relevant as it's part of a roadmap."
+}
+}
+},
+{
+"tweet_id": "1550315295402668032",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Breakdown of roadmap with a link, likely shared among enthusiasts."
+},
+"informative_value": {
+"score": 8,
+"justification": "Educational content with a link to further details."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive and informative tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for the duration of the roadmap."
+}
+}
+},
+{
+"tweet_id": "1550298063314501632",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Opinion on crypto, likely shared in niche communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "Shares a personal viewpoint on crypto's value."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral and balanced tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Short-term relevance as it's a personal opinion."
+}
+}
+},
+{
+"tweet_id": "1550261551218794498",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Engaging question about price, likely to drive engagement."
+},
+"informative_value": {
+"score": 4,
+"justification": "Minimal information, just a question."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral and curious tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant only until the merge event."
+}
+}
+},
+{
+"tweet_id": "1550205498921828352",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Announcement from a credible source, likely shared."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides specific technical information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive and exciting tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for the roadmap's duration."
+}
+}
+},
+{
+"tweet_id": "1550136708389281793",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Summary of a talk, likely shared among enthusiasts."
+},
+"informative_value": {
+"score": 7,
+"justification": "Summarizes key points from a talk."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral and informative tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant as part of the roadmap."
+}
+}
+},
+{
+"tweet_id": "1550132267229626368",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Direct quote from a leader, likely shared."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides specific technical information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive and forward-looking tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for the roadmap's duration."
+}
+}
+},
+{
+"tweet_id": "1549811355221258241",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Relates current events to Ethereum's history, niche interest."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides context on Ethereum's origins."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral and reflective tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Short-term relevance as it's tied to current events."
+}
+}
+},
+{
+"tweet_id": "1549716947847479302",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Announcement of a significant innovation, likely shared."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides detailed information about a new technology."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive and excited tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for the technology's adoption period."
+}
+}
+}
+]

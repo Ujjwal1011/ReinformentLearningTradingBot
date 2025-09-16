@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1770688970571055553",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet's personal anecdote about swap costs resonates with crypto traders, especially those using Solana, giving it moderate potential to spread within the community but unlikely to go globally viral."
+},
+"informative_value": {
+"score": 4,
+"justification": "It shares a personal experience and some cost details, but it does not provide verifiable news or data, so its informative value is low to medium."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The tweet expresses frustration with Solana and a preference for Ethereum, indicating a moderately negative tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The issue of swap failures is ongoing but not a long-term trend, so the tweet will remain relevant for a few days."
+}
+}
+},
+{
+"tweet_id": "1770623752251826631",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Breaking news about BlackRock launching a tokenized fund on Ethereum is a major event likely to be widely shared across the crypto community and beyond."
+},
+"informative_value": {
+"score": 9,
+"justification": "It announces a significant new financial product from a major asset manager, providing high-value factual information."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet uses bullish language and emojis to convey strong positive excitement about the launch."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "This milestone will be referenced for months as a foundational development in tokenized assets."
+}
+}
+},
+{
+"tweet_id": "1770622972937839081",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The defiant statement could spark discussion among crypto enthusiasts, but it lacks a news hook, so its spread is limited to niche audiences."
+},
+"informative_value": {
+"score": 2,
+"justification": "It is a personal opinion with no factual content, offering minimal informative value."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The tweet conveys a negative stance toward the state, reflecting a moderately negative tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The statement may generate short-term debate but will likely fade within a few days."
+}
+}
+},
+{
+"tweet_id": "1770619152090497330",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Detailed announcement of BlackRock's tokenized fund with on-chain data is a high-impact news item expected to spread widely."
+},
+"informative_value": {
+"score": 9,
+"justification": "It provides specific details about the fund, the amount of USDC issued, and the token's existence on Ethereum, offering high informational value."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses positive enthusiasm about the launch, using upbeat language."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The launch is a significant event that will be referenced for months as a key development in tokenized assets."
+}
+}
+},
+{
+"tweet_id": "1770613618423587232",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The commentary on BlackRock's stablecoin launch is likely to be shared among crypto communities, giving it moderate virality potential."
+},
+"informative_value": {
+"score": 6,
+"justification": "It highlights the significance of the stablecoin launch and its bullish impact, providing moderate informational content."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet conveys a positive, bullish sentiment toward Ethereum and the stablecoin launch."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The bullish commentary will remain relevant for weeks as the market digests the news."
+}
+}
+}
+]

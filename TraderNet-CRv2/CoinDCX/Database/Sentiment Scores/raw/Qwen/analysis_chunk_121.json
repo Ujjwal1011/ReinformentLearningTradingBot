@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1558836594123186179",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet proposes a bold and specific vision for a crypto-native country, which is likely to engage and spark discussions within the crypto community."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides detailed and specific ideas about the structure of a crypto-native country, offering substantial information for enthusiasts."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses optimism and excitement about the potential of a crypto-native country."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The topic is significant and could remain relevant as the crypto community continues to evolve and discuss such ideas."
+}
+}
+},
+{
+"tweet_id": "1558517913866440704",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet announces a significant milestone for Ethereum, which is likely to be shared within the crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides factual information about Ethereum's market cap, which is valuable for investors and enthusiasts."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet conveys positive news about Ethereum's performance."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Market cap figures can change rapidly, so the tweet's relevance is limited to the current moment."
+}
+}
+},
+{
+"tweet_id": "1558474495685443587",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet uses a catchy comparison and hashtags, making it likely to be shared within crypto circles."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet is more of a statement than informative, lacking detailed information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet has a positive tone, encouraging investment in Ethereum."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is tied to current crypto trends, which can change quickly."
+}
+}
+},
+{
+"tweet_id": "1558308479491706882",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet highlights a price target, which can generate interest among investors."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides specific price information, which is useful for traders."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses optimism about Ethereum's price."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Price targets are often short-lived as market conditions change."
+}
+}
+},
+{
+"tweet_id": "1558279170182074368",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The poll format encourages engagement, but the topic is specific to Ethereum's upcoming event."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet is a poll without additional context or information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, presenting a question without a strong emotional tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to the upcoming Merge event, which is a short-term focus."
+}
+}
+},
+{
+"tweet_id": "1558277572139548672",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Similar to tweet 1558517913866440704, it's likely to be shared within the crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides factual information about Ethereum's market cap."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive news about Ethereum's performance."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Market cap figures are subject to rapid changes."
+}
+}
+},
+{
+"tweet_id": "1558072902972473344",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "A detailed technical announcement from a prominent figure in the crypto space, likely to generate significant discussion."
+},
+"informative_value": {
+"score": 10,
+"justification": "Provides critical technical information about Ethereum's transition, which is essential for the community."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet is factual but conveys excitement about the upcoming Merge."
+},
+"duration_of_impact": {
+"score": 9,
+"justification": "The Merge is a foundational event with long-term implications for Ethereum."
+}
+}
+},
+{
+"tweet_id": "1557891995254808577",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "References a well-known figure and his past advice, which can generate interest and debate."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet provides context about Jim Cramer's previous advice but lacks detailed analysis."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "The tweet implies skepticism about Cramer's advice, with a slightly negative tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The relevance is tied to Cramer's past statements and Ethereum's current performance."
+}
+}
+},
+{
+"tweet_id": "1557818615637966849",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet makes a bold claim about a conspiracy, which can generate significant engagement."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet is speculative and lacks credible information."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The tweet expresses distrust and skepticism."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to current crypto discussions and conspiracy theories."
+}
+}
+},
+{
+"tweet_id": "1557765858876952577",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Announcement from a well-known figure about a significant crypto event, likely to be widely shared."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides important information about Ethereum's transition and future plans."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet is positive and optimistic about Ethereum's future."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The Merge is a major event with long-term implications, but its immediate impact will fade as the transition completes."
+}
+}
+}
+]

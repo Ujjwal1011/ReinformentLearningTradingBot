@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1732189458324451702",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Crypto price updates and PayPal's stablecoin launch are highly relevant topics that could drive engagement within financial communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides multiple verifiable market updates with specific price milestones and product launches."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive emojis (🤩) and celebratory tone about price increases indicate strong optimism."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Price milestones remain relevant for days/weeks but may be superseded by new market movements."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732189373062377900",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Niche technical discussion about Ethereum gas fees with limited audience appeal."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Asks a question about potential solutions but provides no concrete information."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Mildly positive anticipation about reduced fees ('awesome'), but not strongly emotional."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance tied to current Ethereum network conditions that frequently change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732189363130282085",
+    "analysis": {
+      "virality_potential": {
+        "score": 2,
+        "justification": "Cryptic French commentary mixing Minecraft references with crypto terms lacks broad appeal."
+      },
+      "informative_value": {
+        "score": 0,
+        "justification": "No factual content - appears to be a sarcastic cultural reference without substance."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral absurdist humor without clear positive/negative sentiment."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Context-dependent joke with immediate expiration."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732189360466895049",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Specific complaint about Ethereum fees might resonate within crypto communities but lacks viral hooks."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Documents a personal experience with network fees but lacks broader data/analysis."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative frustration expressed through words like 'demoralizing' and fee comparison."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevant until network congestion changes or alternatives gain traction."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732189157424771274",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Community-driven blockchain project with visionary claims could attract crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Explains Ethscriptions' potential while linking to a visual resource."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive advocacy using terms like 'passionate degens' and 'untapped potential'."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Blockchain innovations typically maintain relevance for weeks/months in crypto circles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732189094317334639",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "NFT market news has moderate shareability but lacks unique angles or data."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Reports on market resurgence with linked article, though headline is generic."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting style without explicit positive/negative language."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Standard news cycle relevance for market trends."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732188930559139956",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Technical chart analysis appeals to a narrow trading audience."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Identifies resistance zone but provides no explanatory context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Purely analytical content without emotional valence."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Price levels become outdated quickly in volatile crypto markets."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732188922963464438",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Generic NFT promotion without unique selling points or incentives."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Basic project announcement lacking details about the collection."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive emojis and exclamation convey enthusiasm."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Standard NFT promotion lifespan unless collection gains traction."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732188906064621763",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Security-focused hardware wallet feature might interest crypto security enthusiasts."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Details a specific security certification (EAL7) with product links."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral product description without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Security standards remain relevant for months/years in hardware discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732188831355637773",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Regulatory news about Ethereum ETFs has broad implications for institutional crypto adoption."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Reports concrete regulatory action with links to official sources."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of regulatory process without taking a stance."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "ETF decisions influence markets for months during review processes."
+      }
+    }
+  }
+]

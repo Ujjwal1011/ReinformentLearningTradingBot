@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1523380046282469376",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet highlights a discrepancy between a prediction and actual performance, which can spark discussions in crypto communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides factual information about price changes and includes a link for further details."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Expresses disappointment with Jim Cramer's prediction, indicating negative sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days as crypto prices are volatile."
+}
+}
+},
+{
+"tweet_id": "1523306186761596929",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Details about the UST fiasco are likely to be shared within crypto communities."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides specific, credible information about liquidity and transactions."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "Critical tone suggests negative sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days as the event is unfolding."
+}
+}
+},
+{
+"tweet_id": "1523144546087235584",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Announcement about Instagram supporting NFTs is likely to go viral among crypto and tech communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "Significant update with potential long-term implications."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive announcement about new features."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Remains relevant for weeks as NFT adoption grows."
+}
+}
+},
+{
+"tweet_id": "1523141891289944064",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "General interest in Web3 and crypto tech support, but not highly viral."
+},
+"informative_value": {
+"score": 6,
+"justification": "Discusses demand for crypto tech support with relevant hashtags."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive outlook on Web3 and crypto."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevant for a few days as part of ongoing news."
+}
+}
+},
+{
+"tweet_id": "1523087037837967360",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Surprising fact about Ethereum's market cap may be shared."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides a comparative market cap statistic."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment about Ethereum's growth."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevant for a few days as market caps fluctuate."
+}
+}
+},
+{
+"tweet_id": "1522995781866721280",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Relatable statement about NFT addiction within crypto communities."
+},
+"informative_value": {
+"score": 4,
+"justification": "Personal anecdote without detailed information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral observation about NFT behavior."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days as NFT trends change."
+}
+}
+},
+{
+"tweet_id": "1522614727880359937",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Details about metadata leakage in a popular project may be widely shared."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides specific evidence of potential misconduct."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "Critical tone regarding the leak."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days as the situation unfolds."
+}
+}
+},
+{
+"tweet_id": "1522606093347831809",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Announcement about a significant purchase may be shared among crypto communities."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides specific information about a whale's purchase."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive news about ApeCoin adoption."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevant for a few days as crypto news cycles."
+}
+}
+},
+{
+"tweet_id": "1522484113495711744",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Promotion of a free airdrop is likely to attract attention and shares."
+},
+"informative_value": {
+"score": 4,
+"justification": "Promotional content with a link, but not highly informative."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Excited and positive tone about the airdrop."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant until the airdrop event occurs."
+}
+}
+},
+{
+"tweet_id": "1522475765899890690",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Update on Bitcoin mining progress may be shared among crypto enthusiasts."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides specific information about the block reward halving."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive outlook on Bitcoin's future."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for weeks as the halving approaches."
+}
+}
+}
+]

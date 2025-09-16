@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1535660715650031623",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet provides a specific investment example, which may resonate with a niche audience but lacks a strong emotional hook for broader virality."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet offers factual data on Ethereum's performance, providing valuable information for investors."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, presenting a factual scenario without strong emotional language."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to the specific time frame mentioned, making its impact short-lived."
+}
+}
+},
+{
+"tweet_id": "1535655201096466434",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet announces a significant market cap drop, likely to be shared within crypto communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides critical information on Ethereum's market performance."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The news of a market cap drop indicates negative sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to the current moment, with impact lasting a few days."
+}
+}
+},
+{
+"tweet_id": "1535620652354441216",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet highlights a significant price drop, likely to be shared within crypto circles."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides important price information for Ethereum."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The price drop indicates negative sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to the specific event, with impact lasting a few days."
+}
+}
+},
+{
+"tweet_id": "1535599786870587395",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The bold prediction about crypto crashes could generate significant discussion."
+},
+"informative_value": {
+"score": 7,
+"justification": "Offers a prediction on crypto prices, though speculative."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The warning about potential losses conveys negative sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to the upcoming weekend, with impact lasting a few days."
+}
+}
+},
+{
+"tweet_id": "1535593369988214785",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Announcement of a new payment method could attract attention in crypto and luxury sectors."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides significant business news about payment methods."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The announcement is positive, indicating approval or excitement."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to the specific announcement, with impact lasting a few days."
+}
+}
+},
+{
+"tweet_id": "1535551662747635712",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "A personal opinion on Ethereum's future, unlikely to go viral beyond niche audiences."
+},
+"informative_value": {
+"score": 4,
+"justification": "Expresses a personal sentiment without providing substantial information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The use of a heart emoji and positive language indicates strong positive sentiment."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is short-lived, tied to the user's current sentiment."
+}
+}
+},
+{
+"tweet_id": "1535315484433711104",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "A link to Vitalik Buterin's content could attract attention within the crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides a link to content from a key figure in Ethereum."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply sharing a link without emotional language."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to the content linked, with impact lasting a few days."
+}
+}
+},
+{
+"tweet_id": "1535226643035267074",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Announcement of payment methods could attract attention in crypto and retail sectors."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides significant business news about payment methods."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The announcement is positive, indicating approval or excitement."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to the specific announcement, with impact lasting a few days."
+}
+}
+},
+{
+"tweet_id": "1534807806183845888",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Announcement of a proposal passing could attract attention within the crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides significant news about ApeCoin's proposal."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The passing of the proposal indicates positive sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to the specific event, with impact lasting a few days."
+}
+}
+},
+{
+"tweet_id": "1534722368941174788",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Discusses Ethereum's future, which could generate discussion among enthusiasts."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides detailed information on Ethereum's future developments."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, presenting factual information without emotional language."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet discusses long-term trends, potentially remaining relevant for months."
+}
+}
+}
+]

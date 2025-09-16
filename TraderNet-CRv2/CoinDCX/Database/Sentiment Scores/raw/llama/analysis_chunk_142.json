@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1590229401312333827",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet's engaging thread about a timely and relevant crypto market topic, explained in an accessible way for beginners, has potential to be shared within specific communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides credible, newsworthy information about the FTX and Binance situation, offering both explanation and future market analysis."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet's sentiment is neutral, aiming to educate rather than express a strong emotional tone, despite the use of astonished emojis."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance will last for days or weeks, given the ongoing nature of the crypto market situation being discussed."
+}
+}
+},
+{
+"tweet_id": "1589978671498264583",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet's information about FTX's on-chain withdrawals has potential to be shared within specific crypto communities, but its technical nature limits broader virality."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides timely, verifiable, and specialized information about FTX's activities, valuable to those following the crypto market closely."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet presents information in a neutral, factual manner without expressing a strong emotional tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to a short-lived event, losing most of its impact within a day or two as the situation evolves."
+}
+}
+},
+{
+"tweet_id": "1589773604291772416",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet's positive note about the Ethereum ecosystem might be shared among its enthusiasts, but it lacks a strong hook for broader virality."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet mentions a positive development in the Ethereum ecosystem, providing some useful information, though it's more of a commendation than in-depth analysis."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses a clearly positive sentiment, appreciating the contributions to the Ethereum ecosystem."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's impact is standard, generating discussion for a day or two before fading, as it's more of a general appreciation post."
+}
+}
+},
+{
+"tweet_id": "1589739389545914368",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The announcement of a significant Ethereum light client, Helios, has high potential to be shared broadly within the crypto and tech communities due to its innovative claims."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides detailed, newsworthy information about Helios, including its capabilities and links to code and a post, offering high informative value."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is presented in a neutral, informative style, focusing on the features of Helios rather than expressing a strong emotional tone."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The relevance of the tweet will last for months, given the significance of Helios to the Ethereum ecosystem and its potential for ongoing development and discussion."
+}
+}
+},
+{
+"tweet_id": "1589646941465763840",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The tweet's warning about a dangerous precedent affecting all US cryptocurrencies, including Ethereum, has high potential for broad sharing within the crypto community."
+},
+"informative_value": {
+"score": 10,
+"justification": "The tweet provides critical, verifiable, and highly important information with a direct link to the SEC vs LBRY case ruling, offering extremely high informative value."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The tweet expresses a strongly negative sentiment regarding the precedent's implications, using the phrase 'extraordinarily dangerous'."
+},
+"duration_of_impact": {
+"score": 9,
+"justification": "The tweet's relevance will last for months or even years, given the foundational impact of the SEC ruling on the US crypto landscape."
+}
+}
+},
+{
+"tweet_id": "1589436227006394368",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet's provocative question about Alameda's short position on Ethereum has potential to generate discussion within crypto communities, though its specificity might limit broader sharing."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet hints at market activity but lacks concrete, verifiable information, reducing its informative value."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet expresses a moderately positive sentiment, though somewhat ambiguously, by suggesting a potential short squeeze scenario."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is short-term, tied to the immediate market situation and likely to lose impact as market conditions evolve."
+}
+}
+},
+{
+"tweet_id": "1589230417626157056",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "The tweet's humorous, personal anecdote about being 'broke' due to Ethereum is unlikely to be widely shared beyond the user's immediate followers."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet contains no verifiable or useful information, being primarily a personal, humorous reflection."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet expresses a moderately positive sentiment through its humorous approach to a negative situation, showing resilience."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is very short-lived, generating brief engagement before being overshadowed by other content."
+}
+}
+},
+{
+"tweet_id": "1588544890161577986",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet's list of games for learning programming, including Ethereum, has high potential for sharing among educational and tech communities due to its utility and breadth."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides highly useful, actionable information with direct links to learning resources, offering high informative value."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is presented in a neutral, helpful style, focusing on providing resources rather than expressing a strong emotional tone."
+},
+"duration_of_impact": {
+"score": 9,
+"justification": "The relevance of the tweet will last for months or years, given the evergreen nature of educational resources and learning programming."
+}
+}
+},
+{
+"tweet_id": "1588272911177039873",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet's provocative prediction about Ethereum's future and Bitcoin's decline has high potential for discussion and sharing within crypto communities."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet expresses an opinion without providing concrete, verifiable information or in-depth analysis, reducing its informative value."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet clearly expresses a very positive sentiment towards Ethereum's future prospects and a very negative view of Bitcoin's."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet's relevance will last for days or weeks, as predictions about crypto futures tend to generate ongoing discussion and debate."
+}
+}
+},
+{
+"tweet_id": "1587806145250484226",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The news about the Philippines' UnionBank launching Bitcoin and Ethereum trading has potential to be shared within crypto and financial communities, though its impact might be more regional."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides newsworthy, verifiable information about a significant development in crypto adoption, offering high informative value."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet presents information in a neutral, factual manner without expressing a strong emotional tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance will last for days or weeks, given the significance of the announcement to the crypto market, particularly in the region."
+}
+}
+} 
+]

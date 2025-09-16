@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1495572067315556360",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet from a user with over 1.2M followers received >12k likes and >1k retweets, indicating strong interest within the crypto community. The hype phrase 'send Ethereum to the moon' is meme‑worthy and likely to be shared among enthusiasts, though it may not break into mainstream audiences."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet only expresses confidence and includes a link without providing factual data or analysis, offering little informational content."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The language conveys confidence and excitement about Ethereum, reflecting a moderately positive emotional tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The content is tied to a specific hype event and will likely lose relevance within a few days once the novelty fades."
+}
+}
+},
+{
+"tweet_id": "1495521902802186240",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "A bold claim about Ethereum becoming deflationary can spark discussion among crypto users, and the tweet's engagement (3.6k likes, 286 retweets) shows moderate shareability, though it lacks broader appeal."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet makes an unsubstantiated prediction without citing sources or data, providing limited factual information."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "The phrasing suggests concern that most people are unaware of a potentially negative outcome, giving a moderately negative tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Speculation about a future deflationary shift could remain a topic of conversation for weeks or months leading up to the event."
+}
+}
+},
+{
+"tweet_id": "1495491311037730818",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Whale Alert, with 2.8M followers, reports a large dormant address activation involving over $5M worth of ETH, generating high engagement (3.2k likes, 393 retweets) and likely to be widely shared within the crypto community."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides concrete numbers, a clear description of the transaction, and a link to the blockchain data, offering high factual value."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is primarily factual and neutral, using a sleeping emoji to note dormancy but not expressing strong emotion."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Large address activations are analyzed by traders and analysts for days to weeks, giving the tweet medium‑long relevance."
+}
+}
+},
+{
+"tweet_id": "1495301305652461571",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The technical suggestion about wallet improvements targets a niche developer audience; while it received decent engagement, its shareability beyond that community is limited."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet outlines specific ideas for improving wallet UX, providing useful information for developers and power users."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The use of 'gtfo' and a critical tone conveys a moderately negative sentiment toward current wallets."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Technical proposals can remain relevant as developers discuss and potentially implement them, giving the tweet a medium‑term relevance."
+}
+}
+},
+{
+"tweet_id": "1495298037492551680",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The claim that Ethereum reached 11‑digit revenue faster than Amazon is sensational and likely to be shared among crypto enthusiasts, as reflected by >4k likes, though its reach beyond that niche may be limited."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet points to a data source and presents a comparative statistic, offering useful information, though the credibility of the source is not verified."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The language celebrates Ethereum's performance, conveying a moderately positive tone."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Revenue comparisons are of interest for a short period until newer data emerges, giving the tweet a neutral to short‑term relevance."
+}
+}
+}
+]

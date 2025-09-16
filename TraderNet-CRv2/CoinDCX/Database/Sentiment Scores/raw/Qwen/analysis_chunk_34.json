@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1462277275701833730",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet makes a bold prediction about Ethereum and Bitcoin, which could spark debates and discussions within the crypto community, increasing its virality."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides an opinion on the future of cryptocurrencies, which may be of interest to crypto enthusiasts, but it lacks concrete evidence or data."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses confidence in Bitcoin, which is positive, while implying skepticism towards Ethereum, which is slightly negative. Overall, the sentiment leans positive."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's impact is likely short-term as it is a prediction that may only be relevant until the outcome is known."
+}
+}
+},
+{
+"tweet_id": "1462262941085061132",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet encourages holders of Ethereum and Avax to prove their coin's dominance, which could lead to increased engagement and discussions within their respective communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet suggests a way for holders to demonstrate their coin's strength, which could be useful for those interested in crypto trends."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet is encouraging and positive, urging holders to take action to support their coins."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's impact is likely short-term as it is focused on a specific call to action that may only be relevant for a limited time."
+}
+}
+},
+{
+"tweet_id": "1462222041868689408",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The tweet claims to have spoken to the CEO of Ethereum about fixing gas fees, which is a common pain point for users, making it likely to be shared widely."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides specific information about a potential solution to a known issue in the Ethereum network, which is valuable for users and developers."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet is positive, offering hope for a resolution to a problematic issue."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's impact is likely to last a few days as it addresses a current issue that may be resolved soon."
+}
+}
+},
+{
+"tweet_id": "1462215180067082241",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet predicts a significant price increase for Ethereum, which is likely to be shared among crypto enthusiasts and investors."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides a price prediction, which is of interest to investors, though it lacks supporting data."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet is very positive, encouraging optimism about Ethereum's future."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's impact is likely short-term as it is a prediction that may only be relevant until the price movement occurs or is disproven."
+}
+}
+},
+{
+"tweet_id": "1462212764202504196",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet critiques the high transaction costs of Ethereum's DeFi, which is a common issue, making it likely to be shared among users and developers."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet highlights a significant issue with Ethereum's DeFi, providing valuable information for users and developers."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The tweet expresses frustration and disappointment with Ethereum's transaction costs, which is moderately negative."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's impact is likely to last a few days as it addresses a current issue that may be resolved soon."
+}
+}
+},
+{
+"tweet_id": "1462158305351012355",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The tweet encourages followers to retweet if they are crypto legends, which is likely to be shared widely among crypto enthusiasts."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides a price prediction for Bitcoin and Ethereum, which is of interest to investors, though it lacks supporting data."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet is very positive, encouraging optimism about the future of cryptocurrencies."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's impact is likely short-term as it is a prediction that may only be relevant until the price movement occurs or is disproven."
+}
+}
+},
+{
+"tweet_id": "1462116367239421956",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet discusses Bitcoin's potential price movement and includes a chart, which may be shared among crypto traders and investors."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides a detailed price analysis with a chart, which is valuable for traders and investors."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, presenting a factual analysis without strong positive or negative language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's impact is likely to last a few weeks as it provides a longer-term price analysis."
+}
+}
+},
+{
+"tweet_id": "1462090579387559941",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet discusses Ethereum's dilution and introduces PulseChain, which may be of interest to Ethereum users and developers."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides specific information about Ethereum's dilution and introduces an alternative solution, which is valuable for users and developers."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, presenting a factual discussion without strong positive or negative language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's impact is likely to last a few weeks as it discusses future implications of Ethereum's dilution and introduces a new chain."
+}
+}
+},
+{
+"tweet_id": "1461932035245707270",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet critiques respected figures in the crypto community, which may be shared among those interested in crypto trends and community dynamics."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides insight into community behavior and future expectations, which is valuable for crypto enthusiasts."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "The tweet expresses disappointment and criticism towards respected figures, which is moderately negative."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's impact is likely to last a few days as it addresses a current trend in the crypto community."
+}
+}
+},
+{
+"tweet_id": "1461810019087880196",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet promotes crypto prices and includes a link, which may be shared among crypto enthusiasts and investors."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides price targets and includes a link, which may be useful for investors."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet is very positive, encouraging optimism about crypto prices."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's impact is likely short-term as it is a specific promotion that may only be relevant for a limited time."
+}
+}
+}
+]

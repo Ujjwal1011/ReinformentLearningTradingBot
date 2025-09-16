@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1472696060351025154",
+    "analysis": {
+      "virality_potential": {
+        "score": 2,
+        "justification": "Contains only URLs with no contextual text or engagement hooks, limiting shareability beyond niche audiences."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "No verifiable information provided - only unexplained links without context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "No textual content to analyze for emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Link-only content without context becomes irrelevant immediately after posting."
+      }
+    }
+  },
+  {
+    "tweet_id": "1472579126657749011",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Meme format combined with crypto culture references could resonate within specific communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Primarily a humorous comparison without substantive information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Motivational tone with aspirational comparison to Ethereum founder."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Meme content typically has short relevance cycles in fast-moving crypto spaces."
+      }
+    }
+  },
+  {
+    "tweet_id": "1472523191029481476",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Bold price predictions with moon emoji create strong engagement hooks for crypto communities."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Speculative claims without supporting data or context."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Extremely optimistic tone using 'inevitable' prediction and moon symbolism."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Price predictions remain relevant until target dates or market conditions change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1472476159166144512",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Critique of multi-chain NFT minting could spark debates in developer communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Highlights practical challenges in blockchain interoperability."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative framing using 'utterly insane' to criticize common practices."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Ongoing relevance due to persistent debates about blockchain fragmentation."
+      }
+    }
+  },
+  {
+    "tweet_id": "1472398851835248644",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Humorous visual meme format with strong engagement metrics suggests community resonance."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Pure humor without substantive content about Ethereum."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Mildly negative comparison through humorous mockery."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Meme lifespan typically limited to current cultural references."
+      }
+    }
+  },
+  {
+    "tweet_id": "1472298805643071488",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Effective meme contrast format drives engagement through humor and relatability."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "No substantive information about Ethereum's technology or ecosystem."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral humorous comparison without clear positive/negative framing."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Joke format tied to current crypto culture trends with limited shelf life."
+      }
+    }
+  },
+  {
+    "tweet_id": "1472293274413064192",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Time-based humor has moderate shareability within crypto circles."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Pure speculative joke without factual content."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Mildly negative implication about future financial status."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Time-specific joke loses relevance immediately after reading."
+      }
+    }
+  },
+  {
+    "tweet_id": "1472269145840386057",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High-profile figures discussing blockchain's societal impact drives broad sharing."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Documents substantive discussion about blockchain's role in governance from credible sources."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive framing using terms like 'fascinante' and 'oportunidades'."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Policy discussions about blockchain maintain relevance for months/years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1472231452058267655",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Nationalistic humor has limited appeal beyond specific geopolitical contexts."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Opinion-based comparison without economic analysis."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong national pride expressed through cultural endorsement."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Currency comparisons remain relevant until significant economic shifts occur."
+      }
+    }
+  },
+  {
+    "tweet_id": "1472203747644346372",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Historical price data appeals to crypto traders but lacks viral hooks."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides verifiable historical market data with specific figures."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of factual data without commentary."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Price snapshots lose relevance as markets update daily."
+      }
+    }
+  }
+]

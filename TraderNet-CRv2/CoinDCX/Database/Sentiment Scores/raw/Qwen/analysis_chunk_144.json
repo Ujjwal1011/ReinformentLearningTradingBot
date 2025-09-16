@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1603059349722918912",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet discusses a significant ethical issue involving a former SEC director, which is likely to be shared within crypto and regulatory communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific details about financial conflicts and regulatory implications, making it highly informative."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "The tweet expresses strong negative sentiment regarding unethical conduct."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The impact is short-term, as it pertains to a specific event that may lose relevance once addressed."
+      }
+    }
+  },
+  {
+    "tweet_id": "1602320562935709696",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "A strong opinion against Ethereum, likely to be shared within crypto circles but not broadly."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "States distrust without providing evidence, so minimal information."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative sentiment towards Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term impact as it's a personal opinion without broader context."
+      }
+    }
+  },
+  {
+    "tweet_id": "1601744180510085121",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Addresses privacy concerns in Metamask, likely shared among tech and crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides technical details and a solution, making it informative."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive sentiment as it offers a fix for privacy issues."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Impact lasts a few days as it's a specific technical update."
+      }
+    }
+  },
+  {
+    "tweet_id": "1601271825560145920",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Expresses distrust in two major blockchains, likely shared within crypto communities."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "States opinions without detailed information."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative sentiment towards both Ethereum and Solana."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term impact as it's a personal opinion without broader implications."
+      }
+    }
+  },
+  {
+    "tweet_id": "1600213856416333825",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Discusses potential fraud in Ethereum, likely shared within crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "References a podcast discussing Ethereum, providing some context."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative sentiment regarding fraud allegations."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Impact lasts a few days as it's a specific discussion."
+      }
+    }
+  },
+  {
+    "tweet_id": "1600084686700630016",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Boastful and confrontational, likely shared among followers but not broadly."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Personal achievements without providing new information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment through self-praise."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term impact as it's a personal statement."
+      }
+    }
+  },
+  {
+    "tweet_id": "1599771534003822593",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "From Ethereum's founder, likely widely shared in crypto communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides insights into Ethereum's ecosystem from a leader."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment about Ethereum's future."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Remains relevant for weeks as it's a forward-looking discussion."
+      }
+    }
+  },
+  {
+    "tweet_id": "1598363211476086784",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Introduces a new product, likely shared within Web3 communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Explains a new fiat-to-crypto onramp, providing useful info."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment about the new product."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Impact lasts a few days as it's a product launch."
+      }
+    }
+  },
+  {
+    "tweet_id": "1618437894124994561",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Compares costs on Solana and Ethereum, likely shared among crypto users."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific cost data, making it informative."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive sentiment towards Solana's cost efficiency."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Impact lasts a few days as it's a cost comparison."
+      }
+    }
+  },
+  {
+    "tweet_id": "1618321557675204661",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Lists educational resources, likely shared among learners."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides useful links for learning programming and blockchain."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment as it's helpful and educational."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Remains relevant for months as educational resources are evergreen."
+      }
+    }
+  }
+]

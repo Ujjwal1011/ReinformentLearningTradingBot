@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1485586620203995138",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news about Ethereum whale activity with specific metrics likely to generate interest in crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides verifiable on-chain data about ETH holdings with clear numerical context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of factual information without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Whale activity data remains relevant for weeks in crypto market analysis cycles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1485488086578765826",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Technical analysis content appealing to crypto traders but limited to niche audience."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides market analysis with specific indicator (RSI) and links to further content."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Moderately positive framing of market conditions using 'good for market'."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "RSI data becomes outdated quickly in volatile crypto markets."
+      }
+    }
+  },
+  {
+    "tweet_id": "1485455688662929412",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Relatable investment contrast may resonate but lacks strong shareable elements."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Personal anecdote without verifiable data or actionable insights."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Mixed sentiment showing both satisfaction and disappointment."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Personal investment story loses relevance quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1485362505786347521",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Engagement-driven question format with high retweet count indicates strong sharing potential."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Opinion-seeking question without providing factual information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral question format without inherent emotional valence."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Price discussion remains relevant until significant market movement occurs."
+      }
+    }
+  },
+  {
+    "tweet_id": "1485311634973380614",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "High-stakes prediction with meme potential ('delete my Twitter') drives engagement."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Pure speculation without supporting data or analysis."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Very positive price prediction expressed with conviction."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Prediction remains relevant through the calendar year timeframe."
+      }
+    }
+  },
+  {
+    "tweet_id": "1485259920563851267",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Cautionary tale about timing investments, moderately shareable in trading communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Personal trading experience without broader market insights."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Implied frustration through reference to buying at peak prices."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Specific price references lose relevance as market prices change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1485178707128254465",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Contrast between market trends may interest NFT/crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific sales figures with percentage growth metrics."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of market data without emotional framing."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Weekly sales data becomes outdated but indicates broader trend."
+      }
+    }
+  },
+  {
+    "tweet_id": "1484937699769274372",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Large transaction alert likely to generate immediate discussion in crypto circles."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Specific transaction details from known entity (Tether Treasury)."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of blockchain transaction."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Transaction alerts have short-term relevance unless part of larger pattern."
+      }
+    }
+  },
+  {
+    "tweet_id": "1484926464424304643",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Identical high-value transaction alert with exceptionally high engagement metrics."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Substantial transaction reporting with clear monetary value."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual transaction report without emotional content."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Immediate impact but short-lived unless followed by additional activity."
+      }
+    }
+  },
+  {
+    "tweet_id": "1484758003496546308",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Niche commentary on blockchain governance with limited mass appeal."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides example of real-world blockchain adoption (marriage licenses)."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Moderately negative critique of profit motives in systems design."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Discussion about blockchain governance remains relevant in tech policy debates."
+      }
+    }
+  }
+]

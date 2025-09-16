@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1443140175152902147",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet is about a significant Ethereum proposal by a well-known figure, likely to be shared among crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides detailed information about a technical proposal with a link to the document."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment due to the announcement of a new proposal."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for days or weeks as it's a specific update in the Ethereum ecosystem."
+      }
+    }
+  },
+  {
+    "tweet_id": "1443128662761492484",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Bold statement about the market, likely to be shared among crypto traders."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "States a fact about Ethereum on exchanges but lacks detailed analysis."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative sentiment with 'ticking time bomb' indicating concern."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a short period tied to current market conditions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1443103968314413056",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Significant news about China's crypto ban, likely widely shared."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides context on the ban and its implications."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Mixed sentiment, suggesting bullishness despite negative news."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Long-term impact as it's a major regulatory event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1442625005427232776",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Humorous take on Cardano replacing Ethereum, likely shared in crypto circles."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Minimal information, more of a joke."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment, presented as a hypothetical scenario."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a short period as a meme."
+      }
+    }
+  },
+  {
+    "tweet_id": "1442572359634935808",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Price targets are a common topic, likely shared among traders."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Provides speculative price targets without detailed analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment, asking for opinions."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a short period as market conditions change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1442489062087086081",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High transaction fees are a significant issue, likely widely shared."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "States a specific and notable event with a clear example."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative sentiment due to high fees."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for days or weeks as it's a current issue."
+      }
+    }
+  },
+  {
+    "tweet_id": "1442308116121473030",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Interesting fact but not likely to go viral beyond crypto circles."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides a comparison of volumes between exchanges."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment, presented as an observation."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a short period as market conditions change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1442097698895716356",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Legal summary of a significant case, likely shared among crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides a detailed summary of the lawsuit with a link."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment due to the thoroughness of the summary."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Long-term impact as it's a foundational legal case."
+      }
+    }
+  },
+  {
+    "tweet_id": "1441529690758418434",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Visionary statement from a prominent figure, likely shared widely."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides a forward-looking perspective on Ethereum."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive sentiment about Ethereum's future."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Long-term impact as it's a foundational vision."
+      }
+    }
+  },
+  {
+    "tweet_id": "1441389198208946179",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Significant legal case, likely widely shared among crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Updates on the SEC case with mentions of key figures."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment, focusing on the process of obtaining information."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Long-term impact as it's a major legal event."
+      }
+    }
+  }
+]

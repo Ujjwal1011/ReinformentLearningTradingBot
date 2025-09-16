@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1715991005038571716",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Asking a question about Ethereum can engage a niche community, but it's not likely to go viral beyond that."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "The tweet is a question without much context or information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment as it's a question."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevant only until the question is answered."
+      }
+    }
+  },
+  {
+    "tweet_id": "1714093811142402396",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Niche content for Ethereum users, unlikely to go viral beyond that."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific information about Uniswap fees."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a few days as it's a specific event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1712996850427707414",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Exciting news for Ethereum community, likely to be shared within it."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Significant update about the bridge launch."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment with excitement."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant for weeks as it's a major update."
+      }
+    }
+  },
+  {
+    "tweet_id": "1712893232806302095",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Humorous take on Bitcoin and Ethereum, likely to be shared widely."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Primarily a joke with minimal information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment with humor."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-lived relevance as a joke."
+      }
+    }
+  },
+  {
+    "tweet_id": "1711387697141395524",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Significant news about Ethereum Foundation, likely to be shared."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides factual information about ETH sale."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant for a few days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1711195656143208523",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Strong negative opinion, likely to be shared within the community."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Personal opinion without much info."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative sentiment with frustration."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant until the issues are addressed."
+      }
+    }
+  },
+  {
+    "tweet_id": "1710533774071787587",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Technical discussion from a prominent figure, likely to be shared."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Detailed discussion on protocol changes."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Long-term relevance as it's foundational."
+      }
+    }
+  },
+  {
+    "tweet_id": "1710082517817266410",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Educational content, may be shared within the community."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides a comparison between Ethereum and Bitcoin."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant for a few weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1709965454599500128",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Timely news about options expiring, likely to be shared."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific information about expiring options."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevant only until the expiration date."
+      }
+    }
+  },
+  {
+    "tweet_id": "1709628344667422825",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Comparison of blockchain networks, likely to be shared within the community."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Detailed comparison of PulseChain with Ethereum and Bitcoin."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive sentiment towards PulseChain."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant for a few weeks."
+      }
+    }
+  }
+]

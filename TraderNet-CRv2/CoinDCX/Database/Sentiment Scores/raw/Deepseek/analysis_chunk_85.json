@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1514092732041420803",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Technical question from a prominent figure in crypto could spark discussions within developer communities, though limited to niche audiences."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Asks for explanations rather than providing information, though relevant to protocol design discussions."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone focused on soliciting technical feedback."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Protocol design discussions may remain relevant for weeks in developer circles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1514027144250232832",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Collaboration between notable figures could drive shares within crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides educational content about Ethereum fundamentals through a recorded discussion."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone highlighting educational intent."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Introductory content may remain relevant for newcomers over several weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1513999002982830087",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Suspicious trading activity before major announcements often generates widespread interest."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Reports newsworthy market activity with potential regulatory implications."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of factual information."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to immediate market reaction and potential Coinbase listing."
+      }
+    }
+  },
+  {
+    "tweet_id": "1513591400343953420",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Educational roadmap could see strong sharing among Spanish-speaking developer communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides structured learning resources for blockchain development."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral instructional tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Educational content may remain useful for months to new developers."
+      }
+    }
+  },
+  {
+    "tweet_id": "1513447176344588295",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Technical update about Ethereum's merge attracts developer interest but limited broader appeal."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides critical update on major blockchain infrastructure change."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual reporting with neutral tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant until merge completion, with historical significance post-implementation."
+      }
+    }
+  },
+  {
+    "tweet_id": "1513423605400580099",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Provocative price prediction question likely to spark debates and shares."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Speculative question without substantive data or analysis."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Implied optimism about price growth."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to short-term market speculation."
+      }
+    }
+  },
+  {
+    "tweet_id": "1513166217573507073",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Exposé of controversial figures often generates widespread sharing."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides detailed allegations of financial misconduct with multiple project examples."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Strong negative sentiment criticizing alleged scams."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Scam allegations may influence investor behavior for months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1513073045476454405",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Countdown to major network upgrade generates excitement in crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides timeline update for anticipated technical milestone."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Enthusiastic tone about network progress."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant until merge occurs, with potential historical reference value."
+      }
+    }
+  },
+  {
+    "tweet_id": "1513049461320298499",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Surprising comparative statistic likely to be shared in financial tech circles."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides verifiable quantitative comparison between payment systems."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of factual data."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Historical performance metric may be referenced in future analyses."
+      }
+    }
+  },
+  {
+    "tweet_id": "1512983745988419588",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Educational content may see moderate sharing among blockchain enthusiasts."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides practical guidance for blockchain analysis techniques."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral instructional tone."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Educational content about fundamental analysis techniques has lasting value."
+      }
+    }
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1636608740513263617",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Vitalik's high follower count and the technical nature of the content make it likely to be shared within the crypto community, but it lacks a broad emotional hook for global virality."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet explains key concepts and links to a detailed post, providing valuable information for users interested in wallet security."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet presents facts without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Self-custody and multisig remain relevant topics for the foreseeable future."
+      }
+    }
+  },
+  {
+    "tweet_id": "1636066380993708032",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet hints at a new testnet, which could interest the community, but it lacks a strong hook or breaking news element."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "It informs readers about an upcoming testnet, providing a direct link for more details."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The tweet expresses optimism about decentralization."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The announcement is time-sensitive and will lose relevance after the testnet is launched."
+      }
+    }
+  },
+  {
+    "tweet_id": "1635695064692273161",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet showcases a novel use of GPT-4 for security analysis, which could intrigue both crypto and AI communities, but it may not reach a broad audience."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It provides a concrete example of AI identifying vulnerabilities, offering educational insight into smart contract security."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is descriptive and does not convey strong emotions."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The demonstration of AI security scanning is evergreen, though the specific contract details may fade."
+      }
+    }
+  },
+  {
+    "tweet_id": "1635459389955133440",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "The tweet contains sensational gossip about a prominent figure, which is likely to be widely shared and discussed."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "The tweet is speculative gossip with no verifiable facts, offering little informational content."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The use of a romantic emoji and playful tone conveys a positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The rumor will likely fade quickly once the story is debunked or loses interest."
+      }
+    }
+  },
+  {
+    "tweet_id": "1634765888070057984",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet announces a significant update from a major exchange, likely to be shared widely within the crypto community."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It provides factual information about new trading pairs, which is valuable for traders."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet states a fact without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The announcement remains relevant for traders for some time, but will eventually become routine."
+      }
+    }
+  }
+]

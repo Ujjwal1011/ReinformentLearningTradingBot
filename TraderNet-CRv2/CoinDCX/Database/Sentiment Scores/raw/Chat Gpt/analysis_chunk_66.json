@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1463270358681858051",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Speculative price prediction about Ethereum with a popular hashtag; resonates with crypto enthusiasts and has already attracted several thousand likes and replies, giving it medium‑high shareability within the community."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet offers no factual data or sources, merely an opinion about a possible price movement."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The language that expresses excitement and optimism about a price surge."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Price speculation is tied to short‑term market sentiment and loses relevance quickly as prices change."
+}
+}
+},
+{
+"tweet_id": "1463173704402317315",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Posted by Coinbase, a high‑profile account with millions of followers; addresses a hot topic (Ethereum gas fees) and includes a link, encouraging shares across the crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides a concise summary of an article that explores scaling solutions and includes a direct link for readers to obtain detailed information."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tone is reassuring and optimistic, promising help and highlighting progress."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Scaling solutions are an ongoing discussion; the content will stay relevant for weeks to months as developers and users reference it."
+}
+}
+},
+{
+"tweet_id": "1462857250146594816",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Presents a concise data snapshot of new projects across multiple blockchains, which is likely to be shared among investors and analysts."
+},
+"informative_value": {
+"score": 9,
+"justification": "Offers concrete percentages for each chain over the past 60 days, providing actionable insight."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is purely factual with no emotive language."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The data is relevant for short‑term market analysis but will become outdated as new project counts change."
+}
+}
+},
+{
+"tweet_id": "1462803733155356683",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "A personal opinion about market panic; while it may resonate with some traders, it lacks a strong hook for broad sharing."
+},
+"informative_value": {
+"score": 2,
+"justification": "Contains no factual information, only the author's sentiment."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Expresses optimism about buying more despite negative market sentiment."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Tied to current market mood; relevance diminishes quickly as sentiment shifts."
+}
+}
+},
+{
+"tweet_id": "1462664386196086785",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "A rhetorical statement with a link; may be shared among those interested in Ethereum scaling but lacks a sensational element."
+},
+"informative_value": {
+"score": 6,
+"justification": "Points to external content about scaling, providing some informational value beyond the brief text."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Defends the community's scaling efforts, conveying a positive stance."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Scaling discussions are ongoing, so the tweet can stay relevant for weeks, though the specific comment may fade."
+}
+}
+}
+]

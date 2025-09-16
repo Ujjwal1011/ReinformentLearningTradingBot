@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1441370938675589123",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet suggests a conspiracy theory about a fake crypto ban, which could resonate with crypto communities, but it's not likely to go viral globally."
+},
+"informative_value": {
+"score": 4,
+"justification": "Provides speculative information about crypto prices but lacks verifiable data."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment towards crypto, indicating optimism."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Impact is short-term, tied to a specific event."
+}
+}
+},
+{
+"tweet_id": "1441120804637270017",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Warns about economic collapse and advises buying precious metals/crypto, likely to be shared widely."
+},
+"informative_value": {
+"score": 6,
+"justification": "Discusses economic issues and crypto, though speculative."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Negative towards government, positive towards crypto."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Impact is medium, tied to potential crash."
+}
+}
+},
+{
+"tweet_id": "1441080057603235841",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Common crypto advice, likely shared within crypto communities."
+},
+"informative_value": {
+"score": 5,
+"justification": "Basic info on crypto prices."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment towards crypto."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short-term impact."
+}
+}
+},
+{
+"tweet_id": "1440551464129101831",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "Personal update, unlikely to go viral."
+},
+"informative_value": {
+"score": 4,
+"justification": "Personal action, minimal info."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive sentiment."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "Very short-term impact."
+}
+}
+},
+{
+"tweet_id": "1439950651241476100",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Humorous comparison, likely to be shared."
+},
+"informative_value": {
+"score": 3,
+"justification": "Joke, minimal info."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive sentiment."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short-term impact."
+}
+}
+},
+{
+"tweet_id": "1439396776054767617",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Light-hearted comment, may be shared."
+},
+"informative_value": {
+"score": 4,
+"justification": "Discusses decentralization."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short-term impact."
+}
+}
+},
+{
+"tweet_id": "1439340434719916033",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Confident claim about Ethereum's dominance."
+},
+"informative_value": {
+"score": 6,
+"justification": "Discusses blockchain."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Medium-term impact."
+}
+}
+},
+{
+"tweet_id": "1439221165785030663",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Common question, may be shared."
+},
+"informative_value": {
+"score": 3,
+"justification": "Personal query."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "Very short-term impact."
+}
+}
+},
+{
+"tweet_id": "1439091781547687937",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Bold statement about Ethereum."
+},
+"informative_value": {
+"score": 6,
+"justification": "Investment strategy."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "Negative sentiment."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Medium-term impact."
+}
+}
+},
+{
+"tweet_id": "1439063583405522946",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Bold statement about Bitcoin."
+},
+"informative_value": {
+"score": 6,
+"justification": "Investment strategy."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "Negative sentiment."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Medium-term impact."
+}
+}
+}
+]

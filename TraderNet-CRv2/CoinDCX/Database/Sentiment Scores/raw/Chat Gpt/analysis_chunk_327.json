@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1722731099174920303",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major crypto news about BlackRock filing for a Spot Ethereum ETF, likely to be widely shared across crypto and finance communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides factual, verifiable information about a significant corporate filing, which is newsworthy."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral factual tone, no emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The ETF filing remains relevant for months as the product launches and market reacts."
+      }
+    }
+  },
+  {
+    "tweet_id": "1722729581801586936",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news about BlackRock ETF, likely to be shared widely."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Factual confirmation of the filing."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Relevant for months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1722727779186119074",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Similar breaking news, likely to be shared."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides details of filing."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Relevant for months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1722716974302576982",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Promotional tweet about a new technology, may resonate within crypto community but less likely to go viral globally."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Shares some details about a new fee-reduction technology, but lacks verifiable sources."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive, enthusiastic tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Technology may remain relevant for months, but the tweet's specific claim may fade."
+      }
+    }
+  },
+  {
+    "tweet_id": "1722690040793358634",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Numeric fact about USDT minting, may be shared within crypto community but not likely to go viral."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides factual data about a minting event."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Event is one-time, but the fact may be referenced later."
+      }
+    }
+  }
+]

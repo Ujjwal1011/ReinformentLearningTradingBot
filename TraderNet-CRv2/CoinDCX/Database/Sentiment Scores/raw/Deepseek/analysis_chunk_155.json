@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1685690844672557056",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Personal anecdote from a prominent crypto figure about Ethereum's early days has strong community appeal but limited global viral potential."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Provides historical context about Ethereum's creation but lacks actionable or new technical information."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Nostalgic and appreciative tone celebrating Ethereum's anniversary with a personal connection."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for crypto history discussions but tied to a specific anniversary event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1685684907106881536",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Birthday acknowledgment from a major exchange founder has moderate community sharing potential."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Acknowledges Ethereum's role in ICOs but lacks specific new information."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Strong positive sentiment expressing gratitude and celebration."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Primarily relevant during the anniversary period with short-term engagement."
+      }
+    }
+  },
+  {
+    "tweet_id": "1685577856502382592",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Foundational story from an Ethereum contributor with moderate crypto community interest."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides historical context and technical milestones but no new developments."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Optimistic reflection on Ethereum's progress and future potential."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant for ongoing discussions about blockchain evolution."
+      }
+    }
+  },
+  {
+    "tweet_id": "1685439864899047424",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Controversial claim about Ethereum solutions likely to spark debates in crypto communities."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Mentions technical solution but lacks implementation details or verifiable data."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Implied criticism of Ethereum's fee structure through comparative boasting."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant as long as gas fee discussions remain prominent in crypto."
+      }
+    }
+  },
+  {
+    "tweet_id": "1684885679388471296",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Strong critique from an active user could spark heated discussions in crypto circles."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Personal opinion without technical analysis or supporting evidence."
+      },
+      "sentiment_polarity": {
+        "score": 0,
+        "justification": "Extreme negative sentiment with phrases like 'IM DONE' and 'Defi is broken'."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance tied to immediate reaction cycle to the criticism."
+      }
+    }
+  },
+  {
+    "tweet_id": "1683588166194806785",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Provocative price comparison and code claims likely to generate shares in crypto communities."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Makes technical comparisons but lacks verifiable benchmarks or source links."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Implied negative comparison to Ethereum through alternative promotion."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant while Ethereum scaling solutions are debated."
+      }
+    }
+  },
+  {
+    "tweet_id": "1681654377059319808",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Major technical announcement bridging Solana and Ethereum ecosystems has strong developer interest."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Concrete information about new compiler enabling cross-chain development."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive announcement tone with emoji reinforcement."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Long-term relevance for developers working on multi-chain solutions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1680970793331613697",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major protocol launch from established project likely to trend in developer communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Specific, verifiable information about mainnet launches across multiple chains."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Professional announcement tone with positive implications."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Long-term relevance as CCIP becomes integrated into cross-chain infrastructure."
+      }
+    }
+  },
+  {
+    "tweet_id": "1679935879152844801",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Niche discussion about payment preferences has limited viral potential."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Anecdotal evidence about payment preferences without broader data."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral exploration of payment network value propositions."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term relevance to ongoing crypto payment debates."
+      }
+    }
+  },
+  {
+    "tweet_id": "1679838076435156992",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Price comparison tweet with meme potential in crypto communities."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Makes claim about fee reduction but lacks context or verification."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive framing of Ethereum's improved fee situation."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant until next network congestion event occurs."
+      }
+    }
+  }
+]

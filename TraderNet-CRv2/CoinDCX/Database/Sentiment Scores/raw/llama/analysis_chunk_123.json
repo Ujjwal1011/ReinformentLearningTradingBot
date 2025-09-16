@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1557445405289365505",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet discusses a significant event (Ethereum Hard Fork) and provides actionable steps, which could generate interest and sharing within the crypto community."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet educates readers on potential actions to take before the Ethereum Hard Fork, offering some informative value, though it's more advisory than purely factual."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet's tone is neutral/informative, with a hint of caution, but doesn't express strong emotions."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance is tied to the upcoming Ethereum Hard Fork, making its impact medium-term, relevant for days or weeks leading up to the event."
+}
+}
+},
+{
+"tweet_id": "1557434161392193541",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet might generate interest within the Ethereum and data visualization communities due to its unique content, but its appeal is somewhat niche."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides insightful information about Ethereum gas consumption, backed by data from @nansen_ai, offering high informative value."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet maintains a neutral, informative tone, encouraging exploration without expressing strong emotions."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet's relevance could extend for days or weeks as users explore the provided visualization, but its impact is not indefinitely prolonged."
+}
+}
+},
+{
+"tweet_id": "1557404287151521793",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet expresses enthusiasm for Ethereum 2.0 but lacks a strong hook to drive widespread sharing beyond the user's immediate followers."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet is more of a personal expression of excitement rather than providing informative content about Ethereum 2.0."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The user expresses clear positive emotions, using 'Can't wait', indicating strong anticipation."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is short-term, tied to the immediate excitement for Ethereum 2.0, without prolonged discussion potential."
+}
+}
+},
+{
+"tweet_id": "1557356188504915972",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Announcements from major players like Binance can generate significant interest within the crypto community, potentially leading to sharing."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet informs readers about Binance's support for Ethereum's merge, providing useful, though not deeply detailed, information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply reporting on Binance's stance without emotional tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The relevance of the tweet extends for days or weeks leading up to the merge, but its impact is not indefinitely prolonged."
+}
+}
+},
+{
+"tweet_id": "1557292798734376960",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The tweet's provocative statement about powerful entities entering crypto could elicit strong reactions and sharing across the crypto community."
+},
+"informative_value": {
+"score": 4,
+"justification": "While the tweet hints at significant news, it lacks specific details, reducing its informative value."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The user expresses a moderately positive sentiment, anticipating a significant development in crypto, without strong negative or extremely positive emotions."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The tweet's relevance could extend for months as the implications of the stated development unfold, generating ongoing discussion."
+}
+}
+},
+{
+"tweet_id": "1557170159026143232",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "A 'fun fact' might mildly interest some followers but is unlikely to drive significant sharing beyond the user's immediate audience."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides a piece of trivia about Vitalik Buterin, offering some informative value, though it's not critical or timely information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet maintains a neutral tone, simply presenting a fact without emotional appeal."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is not time-sensitive, but its impact is also not prolonged, as it's a standalone piece of trivia."
+}
+}
+},
+{
+"tweet_id": "1556743328774995971",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet discusses a significant and controversial topic (US sanctions on Ethereum addresses), likely generating interest and sharing within the crypto community."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides detailed, timely, and significant information about US sanctions and their immediate impact on Ethereum addresses."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The user expresses strong negative sentiments towards the actions described, using phrases like 'big brother's assault'."
+},
+"duration_of_impact": {
+"score": 9,
+"justification": "The tweet's relevance extends for months as the implications of the sanctions unfold, potentially leading to prolonged discussion and impact."
+}
+}
+},
+{
+"tweet_id": "1556708643617312768",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "News about @circlepay's USDC blacklisting Ethereum addresses could generate significant interest within the crypto community, potentially leading to sharing."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet informs readers about a significant development (USDC blacklisting sanctioned Ethereum addresses), providing high informative value."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet reports on the development in a neutral manner, without expressing strong emotions."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The relevance of the tweet could extend for months as the implications of the blacklisting are discussed and felt within the community."
+}
+}
+},
+{
+"tweet_id": "1556706440726716416",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The concept of a 'Triple Halvening' and its drastic effects on ETH holders could elicit strong interest and sharing across the crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet promises in-depth information about a significant upcoming phenomenon, though the details are not provided in the tweet itself."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The user expresses a moderately positive sentiment, anticipating a significant development in Ethereum, without strong negative or extremely positive emotions."
+},
+"duration_of_impact": {
+"score": 9,
+"justification": "The tweet's relevance extends for months leading up to and following the 'Triple Halvening', generating prolonged discussion and impact."
+}
+}
+},
+{
+"tweet_id": "1556637211537334272",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Market cap updates might interest some followers but are unlikely to drive significant sharing beyond the user's immediate audience."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides timely and specific information about Ethereum's market cap, offering some informative value."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet maintains a neutral tone, simply reporting on the market cap without emotional appeal."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is short-term, as market cap figures fluctuate frequently, reducing its prolonged impact."
+}
+}
+} 
+]

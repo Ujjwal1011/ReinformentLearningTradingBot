@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1538348857825828864",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet discusses a macro downturn and suggests manipulation, which can spark debate within the crypto community. It has moderate engagement and a sizable following, indicating medium potential for sharing within niche groups."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "It offers commentary on market conditions but does not provide new data or sources, so it is moderately informative."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "The tone is negative, expressing frustration and fear about the market."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The content is tied to a short-term market event, likely to remain relevant for a few days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1538336919033094144",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Critiquing experts can generate discussion and shares, especially with a large following, but the tweet is not a breaking news story, so it has medium virality."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet offers an opinion on the credibility of experts, lacking verifiable data, so it is low to moderate informative."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "The tone is negative, criticizing experts."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The critique may be referenced for a short period, but it is not a long-term topic."
+      }
+    }
+  },
+  {
+    "tweet_id": "1538316619717353472",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Market commentary with a large following can attract shares, but it is not a breaking event, so medium virality."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "The tweet provides a summary of price retracements but no new data, so moderate informative."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative tone due to fear and criticism."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term relevance tied to market conditions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1538302000202391552",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "The tweet is a quirky statement that could spark curiosity, but it is not a news story, so medium virality."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet offers a vague claim linking Ethereum price to job fundamentals, lacking data, so low informative."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive tone about job fundamentals."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term relevance tied to Ethereum price."
+      }
+    }
+  },
+  {
+    "tweet_id": "1538253890906247173",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news about a significant price drop can spread quickly, especially with a large following, so high virality."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "The tweet reports a factual price event, providing new information, so high informative."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative tone due to price decline."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term relevance tied to the price event."
+      }
+    }
+  }
+]

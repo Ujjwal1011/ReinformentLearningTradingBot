@@ -1,0 +1,111 @@
+[
+{
+"tweet_id": "1750163387932119062",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet is a link from a high-profile user with minimal content, giving it moderate potential for sharing within the crypto community."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet contains only a link and a hashtag, providing no additional context or information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, with no emotional tone expressed."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet is relevant for a few days until the linked content becomes outdated."
+}
+}
+}
+,
+{
+"tweet_id": "1750123523819876372",
+"analysis": {
+"virality_potential": {
+"score": 10,
+"justification": "The tweet is a major announcement from a high-profile user with huge engagement, likely to go viral."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides a new coin's contract address and launch details, which is credible and informative."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The tweet expresses excitement and enthusiasm about the new coin."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The announcement will remain relevant for weeks to months as the coin is launched and discussed."
+}
+}
+}
+,
+{
+"tweet_id": "1749642584610443640",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "The tweet is a personal request, unlikely to be widely shared beyond the immediate community."
+},
+"informative_value": {
+"score": 1,
+"justification": "The tweet is a personal plea, providing no factual information."
+},
+"sentiment_polarity": {
+"score": 1,
+"justification": "The tweet expresses a personal struggle, negative sentiment."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "The tweet is relevant only until the situation resolves."
+}
+}
+}
+,
+{
+"tweet_id": "1749594016042127791",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet is a political commentary that may attract some engagement but not likely to go viral widely."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet expresses an opinion about a speech, no new factual data."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The tweet expresses negative sentiment about the speech."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet is relevant for a short period after the speech."
+}
+}
+}
+,
+{
+"tweet_id": "1749303412708061577",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet is a technical announcement that may attract some interest but not likely to go viral widely."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides details about a new integration and services, which is useful."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses excitement about the integration."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The integration announcement will be referenced for some time as the services are used."
+}
+}
+}
+]

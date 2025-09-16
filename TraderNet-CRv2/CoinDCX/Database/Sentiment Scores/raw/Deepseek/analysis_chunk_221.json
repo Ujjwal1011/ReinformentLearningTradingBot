@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1744763767580442749",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Technical crypto content with multiple project mentions might engage specific communities but lacks a viral hook."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides links to blockchain projects but lacks context or explanation of value."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant as long as EigenLayer remains an active project in crypto discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1744725267531354322",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Large USDT transactions attract immediate attention in crypto circles."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Specific, verifiable data about stablecoin movements from known tracking account."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual reporting without emotional context."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Primarily relevant for current market analysis cycles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1744343399417737266",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Major infrastructure update for Ethereum ecosystem likely to be shared among developers."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Concrete information about blockchain explorer integration with verification details."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone with celebratory language ('gold standard', 'dive in')."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Remains relevant as long as zkSync transactions require monitoring."
+      }
+    }
+  },
+  {
+    "tweet_id": "1743862598259662967",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Controversial take on crypto leadership could spark debates within community."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Opinion-based commentary without new factual information."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative tone criticizing business decisions ('promoting every fork', 'shitcoins')."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant until next major Bitcoin ETF development occurs."
+      }
+    }
+  },
+  {
+    "tweet_id": "1742935389776826410",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Identical to previous high-engagement USDT minting alert from same source."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Specific billion-dollar transaction data from verified tracking account."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral financial reporting style."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Time-sensitive market liquidity information."
+      }
+    }
+  },
+  {
+    "tweet_id": "1742915310272041059",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Major platform migration announcement with high engagement metrics."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Clear technical guidance about chain migration and wallet compatibility."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive language emphasizing community alignment and seamless transition."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Long-term relevance for users interacting with migrated platform."
+      }
+    }
+  },
+  {
+    "tweet_id": "1742556449601949833",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Multi-chain NFT distribution strategy attracts cross-community interest."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Details allocation strategy but lacks specific timelines or criteria."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral operational update with slight poetic flair ('rumbles are growing')."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant through allocation distribution period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1742531614306124268",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Provocative fee comparison likely to spark debates about blockchain economics."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Makes cost claims but lacks context about compared networks' capabilities."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Strong negative language ('hate money') criticizing Ethereum fees."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant until next major fee structure change occurs."
+      }
+    }
+  },
+  {
+    "tweet_id": "1742344805664084232",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Strong comparative claims about blockchain performance attract attention."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Makes multiple technical claims but lacks verifiable data sources."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Enthusiastic promotion using superlatives ('miracle', 'world's largest')."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant as long as PulseChain remains operational."
+      }
+    }
+  },
+  {
+    "tweet_id": "1741821074239615181",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "List format with controversial 'Solana killers' framing encourages engagement."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides structured market analysis of competing blockchain platforms."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral comparative analysis without overt promotion."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Remains relevant through 2024 as projects develop."
+      }
+    }
+  }
+]

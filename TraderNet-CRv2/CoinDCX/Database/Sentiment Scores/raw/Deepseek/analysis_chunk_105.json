@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1536260581442867200",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "NFT/crypto loss data presented with emojis and metrics may resonate within crypto communities but lacks broad appeal."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Provides specific transaction details but lacks broader context or educational value beyond personal loss metrics."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Clear negative sentiment through loss metrics (-99%) and frowning emoji."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant until next market cycle update but tied to specific transaction data."
+      }
+    }
+  },
+  {
+    "tweet_id": "1536241082350059520",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Controversial price prediction from a known figure likely to spark debate in crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Reports a market prediction but lacks source verification or supporting data."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Implied negative market outlook through crash prediction."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to short-term market movements around predicted price levels."
+      }
+    }
+  },
+  {
+    "tweet_id": "1536227205616893952",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Price milestone announcement likely to be shared within crypto trading communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides concrete market data with historical context (lowest since Jan 2021)."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Implied negative sentiment through emphasis on price drop."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance lasts until next significant price movement."
+      }
+    }
+  },
+  {
+    "tweet_id": "1535979507840167943",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major technical release in blockchain space with cross-community appeal (EVM + Cardano)."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Announces concrete product development with technical specifications and sustainability focus."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive forward-looking statement about interoperable future."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Technical infrastructure updates remain relevant through development lifecycle."
+      }
+    }
+  },
+  {
+    "tweet_id": "1535926975151362051",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Combines environmental impact data with crypto market trends - highly shareable angle."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides quantified environmental impact data with temporal comparison."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of factual data without explicit emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Environmental impact discussions remain relevant through Ethereum's transition to PoS."
+      }
+    }
+  },
+  {
+    "tweet_id": "1535823281642778631",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Similar to other price alert tweets - notable but common in crypto space."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Clear market data point with historical context."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Implied negative sentiment through price drop emphasis."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Time-bound to current market cycle."
+      }
+    }
+  },
+  {
+    "tweet_id": "1535755823980457990",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Parody of Elon Musk's famous tweet format likely to generate meme-style engagement."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Joke proposal without actual market-moving information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral parody without clear positive/negative intent."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Meme relevance typically lasts 1-2 news cycles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1535737885433151488",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Minimal content but high engagement suggests existing audience reach."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "Single word + link provides no inherent information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "No discernible sentiment in content."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Immediately irrelevant without context."
+      }
+    }
+  },
+  {
+    "tweet_id": "1535688312156848128",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Provocative critique of crypto/web3 likely to spark heated discussions."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Presents structured criticism but lacks supporting evidence."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative assessment of crypto ecosystem components."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Fundamental critiques remain relevant in ongoing web3 debates."
+      }
+    }
+  },
+  {
+    "tweet_id": "1535681099011080196",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Rocket emoji suggests optimism but lacks substantive content for broad sharing."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Single word + emoji provides no actual information."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Clear positive sentiment through rocket emoji and implied price rise."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Momentary hype without lasting substance."
+      }
+    }
+  }
+]

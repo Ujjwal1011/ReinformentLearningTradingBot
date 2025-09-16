@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1732213042912583814",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Breaking news about SEC delaying Grayscale Ethereum ETF; likely to be shared within crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides factual info about SEC decision; credible source."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral factual statement."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Decision remains relevant for weeks to months."
+}
+}
+},
+{
+"tweet_id": "1732209466810970538",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Breaking news posted by high-follower user; likely to be widely shared."
+},
+"informative_value": {
+"score": 8,
+"justification": "Factual info about SEC postponement."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Decision relevant for weeks to months."
+}
+}
+},
+{
+"tweet_id": "1732207773893398881",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Promotional hype about Cardano and Ethereum; moderate potential within community."
+},
+"informative_value": {
+"score": 3,
+"justification": "Minimal factual info; mainly hype."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive excitement."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days until video is consumed."
+}
+}
+},
+{
+"tweet_id": "1732206835019698487",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Breaking news in Vietnamese; moderate potential within Vietnamese crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "Factual info about SEC delay."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Decision relevant for weeks to months."
+}
+}
+},
+{
+"tweet_id": "1732203852940935399",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Call to action for distribution; likely to be shared within community."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides instructions for KYC and distribution."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive tone urging action."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant until distribution ends."
+}
+}
+}
+]

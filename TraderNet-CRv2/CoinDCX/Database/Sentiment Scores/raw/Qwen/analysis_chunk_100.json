@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1520612362986078208",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "This tweet addresses a significant strategic move for ApeCoin, likely to be shared within the crypto community but not globally."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides clear information about ApeCoin's migration plan, which is crucial for the community."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone, simply stating a strategic decision."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The migration plan is a significant change, likely to remain relevant for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1520587188307697667",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "A reminder about gas fees, relevant but not likely to go viral."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Informs about current gas fees and their implications."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone, complimenting Ethereum developers."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Gas fees are a recurring issue, relevant for a few days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1520586527180574720",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news about significant Ethereum burning, likely to be widely shared."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides specific data on a significant event."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, just stating a fact."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Significant but may lose relevance quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1520577210704441344",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Humorous take on high gas fees, likely to get some shares."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Mentions high gas fees without context."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Slightly negative due to frustration."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Temporary issue, short impact."
+      }
+    }
+  },
+  {
+    "tweet_id": "1520570399762780160",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Personal frustration but resonates with others."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Shares a personal experience without much info."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Very negative, frustration is clear."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "High fees are temporary, short impact."
+      }
+    }
+  },
+  {
+    "tweet_id": "1541952241409658880",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "News about a major bank adding crypto, likely to be shared."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Important news for crypto adoption."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive, significant development."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Adoption news can have long-term effects."
+      }
+    }
+  },
+  {
+    "tweet_id": "1541496690003304448",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Report from a reputable firm, likely to be shared."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides expert analysis on Ethereum's scaling."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, just reporting findings."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Scaling is a long-term issue, relevant for a while."
+      }
+    }
+  },
+  {
+    "tweet_id": "1541384246140538880",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Report from a reputable firm, relevant but without 'JUST IN'."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Same as above, but maybe less context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Same as above."
+      }
+    }
+  },
+  {
+    "tweet_id": "1541109541567434752",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Significant milestone, likely to be shared."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides specific and important data."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Milestones are impactful but may fade."
+      }
+    }
+  },
+  {
+    "tweet_id": "1540788868428926982",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "A photo of Vitalik and his dad, personal."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "No real information, just a photo."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, just sharing a photo."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-lived, personal photo."
+      }
+    }
+  }
+]

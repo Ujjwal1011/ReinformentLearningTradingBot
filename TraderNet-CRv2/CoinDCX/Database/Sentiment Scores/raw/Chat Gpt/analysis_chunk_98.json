@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1472196286271180803",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet announces a major shift in Ethereum's consensus mechanism, a topic of high interest within the crypto community. The influencer's 14k followers and 509 retweets indicate moderate viral potential, especially among crypto enthusiasts."
+},
+"informative_value": {
+"score": 8,
+"justification": "It provides a factual update about Ethereum's transition from Proof of Work to Proof of Stake, a significant technical development. The link likely leads to a detailed article, enhancing credibility."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply stating a fact without emotional language."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Ethereum's PoW to PoS transition is a milestone that will remain relevant for months as the network continues to evolve, keeping the tweet pertinent for an extended period."
+}
+}
+},
+{
+"tweet_id": "1472002040230469632",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Mentioning Vitalik Buterin, a prominent figure, can attract attention within the crypto community. The tweet's brevity and lack of a hook limit broader virality, but the influencer's reach can still generate moderate engagement."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet states factual information about Vitalik Buterin being the creator of Ethereum. However, the second clause is unclear, reducing overall informational clarity."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is factual and neutral, lacking emotional tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Information about Vitalik Buterin remains relevant for a long time, but the tweet's specific phrasing may limit its lasting relevance to a few weeks."
+}
+}
+},
+{
+"tweet_id": "1471967904090386434",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Announcing the live testnet of Ethereum's PoS merge is a significant event that will interest developers and investors. The influencer's large following and 265 retweets suggest moderate viral potential within the crypto niche."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet delivers a clear, factual update about a milestone in Ethereum's development, providing valuable information to the community."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, presenting information without emotional language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The testnet launch is a milestone that will be referenced for weeks as the network transitions, giving the tweet a medium-term relevance."
+}
+}
+},
+{
+"tweet_id": "1471881075148443654",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The humorous, relatable content about Ethereum's price and a personal anecdote is likely to resonate with the crypto community, encouraging shares and retweets. The influencer's large following amplifies this effect."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet is primarily a joke and does not provide factual or educational content."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The tweet expresses negative sentiment with the phrase 'Complete nightmare', indicating a very negative tone."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The anecdotal nature of the tweet means it will quickly lose relevance, staying relevant only for a short period after posting."
+}
+}
+},
+{
+"tweet_id": "1471451598404608009",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "A statement from a major tech company about Ethereum's future can attract attention from both crypto enthusiasts and mainstream tech audiences, giving it moderate viral potential."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet conveys a credible, newsworthy statement about Microsoft's stance on Ethereum, providing valuable information to readers."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply reporting a fact without emotional language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The statement about Microsoft's bullish stance will remain relevant for weeks as the crypto market reacts, giving the tweet medium-term relevance."
+}
+}
+}
+]

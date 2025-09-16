@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1570305825574379522",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet announces a major global event (Ethereum's shift to proof-of-stake) with striking environmental impact numbers, which resonates with both crypto and sustainability audiences; high engagement (11k likes, 747 retweets) indicates strong sharing potential, though it is not a world‑leader announcement."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides factual details about the merge, specific percentages on environmental impact, and a link to further information, making it highly newsworthy and educational."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Uses enthusiastic language ('Incredible news') and highlights positive environmental outcomes, conveying a very positive emotional tone."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "While the announcement is time‑sensitive, the significance of the Ethereum merge and its environmental implications give the tweet relevance for months as a reference point."
+}
+}
+},
+{
+"tweet_id": "1570305605352697856",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "A personal congratulatory note to Jeff Bezos and AWS; lacks a strong hook or broader relevance, resulting in limited sharing beyond a niche audience."
+},
+"informative_value": {
+"score": 2,
+"justification": "Does not add new factual information; merely expresses congratulations without context or details."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Clearly positive, using 'Congratulations' to convey strong approval and enthusiasm."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet is a momentary acknowledgment and is unlikely to be referenced after the immediate event, giving it a short relevance window."
+}
+}
+},
+{
+"tweet_id": "1570304046883291136",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Short, enthusiastic announcement of PoS activation that can be easily retweeted within crypto circles; moderate engagement suggests medium sharing potential."
+},
+"informative_value": {
+"score": 5,
+"justification": "States that Ethereum proof‑of‑stake is live but provides no additional data or context, making it neutral in informational content."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Uses celebratory language ('👏', 'What a way to start the day') indicating a very positive tone."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Serves as a snapshot of the moment; may be referenced occasionally but lacks depth to sustain long‑term discussion."
+}
+}
+},
+{
+"tweet_id": "1570302943349604353",
+"analysis": {
+"virality_potential": {
+"score": 2,
+"justification": "A brief thank‑you message with an emoji and a link; lacks a compelling hook and is unlikely to be widely shared."
+},
+"informative_value": {
+"score": 1,
+"justification": "Contains no factual or educational content; merely expresses gratitude."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Positive sentiment expressed through 'Thank you' and a friendly panda emoji."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "Highly time‑bound personal expression with little relevance beyond the moment of posting."
+}
+}
+},
+{
+"tweet_id": "1570302526297354242",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Labeled as 'BREAKING' with hashtags, from a high‑profile account (CoinGecko) and high engagement (2.8k likes, 596 retweets); likely to be widely shared across crypto and mainstream media."
+},
+"informative_value": {
+"score": 9,
+"justification": "Announces the completion of the Ethereum merge, a historic event, providing clear, newsworthy information."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Neutral to mildly positive tone; 'successfully transitioned' conveys approval without strong emotional language."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Marks a landmark moment in blockchain history; the tweet can serve as a reference point for years, giving it long‑term relevance."
+}
+}
+}
+]

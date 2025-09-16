@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1495572067315556360",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Strong emotional endorsement of Ethereum with a viral metaphor ('to the moon') and high engagement metrics from an account with 1.2M followers."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Primarily expresses opinion/prediction rather than providing concrete information, though linked content might contain data."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Very positive sentiment with phrases like 'complete confidence' and aspirational language about growth."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Tied to Ethereum's medium-term price trajectory which remains relevant for weeks/months in crypto circles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1495521902802186240",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Contrarian claim about Ethereum economics could spark discussion, but limited by niche crypto audience."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Makes specific claim about Ethereum's monetary policy timeline that could be verified/falsified."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of a technical prediction without explicit emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Deflationary mechanism discussions remain relevant until/unless the predicted change occurs."
+      }
+    }
+  },
+  {
+    "tweet_id": "1495491311037730818",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Whale activity alerts attract attention in crypto circles but follow a standard format without unique hooks."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific, verifiable blockchain data with historical price comparisons."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of on-chain activity without explicit sentiment indicators."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Single transaction alert typically only relevant for immediate market reactions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1495301305652461571",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Technical wallet feature suggestions unlikely to spread beyond developer communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Contains specific UX improvement proposals for Ethereum wallets."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Mildly negative tone in opening phrase ('need to get smart or gtfo')."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Wallet UX discussions remain relevant until implemented or resolved."
+      }
+    }
+  },
+  {
+    "tweet_id": "1495298037492551680",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Comparison to Amazon attracts attention but diluted by excessive hashtags."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Reports a factual comparison but requires clicking through to article for context."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Mildly positive through favorable comparison to major corporation."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Time-bound financial comparison likely superseded by new data quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1495182605519630338",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Newsworthy quote from Ethereum's founder through an account with 3.4M followers."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Documents a direct statement from a key industry figure at a public event."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of a statement without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Philosophical statement about crypto's purpose could be referenced long-term."
+      }
+    }
+  },
+  {
+    "tweet_id": "1495165600687140869",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Combination of celebrity culture (Vitalik) and meme coin reference (Shiba Inu) creates strong viral potential."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Primarily entertainment-focused without substantive information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive/humorous tone regarding the Ethereum founder's attire."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Meme-worthy moment likely to fade after conference cycle."
+      }
+    }
+  },
+  {
+    "tweet_id": "1495089875913256962",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Relatable personal finance anxiety in volatile markets drives engagement."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Expresses personal doubt without providing analysis or data."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Clear anxiety and uncertainty about investment decisions."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Ongoing relevance tied to Ethereum price volatility."
+      }
+    }
+  },
+  {
+    "tweet_id": "1494940219463782400",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Routine exchange listing announcement with limited unique appeal."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Notes a market event but requires link for meaningful context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of price movement and listing."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Minor exchange listing impact typically lasts <24 hours."
+      }
+    }
+  },
+  {
+    "tweet_id": "1494921128023769090",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Niche Ethereum community commentary without broad appeal."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Opinion-based comparison without new information."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Mildly negative tone regarding professional rivalry."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevant only during the specific conference timeframe."
+      }
+    }
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1455377272442028040",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet expresses strong frustration about high gas fees, a common pain point among crypto users, making it likely to be shared within the crypto community, but it lacks a broader hook for global virality."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "The tweet merely expresses frustration without providing new facts or data."
+      },
+      "sentiment_polarity": {
+        "score": 1,
+        "justification": "The tweet conveys strong negative sentiment (disgust) about gas fees."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The tweet is relevant for a short period while gas fees remain high, but it will likely fade as the issue resolves or new topics emerge."
+      }
+    }
+  },
+  {
+    "tweet_id": "1455173582154342407",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "The tweet is a poll asking for opinions, which may generate some engagement but is unlikely to go viral beyond the user's followers."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet is a request for information rather than providing new facts."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, simply asking for opinions."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The poll is relevant while people respond, but will fade after the poll period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1455073268218544129",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet offers a relatable perspective on crypto adoption, likely to resonate within the crypto community and beyond, but not a global meme."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "The tweet provides a concise analysis of factors driving crypto adoption, offering useful context."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "The tweet expresses mild frustration but also acknowledges positive developments."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tweet discusses ongoing trends in crypto adoption, which remain relevant for weeks or months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1476813266462539779",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet warns about a scam, which is highly shareable among crypto users and can spread quickly."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet provides detailed information about a scam, offering valuable warning to the community."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "The tweet conveys negative sentiment about the scam."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tweet remains relevant for a period as people discuss the scam and its implications."
+      }
+    }
+  },
+  {
+    "tweet_id": "1476606711511273473",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet presents a humorous hypothetical that may resonate with NFT traders, but is unlikely to go global."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "The tweet is a speculative statement, not providing factual information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet expresses a lighthearted, humorous tone."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The tweet is relevant while the joke is fresh, but will fade after a day or two."
+      }
+    }
+  }
+]

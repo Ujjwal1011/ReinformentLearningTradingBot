@@ -1,0 +1,107 @@
+[
+{
+  "tweet_id": "1742915310272041059",
+  "analysis": {
+    "virality_potential": {
+      "score": 8,
+      "justification": "High engagement (16k likes, 5k retweets) indicates strong sharing within the crypto community, giving it a high virality potential despite its niche focus."
+    },
+    "informative_value": {
+      "score": 6,
+      "justification": "Provides concrete details about moving coin distribution from Ethereum to BSC and wallet compatibility, offering useful information for token holders."
+    },
+    "sentiment_polarity": {
+      "score": 7,
+      "justification": "Enthusiastic language and emojis convey a positive outlook toward the community-driven decision."
+    },
+    "duration_of_impact": {
+      "score": 6,
+      "justification": "The distribution change will stay relevant for weeks as users transition, but it is not a timeless topic."
+    }
+  }
+},
+{
+  "tweet_id": "1742556449601949833",
+  "analysis": {
+    "virality_potential": {
+      "score": 6,
+      "justification": "Moderate engagement (4.6k likes, 1.2k retweets) suggests some sharing within the community, but the vague message limits broader virality."
+    },
+    "informative_value": {
+      "score": 5,
+      "justification": "Mentions collaborations and anti‑bot manual distribution, but lacks specific details, resulting in a neutral informational value."
+    },
+    "sentiment_polarity": {
+      "score": 6,
+      "justification": "Positive tone about expanding collaborations and careful distribution."
+    },
+    "duration_of_impact": {
+      "score": 4,
+      "justification": "Relevant mainly during the allocation period, likely fading within a day or two after distribution."
+    }
+  }
+},
+{
+  "tweet_id": "1742531614306124268",
+  "analysis": {
+    "virality_potential": {
+      "score": 7,
+      "justification": "Strong criticism of Ethereum fees combined with a dramatic cost claim can spark debate, and the tweet’s engagement (2.9k likes, 900 retweets) supports a high virality potential."
+    },
+    "informative_value": {
+      "score": 6,
+      "justification": "Provides a specific cost comparison (36,398× cheaper) and includes a link, offering factual content though unverified."
+    },
+    "sentiment_polarity": {
+      "score": 3,
+      "justification": "Negative tone toward Ethereum’s high fees, using confrontational language."
+    },
+    "duration_of_impact": {
+      "score": 5,
+      "justification": "Cost comparison remains relevant as long as Ethereum fees stay high, but the tweet itself is a short‑term promotional piece."
+    }
+  }
+},
+{
+  "tweet_id": "1742344805664084232",
+  "analysis": {
+    "virality_potential": {
+      "score": 7,
+      "justification": "Promotes PulseChain with bold claims and a free airdrop; engagement (3.2k likes, 1k retweets) indicates strong sharing within crypto circles, giving it high virality potential."
+    },
+    "informative_value": {
+      "score": 6,
+      "justification": "Lists several advantages (fees, throughput, $0 bridge fee) and mentions the largest free airdrop, providing useful but promotional information."
+    },
+    "sentiment_polarity": {
+      "score": 8,
+      "justification": "Highly positive language describing PulseChain as a \"miracle\" and emphasizing benefits, while implicitly criticizing Ethereum."
+    },
+    "duration_of_impact": {
+      "score": 5,
+      "justification": "The airdrop and fee claims are relevant for the campaign period, after which interest will likely decline."
+    }
+  }
+},
+{
+  "tweet_id": "1741821074239615181",
+  "analysis": {
+    "virality_potential": {
+      "score": 6,
+      "justification": "List format of \"Solana Killers\" can attract engagement; engagement (3.5k likes, 450 retweets) suggests moderate sharing within the crypto community."
+    },
+    "informative_value": {
+      "score": 7,
+      "justification": "Provides a concise list of competing platforms for Solana, offering informative content for readers interested in alternatives."
+    },
+    "sentiment_polarity": {
+      "score": 4,
+      "justification": "The phrase \"Solana Killers\" suggests a competitive, slightly negative stance toward Solana."
+    },
+    "duration_of_impact": {
+      "score": 7,
+      "justification": "The list of platforms remains relevant for months as the ecosystem evolves, giving it medium‑term staying power."
+    }
+  }
+}
+]

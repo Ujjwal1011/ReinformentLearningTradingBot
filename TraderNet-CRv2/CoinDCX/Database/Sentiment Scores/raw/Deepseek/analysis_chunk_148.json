@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1621893796723134464",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Significant financial milestone announcement likely to be widely shared in crypto communities, though not globally explosive."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides concrete, verifiable market data about a major cryptocurrency's valuation."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant until next major market cap fluctuation, likely days to weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1621643990448627713",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Controversial opinion about cryptocurrency hierarchy could spark debate within crypto communities."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Presents a speculative opinion rather than factual information."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Moderately negative toward Bitcoin with definitive statements about its decline."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Could generate discussion for 1-2 weeks in crypto circles before fading."
+      }
+    }
+  },
+  {
+    "tweet_id": "1621512870038233094",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major institutional adoption news likely to be widely shared in finance and tech circles."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Reports concrete development from a major financial institution."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of factual information."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for weeks/months as platform development progresses."
+      }
+    }
+  },
+  {
+    "tweet_id": "1641890861637324801",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Technical tool announcement with moderate appeal to developer communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Introduces a specific technical solution for Ethereum developers."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone about an innovation, though not overwhelmingly emotional."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Could remain relevant for weeks as developers explore the tool."
+      }
+    }
+  },
+  {
+    "tweet_id": "1641532055195643904",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Important update for NFT holders likely to be shared within specific communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides actionable information about a platform migration with timeline."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive announcement about platform expansion."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Primarily relevant until migration occurs, likely short-term."
+      }
+    }
+  },
+  {
+    "tweet_id": "1640843277883539456",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Highly technical content with limited appeal beyond niche validator communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Contains specific technical data about network parameters."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of technical adjustments."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance limited to current reward structure implementation."
+      }
+    }
+  },
+  {
+    "tweet_id": "1640775976710750209",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Technical fee analysis primarily relevant to developers and validators."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides detailed metrics about transaction costs, though highly specialized."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of fee analysis data."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevant until next fee structure update."
+      }
+    }
+  },
+  {
+    "tweet_id": "1640722906744487936",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Major network upgrade announcement likely to be widely shared across crypto communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides critical timing and technical details for a significant Ethereum upgrade."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone about scheduled progress, indicated by celebratory emoji."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Long-term relevance as Shapella upgrade permanently affects network functionality."
+      }
+    }
+  },
+  {
+    "tweet_id": "1639584307994927104",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Technical solution likely to be shared among Ethereum developers experiencing gas issues."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides a specific technical workaround for transaction failures."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral problem-solving approach without strong emotion."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant as long as gas estimation challenges persist."
+      }
+    }
+  },
+  {
+    "tweet_id": "1639417034411855873",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Niche tool announcement with moderate appeal to token holders."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Announces a new utility for checking token balances."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive presentation of a new feature."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance limited to current user interest in token scanning."
+      }
+    }
+  }
+]

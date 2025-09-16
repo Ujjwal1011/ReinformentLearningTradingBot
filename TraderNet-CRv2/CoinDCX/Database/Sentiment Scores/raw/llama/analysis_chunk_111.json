@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1550930748760154113",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet is a brief, generic investment advice without a strong hook, unlikely to go viral beyond the author's followers."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet provides no informative content, merely expressing a personal opinion on Ethereum."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The user expresses a positive sentiment, encouraging others to buy Ethereum with a hopeful tone."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is tied to the cryptocurrency market's fluctuations, remaining relevant for a standard duration."
+}
+}
+},
+{
+"tweet_id": "1550724821377437696",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet discusses Ethereum's development roadmap, potentially generating interest within the crypto community."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides useful information about Ethereum's development stages, though it lacks detailed explanations."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet presents information in a neutral, factual manner without expressing a clear sentiment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance will last as long as Ethereum's roadmap remains a topic of interest, potentially for days or weeks."
+}
+}
+},
+{
+"tweet_id": "1550315295402668032",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet breaks down complex information into an engaging, easy-to-understand format, likely to be shared within the crypto community."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides detailed, informative content about Ethereum's roadmap and its implications for $ETH."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet maintains a neutral tone, focusing on educating rather than persuading or expressing emotion."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet's relevance will endure as Ethereum progresses through its roadmap, remaining a useful resource for weeks or months."
+}
+}
+},
+{
+"tweet_id": "1550298063314501632",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "The tweet is a personal opinion on cryptocurrency, unlikely to generate significant engagement or sharing."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet provides some insight into the user's stance on cryptocurrency, but it's more of a personal reflection than informative content."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The user expresses a moderately positive sentiment towards certain cryptocurrencies, while criticizing the broader market."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is short-term, as personal opinions on the cryptocurrency market can quickly become outdated."
+}
+}
+},
+{
+"tweet_id": "1550261551218794498",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet's engaging question and link to a relevant resource could generate interest and sharing within the crypto community."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet poses a question without providing direct information, relying on the linked resource for educational value."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet's question is neutral, lacking a clear emotional tone or sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to the immediate speculation around Ethereum's merge, making its impact relatively short-lived."
+}
+}
+},
+{
+"tweet_id": "1550205498921828352",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet's claim about Ethereum's potential transaction capacity could generate significant interest and sharing."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides newsworthy, informative content about Ethereum's future capabilities."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet presents information in a neutral, factual manner without expressing a clear sentiment."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet's relevance will last as Ethereum progresses towards achieving the mentioned transaction capacity, potentially for months."
+}
+}
+},
+{
+"tweet_id": "1550136708389281793",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet's summary of Vitalik Buterin's talk could generate interest within the crypto community, especially those who missed the event."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides a useful summary of Ethereum's future roadmap, linking to more detailed information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet maintains a neutral tone, focusing on educating rather than persuading or expressing emotion."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance will last as long as Ethereum's roadmap remains a topic of interest, potentially for days or weeks."
+}
+}
+},
+{
+"tweet_id": "1550132267229626368",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet's announcement about Ethereum's future transaction capacity could generate significant interest and sharing."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides newsworthy, informative content about Ethereum's future capabilities, directly quoting Vitalik Buterin."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet presents information in a neutral, factual manner without expressing a clear sentiment."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet's relevance will last as Ethereum progresses towards achieving the mentioned transaction capacity, potentially for months."
+}
+}
+},
+{
+"tweet_id": "1549811355221258241",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet might generate some interest by referencing Ethereum's origin story, but it's unlikely to go viral."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides some historical context about Ethereum, though its primary purpose seems to be making a point about NFTs."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The user expresses a moderately positive sentiment by implying Ethereum's approach to NFTs is superior."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is tied to the ongoing discussion around NFTs and Ethereum, remaining relevant for a standard duration."
+}
+}
+},
+{
+"tweet_id": "1549716947847479302",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The tweet's announcement of a significant innovation in Ethereum scaling could generate substantial interest and sharing across the crypto community."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides highly informative content about a major development in Ethereum's scaling solutions, including a link to more information."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The user expresses a very positive sentiment, highlighting a 'giant leap forward' for Ethereum scaling and ZK innovation."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The tweet's relevance will endure as the announced innovation impacts Ethereum's scalability, remaining a significant development for months."
+}
+}
+}
+]

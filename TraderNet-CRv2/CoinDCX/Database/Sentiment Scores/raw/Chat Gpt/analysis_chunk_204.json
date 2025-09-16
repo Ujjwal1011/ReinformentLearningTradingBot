@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1538804424478445568",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet announces a breaking news about stablecoin transaction volumes, which is likely to be shared within the crypto community. The use of 'JUST IN' signals urgency, and the user’s large following helps spread it, but the niche topic limits global virality."
+},
+"informative_value": {
+"score": 7,
+"justification": "It provides a specific, factual update on daily transaction numbers for two major stablecoins, offering useful information to followers."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, presenting data without emotional language."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The information is time‑specific and will likely remain relevant for a few days before the numbers shift."
+}
+}
+},
+{
+"tweet_id": "1538706290553327618",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "A humorous fun fact about Ethereum’s origin is likely to be shared widely for its entertainment value, especially within crypto circles."
+},
+"informative_value": {
+"score": 6,
+"justification": "It shares a factual historical detail, but it is anecdotal and not a primary source."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet uses a positive tone with 'FUN FACT', indicating a moderately positive sentiment."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The historical fact remains relevant indefinitely and can be referenced for years."
+}
+}
+},
+{
+"tweet_id": "1538627103339565060",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "A 24‑hour price snapshot is useful for the crypto community but is not highly emotional or breaking news, so it has moderate potential to be shared."
+},
+"informative_value": {
+"score": 7,
+"justification": "It provides up‑to‑date percentage changes for several major cryptocurrencies, offering clear factual information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is purely factual with no emotional tone."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Price updates are short‑lived and typically lose relevance within a day or two."
+}
+}
+},
+{
+"tweet_id": "1538536940269490178",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet contains a mix of facts and optimistic commentary, which may resonate within the Ethereum community but lacks a strong hook for global virality."
+},
+"informative_value": {
+"score": 6,
+"justification": "It offers factual statements about price, issuance, and the merge, but also includes opinion, giving it moderate informational value."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tone is positive and optimistic about Ethereum’s fundamentals."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The commentary on fundamentals and the upcoming merge will remain relevant for weeks to months."
+}
+}
+},
+{
+"tweet_id": "1538432374643609600",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Breaking news about the all‑time high deposit contract value is likely to be widely shared, especially by those following Ethereum 2.0."
+},
+"informative_value": {
+"score": 7,
+"justification": "It provides a specific, verifiable figure for the total value in the deposit contract, which is useful information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply reporting a fact."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The figure is time‑specific and will likely be relevant for a few days before the value changes."
+}
+}
+}
+]

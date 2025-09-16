@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1523380046282469376",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet references a high-profile figure (Jim Cramer) and a popular cryptocurrency (Ethereum), creating a hook that can attract attention within finance and crypto communities. While it is not breaking news, the contrast between the prediction and actual price movement makes it shareable, especially among those discussing market forecasts."
+},
+"informative_value": {
+"score": 6,
+"justification": "It provides a specific prediction (40% rise) and the actual outcome (18% decline) with a date, offering a factual data point about Ethereum's price performance. The tweet does not elaborate further, so its depth is limited."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "The tone is mildly critical of the prediction, using a factual statement that implies disappointment, but it lacks strong negative language."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The relevance is tied to the specific prediction and short-term price movement; as the market evolves, the tweet’s context will fade within days to weeks."
+}
+}
+},
+{
+"tweet_id": "1523306186761596929",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet details suspicious activity during the high-profile UST collapse, a topic that generated intense discussion in the crypto community. The concise timeline and strong language ('very fishy') make it likely to be retweeted and quoted among analysts."
+},
+"informative_value": {
+"score": 7,
+"justification": "It supplies concrete figures ($150 m, $84 m) and timestamps, offering a clear narrative of the alleged manipulation, which adds substantive information beyond a generic comment."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The tweet expresses moderate negativity, labeling the event 'very fishy' and highlighting wrongdoing, but it does not contain overt anger or profanity."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The UST fiasco remains a reference point for discussions about stablecoin risk, so the tweet can be revisited for months as analysts examine the collapse."
+}
+}
+},
+{
+"tweet_id": "1523144546087235584",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Announcing that Instagram—a mainstream platform—will support Ethereum, Solana, and Polygon NFTs is a major news hook that appeals to both crypto enthusiasts and a broader audience, leading to high retweet and quote activity."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet conveys a specific upcoming feature, providing timely, newsworthy information even though it lacks a source link."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tone is neutral to mildly positive, simply stating a forthcoming development without strong emotional language."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The introduction of NFT support on a major social network can influence the NFT ecosystem for months or years, giving the tweet lasting relevance."
+}
+}
+},
+{
+"tweet_id": "1523141891289944064",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet mentions Google and crypto, using many hashtags, which can attract attention, but the content is largely promotional and lacks a unique news angle, limiting its viral reach."
+},
+"informative_value": {
+"score": 5,
+"justification": "It reports that a Google Forms Web3 team sees 'tremendous potential' and demand for crypto tech support, but provides no data, source, or specifics, making it a generic claim."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The language is clearly positive, using words like 'tremendous potential' and 'demand,' conveying optimism about crypto tech."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The statement is a snapshot of perceived demand; without further development, its relevance is likely to fade after a short period."
+}
+}
+},
+{
+"tweet_id": "1523087037837967360",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "A surprising comparison between Ethereum’s market cap and that of Bank of America is a shareable fact that can attract interest, especially within crypto circles, though it may not cross over to a mainstream audience."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet presents a factual data point (Ethereum’s market cap exceeds Bank of America’s), which is informative but not elaborated upon."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The 'FUN FACT' framing conveys a light-hearted, mildly positive tone."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "As long as Ethereum’s market cap remains larger, the fact can be referenced in discussions about crypto’s financial significance, giving it medium-to-long term relevance."
+}
+}
+}
+]

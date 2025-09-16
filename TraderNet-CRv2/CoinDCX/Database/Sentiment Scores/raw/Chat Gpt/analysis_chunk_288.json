@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1603059349722918912",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet alleges a scandal involving a former SEC director and a large financial conflict, which is likely to attract widespread attention and sharing within crypto and regulatory communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "It presents a specific claim about a financial conflict and regulatory action, offering potentially new information about a public figure, though the claim is not verified."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "The tweet expresses strong negative sentiment toward Bill Hinman, using accusatory language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The scandal could remain relevant for weeks or months as discussions about regulatory conflicts continue."
+      }
+    }
+  },
+  {
+    "tweet_id": "1602320562935709696",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet makes a bold claim that Ethereum is the world economic forum, a statement that could spark debate and sharing among crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "The claim is misinformation and lacks factual basis, providing little reliable information."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "The tweet conveys negative sentiment toward Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The claim may persist in discussions for a short period before being corrected."
+      }
+    }
+  },
+  {
+    "tweet_id": "1601744180510085121",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet offers a technical fix for privacy leaks in Metamask, which is likely to be shared within the crypto developer community."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It provides actionable information and a solution to a known privacy issue, making it highly informative."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral, focusing on technical details rather than emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The fix remains relevant until the issue is fully resolved, likely for several weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1601271825560145920",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "The tweet is a personal opinion with no broader hook, so it is unlikely to go viral."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "It offers no new information, just a personal dislike of two cryptocurrencies."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "The tweet expresses negative sentiment toward Solana and Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The opinion will likely fade quickly as it lacks ongoing relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1600213856416333825",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet references a claim of securities fraud involving Ethereum, which could attract attention within crypto and regulatory circles."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "It presents an unverified claim about securities fraud, providing limited factual content."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "The tweet conveys negative sentiment toward Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The claim may remain in discussion for some time until clarified or disproven."
+      }
+    }
+  }
+]

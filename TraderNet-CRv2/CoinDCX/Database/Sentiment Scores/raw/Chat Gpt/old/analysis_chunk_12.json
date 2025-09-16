@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1361462058005397507",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Bold prediction with hashtags and a confident tone can spark debate and shares, especially from a high-follower account."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet offers a prediction without supporting data or sources, so it provides limited factual information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses confidence and optimism about the future of Bitcoin and Ethereum."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet refers to a specific year that has already passed, limiting its long-term relevance."
+}
+}
+},
+{
+"tweet_id": "1361183385046061066",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "A factual daily update is useful but not inherently viral; it may be shared within niche communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet lists precise percentage changes, offering concrete data for followers."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet presents data without emotional language."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The information is time-sensitive and likely to fade after a short period."
+}
+}
+},
+{
+"tweet_id": "1360941400607633413",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The call-to-action and emoji can prompt replies and retweets, especially from a large following."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet is a question about a price target, not providing new information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet uses an encouraging tone and emoji, expressing optimism."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The question is relevant only until the price target is reached or the conversation ends."
+}
+}
+},
+{
+"tweet_id": "1360576535099363328",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet provides concise market cap figures that may be shared by investors."
+},
+"informative_value": {
+"score": 8,
+"justification": "It lists current market values for major cryptocurrencies, offering valuable data."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet presents facts without emotional language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Market cap figures remain relevant for weeks or months as they reflect the state of the market."
+}
+}
+},
+{
+"tweet_id": "1360519835453689857",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Personal updates may attract some interest but are unlikely to go viral."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet shares a personal transaction without broader context or data."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses excitement about a significant investment."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The anecdote is time-bound and unlikely to remain relevant long-term."
+}
+}
+},
+{
+"tweet_id": "1360348542892732416",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "A straightforward question can generate replies but is not highly viral."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet merely asks a question without providing new information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is a neutral inquiry."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The question is relevant only while the conversation is active."
+}
+}
+},
+{
+"tweet_id": "1359503393975328775",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The comprehensive list may attract shares among investors and analysts."
+},
+"informative_value": {
+"score": 8,
+"justification": "It provides a broad overview of year-over-year gains for multiple assets, offering valuable insight."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet lists data without emotional language."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Year-over-year performance data remains relevant for a while, though some items are time-sensitive."
+}
+}
+},
+{
+"tweet_id": "1359484612481863681",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "A short personal update is unlikely to spread widely."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet shares a personal transaction without broader context."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses gratitude and positivity."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The anecdote is time-bound and unlikely to remain relevant."
+}
+}
+},
+{
+"tweet_id": "1359423449786175496",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The question invites engagement from BSC users and could spread within that community."
+},
+"informative_value": {
+"score": 6,
+"justification": "It highlights a trend (BSC surpassing Ethereum) and asks for opinions, providing context."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is a neutral inquiry."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The relevance is tied to the current state of BSC transactions and may fade."
+}
+}
+},
+{
+"tweet_id": "1359347606183313414",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet announces a significant shift in the crypto ecosystem, likely to be widely shared."
+},
+"informative_value": {
+"score": 8,
+"justification": "It provides a factual claim about transaction volumes and explains the underlying reason."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses optimism about BSC's growth and uses emojis to reinforce positivity."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The shift in transaction volumes is a notable event that may be referenced for months."
+}
+}
+}
+]

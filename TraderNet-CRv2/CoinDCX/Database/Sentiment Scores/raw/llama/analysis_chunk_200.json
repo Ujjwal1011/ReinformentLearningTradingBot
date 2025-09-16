@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1732133238582169923",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet mentions a popular cryptocurrency (#Ethereum) and includes a link, which could generate interest within the crypto community, but lacks a strong hook for broader virality."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet is brief and primarily promotional, with the link providing the main informational value, which is not explicitly described in the tweet itself."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet's sentiment is neutral, as it simply states a fact/assertion without expressing a clear emotion."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to the timely interest in Ethereum, likely remaining relevant for a short period, e.g., until the next significant crypto news."
+}
+}
+},
+{
+"tweet_id": "1732132790064337141",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The technical nature of the content (bridge adapters, contracts) limits its appeal to a niche audience, reducing broader virality potential."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides detailed, technical information about using Axelar and other services for cross-chain operations, valuable to those in the field."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet maintains a neutral tone, focusing on explaining a process without expressing emotion."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Given its technical nature, the tweet's relevance could extend for days or weeks, especially if it serves as a resource for those working with the mentioned technologies."
+}
+}
+},
+{
+"tweet_id": "1732132458307649816",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet's content, focused on a specific series and card, is niche and unlikely to attract widespread attention beyond the immediate community."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet informs about a specific card series but doesn't provide broader context or insights beyond the immediate subject matter."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet's tone is neutral, lacking emotional language and focusing on sharing information."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is short-term, primarily of interest at the time of posting and possibly for a brief period after."
+}
+}
+},
+{
+"tweet_id": "1732132246486954439",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Similar to the previous tweet, the niche focus on a card series limits its potential for broad virality."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet provides specific information about a card but doesn't offer insights or context that would increase its informative value beyond the niche audience."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet maintains a neutral tone, without emotional expression."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The relevance of this tweet is also short-term, mainly of interest at the time of posting."
+}
+}
+},
+{
+"tweet_id": "1732132212080857550",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The bold claim that $KAS will replace Bitcoin and Ethereum could spark significant interest and debate within the crypto community, potentially leading to shares and discussions."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet makes a specific claim about $KAS's technology but lacks detailed information to support its assertion, providing moderate informative value."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses a very positive sentiment towards $KAS, with a tone of confidence and optimism about its future."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Given the nature of the claim, the tweet could remain relevant for days or weeks, especially if it sparks ongoing discussions about $KAS's potential."
+}
+}
+},
+{
+"tweet_id": "1732131946665521155",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The comparative analysis between #HBAR and #SAUCE, along with the mention of a governing council, might generate interest and shares within the crypto and investing communities."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides a comparative opinion on cryptocurrencies and mentions a specific motto, offering some insight, though the informative value is somewhat subjective."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The tweet expresses a negative sentiment towards #HBAR in comparison, using somewhat mocking language ('Your kids will buy...')."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The relevance of this tweet could extend for days, given the comparative nature of the content and its potential to spark discussion."
+}
+}
+},
+{
+"tweet_id": "1732131526572421366",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "This tweet, similar to others from the same user, is focused on a niche topic (a card series) and is unlikely to attract broad attention."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet informs about a specific card but doesn't provide broader insights or context beyond the immediate subject."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet maintains a neutral tone, lacking emotional language."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is short-term, primarily of interest at the time of posting."
+}
+}
+},
+{
+"tweet_id": "1732131126506926187",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Breaking news about the US SEC's decision on a spot $ETH ETF is highly likely to be shared widely within the crypto and financial communities due to its significant implications."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides timely, newsworthy information about a significant event in the crypto regulatory space, offering high informative value."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet reports news in a neutral tone, without expressing a clear emotion."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Given the importance of the news, the tweet's relevance could extend for weeks, with ongoing discussions and analyses of the decision's impact."
+}
+}
+},
+{
+"tweet_id": "1732131008042963363",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The enthusiastic prediction about $KAS reaching the top 10 on CMC, accompanied by emphatic language and hashtags, could generate significant interest and shares."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet makes a specific, albeit subjective, claim about $KAS's future performance but lacks detailed analysis or evidence to support it."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The tweet expresses an extremely positive sentiment towards $KAS's potential, using emphatic language ('The door to financial freedom', 'very soon', '🔥🔥🔥')."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance could extend for days or weeks, especially if $KAS's market performance is closely watched following this prediction."
+}
+}
+},
+{
+"tweet_id": "1732130386258604353",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Similar to other tweets from the same user, this one's focus on a specific card series limits its broader appeal."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet provides information about a card but doesn't offer broader insights or context beyond the niche topic."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet maintains a neutral tone, without emotional expression."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is short-term, primarily of interest at the time of posting."
+}
+}
+}
+]

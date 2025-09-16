@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1732133238582169923",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Promotional tweet about Ethereum, likely to be shared within the crypto community but not beyond."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Provides some information about Ethereum but lacks depth."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral promotional statement."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term impact as it's about a specific event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732132790064337141",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Technical content about blockchain bridges, niche audience."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides some technical information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral factual explanation."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term impact as it's about a specific technical issue."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732132458307649816",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Reply with a card and link, part of a series."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Somewhat informative but not detailed."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term impact."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732132246486954439",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Reply with a card and link."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Somewhat informative."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term impact."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732132212080857550",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Promotional tweet with high engagement."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Speculative claims about Kaspa."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment towards Kaspa."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term impact."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732131946665521155",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Criticism of HBAR with moderate engagement."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Opinionated content."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative towards HBAR."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term impact."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732131526572421366",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Reply with a card and link."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Somewhat informative."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term impact."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732131126506926187",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news with high engagement."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides credible, newsworthy information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Medium-term impact due to regulatory news."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732131008042963363",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Promotional tweet with high engagement."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Promotional content."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment towards Kaspa."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term impact."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732130386258604353",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Reply with a card and link."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Somewhat informative."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term impact."
+      }
+    }
+  }
+]

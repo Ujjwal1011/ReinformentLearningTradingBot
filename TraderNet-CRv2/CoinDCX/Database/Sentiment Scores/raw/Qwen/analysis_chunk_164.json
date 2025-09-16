@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1722678731859513844",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Breaking news about a major financial institution like BlackRock registering an Ethereum ETF is likely to be widely shared within crypto communities."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides factual information about a significant financial move, which is newsworthy."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Positive sentiment due to the potential impact of the ETF on the market."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The news is relevant for weeks as it pertains to a significant financial product."
+}
+}
+},
+{
+"tweet_id": "1722634650068074513",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Criticism of Ethereum's high fees and promotion of another chain may resonate within crypto communities."
+},
+"informative_value": {
+"score": 5,
+"justification": "Mentions a specific issue but lacks detailed information."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "Negative sentiment due to frustration with transaction costs."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant only until the issue is addressed or resolved."
+}
+}
+},
+{
+"tweet_id": "1722634073712017656",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Similar to the previous tweet, it highlights a specific issue and alternative solution."
+},
+"informative_value": {
+"score": 5,
+"justification": "Provides a comparison but lacks detailed context."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "Negative sentiment towards Ethereum's transaction costs."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short-term relevance as it addresses a specific issue."
+}
+}
+},
+{
+"tweet_id": "1722633082803732553",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Breaking news about a significant financial institution's move is likely to be widely shared."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides factual information about a major financial trust registration."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Positive sentiment due to the potential market impact."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Relevant for weeks as it pertains to a significant financial product."
+}
+}
+},
+{
+"tweet_id": "1722633044388147547",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Breaking news with a call to action, likely to be shared within crypto communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "Announces a significant financial move with a call to action."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment with a call to action."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for days as it pertains to a significant financial product."
+}
+}
+},
+{
+"tweet_id": "1722632691982487672",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Discusses a significant financial move and hints at future developments."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides context and hints at future ETF possibilities."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment with a focus on factual information."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for days as it pertains to potential future developments."
+}
+}
+},
+{
+"tweet_id": "1722630271013675199",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Provides context about past actions but is less likely to go viral."
+},
+"informative_value": {
+"score": 7,
+"justification": "Adds context about a financial institution's past actions."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment with a focus on factual information."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for days as it pertains to past actions and potential future developments."
+}
+}
+},
+{
+"tweet_id": "1722108562820698491",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Critique of Layer 2 solutions may be shared within niche communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides a critique but lacks detailed information."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "Negative sentiment towards Layer 2 solutions."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevant for a few days as it pertains to a specific technical discussion."
+}
+}
+},
+{
+"tweet_id": "1721635758853824916",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Image of Ethereum during a bull market may be shared but not widely."
+},
+"informative_value": {
+"score": 5,
+"justification": "Provides visual context but lacks detailed information."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive sentiment towards Ethereum's performance."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days as it pertains to a specific market moment."
+}
+}
+},
+{
+"tweet_id": "1721616573679440347",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Sale of a CryptoPunk is niche but may be shared within blockchain communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides specific transaction details and relevant hashtags."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment, focusing on a transaction."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days as it pertains to a specific sale."
+}
+}
+}
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1501720852416503811",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "The tweet offers a niche suggestion that may resonate with engaged couples and crypto enthusiasts, but it lacks a strong hook or trending element, so its potential to go viral is moderate."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "It provides a recommendation rather than factual news, so its informative value is limited to a specific audience."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral, simply giving advice without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The advice remains relevant for the period leading up to the wedding, but it will likely fade after the couple marries."
+      }
+    }
+  },
+  {
+    "tweet_id": "1501414564428091398",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet shares a timely update on Ethereum fee reductions, a topic of interest to the crypto community, which can drive shares within that niche."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "It delivers concrete data about fee levels, making it a useful informational piece for traders and investors."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is factual and neutral, with no overt emotional language."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Fee changes are subject to market dynamics, so the relevance will likely last a few weeks to a month."
+      }
+    }
+  },
+  {
+    "tweet_id": "1501309972822515715",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Breaking news from Goldman Sachs about an Ethereum fund is a high-impact announcement that can attract broad attention across finance and crypto audiences."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "It announces a significant product offering from a major financial institution, providing valuable information to investors."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is objective and neutral, simply reporting the news."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "This development will remain relevant for months as the fund launches and attracts investors."
+      }
+    }
+  },
+  {
+    "tweet_id": "1501042422356189188",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet uses humor and a meme-like tone to comment on gas prices, which can resonate with crypto enthusiasts and potentially spread within that community."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "It offers a subjective opinion rather than factual data, so its informative value is low."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tone is upbeat and humorous, reflecting a positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The meme may circulate for a few days to a week before losing relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1501004812716023808",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Highlighting a massive Ethereum transaction with an extremely low fee is a striking fact that can spark curiosity and shares among crypto users."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It provides specific details about a transaction, offering insight into fee mechanics and decentralization."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, presenting facts without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The information will remain relevant for a while as it illustrates a notable example of low fees, but may fade as new transactions occur."
+      }
+    }
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1487126706519306241",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Strong opinion on Ethereum gas fees could resonate within crypto communities, but lacks universal appeal for global virality."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Opinion-based critique with a link to further content, but no direct factual data or primary sources."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative tone criticizing power dynamics in Ethereum gas fees ('we've had enough')."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Ongoing debate about Ethereum's fee structure ensures relevance for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1486976379396956160",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Market analysis with trending hashtags may attract crypto enthusiasts, but lacks emotional hooks for broader sharing."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides market updates and links to analysis, though lacks original data."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of market movements without clear emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term relevance tied to daily market fluctuations."
+      }
+    }
+  },
+  {
+    "tweet_id": "1486875086233620481",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Elon Musk speculation combined with crypto hype creates strong sharing potential."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Unverified prediction without supporting evidence or sources."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Optimistic tone about institutional adoption ('no brainer')."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant until Musk's actual crypto moves are confirmed or denied."
+      }
+    }
+  },
+  {
+    "tweet_id": "1486856307328098307",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Direct performance comparison with Ethereum presented through compelling data points."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Concrete transaction metrics and fee comparisons provide high-value insights."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of factual data without overt bias."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Benchmark comparisons remain relevant for ongoing blockchain debates."
+      }
+    }
+  },
+  {
+    "tweet_id": "1486774501736075264",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Major corporate partnership news likely to interest crypto and finance communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Credible announcement about Mastercard's Ethereum scalability plans."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of corporate strategy."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Relevant throughout partnership implementation phases."
+      }
+    }
+  },
+  {
+    "tweet_id": "1486722980512092163",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Minimal content with unclear purpose beyond listing asset names."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No substantive information beyond cryptocurrency mentions."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "No discernible emotional content."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Immediately irrelevant due to lack of context."
+      }
+    }
+  },
+  {
+    "tweet_id": "1486611133561667584",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Instructional NFT content may see moderate sharing in niche communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides a structured guide to NFT monetization with external link."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral how-to content without emotional bias."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Standard lifespan for educational content in fast-moving NFT space."
+      }
+    }
+  },
+  {
+    "tweet_id": "1486429218250518532",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Controversial prediction about Ethereum flipping Bitcoin could drive engagement."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Mixes market observation with speculative opinion."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive outlook on Ethereum's future ('sure sign', 'no brainer')."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant until market dynamics change significantly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1486406411336704002",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Historical anniversary content appeals to crypto historians but lacks mass appeal."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides contextual history about Ethereum's early days with photo evidence."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral historical recollection."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Permanent addition to Ethereum's historical record."
+      }
+    }
+  },
+  {
+    "tweet_id": "1486404880486961155",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Sensational market movement report likely to drive immediate shares."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Reports specific whale activity but lacks transaction verification."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Implied positive sentiment about large ETH purchases."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term relevance tied to market cycle news."
+      }
+    }
+  }
+]

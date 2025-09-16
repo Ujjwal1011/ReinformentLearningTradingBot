@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1732813539394338839",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet uses hashtags and a link, likely to be shared within crypto communities but not beyond."
+},
+"informative_value": {
+"score": 3,
+"justification": "It's a call to action without detailed information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Excited tone with positive sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Short-term relevance as it's about current trends."
+}
+}
+},
+{
+"tweet_id": "1732796637368533435",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Excitement and repetition increase sharing potential."
+},
+"informative_value": {
+"score": 3,
+"justification": "No new information, just excitement."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Very positive and enthusiastic."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Short-term due to current trends."
+}
+}
+},
+{
+"tweet_id": "1732788304989606153",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Predictions can generate discussion."
+},
+"informative_value": {
+"score": 5,
+"justification": "Provides a prediction, somewhat informative."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive sentiment about future developments."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Lasts until prediction outcome."
+}
+}
+},
+{
+"tweet_id": "1732779207095116065",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Breaking news about market caps."
+},
+"informative_value": {
+"score": 6,
+"justification": "Factual update on market positions."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, presenting facts."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Short-term as market caps fluctuate."
+}
+}
+},
+{
+"tweet_id": "1732774027264159972",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Detailed and from a knowledgeable user."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides insights into upcoming developments."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive about Ethereum's future."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Ongoing relevance of topics."
+}
+}
+},
+{
+"tweet_id": "1732749297991537035",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Repeats a common message."
+},
+"informative_value": {
+"score": 3,
+"justification": "No new information."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive about Ethereum."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Short-term relevance."
+}
+}
+},
+{
+"tweet_id": "1732745160524533805",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Specific event with links."
+},
+"informative_value": {
+"score": 6,
+"justification": "Details a significant bid."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive about the event."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Notable event with lasting interest."
+}
+}
+},
+{
+"tweet_id": "1732731781609111957",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Promotes an NFT with visuals."
+},
+"informative_value": {
+"score": 4,
+"justification": "Promotional content."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive promotion."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Specific campaign relevance."
+}
+}
+},
+{
+"tweet_id": "1732713245742448862",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Technical service explanation."
+},
+"informative_value": {
+"score": 5,
+"justification": "Explains a service."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, factual."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Short-term relevance."
+}
+}
+},
+{
+"tweet_id": "1732712864052285588",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Giveaway attracts attention."
+},
+"informative_value": {
+"score": 4,
+"justification": "Announces a giveaway."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive and exciting."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Time-bound event."
+}
+}
+}
+]

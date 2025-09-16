@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1732059889109745673",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Targets crypto communities with fee comparisons, but lacks strong emotional hooks for broader virality."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Promotes a specific platform's services but lacks detailed educational content."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral promotional tone without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant until competing platforms match fee structures or user interest shifts."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732059631776592275",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Uses comparative claims and hashtags to engage crypto communities, driving moderate sharing potential."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Primarily promotional with no substantive data or educational content."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive enthusiasm shown through emojis and exclamation points."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term relevance tied to current fee comparisons between networks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732059252217582003",
+    "analysis": {
+      "virality_potential": {
+        "score": 2,
+        "justification": "Niche NFT transaction update with limited audience appeal."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Documents a single purchase event without broader context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual reporting without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Immediately irrelevant after transaction completion."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732056942703481312",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Specific NFT sale announcement with minimal engagement drivers."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Notes a purchase event but lacks artistic or market context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral transactional reporting."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Relevance expires immediately post-sale."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732054073921228809",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Analytical take on Ethereum's evolution could spark discussions among crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides strategic insight about blockchain development trends."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Professional tone without overt emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Contributes to ongoing debates about blockchain architectures."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732052415363621015",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High engagement metrics and announcement of new DeFi tool with cross-chain appeal."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Details a functional bridge solution with specific use cases."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive framing of technical capabilities ('seamlessly', 'fastest-growing')."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant until bridge technology evolves or competitors emerge."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732049006463701445",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Hype-driven language and multiple hashtags could attract speculative traders."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Promotes a presale without substantive project details or verifiable claims."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Extreme enthusiasm shown through fire emojis and rocket symbols."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance limited to presale period unless project gains traction."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732048708047360432",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Technical update relevant to Ethereum scaling discussions within crypto circles."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Conveys completed network upgrade with fee implications."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive framing of improvements ('miniscule fees', 'this is how we scale')."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant until next major network upgrade occurs."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732048681967444168",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major protocol upgrade announcement with strong engagement metrics in privacy-focused communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Details technical improvements to privacy infrastructure with roadmap references."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Enthusiastic presentation of upgrades ('huge update', 'more resilient')."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Will remain relevant through implementation phase and subsequent usage analysis."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732047225562583159",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "High engagement through personal appeal and community focus, though niche audience."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Primarily a promotional auction notice without broader informational value."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong positive emotions conveyed through compliments and heart emojis."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Relevance expires with auction conclusion in 24 hours."
+      }
+    }
+  }
+]

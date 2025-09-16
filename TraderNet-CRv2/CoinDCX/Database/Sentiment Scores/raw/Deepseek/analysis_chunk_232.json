@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1770470493201567885",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news about a major organization being investigated has high shareability, especially in crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides verifiable news about a significant regulatory development with a credible source (CoinDesk)."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of facts without explicit emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Regulatory investigations typically remain relevant for weeks/months as developments unfold."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770469360710095256",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Duplicate of breaking news but from a smaller account, reducing viral potential slightly."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Repeats critical information about Ethereum Foundation investigation with source attribution."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual presentation without emotional bias."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Same long-tail relevance as original news story."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770232793299112171",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Combines major institutional investment news with price speculation and bullish emojis."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Reports verifiable BlackRock activity but includes speculative price commentary."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Strong positive sentiment with phrases like 'most bullish' and 'HIGHER!!!'"
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Market-moving news but impact may fade with next price movement."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770214477251674606",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Blockchain comparison could spark debates within crypto communities."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Personal opinion about network preferences without data or news."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative comparison highlighting Solana's perceived flaws."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant primarily during current network congestion discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770196664349032857",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major financial institution's blockchain adoption has broad appeal."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific announcement about BlackRock's Ethereum-based fund launch."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive implication through announcement without explicit emotion."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Signals long-term institutional adoption of blockchain technology."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770179511864131856",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Price prediction meme format with rocket emoji attracts engagement."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Opinion-based price speculation without new information."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong bullish sentiment with 'ludacris' undervaluation claim."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Tied to current price levels rather than fundamental developments."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770177665099596282",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "High-engagement tweet from large account about landmark institutional adoption."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific details about fund size ($100M) and settlement method (USDC)."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of factual information."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Milestone in institutional crypto adoption with lasting implications."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770167246423257343",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "BREAKING format with fire emojis optimized for crypto community engagement."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Confirms BlackRock's tokenized fund launch on Ethereum."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Explicit bullish sentiment with 'GIGA BULLISH' and fire emoji."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Significant development in asset tokenization space."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770164192437211333",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "ETF approval rumors generate intense discussion in crypto markets."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Unconfirmed rumor but references credible approval pattern (Bitcoin ETF)."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Implied positive outlook through comparison to approved Bitcoin ETF."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Time-bound relevance until May 2024 decision date."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770087855916028394",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Product feature announcement relevant to specific DeFi communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Explains cross-chain functionality but includes promotional hashtag."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral description of platform capabilities."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Evergreen interoperability feature but competing solutions exist."
+      }
+    }
+  }
+]

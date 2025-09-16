@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1460537319186997250",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The giveaway incentivizes likes and retweets, which drives rapid sharing within the crypto community, though it is limited to the author's followers."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet contains no factual or educational content; it merely promotes a contest."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The language is celebratory and enthusiastic, using emojis and exclamation marks."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Giveaway contests are time‑bound and lose relevance shortly after the prize is awarded."
+}
+}
+},
+{
+"tweet_id": "1460492220646113284",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "A humorous critique of Ethereum vs Solana may be retweeted within crypto circles but lacks a strong hook for broader virality."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet is a joke and does not convey verifiable information."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The tone is mildly critical of Ethereum, indicating a moderately negative sentiment."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Its relevance is tied to the ongoing Ethereum‑Solana debate and fades quickly."
+}
+}
+},
+{
+"tweet_id": "1460385414196432896",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Speculative price targets invite discussion and sharing among crypto enthusiasts, giving it medium virality potential."
+},
+"informative_value": {
+"score": 5,
+"justification": "Provides a list of price targets, which is informational but speculative and not verified."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply asking a question without strong emotional language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Price‑target discussions can persist for days or weeks as markets move, giving it medium‑long relevance."
+}
+}
+},
+{
+"tweet_id": "1460289097004728326",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Combines a humorous Santa request with crypto price speculation, likely to be shared modestly within niche communities."
+},
+"informative_value": {
+"score": 4,
+"justification": "Lists speculative price figures, offering some data but lacking factual verification."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Playful and affectionate tone with heart and Santa emojis conveys moderately positive sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Humor tied to current price speculation is likely to be relevant for a short period (hours to a day)."
+}
+}
+},
+{
+"tweet_id": "1460085031901224967",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "A paid offer to NFT artists may attract interest in the NFT community but does not have a strong viral hook."
+},
+"informative_value": {
+"score": 6,
+"justification": "Details a concrete financial offer and verification requirements, providing useful information for potential participants."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Polite and generous tone, offering $5k, reflects moderately positive sentiment."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The offer remains relevant while it is open, likely for several days, giving it a neutral duration."
+}
+}
+}
+]

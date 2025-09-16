@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1732173563145093260",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet promotes ENS, a niche crypto service, and includes a call to action and token tickers. It may attract shares among crypto enthusiasts but lacks broader emotional hook or breaking news, giving it medium virality potential."
+},
+"informative_value": {
+"score": 5,
+"justification": "It offers a brief, promotional description of ENS as a blockchain '.com' but does not provide detailed factual information, making it largely neutral in terms of informational content."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The language is upbeat and encouraging, expressing optimism about ENS and the future web."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "ENS is an ongoing service, but the promotional nature of the tweet gives it relevance for days to weeks rather than months."
+}
+}
+},
+{
+"tweet_id": "1732173556333662262",
+"analysis": {
+"virality_potential": {
+"score": 1,
+"justification": "A simple enthusiastic reply with no broader relevance or hook, limiting its potential to be shared widely."
+},
+"informative_value": {
+"score": 1,
+"justification": "The tweet contains only an expression of excitement and no factual or informational content."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The tweet conveys strong positive emotion with the word 'Vamooos!' and a 🤩 emoji."
+},
+"duration_of_impact": {
+"score": 1,
+"justification": "It is tied to a specific interaction and loses relevance almost immediately."
+}
+}
+},
+{
+"tweet_id": "1732173394685436105",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "A speculative claim about Ethereum's price that resonates with crypto enthusiasts, leading to moderate sharing within the community."
+},
+"informative_value": {
+"score": 3,
+"justification": "Provides a speculative opinion without supporting data or factual information."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tone is optimistic about Ethereum's future price, expressing moderate positive sentiment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The price speculation may stay relevant for weeks to months as the market fluctuates."
+}
+}
+},
+{
+"tweet_id": "1732172426048307681",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "A provocative critique of Ethereum from a known influencer, likely to spark discussion within crypto circles."
+},
+"informative_value": {
+"score": 4,
+"justification": "Offers a viewpoint without supporting evidence, providing limited informational content."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "Expresses strong criticism and negative sentiment toward Ethereum."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The critical viewpoint may remain part of longer-term discussions about Ethereum's relevance."
+}
+}
+},
+{
+"tweet_id": "1732172120375906794",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "A routine NFT sale announcement from a bot, with limited appeal beyond interested collectors."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides concrete sale details and price, useful for NFT market participants."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is factual without strong emotional tone."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Sale details may be referenced for a few days as market participants track prices, but not long-term."
+}
+}
+}
+]

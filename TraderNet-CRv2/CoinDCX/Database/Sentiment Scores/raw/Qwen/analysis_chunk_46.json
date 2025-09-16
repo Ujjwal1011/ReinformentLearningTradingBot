@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1473317595239624717",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Announcing a new product in the Ethereum space with high engagement suggests strong community interest and potential for sharing."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides information about new tools and on-ramps, though it's a promotional announcement."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive sentiment with emojis and excitement about new features."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for days or weeks as new products are adopted and discussed."
+      }
+    }
+  },
+  {
+    "tweet_id": "1473073485069045765",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Personal anecdote involving a well-known figure, likely to be shared within the crypto community."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Storytelling without significant factual information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment from a unique encounter."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term relevance as a personal story."
+      }
+    }
+  },
+  {
+    "tweet_id": "1473042109997322243",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "High engagement and direct mention of a key figure, likely to trend."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Shoutout without detailed information."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive and enthusiastic tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term due to the nature of the mention."
+      }
+    }
+  },
+  {
+    "tweet_id": "1473019822665568261",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Personal complaint with low engagement potential."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Anecdotal without factual content."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative sentiment towards Ethereum's creator."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Very short-term relevance as a personal issue."
+      }
+    }
+  },
+  {
+    "tweet_id": "1472978062593736711",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Informative announcement with high engagement, likely to be shared."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides useful information about ENS profiles."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive and encouraging tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for days or weeks as users adopt the feature."
+      }
+    }
+  },
+  {
+    "tweet_id": "1472964802058375168",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Personal story involving a key figure, likely to be shared within the community."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Anecdotal without factual content."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment from a unique encounter."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term relevance as a personal story."
+      }
+    }
+  },
+  {
+    "tweet_id": "1472957947546324993",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Humorous and relatable meme content, likely to trend."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Fictional scenario with no factual basis."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive and optimistic tone."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term relevance as a meme."
+      }
+    }
+  },
+  {
+    "tweet_id": "1472920313927110659",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Controversial statement about politics and crypto, likely to be shared."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Opinion-based without detailed information."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Negative sentiment towards a politician."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term relevance tied to a specific event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1472913976367460358",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Thought-provoking comparison, likely to generate discussion."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides a comparison of digital platforms."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, presenting a choice without strong emotion."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for days or weeks as a topic of discussion."
+      }
+    }
+  },
+  {
+    "tweet_id": "1472897066322038784",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Humorous meme involving a key figure, likely to trend."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Anecdotal without factual content."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive and humorous tone."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term relevance as a meme."
+      }
+    }
+  }
+]

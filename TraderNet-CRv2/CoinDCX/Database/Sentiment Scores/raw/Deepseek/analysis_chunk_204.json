@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1732109682070913155",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Technical explanation of Ethereum scaling solutions could drive sharing within crypto communities, though lacks broad emotional appeal."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides detailed technical information about MetisDAO's architecture and value proposition with specific claims."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral explanatory tone without explicit emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Discusses Layer 2 solutions - an ongoing focus area in Ethereum development with weeks/months relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732108789413707809",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Technical critique with limited engagement (0 retweets), primarily relevant to Ethereum core developers."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Contains substantive technical analysis of Ethereum's event log implementation challenges."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Critically analyzes protocol design choices with implied frustration about implementation challenges."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Discusses fundamental protocol design considerations that could remain relevant for future upgrades."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732108179226370293",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Protocol-level announcement likely to interest node operators and validators, with moderate retweet activity."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Announces new performance methodology adopted as core protocol component with official partnership."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive emotional markers ('Excited', '✨') combined with professional achievement."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Validator performance metrics could influence network operations for months/years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732105828323426795",
+    "analysis": {
+      "virality_potential": {
+        "score": 2,
+        "justification": "Automated NFT sale notification with minimal engagement drivers beyond specific collectors."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Records specific NFT transaction details without broader context or analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Purely transactional information without emotional valence."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Single NFT sale relevance expires immediately after transaction confirmation."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732105526631129478",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Price commentary with strong engagement (304 likes) and confrontational tone against critics drives sharing."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides current market data with strategic commentary, though lacks source citations."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong positive sentiment celebrating investment success and criticizing doubters."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Price commentary becomes outdated quickly, though strategic advice has weeks relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732105447866499255",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Basic market observation with low engagement (0 retweets) and no novel analysis."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "States widely-available market data point without additional context or interpretation."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral statement of market condition without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Dominance metrics change hourly - minimal lasting relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732104891600949749",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "NFT mint announcement with limited appeal beyond immediate community (3 retweets)."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Personal NFT activity update without broader educational content."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive language ('Excited') about collaborative project."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance limited to current NFT project cycle (days)."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732103030659580335",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Market strategy advice from influencer with large following drives engagement (21 retweets)."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides altcoin investment thesis with market cycle analysis."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Reassuring tone encouraging strategic patience."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Market cycle advice remains relevant for current crypto bull/bear phase (weeks)."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732101559964901868",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Basic price alert format with minimal engagement (4 retweets)."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Only states current price without context or analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral price reporting without emotional valence."
+      },
+      "duration_of_impact": {
+        "score": 1,
+        "justification": "Price point becomes irrelevant within minutes/hours."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732099534770012345",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Success story narrative with contrarian investment thesis drives engagement (5 retweets)."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Shares personal investment strategy results with market valuation commentary."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Strong positive sentiment celebrating investment success ('severely undervalued')."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Investment strategy discussion remains relevant through market cycles (weeks/months)."
+      }
+    }
+  }
+]

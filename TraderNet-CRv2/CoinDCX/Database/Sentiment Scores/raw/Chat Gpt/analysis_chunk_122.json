@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1479121057797718018",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High engagement and relatable question about buying Ethereum, likely to be shared within crypto community."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No factual information provided, just a question."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone, no strong emotion."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Personal question remains relevant for a while but not long-term."
+      }
+    }
+  },
+  {
+    "tweet_id": "1478696186240503808",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Major announcement from Vitalik about PoS transition, widely shared."
+      },
+      "informative_value": {
+        "score": 10,
+        "justification": "Primary source, critical update about Ethereum's transition."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral factual statement."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "Significant event, referenced for months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1478480954150817797",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Comment to a user, limited audience, unlikely to go viral."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Unverified claim about mining costs, moderate informational content."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative tone, critique of mining."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term relevance, likely to fade quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1478186679609401348",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Call to action for a contract, moderate potential for sharing."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Describes contract requirements, not newsworthy."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a few days until contract activation."
+      }
+    }
+  },
+  {
+    "tweet_id": "1477682321323175939",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Direct message to specific users, low potential for wide sharing."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Request for Ethereum address, not informative."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative, insulting tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term relevance, likely to fade."
+      }
+    }
+  }
+]

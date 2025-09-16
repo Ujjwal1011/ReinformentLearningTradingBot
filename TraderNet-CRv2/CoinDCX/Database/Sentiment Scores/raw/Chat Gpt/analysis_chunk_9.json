@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1338387446690549760",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Vitalik's warning is from a high-profile figure, but the content is a cautionary statement rather than a meme or breaking news, leading to moderate virality."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "The tweet offers a clear warning about taking personal loans to buy Ethereum, providing useful financial advice."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "The tone is negative, warning against a risky action, but not extremely negative."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The caution remains relevant for a while but is not a timeless statement."
+      }
+    }
+  },
+  {
+    "tweet_id": "1336379524628492288",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The question format and comparison between AirPods Max and Ethereum invite engagement, and the account is large, leading to high virality."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet is a question rather than providing new factual information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral, simply asking a question."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The comparison may remain relevant for a short period but is not evergreen."
+      }
+    }
+  },
+  {
+    "tweet_id": "1335030261810147333",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Tyler Winklevoss's tweet about Ethereum 2.0 is a news update from a high-profile user, generating moderate to high virality."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It reports a significant milestone for Ethereum 2.0, providing valuable news."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet expresses excitement and positivity about the upgrade."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The milestone is significant and will remain relevant for some time."
+      }
+    }
+  },
+  {
+    "tweet_id": "1334150764655226887",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The news about Visa integrating USDC is a major development, and the tweet is from a user with a large following, leading to high virality."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It provides a clear update on a significant partnership between Visa and Ethereum."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tweet is enthusiastic and positive about the development."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The news will remain relevant for a while but is not timeless."
+      }
+    }
+  },
+  {
+    "tweet_id": "1333744735735795712",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Vitalik's suggestion about the first PoS block is a thought-provoking comment from a high-profile figure, generating moderate to high virality."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "The tweet is a suggestion rather than a news update, offering limited factual information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral, presenting a suggestion without strong emotion."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The suggestion may remain relevant for a while but is not evergreen."
+      }
+    }
+  }
+]

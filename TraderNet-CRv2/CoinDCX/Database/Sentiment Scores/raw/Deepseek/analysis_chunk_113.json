@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1549062850517372934",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Market cap milestones attract crypto community attention and get shared as status updates, but lack emotional triggers for broader virality."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific, verifiable financial data about Ethereum's market position from an established source."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement without explicit positive/negative language beyond the implied success of 'reclaiming' status."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Market cap figures change daily - relevance limited to current market cycle discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1548790535875399681",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Similar to other market cap updates but with slightly lower engagement metrics suggesting reduced shareability."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Concrete financial metric presented clearly with cryptocurrency hashtag for context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual reporting without emotional language beyond the implied positive of 'reclaiming' status."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Time-sensitive market data with relevance tied to immediate price movements."
+      }
+    }
+  },
+  {
+    "tweet_id": "1548743057188724749",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Project milestone announcement with emotional appeal to Ethereum community, likely shared within crypto circles."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific metrics about Polygon's growth and hints at upcoming developments, though lacks technical details."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone celebrating community support and future commitments with emoji reinforcement."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Announcement of imminent development creates anticipation lasting several days beyond initial tweet."
+      }
+    }
+  },
+  {
+    "tweet_id": "1548737661950521344",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Urgent financial incentive (unclaimed $150M) combined with thread format encourages sharing within crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides actionable airdrop information with specific timeline and eligibility criteria for cryptocurrency users."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral instructional tone despite financial incentive, using emojis for light positive emphasis."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Time-bound relevance limited to 2-week claim window before funds redistribution."
+      }
+    }
+  },
+  {
+    "tweet_id": "1548630128816701440",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Price milestone tweets generate standard engagement in crypto circles but lack unique viral elements."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Links price movement to specific event (Sep 19th merge date), adding context to raw data."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of price action with implied positive connotation through 'continuing rally' phrasing."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to temporary price movement around merge event timeline."
+      }
+    }
+  },
+  {
+    "tweet_id": "1548365442393133057",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Provocative economic comparison with strong visual language ('🚀') encourages sharing in financial/crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Makes substantive claim about Ethereum's monetary policy relevance in current economic climate."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Strong positive sentiment through triumphant language and rocket emoji emphasizing growth potential."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Ties into long-term narrative about cryptocurrency vs traditional finance, ensuring ongoing relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1548349214274359299",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Emphatic all-caps statement and explosion emoji designed for quick sharing, though lacks substance."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Pure hype without supporting data or context about what 'exploding' refers to."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Extremely positive emotional expression through capitalization and punctuation."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Hype-based tweet with no substantive content to maintain relevance beyond initial reaction."
+      }
+    }
+  },
+  {
+    "tweet_id": "1548228260726599682",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "NFT growth statistics presented as counter-narrative to bear market, shareable in crypto circles."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific metrics about wallet growth with chart support, though source credibility unclear."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral analytical tone presenting data-driven market observation."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "NFT market trends remain relevant for weeks as indicators of ecosystem health."
+      }
+    }
+  },
+  {
+    "tweet_id": "1548106245277564932",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Routine price update with moderate engagement metrics typical for crypto accounts."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Basic price movement alert without context about causes or implications."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of percentage increase without additional commentary."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Immediately outdated as prices change minute-to-minute in crypto markets."
+      }
+    }
+  },
+  {
+    "tweet_id": "1547956163303522311",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "High-value NFT transaction details attract attention in crypto art communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Specific transaction data with wallet addresses, but lacks broader market context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of sale details without explicit sentiment indicators."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Individual NFT sales have brief relevance unless part of larger trend."
+      }
+    }
+  }
+]

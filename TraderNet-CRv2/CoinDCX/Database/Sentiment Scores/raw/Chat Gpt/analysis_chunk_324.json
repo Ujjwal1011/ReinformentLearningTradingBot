@@ -1,0 +1,107 @@
+[
+{
+    "tweet_id": "1725513725187166439",
+    "analysis": {
+        "virality_potential": {
+            "score": 7,
+            "justification": "The tweet announces a new cross‑chain bridge teaser between Ethereum and Solana, a topic that generates interest within the crypto community but remains niche, leading to moderate‑high shareability among enthusiasts."
+        },
+        "informative_value": {
+            "score": 7,
+            "justification": "It provides a concise news update about a potential bridge feature, offering factual information though limited detail, giving it medium‑high informational value."
+        },
+        "sentiment_polarity": {
+            "score": 5,
+            "justification": "The language is neutral, simply stating a breaking announcement without expressing strong emotions."
+        },
+        "duration_of_impact": {
+            "score": 6,
+            "justification": "Bridge development news stays relevant for weeks to months as the feature is built and launched, giving it a medium‑length impact."
+        }
+    }
+},
+{
+    "tweet_id": "1725227252189704569",
+    "analysis": {
+        "virality_potential": {
+            "score": 8,
+            "justification": "A free mint promotion from Ubisoft for an NFT collection combines a major gaming brand with crypto, encouraging retweets and likely to spread widely within gaming and NFT circles."
+        },
+        "informative_value": {
+            "score": 6,
+            "justification": "The tweet informs followers about an upcoming free mint on Ethereum, delivering a clear but brief announcement, resulting in medium informational value."
+        },
+        "sentiment_polarity": {
+            "score": 8,
+            "justification": "Enthusiastic wording ('Get ready', '🔥') conveys a strong positive tone."
+        },
+        "duration_of_impact": {
+            "score": 4,
+            "justification": "The relevance is tied to the limited‑time mint event, making the tweet’s impact short‑term."
+        }
+    }
+},
+{
+    "tweet_id": "1725225075480154133",
+    "analysis": {
+        "virality_potential": {
+            "score": 8,
+            "justification": "The sensational claim of released Vitalik Buterin recordings alleging Ethereum corruption is likely to attract attention and shares within the crypto community, especially among skeptics."
+        },
+        "informative_value": {
+            "score": 3,
+            "justification": "The tweet offers an unverified, sensational claim without supporting evidence, providing low factual content."
+        },
+        "sentiment_polarity": {
+            "score": 3,
+            "justification": "The wording ('Corruption', 'What's Going On?') reflects a negative stance toward Ethereum."
+        },
+        "duration_of_impact": {
+            "score": 5,
+            "justification": "Such controversy may spark discussion for several days to weeks before fading, giving it a moderate impact duration."
+        }
+    }
+},
+{
+    "tweet_id": "1725118908984648175",
+    "analysis": {
+        "virality_potential": {
+            "score": 6,
+            "justification": "The comparative cost claim and promotion of PulseChain may be shared among supporters and critics, giving it moderate shareability within the crypto niche."
+        },
+        "informative_value": {
+            "score": 6,
+            "justification": "It presents specific transaction cost figures and a claim about PulseChain’s affordability, offering some factual data but primarily promotional content."
+        },
+        "sentiment_polarity": {
+            "score": 7,
+            "justification": "The tweet is upbeat about Ethereum’s lower fees and PulseChain’s extreme affordability, showing a moderately positive tone."
+        },
+        "duration_of_impact": {
+            "score": 5,
+            "justification": "The relevance is linked to current fee comparisons and a marketing push, likely remaining of interest for a short to medium period."
+        }
+    }
+},
+{
+    "tweet_id": "1725113878596424059",
+    "analysis": {
+        "virality_potential": {
+            "score": 9,
+            "justification": "A filing by BlackRock for a spot Ethereum ETF is major financial news that can attract attention beyond crypto circles, leading to high viral potential."
+        },
+        "informative_value": {
+            "score": 9,
+            "justification": "The tweet reports a concrete, verifiable development from a leading asset manager, providing high informational value."
+        },
+        "sentiment_polarity": {
+            "score": 5,
+            "justification": "The statement is factual and neutral, lacking emotive language."
+        },
+        "duration_of_impact": {
+            "score": 8,
+            "justification": "The filing marks a significant milestone for Ethereum and may be referenced for months or years, giving it a long‑term impact."
+        }
+    }
+}
+]

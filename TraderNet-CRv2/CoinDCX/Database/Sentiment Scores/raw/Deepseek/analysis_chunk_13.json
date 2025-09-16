@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1359050643785216006",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Factual data presentation lacks viral hooks but may interest crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides precise 24-hour performance metrics for multiple cryptocurrencies."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of numerical data without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Time-sensitive data becomes outdated with daily market fluctuations."
+      }
+    }
+  },
+  {
+    "tweet_id": "1358967080750624770",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Community-focused hashtags and enthusiastic tone boost shareability."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Contains hype without substantive information or context."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Strong positive sentiment with 'epic' declaration and multiple hashtags."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Tied to specific short-term market anticipation."
+      }
+    }
+  },
+  {
+    "tweet_id": "1358936678027694083",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Personal anecdote about market excitement with limited appeal."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Focuses on personal experience rather than market analysis."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Expresses anxiety through sleep deprivation metaphor."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Relevance tied to immediate market prices."
+      }
+    }
+  },
+  {
+    "tweet_id": "1358864786922983426",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Standard market update format with moderate community interest."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Detailed percentage changes across multiple cryptocurrencies."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral data presentation without emotional context."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Time-bound market snapshot with daily relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1358763645342273536",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Controversial 'breaking news' format with surprise element."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Clarifies market speculation through definitive statement."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual announcement without positive/negative framing."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Significant corporate action with medium-term market implications."
+      }
+    }
+  },
+  {
+    "tweet_id": "1358658137020985344",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Mixed performance data lacks strong viral elements."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Detailed market metrics including losses and gains."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of both positive and negative changes."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Daily market data with transient relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1358037418918699010",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Breaking news format with institutional investment angle."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Specific financial figures tied to market-moving event."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual reporting without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Significant pre-futures launch activity with week-long relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1357743313974099970",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Humorous analogy with celebrity involvement boosts shareability."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Entertainment-focused content without substantive analysis."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Playful tone with implied enthusiasm for crypto ownership."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Novelty concept tied to specific event contexts."
+      }
+    }
+  },
+  {
+    "tweet_id": "1357280964326612994",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Repetitive hype format with strong community appeal."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Speculative prediction without supporting data."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Extreme enthusiasm through repetition and emojis."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Generic crypto optimism maintains moderate relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1356738181828345857",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Emoji-heavy price celebration with meme potential."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Single price point without context or analysis."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Strong positive sentiment through rocket emojis and price focus."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Price milestone becomes outdated with market movements."
+      }
+    }
+  }
+]

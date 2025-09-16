@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1732190298120331710",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Promotional tweet about a new cryptocurrency with emojis and hashtags, likely to be shared within crypto communities but not globally viral."
+},
+"informative_value": {
+"score": 5,
+"justification": "Provides information about a new crypto project but is more promotional than factual."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment with excitement about the new project."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Impact may last a few weeks as people discuss the new cryptocurrency."
+}
+}
+},
+{
+"tweet_id": "1732190168587894903",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Factual statement about Ethereum's potential, likely to be shared among crypto enthusiasts."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides credible information about a significant event involving Ethereum."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive sentiment about Ethereum's potential growth."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Impact could last a few weeks as the ETF approval is a significant event."
+}
+}
+},
+{
+"tweet_id": "1732190150476574964",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Detailed discussion of a Layer 2 solution, likely to be shared within Ethereum and crypto communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides specific and credible information about a Layer 2 project and its funding."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment about the project's potential."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Impact could last several weeks to months as Layer 2 solutions are a持续 topic."
+}
+}
+},
+{
+"tweet_id": "1732190121540374918",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Explains two Ethereum projects, likely to be shared among Ethereum enthusiasts."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides detailed information about two significant Ethereum projects."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment about the projects' potential."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Impact could last several weeks as these projects are ongoing."
+}
+}
+},
+{
+"tweet_id": "1732190048487952723",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "Short link tweet in a less common language, unlikely to be widely shared."
+},
+"informative_value": {
+"score": 4,
+"justification": "Minimal information provided, primarily a link without context."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment as the content is unclear."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Impact is likely very short as the content is not widely understandable."
+}
+}
+},
+{
+"tweet_id": "1732189792589484051",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Discusses a strategy involving buying and burning tokens, likely to be shared among crypto communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides a strategy suggestion, which is somewhat informative."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive sentiment about the potential bullish outcome."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Impact may last a few days as the strategy is discussed."
+}
+}
+},
+{
+"tweet_id": "1732189748796457215",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Details a large crypto transfer, likely to be shared among crypto enthusiasts."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides specific information about a significant crypto transaction."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment as it is a factual report."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Impact is likely short as it is a specific transaction."
+}
+}
+},
+{
+"tweet_id": "1732189744497356813",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Promotional tweet about a crypto season with emojis and hashtags, likely to be widely shared within crypto communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides information about a crypto season and related projects."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Very positive sentiment with excitement about the season."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Impact could last a few weeks as people discuss the season."
+}
+}
+},
+{
+"tweet_id": "1732189626620649859",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Compares Ethereum and Solana, likely to be shared among crypto communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides a comparison of two blockchain platforms."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Moderately negative sentiment towards Ethereum."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Impact may last a few days as the comparison is discussed."
+}
+}
+},
+{
+"tweet_id": "1732189497423708407",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Mentions a large Ethereum transfer in Vietnamese, likely to be shared among Vietnamese crypto communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides specific information about a significant Ethereum transfer."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment as it is a factual report."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Impact is likely short as it is a specific transaction."
+}
+}
+}
+]

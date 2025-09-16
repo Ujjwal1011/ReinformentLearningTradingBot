@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1526190756926746624",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Humorous comparisons of multiple cryptocurrencies with relatable analogies and strong Bitcoin endorsement make this highly shareable in crypto communities."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Primarily opinion-based humor without providing verifiable data or actionable information."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Strongly negative toward altcoins ('useless', 'expensive af') with a single positive Bitcoin reference creates overall negative sentiment."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Price comparisons remain relevant for crypto discussions, but specific analogies may become dated with market changes."
+      }
+    }
+  },
+  {
+    "tweet_id": "1526185955102801920",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Major infrastructure provider announcing Ethereum integration has strong appeal within web3 communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Concrete announcement about Proof of Stake implementation with official link provides newsworthy technical information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone through words like 'excited' and 'next generation', though primarily informational."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Proof of Stake transition is a fundamental network change with months-long relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1526100347722289152",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news about a key figure proposing relief during a crisis has high sharing potential."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Reports actionable information about proposed solutions during the UST crisis from a primary source."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of facts without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Time-sensitive relevance tied to an active market crisis resolution."
+      }
+    }
+  },
+  {
+    "tweet_id": "1525715282299342848",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Comparative price data presented clearly encourages sharing for market analysis discussions."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides verifiable historical price data for multiple cryptocurrencies with clear structure."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Purely factual presentation without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Historical price data maintains reference value, but specific dates limit long-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1525537213181722624",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Teaser format with numbered list creates curiosity drive for Ethereum enthusiasts."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "No actual information provided - just a promise of future content."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement of upcoming content without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance limited to the immediate thread release timeframe."
+      }
+    }
+  },
+  {
+    "tweet_id": "1525135031894544384",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Major technical milestone announcement for Ethereum ecosystem with clear timeline."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific date for critical network upgrade from a technical account."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive emoji and exclamation point convey developer excitement."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The Merge represents a permanent network change with ongoing implications."
+      }
+    }
+  },
+  {
+    "tweet_id": "1525116183988543488",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Niche personal anecdote in Spanish limits broader appeal despite engagement numbers."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Personal story without generalizable information or context."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Implied frustration through mocking tone about financial decisions."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Hyper-specific personal reference with no lasting relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1525102761624449026",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Controversial comparison to Ethereum's DAO hack during active market turmoil drives engagement."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Speculative scenario presented as rhetorical question without new information."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Cynical tone regarding blockchain governance decisions."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "References historical precedent giving it ongoing relevance in governance debates."
+      }
+    }
+  },
+  {
+    "tweet_id": "1524971932252520454",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Timely analysis during market crisis with multiple hashtags for discovery."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides explanatory content about market events with linked analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of market analysis without clear bias."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Tied to specific market conditions that may quickly evolve."
+      }
+    }
+  },
+  {
+    "tweet_id": "1524968300853071873",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Dark humor about crypto crashes packaged in meme-friendly format drives sharing."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No actual analysis beyond stating well-known price levels humorously."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Cynical humor highlighting negative market developments."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Joke format tied to specific price points that may quickly become outdated."
+      }
+    }
+  }
+]

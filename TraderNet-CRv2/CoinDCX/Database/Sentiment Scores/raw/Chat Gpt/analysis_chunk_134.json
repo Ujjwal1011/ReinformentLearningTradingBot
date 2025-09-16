@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1494025302699384835",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet references a high‑profile figure (Charlie Munger) and includes striking performance numbers for crypto versus a traditional stock, which provokes strong reactions in both finance and crypto communities. Its engagement (6.7k likes, 964 retweets) shows it resonated beyond the author's modest follower base, indicating high viral potential."
+},
+"informative_value": {
+"score": 7,
+"justification": "It provides concrete 5‑year performance percentages for Berkshire Hathaway, Ethereum, and Bitcoin, offering factual data that readers can compare. While not a deep analysis, the numbers are verifiable and add informational value."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The author expresses pride in not investing in crypto, a positive self‑assessment, while implicitly critiquing crypto. This yields a moderately positive tone (pride) rather than strong negativity."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The comparison of 5‑year returns gives the tweet a longer‑term relevance in ongoing debates about crypto versus traditional assets, likely to be referenced for weeks or months as the discussion continues."
+}
+}
+},
+{
+"tweet_id": "1493974442321616903",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Despite the author's tiny follower count (75), the tweet amassed nearly 6 k likes, indicating it spread widely across the crypto community. The novelty of finally understanding the Ethereum logo and the attached visual likely drove shares, giving it high viral potential."
+},
+"informative_value": {
+"score": 3,
+"justification": "The text only states a personal realization and does not convey substantive information; the linked media may contain details, but the tweet alone offers minimal factual content."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The phrasing 'Ahora entiendo' (now I understand) conveys mild excitement and satisfaction, reflecting a moderately positive sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet is tied to a specific moment of personal insight and a visual explanation, which loses relevance after the novelty fades, making its impact short‑term (a few days)."
+}
+}
+},
+{
+"tweet_id": "1493920584127950853",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Citing a Morgan Stanley report that claims Bitcoin is more decentralized than Ethereum is a newsworthy statement likely to be shared across finance and crypto audiences. The tweet's strong engagement (4.6 k likes, 535 retweets) supports a high viral potential."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet references a reputable source (Morgan Stanley) and conveys a specific claim about decentralization, providing credible, news‑type information even without a direct link."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The use of celebratory emojis (💥, 🙌) and the framing of the report as a positive revelation give the tweet a clearly positive tone."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Debates over Bitcoin versus Ethereum decentralization are ongoing, so the claim may be discussed for weeks or months, granting the tweet a medium‑to‑long impact."
+}
+}
+},
+{
+"tweet_id": "1493541849830670337",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet creates hype by urging users to buy Ethereum before a rumored Apple announcement, a hook that can spread quickly among speculative traders. Its engagement (4.3 k likes, 419 retweets) suggests moderate viral reach."
+},
+"informative_value": {
+"score": 2,
+"justification": "The statement is speculative and offers no factual data or source, providing little informational value beyond a hype suggestion."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The imperative to buy and the excitement about a potential Apple move convey a strongly positive, enthusiastic sentiment."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The relevance is tied to the timing of an Apple announcement; once the event passes, the tweet loses context, limiting its impact to a short‑term window."
+}
+}
+},
+{
+"tweet_id": "1493334225893875723",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "A CEO of a $10 billion fintech firm publicly stating ownership of Bitcoin and Ethereum is a notable endorsement that can attract attention from both mainstream and crypto audiences. The tweet's solid engagement (3.7 k likes, 423 retweets) indicates high viral potential."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet shares a direct quote from the SoFi CEO and includes a link likely to an article, delivering credible, news‑worthy information about corporate crypto adoption."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tone is neutral‑to‑positive, simply reporting the CEO's ownership without criticism, resulting in a moderately positive sentiment."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Corporate statements about crypto holdings are referenced in discussions about institutional adoption for months, giving the tweet a medium‑to‑long lasting relevance."
+}
+}
+}
+]

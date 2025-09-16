@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1732130006346662361",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet poses a question about Solana vs Ethereum and lists reasons, but it lacks a strong hook or meme. It may resonate within crypto communities but is unlikely to go viral globally."
+},
+"informative_value": {
+"score": 6,
+"justification": "It provides factual points about community strength and lower fees, offering useful information to readers interested in Solana."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, simply stating facts without strong emotional language."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The comparison between Solana and Ethereum remains relevant for some time, but the tweet is likely to fade after a few days."
+}
+}
+},
+{
+"tweet_id": "1732129810024149199",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet promotes a collection with hype and emojis, which can attract attention within NFT circles, but it is not a meme or breaking news, so its reach is moderate."
+},
+"informative_value": {
+"score": 4,
+"justification": "It lists items in a collection but offers little factual depth or context beyond promotional content."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet uses enthusiastic language and emojis, conveying a positive, excited tone."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The promotional nature means it may stay relevant while the collection is active, but it will likely fade after a short period."
+}
+}
+},
+{
+"tweet_id": "1732129435095052389",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "A short headline about a group moving to Ethereum can spark interest within crypto communities, but it lacks a meme or emotional hook, so virality is moderate."
+},
+"informative_value": {
+"score": 6,
+"justification": "It delivers a factual update about a group’s migration, providing useful information to followers."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply reporting a fact without emotional language."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The migration may remain relevant for a while, but the tweet will likely fade after a few days."
+}
+}
+},
+{
+"tweet_id": "1732128969640841306",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet reports a postponed ETF, which is newsworthy within crypto circles, but it is not a meme or breaking global news, so virality is moderate."
+},
+"informative_value": {
+"score": 7,
+"justification": "It provides a concise factual update about the ETF’s status, offering clear information to readers."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, simply stating the fact without emotional content."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The ETF delay is relevant for a period of time, but the tweet will likely fade after the event is resolved."
+}
+}
+},
+{
+"tweet_id": "1732128613905117590",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Breaking news about SEC delaying the Grayscale Spot Ethereum ETF is highly shareable and likely to spread widely across crypto and finance communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet cites a regulatory decision, providing credible, newsworthy information from a primary source."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, reporting the news without emotional language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The regulatory decision will remain relevant for weeks or months, keeping the tweet in circulation longer than typical posts."
+}
+}
+}
+]

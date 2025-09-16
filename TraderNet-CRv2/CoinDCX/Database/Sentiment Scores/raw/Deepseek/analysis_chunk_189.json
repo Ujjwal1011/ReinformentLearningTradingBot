@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1732188108542623982",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Explains crypto infrastructure relationships with project mentions, potentially shareable within blockchain communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides educational content about three distinct blockchain projects and their interoperability."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral technical explanation without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Blockchain infrastructure discussions remain relevant for weeks in crypto circles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732188075311169742",
+    "analysis": {
+      "virality_potential": {
+        "score": 2,
+        "justification": "Single-word reply lacks engagement drivers beyond direct participants."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "No substantive content beyond mentioning 'Ethereum'."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Ambiguous single-word response with no clear sentiment."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Immediately irrelevant outside the original conversation thread."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732187998765126121",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Provocative financial advice could generate limited sharing in crypto communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Contains investment suggestions without supporting data or context."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Encouraging tone about cryptocurrency investment shows moderate positivity."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to immediate tax season considerations."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732187917551075768",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High engagement metrics and announcement of novel Bitcoin L2 solution likely to spread in Vietnamese crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Detailed explanation of Botanix Labs' technical approach to Bitcoin scalability."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Generally positive presentation of technical capabilities with emoji emphasis."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Layer 2 development discussions remain relevant for weeks in blockchain spaces."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732187818880077940",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Market speculation with multiple hashtags could resonate in Turkish crypto channels."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Contains price predictions without supporting analysis or data sources."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Optimistic tone about market growth potential ('logarithmically bigger bull')."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance limited to current market cycle speculation."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732187739288953339",
+    "analysis": {
+      "virality_pocal": {
+        "score": 6,
+        "justification": "Technical discussion referencing Vitalik's proposals could spread in developer communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Concrete suggestions for improving governance systems with linked documentation."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral problem-solving focus without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Governance improvement proposals remain relevant for weeks in DAO communities."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732187707550679214",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Major regulatory news about Ethereum ETF delay likely to spread rapidly across crypto markets."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Primary-source regulatory update with specific dates and institutional context."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative implications from regulatory delay conveyed through formal announcement."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Remains relevant until January 2024 deadline and subsequent SEC decision."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732187665834123481",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Product promotion with multiple hashtags may see moderate sharing in crypto hardware communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific security claims about a wallet product with market context."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive evaluation of product design and security features."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Standard product promotion lifespan unless security issues emerge."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732187450293055568",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Humorous technical metaphor with emojis might see limited sharing in niche communities."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Jovial suggestion about settlement layers lacks substantive content."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Playful tone with animal emoji conveys mild positivity."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Joke relevance expires quickly without technical follow-up."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732187354809454990",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Personal portfolio discussion in German has limited sharing potential."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Contains individual investment strategy without broader insights."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Expresses nervousness about portfolio balance (moderately negative)."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance limited to personal financial situation and immediate market movements."
+      }
+    }
+  }
+]

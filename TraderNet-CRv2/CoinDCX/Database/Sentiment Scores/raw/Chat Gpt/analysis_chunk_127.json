@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1497178495658647556",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet lists well‑known companies that have adopted Ethereum, which can attract interest from both crypto and mainstream audiences. However, it lacks a hook or emotional content, so it is unlikely to go viral globally."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "It provides a factual list of companies that have used Ethereum, offering useful information for readers interested in blockchain adoption."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, simply stating facts without expressing strong emotions."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The information remains relevant for a while as these companies continue to use Ethereum, but it is not a timeless statement."
+      }
+    }
+  },
+  {
+    "tweet_id": "1496491000113639429",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news about Opera browser integrating Ethereum's Layer 2 is likely to be shared widely across crypto and tech communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "The tweet delivers a factual announcement about a significant integration that expands DeFi accessibility."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The tone is slightly positive with the phrase \"Happy L2'22\", but overall remains neutral."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The integration remains relevant for a period of time, though the news will eventually fade as newer developments arise."
+      }
+    }
+  },
+  {
+    "tweet_id": "1496379980963803136",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet uses multiple hashtags and a link, which can encourage sharing, but it is not a breaking event or meme."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "It reports on stablecoin issuance growth, providing quantitative data that is useful for readers."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet presents information factually without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The data remains relevant for a while, but it is not a timeless statement."
+      }
+    }
+  },
+  {
+    "tweet_id": "1496286132820221955",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Praising a well‑known figure like Vitalik Buterin can attract retweets within the crypto community, but it is not a global viral hook."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "The tweet is an opinion praising Vitalik's approach; it does not provide new factual information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tone is positive, expressing respect and admiration."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The tweet may remain relevant for a while within the community, but it is not a long‑term reference."
+      }
+    }
+  },
+  {
+    "tweet_id": "1496177095453683719",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet makes a controversial claim that NFTs, Bitcoin, Ethereum, and the Metaverse hold no value, which can spark debate and sharing."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "It is an opinion without evidence or verification, offering little factual value."
+      },
+      "sentiment_polarity": {
+        "score": 1,
+        "justification": "The tweet expresses a strongly negative stance toward multiple assets."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The controversial nature may keep the tweet relevant for a period, though it is not a timeless statement."
+      }
+    }
+  }
+]

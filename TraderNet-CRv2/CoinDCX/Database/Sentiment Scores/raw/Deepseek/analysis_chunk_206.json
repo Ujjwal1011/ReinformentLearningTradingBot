@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1732092703910002939",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Crypto community-focused content with aspirational comparison to major coins, but lacks unique viral hooks beyond hashtags."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Promotional statement without concrete data or verifiable claims about $Bone's adoption."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone showing ambition and enthusiasm through exclamation and aspirational comparisons."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Dependent on long-term project success, but no specific timeline or milestones mentioned."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732092629205012539",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Strong engagement metrics and concrete protocol rankings likely to resonate in crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific ranking positions and revenue-sharing plans, though link truncation limits context."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone emphasizing achievements ('impressive #26') and partnership emojis."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Revenue share model discussion could maintain relevance for weeks in crypto circles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732092210261201270",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Technical tool announcement in Italian limits reach despite author's 67k followers."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Introduces a specific Ethereum node crawler tool with working link, valuable for developers."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Clear pride in project completion ('orgoglioso di presentarvi') with positive announcement."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Tool relevance could persist for developers as long as Ethereum nodes remain important."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732091277376737444",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High-profile account (1M+ followers) sharing technical analysis with bullish prediction sparks discussion."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides RSI analysis and market outlook, though speculative in nature."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Optimistic prediction ('ETH explodes soon') with technical justification."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Market predictions typically have short relevance windows unless price targets hit."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732090832969183450",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Niche governance topic (RetroPGF) with limited engagement metrics."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Raises awareness about governance participation but lacks concrete action steps."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral informational tone with mild urgency ('hinge on a...')."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Tied to immediate voting cycle with deadline not specified."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732090397181067641",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Provocative question format about market cap with notable IBC integration news."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Cites specific volume ($1.8B) and market cap figures ($30B) for credibility."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Challenging bearish sentiment shows cautious optimism about Cosmos."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Blockchain interoperability developments maintain relevance for months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732086219222233155",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Price milestone celebration with emojis could resonate in crypto communities short-term."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Basic price update without analysis or context about market drivers."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Extremely positive tone with celebratory emojis and price excitement."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Immediately outdated if price changes, which is likely in volatile markets."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732084237233422788",
+    "analysis": {
+      "virality_potential": {
+        "score": 2,
+        "justification": "Personal NFT auction with minimal engagement metrics and niche appeal."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Pure promotional content without educational or news value."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Friendly, playful tone with emojis and casual request ('support if you wanna')."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Relevance ends completely after auction conclusion in 20 hours."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732082825644347636",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Key regulatory deadline (Jan 10) for Bitcoin ETFs likely to interest crypto traders."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific SEC deadline date and contextualizes with Ethereum chart analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral informational tone despite urgency ('mucha ojo')."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant until deadline passes, with potential extended impact if ETFs approved."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732082712528216438",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "News aggregation format with multiple high-profile crypto developments attracts shares."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Condenses 5 significant crypto news items into digestible format with institutional focus."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting style without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "News roundups typically have short lifespan as new developments emerge."
+      }
+    }
+  }
+]

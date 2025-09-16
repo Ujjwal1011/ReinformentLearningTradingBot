@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1627638092009033728",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Breaking news about Hong Kong allowing retail investors to trade larger cryptocurrencies, likely to be shared widely among crypto communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides factual, newsworthy information about a new regulatory policy."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral factual statement with no strong emotional tone."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Regulatory change remains relevant for months or years, continuing to influence market behavior."
+}
+}
+},
+{
+"tweet_id": "1627173520198311943",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Fun fact likely to be shared within crypto communities, but not expected to go viral globally."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides a factual detail about Vitalik's age, useful but not newsworthy."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral factual statement."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Evergreen fact about Vitalik's age remains relevant indefinitely."
+}
+}
+},
+{
+"tweet_id": "1624369414467452930",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Positive news about a high-profile donation, likely to be shared widely for emotional impact."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides factual information about a significant donation to earthquake victims."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Positive sentiment due to philanthropic action."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "News event will remain relevant for a few weeks but not long-term."
+}
+}
+},
+{
+"tweet_id": "1623858705963057153",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Product announcement likely to be shared within Ethereum community but not expected to go viral globally."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides useful information about a new staking solution that eliminates server requirements."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Neutral to slightly positive tone about a new solution."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The staking solution remains relevant for a long time as it addresses a persistent issue."
+}
+}
+},
+{
+"tweet_id": "1623305129729351682",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Breaking news about a major fintech platform launching staking, likely to be shared widely."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides factual information about Revolut's new staking services."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral factual statement."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Launch remains relevant for a long time as it affects many users."
+}
+}
+}
+]

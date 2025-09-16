@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1732187739288953339",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Niche technical discussion, unlikely to go viral beyond the community."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides a suggestion based on a prior post, offering actionable insight."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "No strong emotional tone, purely informational."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The idea could be discussed for weeks or months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732187707550679214",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major financial news likely to be widely shared."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides new, verifiable information about regulatory action."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "No emotional language, just facts."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Regulatory decisions remain relevant for an extended period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732187665834123481",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Opinion-based product endorsement unlikely to go viral."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Provides a brief assessment of security, but lacks depth."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Expresses admiration for the wallet."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Could be referenced for a few weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732187450293055568",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Niche technical question unlikely to go viral."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Raises a question but provides no new info."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "No strong emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Could be discussed for a few weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732187354809454990",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Personal comment unlikely to go viral."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "No new info, just personal sentiment."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Expresses nervousness, negative tone."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Personal sentiment may fade quickly."
+      }
+    }
+  }
+]

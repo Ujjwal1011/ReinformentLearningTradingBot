@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1767921949886357975",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Breaking news about a significant event in the Ethereum ecosystem (L2 block production halt) has high potential for sharing within the crypto community."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides timely, newsworthy information with a link to further details, making it highly informative for those interested in Ethereum."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The tone is neutral/informative, focusing on reporting an event without expressing a clear emotional stance."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevance is short-term, as the impact of the block production halt will diminish once resolved or no longer novel."
+}
+}
+},
+{
+"tweet_id": "1767920894570369224",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Announcement of a significant upgrade with a clear timeline, potentially interesting to the Ethereum and broader crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides specific details about an upcoming upgrade, its implications, and the contributor's personal involvement."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "Expresses strong positive emotions, evident in the use of 'about to pay off' after 'two years of hard work'."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevance will last for days to a week, as the upgrade's immediate aftermath and success are discussed."
+}
+}
+},
+{
+"tweet_id": "1767917203964272900",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Announcing a major Ethereum upgrade with significant benefits (reduced transaction fees) has high sharing potential."
+},
+"informative_value": {
+"score": 9,
+"justification": "Clearly communicates a newsworthy event with tangible benefits for Ethereum's L2s."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, as the tweet focuses on reporting the upgrade without expressing a personal emotional tone."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Relevance will extend for days to weeks, as the implications and effects of the upgrade are analyzed."
+}
+}
+},
+{
+"tweet_id": "1767913916279992526",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "A congratulatory message, while positive, is less likely to be widely shared beyond the immediate Ethereum community."
+},
+"informative_value": {
+"score": 2,
+"justification": "Does not provide new information but rather a personal sentiment regarding the upgrade."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Expresses positive sentiments towards the Ethereum engineers, showing empathy and admiration."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevance is short-term, tied to the immediate aftermath of the upgrade announcement."
+}
+}
+},
+{
+"tweet_id": "1767913396777767361",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Humorous, comparative analogy ('out of the 1990s into the 2000s') might be shared for its cleverness within tech and crypto circles."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides a brief, somewhat informative overview of the upgrade's impact on Ethereum L2's bandwidth."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "Clearly expresses a very positive sentiment, using a humorous analogy to highlight progress."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevance will last for a standard period, as the novelty of the upgrade's success fades."
+}
+}
+},
+{
+"tweet_id": "1767912509477159142",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Announcing a major upgrade with specific details (EIP-4844) has potential for sharing within the Ethereum and crypto communities."
+},
+"informative_value": {
+"score": 9,
+"justification": "Clearly communicates newsworthy information about the upgrade and its implications for Ethereum scalability."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, focusing on reporting the upgrade without a clear emotional tone."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Relevance will extend for days to weeks, as the upgrade's effects are discussed and analyzed."
+}
+}
+},
+{
+"tweet_id": "1767912321618505954",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Announcing a significant upgrade with broad implications for Ethereum's scalability might be shared within the crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides informative content about the upgrade's success and its impact on Ethereum's mainnet and L2s."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "Expresses a very positive sentiment, evident in the excitement over the upgrade's launch."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Relevance will last for days to weeks, as the immediate effects of the upgrade are discussed."
+}
+}
+},
+{
+"tweet_id": "1767767643144998993",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "A quote criticizing a project (HEX on Ethereum) might be shared within specific communities interested in the controversy."
+},
+"informative_value": {
+"score": 4,
+"justification": "Provides some context to a controversy but lacks depth or new, verifiable information."
+},
+"sentiment_polarity": {
+"score": 1,
+"justification": "Expresses strong negative emotions through the critique of HEX on Ethereum."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevance is somewhat short-term, tied to the immediate reaction to the critique."
+}
+}
+},
+{
+"tweet_id": "1767743839593504889",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Announcing a major Ethereum upgrade with benefits (cheaper & more usable L2s) has potential for sharing within the crypto community."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides informative content about the upcoming upgrade and its expected benefits."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, as the tweet focuses on reporting the upgrade without expressing a clear emotional tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevance will last for days, leading up to the upgrade and its immediate aftermath."
+}
+}
+},
+{
+"tweet_id": "1767721796944515158",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "A project's free mint announcement might be shared within the specific community interested in the project (KIRAVERSE)."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides clear, informative details about the mint event, including timing and eligibility checks."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, focusing on reporting the event details without a clear emotional tone."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "Relevance is very short-term, primarily during the mint event itself."
+}
+}
+} 
+]

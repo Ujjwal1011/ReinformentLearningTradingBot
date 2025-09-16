@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1538252846403035138",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet has a clear call to action and uses popular hashtags, which can resonate within the crypto community, but it lacks a unique hook or breaking news that would drive widespread sharing beyond the niche audience."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet is a personal opinion with no factual data, providing minimal informative content."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet expresses a hopeful sentiment about the market ending, which is moderately positive."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet is relevant for a short period while the bear market persists, but it will fade once the market changes."
+}
+}
+},
+{
+"tweet_id": "1538178152358457344",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet reports significant price drops, which can prompt sharing among crypto traders and news readers."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides verifiable price information and links to a source, making it highly informative."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet states facts without emotional language."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet is tied to a specific price event that will likely be superseded quickly."
+}
+}
+},
+{
+"tweet_id": "1538146985345093632",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet announces significant price drops, which can prompt sharing among the crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet gives specific price data and percentage drop."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet states facts without emotional language."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet is tied to a specific price event."
+}
+}
+},
+{
+"tweet_id": "1538092349783429120",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet contains a strong opinion and calls for accountability, which can resonate widely and provoke discussion."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet cites specific percentage drops and criticizes coverage, providing some factual context."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The tweet expresses strong negative sentiment towards CNBC."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet is tied to a specific market event and media coverage, which will fade as the market recovers."
+}
+}
+},
+{
+"tweet_id": "1538072054494375937",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet shares a bullish perspective and uses hashtags, which can resonate within the trading community, but lacks a unique hook."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet indicates that Bitcoin has reached 20k, which is factual, but it's a personal viewpoint."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses strong positive sentiment about Bitcoin's price."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet remains relevant for a period while the price stays above the target, but will fade as the market changes."
+}
+}
+}
+]

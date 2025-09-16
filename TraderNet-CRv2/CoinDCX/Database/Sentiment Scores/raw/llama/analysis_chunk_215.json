@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1731844878877810897",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet discusses Ethereum's value proposition through developer activity, which might generate interest within the crypto community, but its technical nature limits broader virality."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides specific, verifiable information about Uniswap's impact on Ethereum, making it a valuable resource for those interested in crypto ecosystems."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The user expresses a moderately positive sentiment by highlighting a successful aspect of Ethereum (Uniswap's value driver) without using overly enthusiastic language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The relevance of this tweet is tied to the current state of Ethereum and Uniswap, making its impact last for days or weeks, depending on developments in the crypto space."
+}
+}
+},
+{
+"tweet_id": "1731843724907356384",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet's discussion of Ethereum's roadmap, while engaging for enthusiasts, lacks a broad hook to attract a wider audience beyond the crypto community."
+},
+"informative_value": {
+"score": 7,
+"justification": "It provides insight into Ethereum's L2/rollup-centric roadmap, offering some educational value, though the depth is somewhat limited by the tweet's brevity."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The user expresses a very positive sentiment, envisioning a 'glorious sight' if the roadmap succeeds, indicating strong optimism."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet's relevance spans the duration of Ethereum's roadmap implementation, potentially remaining a point of discussion for weeks or months."
+}
+}
+},
+{
+"tweet_id": "1731841964201668613",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The announcement of returning to counter 'bullshit Ethereum narratives' might spark some engagement within the crypto community but lacks broad appeal."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet is more of a personal update than an informative post, offering little in terms of new information or insights about Ethereum."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The user expresses a moderately negative sentiment by mentioning 'bullshit narratives,' indicating frustration or annoyance."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's impact is short-term, primarily relevant in the immediate context of the user's return to engaging with Ethereum discussions."
+}
+}
+},
+{
+"tweet_id": "1731835207588974931",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The mention of 'Solana-like fees' on Ethereum L2s could generate significant interest within the crypto community, potentially leading to shares and discussions."
+},
+"informative_value": {
+"score": 6,
+"justification": "It hints at a development (Manta) that could be of interest to those following Ethereum and Solana, but lacks detailed information."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The user expresses a moderately positive sentiment, suggesting excitement or anticipation for a future development without strong emotional language."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The tweet remains relevant as long as the development of Ethereum L2s with significantly reduced fees is a topic of interest, potentially for months."
+}
+}
+},
+{
+"tweet_id": "1731829811797209541",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "The tweet's engagement potential is limited due to its specific, somewhat niche discussion about Cardano tokens on Ethereum."
+},
+"informative_value": {
+"score": 5,
+"justification": "It provides a somewhat informative observation about the top Cardano tokens being on Ethereum, but the insight is not deeply analytical."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The user maintains a neutral sentiment, posing a question without expressing a clear emotional stance."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to the current market dynamics between Cardano and Ethereum, making its impact relatively short-lived."
+}
+}
+},
+{
+"tweet_id": "1731829229354959176",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The promotional nature of the tweet, while engaging for the specific community, lacks the breadth to attract a wider audience."
+},
+"informative_value": {
+"score": 4,
+"justification": "It informs about a specific collection on Opensea but is primarily promotional, offering limited general knowledge value."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The user expresses a very positive sentiment, encouraging engagement with the collection, indicating enthusiasm."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is standard, lasting as long as the collection is of interest, which could be a few days to a week."
+}
+}
+},
+{
+"tweet_id": "1731706803153506338",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The provocative statement about ETH's price, combined with a promise to explain why, could attract significant engagement and shares."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet promises to delve into Ethereum's fundamentals, including profitability, which could offer substantial educational value."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The user expresses a moderately positive sentiment, finding humor in the current price while implying optimism in Ethereum's fundamentals."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The relevance of this tweet could last for weeks or even months, as discussions about Ethereum's price and fundamentals remain pertinent."
+}
+}
+},
+{
+"tweet_id": "1731292198610596043",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The announcement of a KYC step, combined with a countdown and popular hashtags, is highly likely to generate significant engagement and shares within the crypto community."
+},
+"informative_value": {
+"score": 6,
+"justification": "It informs about an upcoming step in the KYC process but lacks detailed insights, focusing more on generating anticipation."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The user expresses a very positive sentiment, using enthusiastic language ('🚀', '❤️') to generate excitement."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet's relevance peaks in the short term, around the release of the KYC step, but remains a point of interest for weeks due to the countdown."
+}
+}
+},
+{
+"tweet_id": "1752758955657593311",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Sharing a personal, relatable aspect of a well-known figure (Vitalik Buterin) could attract significant engagement and shares, especially from the crypto community."
+},
+"informative_value": {
+"score": 5,
+"justification": "It provides a somewhat informative, humanizing insight into the creator of Ethereum but lacks depth or new information about the crypto itself."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The user expresses a very positive sentiment, sharing a heartwarming aspect of Vitalik's life, indicating admiration."
+},
+"duration_of_impact": {
+"score": 9,
+"justification": "The tweet's relevance could last for a long time, as interest in Ethereum's founder remains high, making it a potentially evergreen post."
+}
+}
+},
+{
+"tweet_id": "1752641185607496163",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The discussion of alternatives to Delaware, including blockchains, might generate interest within specific communities but lacks broad appeal."
+},
+"informative_value": {
+"score": 8,
+"justification": "It provides a valuable, informative comparison of different alternatives to Delaware, offering insights for those interested in corporate law and blockchain."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The user maintains a neutral sentiment, presenting options without expressing a clear emotional stance or preference."
+},
+"duration_of_impact": {
+"score": 9,
+"justification": "The relevance of this tweet could last for a long time, as discussions about corporate governance and blockchain applications remain pertinent."
+}
+}
+} 
+]

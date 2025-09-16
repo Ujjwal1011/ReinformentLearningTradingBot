@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1520621310002741248",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet uses a rhetorical hook and humor, likely to resonate within the crypto community, but it is not breaking news, so it has medium virality potential."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "The tweet is a general blame statement with no verifiable facts or links."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "The tone is negative, blaming Yuga Labs."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The tweet is tied to a specific event and likely to fade after the issue is resolved."
+      }
+    }
+  },
+  {
+    "tweet_id": "1520618758678667265",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet critiques a high-profile apology and includes specific allegations, likely to be shared widely within the crypto community."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "It provides specific details about contract optimization and mint limits, offering useful information."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "The tone is strongly negative, criticizing Yuga Labs."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The issue of contract optimization and mint limits remains relevant for weeks as the community discusses it."
+      }
+    }
+  },
+  {
+    "tweet_id": "1520616316175929344",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet uses sarcasm and humor, which can spread within the community, but it is not a major news event."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "It only comments on the contract quality without providing new factual info."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "The tone is negative, mocking Yuga Labs."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The tweet is tied to a specific release and likely to fade quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1520613749119283200",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet criticizes Yuga Labs and uses strong language, likely to spread within the community."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "It offers a general opinion without verifiable facts."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "The tone is negative, blaming Yuga Labs."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The tweet is tied to a specific event and will likely fade."
+      }
+    }
+  },
+  {
+    "tweet_id": "1520612364839661568",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet addresses a widespread issue and offers refunds, which can be shared widely within the community."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It provides factual information about failed transactions and the refund policy."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tone is appreciative and reassuring."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The issue of gas bottlenecks and refunds remains relevant for weeks as users discuss it."
+      }
+    }
+  }
+]

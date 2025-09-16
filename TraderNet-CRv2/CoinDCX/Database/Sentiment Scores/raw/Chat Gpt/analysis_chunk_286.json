@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1587250775075364864",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet announces a live campaign with a $1,000 cash prize, uses emojis, hashtags (#NFT, #dex), and links to minting sites, which are typical triggers for high engagement within crypto communities. The call to action and prize incentivize sharing, making it likely to go viral among traders and NFT enthusiasts."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "It provides factual details about the campaign's availability on multiple networks and the prize structure, but it is primarily promotional and lacks in-depth news or data."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "The tone is highly enthusiastic and positive, with emojis and exclamation marks conveying excitement and hype."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The campaign is time‑limited; once the prize period ends, the tweet's relevance will quickly diminish, limiting its long‑term impact."
+      }
+    }
+  },
+  {
+    "tweet_id": "1607185371531706368",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "The tweet offers a general optimistic outlook on several crypto networks, which may resonate with some followers but lacks a specific hook or breaking news that would drive widespread sharing beyond the niche audience."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "It is largely opinionated and does not provide verifiable data or new information, so its informative value is low."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The overall tone is mixed: optimistic about the networks but critical of users, resulting in a neutral to slightly positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Market outlook tweets remain relevant for a few weeks to months as traders discuss trends, but they eventually fade as new developments arise."
+      }
+    }
+  },
+  {
+    "tweet_id": "1607156858019794944",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Announcing a bridge to Ethereum is newsworthy within the DeGods community and could spread among NFT and crypto enthusiasts, but it is not a global headline, so virality is moderate."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "The tweet states a concrete future event (bridge in Q1 2023) and provides context, making it fairly informative for those following the project."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is factual and neutral, with no strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The bridge announcement will remain relevant for several months as users anticipate the integration, but its impact will taper once the bridge launches."
+      }
+    }
+  },
+  {
+    "tweet_id": "1606679358898307077",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "A striking statistic about Ethereum's energy consumption drop is a compelling fact that can be widely shared, especially with the #Ethereum tag and the 'FUN FACT' label."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It presents a verifiable, high‑impact data point about the merge to proof‑of‑stake, providing clear educational value."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, simply stating a fact without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The energy consumption statistic remains relevant for years as a reference point for discussions about blockchain sustainability."
+      }
+    }
+  },
+  {
+    "tweet_id": "1605588113027485697",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "The tweet expresses distrust and a negative claim about Ethereum, which may resonate with a subset of users but lacks a compelling hook for broad viral spread."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "It is an opinion without supporting evidence or data, so its informative value is minimal."
+      },
+      "sentiment_polarity": {
+        "score": 1,
+        "justification": "The tweet conveys strong negative sentiment, expressing distrust and criticism."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The claim may be discussed for a while within certain circles, but it will likely fade as new information emerges."
+      }
+    }
+  }
+]

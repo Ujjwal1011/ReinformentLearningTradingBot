@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1636608740513263617",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Vitalik Buterin's tweet about self-custody and social recovery is likely to be shared within the crypto community, but it's not a universally viral topic."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet provides valuable information about security practices in cryptocurrency and includes a link to a detailed Reddit post."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The sentiment is positive, emphasizing the importance of self-custody and providing a helpful resource."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The topic of self-custody and social recovery is relevant for a few weeks as it pertains to ongoing discussions in the crypto space."
+      }
+    }
+  },
+  {
+    "tweet_id": "1636066380993708032",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Richard Heart's suggestion of another Ethereum is controversial and may be shared among crypto enthusiasts, but it's unlikely to go viral beyond niche communities."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "The tweet is speculative and doesn't provide concrete information about the new Ethereum project."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The sentiment is neutral, as Richard Heart is presenting an idea without strong positive or negative language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The tweet's impact is short-lived as it's a suggestion without any concrete developments."
+      }
+    }
+  },
+  {
+    "tweet_id": "1635695064692273161",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Conor's tweet about GPT-4 analyzing a smart contract is likely to be shared within tech and crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "The tweet provides specific information about GPT-4's capabilities in identifying security vulnerabilities in smart contracts."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The sentiment is positive, highlighting the effectiveness of GPT-4 in identifying and exploiting vulnerabilities."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tweet's impact will last a few weeks as it pertains to the ongoing discussion about AI in smart contract development."
+      }
+    }
+  },
+  {
+    "tweet_id": "1635459389955133440",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Altcoin Daily's tweet about Vitalik Buterin being spotted on a date is likely to be shared widely within the crypto community as gossip."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet provides no substantial information beyond a photo of Vitalik Buterin."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The sentiment is neutral, as the tweet is purely observational."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The tweet's impact is short-lived as it's a momentary piece of gossip."
+      }
+    }
+  },
+  {
+    "tweet_id": "1634765888070057984",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Watcher.Guru's tweet about Binance adding trading pairs is likely to be shared among crypto traders and investors."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "The tweet provides important news about Binance's addition of trading pairs tied to USDC."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The sentiment is positive, as the addition of trading pairs is seen as a positive development."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The tweet's impact is short-lived as it pertains to a specific news event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1633940076634808323",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Dylan LeClair's tweet about Ethereum is unlikely to be widely shared beyond his followers."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "The tweet provides minimal information beyond a link to an article about Ethereum."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The sentiment is neutral, as the tweet is simply sharing a link without commentary."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The tweet's impact is short-lived as it's a generic link without specific context."
+      }
+    }
+  },
+  {
+    "tweet_id": "1633932628662407171",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Watcher.Guru's tweet about New York's Ethereum ruling is likely to be shared among crypto enthusiasts and legal professionals."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet provides important legal news about Ethereum being classified as a security in a lawsuit."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The sentiment is neutral, as the tweet is reporting on a legal development without expressing opinion."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The tweet's impact will last several weeks as it pertains to ongoing legal discussions about Ethereum."
+      }
+    }
+  },
+  {
+    "tweet_id": "1632878186089291776",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Richard Heart's tweet about Ethereum fees is likely to be shared among crypto users concerned about transaction costs."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "The tweet provides information about high fees on Ethereum and mentions a potential solution."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "The sentiment is negative, as Richard Heart criticizes the high fees on Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The tweet's impact will last a few weeks as it pertains to ongoing discussions about Ethereum's scalability."
+      }
+    }
+  },
+  {
+    "tweet_id": "1632861957828014080",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Richard Heart's tweet about PulseChain is unlikely to be widely shared beyond his followers."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "The tweet provides information about a test net launch but lacks detailed context."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The sentiment is positive, as Richard Heart expresses excitement about the test net launch."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The tweet's impact is short-lived as it pertains to a specific event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1632411798740582402",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Richard Heart's tweet about market drops and recoveries is likely to be shared among crypto traders and investors."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "The tweet provides specific data about market movements and their implications."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The sentiment is neutral, as the tweet is presenting market data without expressing opinion."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The tweet's impact is short-lived as it pertains to recent market movements."
+      }
+    }
+  }
+]

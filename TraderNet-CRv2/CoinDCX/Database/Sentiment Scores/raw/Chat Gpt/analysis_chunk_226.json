@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1549062850517372934",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet announces a major market cap milestone ($180B) for Ethereum with a #Ethereum hashtag and a 'JUST IN' hook, which is likely to be shared widely within the crypto community and beyond, especially given the author's 3.4M followers and high engagement."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides a specific, factual update on Ethereum's market capitalization, a newsworthy metric that informs followers about the current state of the cryptocurrency."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tone is upbeat and celebratory, highlighting a positive development for Ethereum, though it lacks strong emotive language."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Market cap figures change frequently; the tweet will remain relevant for a short period (a few days) until newer data supersedes it."
+}
+}
+},
+{
+"tweet_id": "1548790535875399681",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Announces Ethereum's market cap reaching $163B, a notable milestone that can attract shares within the crypto community, though slightly less hype than the 'JUST IN' version."
+},
+"informative_value": {
+"score": 7,
+"justification": "Delivers a factual update on Ethereum's market cap, providing useful information but without additional context or analysis."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet conveys a mildly positive sentiment about the market cap recovery, but the language is straightforward and not strongly emotive."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Similar to the first tweet, the relevance is limited to the short window before market cap figures change again."
+}
+}
+},
+{
+"tweet_id": "1548743057188724749",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Highlights Polygon's growth and commitment to Ethereum, appealing to the crypto and developer community; the author's moderate follower count (68k) and decent engagement suggest medium sharing potential."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides concrete numbers (30k apps, 150M users) and a timeline for upcoming delivery, offering useful insight into Polygon's progress."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Enthusiastic language ('empowered', 'giant', 'delivering', emojis) conveys strong positive sentiment about the project's achievements."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The announcement about a 3‑day delivery and onboarding stats may stay relevant for several days to weeks as the community follows up on the promised delivery."
+}
+}
+},
+{
+"tweet_id": "1548737661950521344",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Promotes a $150M EVMOS airdrop with clear call‑to‑action; the high retweet and quote counts relative to the author's small follower base indicate strong sharing within niche crypto circles."
+},
+"informative_value": {
+"score": 8,
+"justification": "Delivers detailed, actionable information about the unclaimed airdrop, eligibility criteria, and timeline, making it highly useful for interested users."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet is encouraging and optimistic, using phrases like 'your ticket into the Cosmos' and a celebratory emoji, reflecting a positive tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The airdrop claim window spans two weeks, and the information will stay relevant throughout that period for potential claimants."
+}
+}
+},
+{
+"tweet_id": "1548630128816701440",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Reports Ethereum breaking the $1300 price level, a notable market event likely to be shared among traders and crypto enthusiasts, especially given the author's sizable follower base."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides a specific price milestone and contextual link to the Sep 19th merge announcement, offering timely market information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The language is upbeat, emphasizing a rally and a new high, conveying a positive sentiment about Ethereum's performance."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Price milestones are quickly superseded by new market movements; relevance is likely limited to a few days."
+}
+}
+}
+]

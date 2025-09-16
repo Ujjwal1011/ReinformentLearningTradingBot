@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1530964042088689665",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The announcement of a live USDC bridge between Cardano and Ethereum is a significant cross-chain development that excites both communities, making it highly shareable within the crypto space."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet conveys a factual, newsworthy update that a new bridge is operational, though it lacks details or a source, providing moderate informational depth."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The wording is neutral; it simply states the fact without expressing strong positive or negative emotions."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "A functional cross-chain bridge is an infrastructure milestone that will remain relevant for months as users transact across networks."
+}
+}
+},
+{
+"tweet_id": "1530916210161893376",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "A statistic about Ethereum holdings appeals to crypto enthusiasts, offering moderate shareability but limited broader appeal."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet presents a specific data point—over 50% of Ethereum is held by long-term addresses and provides useful insight despite lacking a source."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The statement is factual and neutral, without emotive language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Holding distribution data may be referenced for weeks as analysts discuss long-term investor behavior."
+}
+}
+},
+{
+"tweet_id": "1530763367282921472",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The claim that blue-chip NFT floor prices dropped over 50% combined with many popular hashtags makes it highly shareable within the NFT community."
+},
+"informative_value": {
+"score": 7,
+"justification": "It delivers a concrete market statistic about NFT floor values, though it does not cite a source, offering moderate informational value."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Mentioning a sharp price decline conveys a mildly negative tone, though the tweet is framed as a neutral report."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "NFT market fluctuations are typically discussed for a few days, giving the tweet a standard short-term relevance."
+}
+}
+},
+{
+"tweet_id": "1530619053202710530",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Mentioning Vitalik's name and linking to external content can attract attention, especially given the high engagement relative to the account size."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet provides no context or summary, merely a link, resulting in low informational content."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, lacking any emotional language."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Without knowing the linked content, the tweet’s relevance is likely limited to the immediate period after posting."
+}
+}
+},
+{
+"tweet_id": "1530573651447275520",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "A surprising comparison between Ethereum's market cap and that of a major bank is eye-catching and likely to be shared across finance and crypto audiences."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet states a factual market-cap comparison, offering useful information despite its brevity."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Labeling it a fun fact conveys a positive, upbeat tone."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Market-cap comparisons remain relevant as long as the relative sizes persist, giving the tweet long-term reference value."
+}
+}
+}
+]

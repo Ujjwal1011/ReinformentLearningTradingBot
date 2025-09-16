@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1732749297991537035",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet is a simple statement that may resonate within the crypto community, especially given the user's large following, but it lacks a strong hook or breaking news to drive global virality."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet offers a vague claim without context or supporting details, providing minimal factual information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply stating a fact without positive or negative emotion."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The statement may remain relevant for a few days or weeks as discussions about Ethereum continue, but it is not a timeless or evergreen piece."
+}
+}
+},
+{
+"tweet_id": "1732745160524533805",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet reports a high-value bid on a popular NFT, which can attract attention within the NFT community, but it is not a meme or breaking news that would spread beyond that niche."
+},
+"informative_value": {
+"score": 8,
+"justification": "It provides specific, verifiable information about a new bid amount, the bidder, and the asset, making it highly informative."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is a neutral factual report with no emotional tone."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The bid is a time-sensitive event; it may be referenced for a few days or weeks but will likely fade as the market moves."
+}
+}
+},
+{
+"tweet_id": "1732731781609111957",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The meme-like image and marketing push can resonate widely within the crypto community, encouraging shares and retweets, especially given the high engagement metrics."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet offers information about generating an image and minting an NFT, providing useful details for interested users."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet conveys a positive, promotional tone, encouraging users to mint NFTs, reflecting moderate positivity."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The marketing content may remain relevant for a few weeks as the campaign runs, but it is not evergreen."
+}
+}
+},
+{
+"tweet_id": "1732713245742448862",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet is a straightforward marketing message that may be shared within the community but lacks a hook for broader virality."
+},
+"informative_value": {
+"score": 6,
+"justification": "It provides clear information about a bridging service and its capabilities, which can be useful to users."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tone is neutral to mildly positive, presenting a solution without strong emotional language."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The service remains relevant as long as the platform exists, but the tweet itself is not a timeless reference."
+}
+}
+},
+{
+"tweet_id": "1732712864052285588",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The giveaway announcement is likely to be widely shared, especially with the promise of a prize, driving high retweet and engagement rates."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet provides minimal factual information beyond the giveaway details, lacking depth or context."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses excitement and positivity about the giveaway, encouraging participation."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The giveaway ends on a specific date, making the tweet's relevance short-lived."
+}
+}
+}
+]

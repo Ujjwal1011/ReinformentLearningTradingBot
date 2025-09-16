@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1628756662088568833",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet announces a major new Ethereum L2 network from Coinbase, a high-profile company. Such news is likely to be widely shared across the crypto community and beyond, giving it a high virality potential."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It provides factual, newsworthy information about the launch of Base, an Ethereum L2 network powered by Optimism, which is a significant development in the blockchain space."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is a neutral factual announcement with no strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The announcement of a new L2 network will remain relevant for months as the network is adopted and discussed within the community."
+      }
+    }
+  },
+  {
+    "tweet_id": "1628410398058708992",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "The tweet celebrates a historic milestone—Arbitrum One surpassing Ethereum in transaction volume. The high engagement (over 5k likes, 1.2k retweets, 548 replies) indicates strong shareability and virality potential."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It reports a concrete, verifiable milestone in the Ethereum ecosystem, providing valuable information to the community."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tweet expresses excitement and gratitude, using positive emojis and celebratory language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "While the milestone is historically significant, its relevance will gradually fade as new developments emerge, but it will still be referenced for some time."
+      }
+    }
+  },
+  {
+    "tweet_id": "1628192654340005889",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Similar to the previous tweet, it announces the same milestone and is likely to be shared widely within the community."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It provides the same factual milestone information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet conveys positive sentiment with celebratory emojis, though slightly less enthusiastic than the earlier post."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The milestone will remain relevant for a while but will eventually be eclipsed by newer events."
+      }
+    }
+  },
+  {
+    "tweet_id": "1628072730418417664",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet sparks discussion by challenging common terminology, but it is more educational than sensational, so its shareability is moderate."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It explains the technical distinction between wallets and keyrings, providing clear, factual information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral and factual, with no strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The concept of wallets vs keyrings is evergreen and will continue to be relevant for a long time."
+      }
+    }
+  },
+  {
+    "tweet_id": "1627820697539190785",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The satirical tweet uses humor and emojis, which can attract shares, but it is not a major news event, so its virality is moderate."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet presents a hypothetical scenario that is not factual, so its informational value is low."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "The tweet uses negative emojis and a critical tone, indicating a negative sentiment."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The commentary is time‑specific and likely to lose relevance quickly as the conversation moves on."
+      }
+    }
+  }
+]

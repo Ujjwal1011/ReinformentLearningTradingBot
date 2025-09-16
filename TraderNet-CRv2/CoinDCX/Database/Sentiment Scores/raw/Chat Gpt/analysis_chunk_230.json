@@ -1,0 +1,107 @@
+[
+{
+    "tweet_id": "1545985708858302464",
+    "analysis": {
+        "virality_potential": {
+            "score": 7,
+            "justification": "The tweet announces the upcoming Ethereum Merge, a major event in the crypto community, and uses a strong hook. It generated high engagement relative to the author's follower count, indicating strong sharing potential within the niche."
+        },
+        "informative_value": {
+            "score": 6,
+            "justification": "It provides factual information about the imminent Merge and promises a thread outlining post‑Merge characteristics, offering useful context but limited depth."
+        },
+        "sentiment_polarity": {
+            "score": 7,
+            "justification": "The language is enthusiastic and optimistic, describing the Merge as a powerful catalyst, which conveys a moderately positive emotional tone."
+        },
+        "duration_of_impact": {
+            "score": 6,
+            "justification": "Relevance peaks in the weeks leading up to the Merge and may persist for a short period after, giving it a medium‑term impact rather than lasting relevance."
+        }
+    }
+},
+{
+    "tweet_id": "1545900968600129541",
+    "analysis": {
+        "virality_potential": {
+            "score": 8,
+            "justification": "A surprising comparison of Ethereum’s market cap to major banks is likely to be shared widely for its novelty and shock value, especially given the author's large follower base."
+        },
+        "informative_value": {
+            "score": 7,
+            "justification": "The tweet conveys a concrete, data‑driven fact about market capitalizations, offering useful information despite lacking a source citation."
+        },
+        "sentiment_polarity": {
+            "score": 7,
+            "justification": "Labeling it a FUN FACT and the upbeat tone reflect a moderately positive sentiment."
+        },
+        "duration_of_impact": {
+            "score": 4,
+            "justification": "Market‑cap figures change frequently, so the relevance of this specific comparison diminishes quickly, making its impact short‑term."
+        }
+    }
+},
+{
+    "tweet_id": "1545891360993075200",
+    "analysis": {
+        "virality_potential": {
+            "score": 6,
+            "justification": "The announcement of a high‑value bid for a CryptoPunk appeals to the NFT community and generated notable engagement, but its appeal remains niche."
+        },
+        "informative_value": {
+            "score": 6,
+            "justification": "It provides specific details about the bid amount, the NFT identifier, and a link, delivering concrete market information."
+        },
+        "sentiment_polarity": {
+            "score": 5,
+            "justification": "The tweet is a factual statement without expressive language, resulting in a neutral emotional tone."
+        },
+        "duration_of_impact": {
+            "score": 3,
+            "justification": "The bid is a momentary event; interest wanes once the sale concludes, limiting its relevance to a short period."
+        }
+    }
+},
+{
+    "tweet_id": "1545839937853050881",
+    "analysis": {
+        "virality_potential": {
+            "score": 8,
+            "justification": "A controversial claim from a high‑profile CEO about Ethereum being a security is likely to spark debate and be widely shared across crypto and financial circles."
+        },
+        "informative_value": {
+            "score": 3,
+            "justification": "The tweet relays an opinion rather than verifiable data, offering little factual information."
+        },
+        "sentiment_polarity": {
+            "score": 3,
+            "justification": "The quoted statement casts Ethereum in a negative light, giving the tweet a moderately negative emotional tone."
+        },
+        "duration_of_impact": {
+            "score": 7,
+            "justification": "Regulatory discussions about Ethereum’s classification are ongoing, so this comment may be referenced for months or years."
+        }
+    }
+},
+{
+    "tweet_id": "1545751305687293954",
+    "analysis": {
+        "virality_potential": {
+            "score": 6,
+            "justification": "Reporting a new all‑time high for Ethereum addresses is of interest to the crypto community and generated solid engagement, but it is not likely to break out of that niche."
+        },
+        "informative_value": {
+            "score": 7,
+            "justification": "The tweet provides a precise, up‑to‑date metric about network usage, which is valuable and credible."
+        },
+        "sentiment_polarity": {
+            "score": 5,
+            "justification": "The wording is factual and neutral, lacking strong emotional cues."
+        },
+        "duration_of_impact": {
+            "score": 5,
+            "justification": "While the specific figure will be superseded as the network grows, the milestone may be referenced for weeks to months, giving it a moderate lifespan."
+        }
+    }
+}
+]

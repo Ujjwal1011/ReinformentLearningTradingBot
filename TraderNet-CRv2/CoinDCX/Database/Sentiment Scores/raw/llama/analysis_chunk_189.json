@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1732188108542623982",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet explains a nuanced concept in the crypto space, potentially interesting to a specific community, but lacks a broad hook for wider virality."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides clear, factual information about the roles of Ethereum, Chainlink, and The Graph, educating readers on their interactions."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet's tone is neutral/informative, with a hint of playfulness ('Don’t get got 😉'), but overall does not express strong emotions."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The information remains relevant for days or weeks, as it discusses the fundamental roles of these crypto technologies, but its impact may wane as new developments emerge."
+}
+}
+},
+{
+"tweet_id": "1732188075311169742",
+"analysis": {
+"virality_potential": {
+"score": 2,
+"justification": "This is a very short, context-less mention of Ethereum, unlikely to generate any significant sharing or engagement."
+},
+"informative_value": {
+"score": 0,
+"justification": "The tweet contains no informative content, merely mentioning a name and 'Ethereum' without context or explanation."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet's sentiment is neutral, as it does not express any emotions or opinions."
+},
+"duration_of_impact": {
+"score": 0,
+"justification": "The tweet is instantly irrelevant due to its lack of context and content."
+}
+}
+},
+{
+"tweet_id": "1732187998765126121",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet's advice, though provocative, is unlikely to be shared widely due to its risky nature and lack of broad appeal."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet provides no informative content, merely expressing a risky investment strategy without basis or explanation."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The user expresses a very positive sentiment towards spending on Ethereum, indicating excitement or optimism."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "The tweet's relevance is very short-lived, as it pertains to an immediate, fleeting investment decision."
+}
+}
+},
+{
+"tweet_id": "1732187917551075768",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The introduction of a new L2 on Bitcoin, especially highlighted in contrast to Ethereum's, could generate interest within the crypto community."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides detailed, newsworthy information about Botanix Labs, a decentralized EVM layer 2 on Bitcoin, educating readers on its unique aspects."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet expresses a moderately positive sentiment, introducing a new project in a favorable light without strong emotional language."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The information remains relevant for months, as it discusses a significant development in the crypto space, but its peak interest is likely shorter."
+}
+}
+},
+{
+"tweet_id": "1732187818880077940",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The speculative nature of the tweet might generate some engagement within specific communities, but it lacks broad appeal."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet mentions a potential market movement but does not provide in-depth analysis or newsworthy information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The user expresses a moderately positive sentiment, speculating on a favorable market movement for Bitcoin."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to short-term market speculation, making its impact relatively short-lived."
+}
+}
+},
+{
+"tweet_id": "1732187739288953339",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "The tweet's technical discussion and call to action might engage a small, specific audience but lacks wider appeal."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet discusses a potential solution to current issues, referencing a post from a key figure, providing some educational value."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet's tone is neutral, focusing on a potential solution without expressing strong emotions."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The relevance of the tweet is medium-term, as it pertains to ongoing issues in the crypto space, but its impact may decrease as new solutions emerge."
+}
+}
+},
+{
+"tweet_id": "1732187707550679214",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "News about the SEC's decision on a significant Ethereum spot ETF proposal could generate substantial interest and sharing within the crypto community."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides timely, newsworthy information about the SEC's decision, including a specific deadline, educating readers on a significant development."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet's tone is neutral, reporting news without expressing a clear sentiment or emotion."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The information remains highly relevant for months, given the significance of the SEC's decision on the crypto market."
+}
+}
+},
+{
+"tweet_id": "1732187665834123481",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The promotional nature of the tweet, focusing on a product's security features, might engage some but lacks broad viral potential."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides some informative content about the qualifications of a wallet, but its primary purpose is promotional."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The user expresses a very positive sentiment towards the wallet's design and security features."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is standard, as it promotes a product that remains relevant for a period but does not address a timeless or highly immediate need."
+}
+}
+},
+{
+"tweet_id": "1732187450293055568",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The suggestion of a batch settlement layer for Ethereum, accompanied by a humorous remark, might generate some engagement but lacks broad appeal."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet provides a somewhat informative suggestion for Ethereum's scalability but lacks in-depth explanation or newsworthy content."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The user expresses a moderately positive sentiment, suggesting a solution in a lighthearted manner."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The relevance of the tweet is neutral, as it discusses a potential solution that could remain relevant for a while but does not address an immediate need."
+}
+}
+},
+{
+"tweet_id": "1732187354809454990",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "The cautionary advice about praising Bitcoin or Saylor too early might engage a small audience but lacks wider viral potential."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet provides minimal informative content, primarily expressing a personal sentiment without educational value."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "The user expresses a moderately negative sentiment, cautioning against premature praise and mentioning 'nervousness'."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is short, as it pertains to a fleeting sentiment or immediate market concerns."
+}
+}
+} 
+]

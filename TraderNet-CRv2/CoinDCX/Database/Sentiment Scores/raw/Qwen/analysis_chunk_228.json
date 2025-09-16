@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1773932955100131642",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "A personal statement from Richard Heart, likely shared within his follower base but not beyond."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Provides some crypto insights but is more of a personal opinion."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, as it's a teaching moment without strong emotions."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Somewhat timeless but will lose relevance as trends change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1773759049193967789",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Positive take on Ethereum's resilience, resonating with the crypto community."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Discusses Ethereum's performance and ETFs, providing useful info."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive, highlighting resilience."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for a few weeks as ETFs are a current topic."
+      }
+    }
+  },
+  {
+    "tweet_id": "1773690171587797005",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news about a significant event, likely to be shared."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides critical information for traders."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, just stating a fact."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Impactful for a day or two."
+      }
+    }
+  },
+  {
+    "tweet_id": "1773638333710659774",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Breaking news with a warning, likely widely shared."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Important for traders, with a cautionary tone."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Neutral with a cautionary tone."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for the day."
+      }
+    }
+  },
+  {
+    "tweet_id": "1773353783482872117",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "From Vitalik Buterin, likely discussed in crypto circles."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Discusses technical aspects, valuable for developers."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, pointing to a discussion."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Relevant for weeks as the topic evolves."
+      }
+    }
+  },
+  {
+    "tweet_id": "1773041585262821395",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Technical update, likely shared among zkSync users."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Details improvements and user experience."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive, highlighting benefits."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for a few weeks as users adopt."
+      }
+    }
+  },
+  {
+    "tweet_id": "1772999593577390172",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Major news, likely widely shared."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Important for investors, provides a link."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive, indicating a significant development."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Relevant for weeks as it's a major move."
+      }
+    }
+  },
+  {
+    "tweet_id": "1772997491966820656",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Detailed update, shared among crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific details about the filing."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, informative."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant for a week."
+      }
+    }
+  },
+  {
+    "tweet_id": "1772707593397608733",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Legal and regulatory update, relevant to crypto community."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Discusses legal implications, valuable for investors."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, posing a question."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for weeks as the situation unfolds."
+      }
+    }
+  },
+  {
+    "tweet_id": "1772706769455690112",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Promotional but within a niche audience."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides info on a new platform and rewards."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive, encouraging participation."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant for a few weeks as the promotion runs."
+      }
+    }
+  }
+]

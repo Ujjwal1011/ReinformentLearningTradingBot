@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1465729399341395968",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet makes a bold claim about Solana outpacing Ethereum and directly challenges others to refute it, which encourages debate and retweets within the crypto community; engagement metrics (200 retweets, 205 replies) support medium‑high shareability."
+},
+"informative_value": {
+"score": 3,
+"justification": "It asserts a growth comparison without providing data, sources, or context, making it largely opinion‑based rather than factual."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The language is optimistic about Solana’s growth, but the overall tone is neutral, resulting in a moderately positive sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The claim is tied to a 12‑month outlook and will lose relevance as market dynamics change, limiting its relevance to a short‑term window."
+}
+}
+},
+{
+"tweet_id": "1465696205573296146",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Announcing the launch of Bitcoin and Ethereum ETFs in Canada is breaking financial news that is likely to be shared widely among investors and media outlets, giving it high virality potential."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet conveys a concrete, verifiable event (ETF launch) and includes a link to the source, providing high informational value."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The message is a straightforward factual announcement with no emotive language, resulting in a neutral sentiment."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Financial product launches remain relevant for months as investors evaluate them, giving the tweet a medium‑long impact period."
+}
+}
+},
+{
+"tweet_id": "1465693934966001666",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The sarcastic speculation about a flippening and market crash is humorous and may be retweeted within crypto circles, but its niche tone limits broader spread, yielding medium virality."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet offers no factual data or analysis, only personal speculation, resulting in very low informational value."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The sarcastic phrasing and reference to a market crash convey strong negativity, placing it in the very negative range."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "As a momentary commentary on market conditions, its relevance fades quickly, making its impact short‑term."
+}
+}
+},
+{
+"tweet_id": "1465508191387611139",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The statement about developers moving to Ethereum L2s is a niche observation that may interest a specific audience but lacks a strong hook, resulting in neutral virality."
+},
+"informative_value": {
+"score": 4,
+"justification": "It provides an anecdotal claim without supporting data, offering limited informational content."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral with a shrug emoji, indicating no strong positive or negative emotion."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The observation reflects an ongoing trend but is not a timeless insight, giving it a moderate relevance period."
+}
+}
+},
+{
+"tweet_id": "1465241679800111107",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Demonstrating a real‑world use of an Ethereum NFT to unlock a home showcases an innovative application that can attract attention beyond crypto enthusiasts, leading to medium‑high virality."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet gives a concrete example, mentions ENS, and includes a link, delivering high informational value about blockchain integration."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The language is factual yet enthusiastic about the technology, resulting in a moderately positive sentiment."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "As an evergreen example of NFT utility, it can be referenced for years, granting it long‑term relevance."
+}
+}
+}
+]

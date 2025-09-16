@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1768318142466658497",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet is a positive shoutout to Ethereum core developers, which is likely to be shared within the Ethereum community but may not reach a broader audience."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides information about a significant technical update (EIP-4844) and its impact, which is valuable for Ethereum enthusiasts."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses strong positive emotions with words like 'massive win' and 'huge shout out.'"
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's impact will last for a few weeks as the community discusses the implications of EIP-4844."
+}
+}
+},
+{
+"tweet_id": "1768313648982753629",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet announces a significant upgrade and is likely to be shared within the Ethereum and Layer 2 communities."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides detailed information about the upgrade and future plans, which is highly informative for the target audience."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses positive emotions with words like 'history has been made' and 'successfully upgraded.'"
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's impact will last for a few weeks as the community engages with the upgrade and testing phase."
+}
+}
+},
+{
+"tweet_id": "1768292467739414582",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet criticizes Layer 2 solutions and promotes alternatives, which may be shared within the crypto community but lacks a strong hook for broader virality."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides information about the potential risks of Layer 2 solutions and offers alternative solutions, which is useful for the target audience."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "The tweet expresses moderately negative emotions with words like 'joke' and 'cry very hard.'"
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's impact will be short-term as it is a critique of current solutions and may be replaced by new developments."
+}
+}
+},
+{
+"tweet_id": "1768290377382138001",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet discusses the potential adoption of Ethereum upgrades by PulseChain, which is likely to be shared within the crypto community."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides information about the potential adoption of upgrades and asks a question, which is informative and engaging."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet expresses a positive sentiment with words like 'liked' and ' rumor that it is coming.'"
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's impact will last for a few weeks as the community discusses the potential adoption and implications."
+}
+}
+},
+{
+"tweet_id": "1768283768048193744",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet compares PulseChain to Ethereum and highlights its benefits, which is likely to be shared within the crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides detailed information about the benefits of PulseChain, including liquidity and gas fees, which is highly informative."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses strong positive emotions with words like 'living the dream' and 'look at the jpeg.'"
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's impact will last for a few weeks as the community discusses the comparison and implications."
+}
+}
+},
+{
+"tweet_id": "1768123207700066455",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet announces lower gas fees on Optimism and is likely to be shared within the Ethereum community."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides information about the cost reduction and its significance, which is highly informative for the target audience."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses strong positive emotions with words like 'let’s fucking go' and 'huge shoutout.'"
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's impact will last for a few weeks as the community discusses the implications of the cost reduction."
+}
+}
+},
+{
+"tweet_id": "1768032567230394433",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet announces a significant market cap flip between Solana and Arbitrum, which is likely to be widely shared within the crypto community."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides critical, verifiable information about a major market event, which is highly informative."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses positive emotions with words like 'BREAKING' and 'FLIPS.'"
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's impact will be short-term as it is tied to a specific, short-lived event."
+}
+}
+},
+{
+"tweet_id": "1767983026443579448",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet discusses a technical update and its impact, which is likely to be shared within the zkSync and Ethereum communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides detailed information about the blob transaction and its implications, which is highly informative."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses positive emotions with words like 'blobs are here' and 'full impact.'"
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's impact will last for a few weeks as the community discusses the implications of the blob transaction."
+}
+}
+},
+{
+"tweet_id": "1767978094143418864",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet predicts Ethereum's price rise and is likely to be shared within the crypto community."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides a prediction about Ethereum's price, which is somewhat informative but lacks verifiable data."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses strong positive emotions with words like 'going to $20,000.'"
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's impact will be short-term as it is a prediction and may be replaced by new developments."
+}
+}
+},
+{
+"tweet_id": "1767974564514910362",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet introduces a rewards program and is likely to be shared within the NFT and Ethereum communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides detailed information about the rewards program and its retroactive benefits, which is highly informative."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses positive emotions with words like 'biggest cross-chain rewards program' and 'start your journey.'"
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's impact will last for a few weeks as the community engages with the rewards program."
+}
+}
+}
+]

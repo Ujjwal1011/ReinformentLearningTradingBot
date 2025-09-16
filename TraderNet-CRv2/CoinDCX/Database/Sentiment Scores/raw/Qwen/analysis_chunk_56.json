@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1485586620203995138",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Breaking news about Ethereum whales buying the dip is likely to be shared within crypto communities, but may not reach global virality."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides significant information about a new all-time high in Ethereum holdings, relevant to crypto investors."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment highlighting a bullish trend in Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant for a few days as crypto markets can change quickly, but the news may stay relevant for a week."
+      }
+    }
+  },
+  {
+    "tweet_id": "1485488086578765826",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Analysis on Bitcoin's RSI is likely to be shared among crypto traders, but may not go viral beyond that niche."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Includes analysis and a link to an article, providing useful information for traders."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive sentiment suggesting a good sign for the market."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a few days as RSI is a short-term indicator."
+      }
+    }
+  },
+  {
+    "tweet_id": "1485455688662929412",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Personal investment story, unlikely to be widely shared beyond followers."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Provides a personal perspective on Ethereum investments, not formal advice."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Mixed sentiment, leaning negative due to recent losses."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevant only for a short period as it's a personal anecdote."
+      }
+    }
+  },
+  {
+    "tweet_id": "1485362505786347521",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Asking if Ethereum at $2500 is a good buy could spark discussions among investors."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Raises a question about a specific price point, prompting analysis."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment suggesting a potential buy."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for weeks as the price point may be discussed."
+      }
+    }
+  },
+  {
+    "tweet_id": "1485311634973380614",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Bold prediction about Ethereum reaching $30k could generate significant attention."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Makes a prediction, which is speculative but could inform others."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Very positive and confident sentiment."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for weeks as the prediction is discussed."
+      }
+    }
+  },
+  {
+    "tweet_id": "1485259920563851267",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Sharing purchase prices is niche, unlikely to go viral."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Provides personal data on purchases, not formal analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment, factual sharing."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevant only for a short period as it's a past action."
+      }
+    }
+  },
+  {
+    "tweet_id": "1485178707128254465",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "NFT sales data is likely to be shared within crypto and NFT communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides significant data on NFT sales growth."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive sentiment highlighting growth despite market drops."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a few days as it's a weekly report."
+      }
+    }
+  },
+  {
+    "tweet_id": "1484937699769274372",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Large USDT transfer to Binance is significant and likely to be widely shared."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides critical information about a major crypto movement."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment, factual alert."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a few days as it's a specific event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1484926464424304643",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Another alert about the same transfer, likely to be widely shared."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Same as above, critical information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment, factual alert."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a few days as it's a specific event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1484758003496546308",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Critique on using Ethereum for marriage licenses could spark discussions on crypto's role."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides commentary on a trend, highlighting a critique."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Negative sentiment criticizing profit over freedom."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Relevant for weeks as it's a critique on a trend."
+      }
+    }
+  }
+]

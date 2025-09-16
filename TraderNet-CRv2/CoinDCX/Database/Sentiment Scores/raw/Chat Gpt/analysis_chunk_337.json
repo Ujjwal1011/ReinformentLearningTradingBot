@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1736755903246799081",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "The tweet announces a historic milestone—Solana surpassing Ethereum in 7‑day NFT sales volume—using the word \"BREAKING\" and a direct comparison, which is likely to be widely shared across crypto communities and beyond."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It provides a specific, verifiable claim about market metrics and includes a link to a source, making it a credible news item."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral and factual, with no overt emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The event is a milestone that may be referenced for weeks or months as a benchmark in the crypto space."
+      }
+    }
+  },
+  {
+    "tweet_id": "1736089522822148579",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet highlights a cost comparison that resonates with many crypto users, but it is not a breaking news event, so its spread is moderate."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "It offers concrete figures for transaction costs and links to a solution, providing useful information."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "The tweet expresses frustration about high fees, indicating a mildly negative sentiment."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The relevance of the cost issue may persist for a few weeks but could diminish as fees change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1735945871605264821",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "A list of multiple market metrics that positions Solana ahead of Ethereum is likely to be shared widely within crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet presents several specific data points, offering substantial informational content."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "The tone is slightly critical of Ethereum but overall neutral, with no strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The data may be referenced for days or weeks as a snapshot of market dynamics."
+      }
+    }
+  },
+  {
+    "tweet_id": "1735858544291832174",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet claims Solana flipped Ethereum in 24‑hour DEX volumes, a headline‑worthy event likely to be shared within the crypto community."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "It provides a specific claim backed by a link, giving it informational weight."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral, simply reporting the event."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The milestone may remain relevant for several days or weeks as a reference point."
+      }
+    }
+  },
+  {
+    "tweet_id": "1735842380257869974",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "This is a breaking announcement that Solana surpassed Ethereum in 24‑hour DEX volume, a headline that is likely to spread widely."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It delivers a clear, verifiable market fact and includes a source link."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral and factual, with no emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The event is a milestone that may be referenced for weeks or months in discussions of market trends."
+      }
+    }
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1732045659300299005",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet discusses Ethereum gas costs, a trending topic, and promotes a cross‑chain staking solution, which may resonate within the crypto community but is not likely to go globally viral."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "It provides factual information about rising gas costs and introduces a staking product, offering useful context for users."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral with a mild negative note about costs, but overall factual."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The topic of gas costs remains relevant for weeks, and the staking announcement may keep interest for a while."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732043618704031784",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "A major Brazilian bank launching crypto services is a significant news event that can attract broad attention across finance and crypto audiences."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "It announces a concrete development in institutional crypto adoption, providing verifiable news."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tweet conveys excitement and positivity about the launch."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The launch will be referenced for some time as the bank's services mature, but the novelty will fade after a few months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732043497514139968",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The TL;DR summary covers multiple crypto topics, appealing to enthusiasts, but lacks a strong hook for mass sharing."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It condenses complex discussions into a concise overview, offering valuable insights."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral, presenting facts without strong emotion."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The summarized topics are trending but may lose relevance as new developments arise."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732043388382507343",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Targeted promotion for DAO builders on Arbitrum may spread within that niche but is unlikely to reach a wider audience."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "It explains how to build a DAO quickly, providing actionable information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet uses positive emojis and encouraging language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The product remains useful for DAO creators for months, though interest may taper as alternatives emerge."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732040781907824790",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Gas fees are a widespread pain point; offering optimization tips can spark shares among Web3 users."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It lists five concrete ways to reduce gas costs, providing actionable knowledge."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet acknowledges the headache but maintains a neutral, helpful tone."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The issue of gas fees persists, and the tips will remain useful until network upgrades or fee changes."
+      }
+    }
+  }
+]

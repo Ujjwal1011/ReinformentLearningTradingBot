@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1594744015433367552",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet provides valuable, updated information on a significant event (FTX attack) with relevant links, making it shareable within specific crypto communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet offers detailed, factual content about the FTX attack on Ethereum and Bitcoin, including links to reports, making it a useful resource."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet maintains a neutral tone, focusing on providing information without expressing a clear emotional stance."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance will last as long as the FTX attack remains a topic of discussion, likely for several days or weeks, especially with the promise of updates."
+}
+}
+},
+{
+"tweet_id": "1594680142416199681",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet expresses a notable shift in opinion towards Bitcoin maximalism, which might spark engagement within crypto communities, but its reach is somewhat limited."
+},
+"informative_value": {
+"score": 5,
+"justification": "While the tweet shares a personal finding after three years of observation, it lacks concrete, newsworthy information, making it moderately informative."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "The user expresses a negative sentiment towards DeFi on Ethereum, indicating a moderate level of dissatisfaction."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's impact is standard, generating discussion for a day or two, primarily among those interested in the author's shift in stance."
+}
+}
+},
+{
+"tweet_id": "1594656058693197825",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet is informative but lacks a strong hook for widespread sharing, appealing mainly to those interested in Grayscale products."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides specific, verifiable data on Grayscale Bitcoin and Ethereum Trusts, making it highly informative for those interested."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet presents information in a neutral, factual manner without expressing a clear emotional tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is somewhat short-lived, tied to the specific data snapshot (as of Sep 30), but remains useful for historical context."
+}
+}
+},
+{
+"tweet_id": "1594508410497949697",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "The tweet, while humorous, is unlikely to be widely shared beyond the author's followers and perhaps some Ethereum-focused communities."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet is more speculative and humorous than informative, lacking concrete information or news value."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The user expresses a moderately positive sentiment with a hint of sarcasm, anticipating a positive event for Ethereum."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "The tweet's relevance is very short-lived, primarily relevant around the time of the anticipated event (Thanksgiving)."
+}
+}
+},
+{
+"tweet_id": "1594490756466900992",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet's sensational claim about Satoshi and the 'real Ethereum founder' could generate significant buzz and sharing within crypto communities."
+},
+"informative_value": {
+"score": 1,
+"justification": "The tweet spreads unverified rumors, lacking any credible or factual information, making it of very low informative value."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet's tone is neutral in presentation but could evoke various emotions in readers, from skepticism to intrigue."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's impact is short, as the rumor's relevance will quickly fade without substantiation, likely within a day or two."
+}
+}
+},
+{
+"tweet_id": "1594295304110895104",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet's revelation about the FTX hacker's actions could be shared within crypto and Ethereum-focused communities due to its timely and specific nature."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides timely, specific information about the FTX hacker's activity, including a wallet link, making it useful for followers."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet reports on an event without expressing a clear emotional tone, maintaining neutrality."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance will last for a standard period, generating interest for a day or two, primarily among those tracking the FTX situation."
+}
+}
+},
+{
+"tweet_id": "1593984331092963328",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The tweet's provocative comparison of significant investments (Elon Musk, Sequoia, Ethereum buyers) has high potential for broad sharing and discussion."
+},
+"informative_value": {
+"score": 4,
+"justification": "While the tweet presents an interesting comparison, it lacks in-depth analysis or new, verifiable information, making it moderately informative."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The user expresses a strongly negative sentiment towards Ethereum and, by comparison, other investments, indicating skepticism and criticism."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet's relevance could extend for several days or even weeks due to its thought-provoking nature and the significance of the investments mentioned."
+}
+}
+},
+{
+"tweet_id": "1593932360378187778",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The tweet's engaging, speculative question about the future prices of various cryptocurrencies has a high potential for sharing and discussion across crypto communities."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet is more speculative and designed to provoke engagement rather than provide concrete, informative content."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet maintains a neutral tone, posing a question without expressing a clear emotional stance or bias."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The tweet's relevance will extend for several weeks or even months as the prices of the mentioned cryptocurrencies continue to fluctuate."
+}
+}
+},
+{
+"tweet_id": "1593783292251189248",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet's stark warning about Ethereum's potential collapse could generate significant sharing and discussion within crypto communities, especially among those with a vested interest."
+},
+"informative_value": {
+"score": 4,
+"justification": "While the tweet provides a prediction, it lacks concrete, verifiable evidence or in-depth analysis, making it of moderate informative value."
+},
+"sentiment_polarity": {
+"score": 1,
+"justification": "The user expresses an extremely negative sentiment towards Ethereum's future, indicating a strong pessimistic outlook."
+},
+"duration_of_impact": {
+"score": 9,
+"justification": "The tweet's relevance could extend for months or even longer, as the prediction's validity will be assessed over an extended period."
+}
+}
+},
+{
+"tweet_id": "1593672364520361985",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet's sarcastic congratulations to Ethereum for its 'success' in implementing a 'ponzi scheme' might generate sharing within specific crypto communities, particularly among critics."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet provides some context about Ethereum's technical aspects but is primarily opinion-based, making its informative value moderate."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The user expresses a strongly negative sentiment towards Ethereum, criticizing its decentralized nature and implying fraudulent activities."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance will last for several days, primarily generating discussion among those interested in Ethereum's technical and ethical debates."
+}
+}
+} 
+]

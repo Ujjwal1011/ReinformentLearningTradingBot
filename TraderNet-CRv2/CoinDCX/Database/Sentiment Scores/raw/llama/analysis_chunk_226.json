@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1757143332231565663",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "News about a major asset manager filing for a spot Ethereum ETF is significant and likely to be shared within the financial and crypto communities, potentially sparking discussions."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides newsworthy, factual information about a major development in the crypto space, making it highly informative."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply reporting on a news event without expressing a clear emotional tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The relevance of the tweet will last for several days or weeks, as the ETF filing process unfolds and its implications are discussed."
+}
+}
+},
+{
+"tweet_id": "1757142599016616334",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Similar to the first tweet, this news about Franklin Templeton has potential for sharing within specific communities, but the addition of a link might slightly reduce its virality compared to a more concise, direct announcement."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides factual information about a significant event in the crypto space, though slightly less direct than the first tweet due to the need to follow a link for full context."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, as it reports news without expressing a clear emotional tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Similar to the first tweet, its relevance will span several days or weeks as the story develops."
+}
+}
+},
+{
+"tweet_id": "1757140029426606493",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The announcement of a mint on an Ethereum Launchpad, while exciting for the involved parties and their followers, may not achieve broad, viral sharing outside these circles."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides specific, useful information about an upcoming event on the Ethereum Launchpad, though its appeal might be limited to those already interested in the platform or the mentioned projects."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Expresses excitement and positivity with the use of 'We're excited' and an upbeat tone."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevance is primarily tied to the event date (02.27), after which interest may wane unless the event sparks ongoing discussions or follow-ups."
+}
+}
+},
+{
+"tweet_id": "1756654977445953932",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "A tweet about the beauty of charts, while potentially engaging for a niche audience, lacks a broad hook for widespread sharing."
+},
+"informative_value": {
+"score": 3,
+"justification": "Minimal informative value as it doesn't provide substantial information beyond an aesthetic appreciation for charts."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Expresses a positive sentiment with the description of the charts as 'beautiful'."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short-lived relevance, as the tweet's appeal is immediate and doesn't lend itself to prolonged discussion or reference."
+}
+}
+},
+{
+"tweet_id": "1756337671318695941",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "While informative, the historical and developmental context of Wormhole might not be widely shared beyond those with a specific interest in blockchain technology."
+},
+"informative_value": {
+"score": 9,
+"justification": "Highly informative, providing detailed background and statistics on Wormhole's growth and impact."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, as it presents factual information without expressing a clear emotional tone."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The informative nature of the tweet gives it a longer shelf life, as it can serve as a reference point for discussions on blockchain connectivity."
+}
+}
+},
+{
+"tweet_id": "1756249005263056914",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The use of a hook to grab attention ('give you a heart attack') might encourage sharing within the Ethereum community, but its broader appeal is limited."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides some useful information, implied through the mention of '30d stats', though the actual data or context is not directly shared in the tweet."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Moderately positive, as the tone is playful and teasing rather than negative or purely neutral."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevance is relatively short, tied to the immediate reaction to the mentioned stats, with interest likely fading quickly."
+}
+}
+},
+{
+"tweet_id": "1755957594932306329",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The offer of 1,000,000 $AMBER points could generate significant interest and sharing within the crypto and staking communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides clear, useful information about an incentivized testnet alpha, including specifics on participation and rewards."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "Very positive, as the tweet announces a beneficial opportunity for $PYTH stakers, framed in an exciting and rewarding manner."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevance will last as long as the testnet alpha is active and the offer stands, potentially sparking ongoing engagement."
+}
+}
+},
+{
+"tweet_id": "1755929540700807211",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The unveiling of a SNARK proving ASIC, with its implications for Ethereum, could spark significant interest and sharing within the crypto and tech communities."
+},
+"informative_value": {
+"score": 9,
+"justification": "Highly informative, introducing a new technology with potential to solve a significant issue (Ethereum fragmentation)."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "Very positive, expressing optimism and excitement about the potential of the technology to address a major challenge."
+},
+"duration_of_impact": {
+"score": 9,
+"justification": "Long-lasting relevance, as the development and implications of this technology will be discussed over an extended period."
+}
+}
+},
+{
+"tweet_id": "1755658452482056523",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The comparative advantage of PulseChain over Ethereum in terms of fees might generate sharing within the crypto community, especially among those interested in cost-effective solutions."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides useful information comparing the transaction fees between PulseChain and Ethereum, though with a promotional tone."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Moderately positive, as it highlights a benefit of using PulseChain in a comparative context."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevance is somewhat short-lived, as the appeal is primarily to immediate cost concerns, unless it sparks a broader discussion on crypto transaction fees."
+}
+}
+},
+{
+"tweet_id": "1755499470471524831",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "A welcoming message to Ethereum users moving to PulseChain might encourage some sharing within the community, but its broader viral potential is limited."
+},
+"informative_value": {
+"score": 4,
+"justification": "Minimal informative value beyond a general greeting and acknowledgement of movement between platforms."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Expresses a positive and welcoming sentiment towards Ethereum users."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short-lived relevance, as the tweet's purpose is to acknowledge a current trend rather than provide lasting information or spark prolonged discussion."
+}
+}
+} 
+]

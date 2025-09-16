@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1472196286271180803",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet discusses a significant development in Ethereum (switch from PoW to PoS) with a link, making it moderately shareable within crypto communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides valuable information about a crucial Ethereum update, including a link for further reading, making it highly informative for those interested in crypto."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, focusing on informing about the Ethereum update without expressing a clear emotional tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance will last for days or weeks, as the Ethereum update is a significant but not timeless event."
+}
+}
+},
+{
+"tweet_id": "1472002040230469632",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "While mentioning Vitalik Buterin, the tweet's virality is limited by its language (Spanish) and lack of engaging multimedia."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides some useful information about Vitalik Buterin, but the link's content and context are not specified in the tweet."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet's sentiment is neutral, as it simply shares information without expressing a clear emotional tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is short-term, tied to a specific, possibly fleeting, piece of news or update."
+}
+}
+},
+{
+"tweet_id": "1471967904090386434",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Announcing the first Ethereum PoS merge testnet is moderately engaging, especially within the Ethereum community."
+},
+"informative_value": {
+"score": 9,
+"justification": "Highly informative as it announces a significant development in Ethereum's transition, including a link for further details."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet maintains a neutral tone, focusing on the announcement without emotional expression."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet remains relevant for days or weeks, given the significance of the Ethereum PoS merge testnet launch."
+}
+}
+},
+{
+"tweet_id": "1471881075148443654",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The humorous, relatable content about a nightmare involving Ethereum prices and a well-known figure (Arthur Hayes) has high potential for sharing within crypto communities."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet is primarily for entertainment, providing no substantial information about Ethereum or its ecosystem."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The user expresses a negative sentiment through the description of a 'complete nightmare'."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's humor is fleeting, making its relevance short-term."
+}
+}
+},
+{
+"tweet_id": "1471451598404608009",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The endorsement from Microsoft's Blockchain Director is moderately engaging, particularly within professional and crypto circles."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides useful information about a significant endorsement for Ethereum, including a link for more details."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses a positive sentiment, highlighting bullishness on Ethereum's future."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The relevance of the tweet lasts for days or weeks, given the significance of the endorsement."
+}
+}
+},
+{
+"tweet_id": "1471293227626078208",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet's potential for virality is neutral, as it discusses a common criticism of Ethereum (congestion) without a strong hook."
+},
+"informative_value": {
+"score": 4,
+"justification": "Provides some information about the user's experience with Ethereum's congestion, but it's a personal anecdote."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The user expresses strong negative emotions towards Ethereum's current state, using words like 'nobody uses' and 'too congested'."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is short-term, as it discusses a current issue without timeless significance."
+}
+}
+},
+{
+"tweet_id": "1471240502691385347",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The statement about Ethereum being an 'interesting asset class' is neutral in terms of virality, lacking a strong engagement driver."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet provides minimal information, being more of a personal opinion without depth or context."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The user expresses a positive sentiment, finding Ethereum 'probably the most interesting asset class'."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is standard, generating discussion for a day or two before fading."
+}
+}
+},
+{
+"tweet_id": "1471238658736930820",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet's engagement potential is moderate, driven by the interesting topic of MEV and Flashbots, though it may not appeal broadly beyond crypto enthusiasts."
+},
+"informative_value": {
+"score": 9,
+"justification": "Highly informative, as it delves into a specialized topic within Ethereum (MEV and Flashbots) with a link for further reading."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The user expresses a moderately positive sentiment, finding the topic 'very cool stuff'."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet remains relevant for days or weeks, given the in-depth nature of the topic discussed."
+}
+}
+},
+{
+"tweet_id": "1471178240643448837",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The announcement of a major NFT platform moving to Ethereum, with significant environmental benefits, has high potential for broad sharing."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides highly valuable information about a significant development in the NFT space, including details on environmental impact and technology used."
+},
+"sentiment_polarity": {
+"score": 10,
+"justification": "The tweet expresses overwhelming positivity, highlighting a major achievement ('the future of collectibles has never looked this good')."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The tweet's relevance lasts for months, given the significance of the platform's move to Ethereum and its environmental implications."
+}
+}
+},
+{
+"tweet_id": "1471173109998882819",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tool's usefulness for browsing Ethereum contracts might generate moderate interest within developer and crypto enthusiast communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides useful information about a tool (Ethereum Code Viewer) that enhances the user experience for contract browsing."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet maintains a neutral tone, focusing on the functionality of the tool without emotional expression."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet remains relevant for days or weeks, as the tool's utility is not fleeting but also not timeless."
+}
+}
+}
+]

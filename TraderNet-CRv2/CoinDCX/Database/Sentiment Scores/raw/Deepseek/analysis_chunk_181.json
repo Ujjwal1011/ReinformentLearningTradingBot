@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1732198166999580989",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Military/NFT crossover targets niche crypto communities but lacks broad emotional hooks for global virality."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Primarily promotional content for an NFT project without substantive information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement tone without clear positive/negative emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to temporary NFT drop event with short-term engagement window."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732198073932357748",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Technical critique of Ethereum L2 architecture likely limited to developer circles."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Highlights security considerations in blockchain implementations with partial technical context."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Implies criticism through words like 'shady' but remains moderately negative."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Discusses fundamental security concerns that could remain relevant for weeks in developer communities."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732198070144717250",
+    "analysis": {
+      "virality_potential": {
+        "score": 2,
+        "justification": "URL-only tweet lacks engagement drivers beyond existing followers."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No contextual information provided with the link."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "No discernible emotional content in URL-only message."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Immediate relevance depends on linked content's longevity."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732198047298302377",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Amazon partnership news could gain moderate traction in gaming/crypto circles."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Reports specific collaboration between major company and NFT project."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting style without explicit opinion."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "News cycle relevance likely limited to days unless followed by major developments."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732197914099810700",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major bank adoption story with concrete figures (€10M) in growing crypto market."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific details about institutional blockchain adoption with named entities."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual reporting style without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Signals institutional adoption trend with weeks-long relevance in financial sectors."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732197644536311976",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Market data ($1.76B inflow) appeals to crypto investors' interests."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides verifiable market statistics with asset-specific breakdowns."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive emojis and growth statistics suggest optimistic tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Market trend analysis remains relevant for weeks in trading communities."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732197206164377834",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Routine exchange announcement limited to existing platform users."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Clear operational details about wallet integration with specific timelines."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral procedural announcement."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Time-bound relevance ending after December 12 implementation."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732197191987716116",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Elon Musk/X speculation taps into widespread crypto community interest."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Speculative analysis without new confirmed information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Enthusiastic tone with emojis and capitalization for emphasis."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant until X's crypto integration plans materialize or change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732196905697128745",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "8x price increase narrative could drive engagement in NFT communities."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Personal NFT collection update without broader market insights."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Celebratory tone about financial gains with emoji usage."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to current NFT valuation with potential daily fluctuations."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732196776851976233",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Seasonal campaign hype could generate moderate crypto community engagement."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Vague promotional content without specific details about $portal."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive emojis and 'Bullish' hashtag convey optimism."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance limited to active marketing campaign period."
+      }
+    }
+  }
+]

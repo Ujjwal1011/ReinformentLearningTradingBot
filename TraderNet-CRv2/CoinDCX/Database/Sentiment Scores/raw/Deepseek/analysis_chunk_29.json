@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1447871565417357317",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Simple question about cryptocurrency choices might spark discussion but lacks strong emotional hooks or novelty for widespread sharing."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Contains no factual information - purely a speculative question without context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone - presents a question without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance limited to current crypto market interest, likely fading as newer discussions emerge."
+      }
+    }
+  },
+  {
+    "tweet_id": "1447721446977978375",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Technical correction in crypto space could spread within developer communities but lacks mass appeal."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific technical clarification about Ethereum contract interactions."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Moderately negative tone correcting perceived misinformation."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant until underlying technical issue is resolved."
+      }
+    }
+  },
+  {
+    "tweet_id": "1447680004137967619",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Critical take on Ethereum with visual evidence could resonate in crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Highlights a specific technical issue but lacks detailed explanation."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative assessment using 'broken' terminology."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Could remain relevant as part of ongoing Ethereum scalability discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1447557417575895049",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Controversial comparison between Bitcoin and Ethereum policies could spark debates."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Presents opinionated comparison without supporting evidence."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Implies criticism through comparative framing."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant to current crypto governance discussions but time-bound."
+      }
+    }
+  },
+  {
+    "tweet_id": "1447230445976907776",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Price prediction format commonly shared in crypto communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Speculative claim without supporting analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement of prediction."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance limited to specified timeframe (Q1 2022)."
+      }
+    }
+  },
+  {
+    "tweet_id": "1446946050116227073",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Combination of NFTs and metaverse trends with visual content increases shareability."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Highlights NFT use case but lacks technical details."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone celebrating blockchain applications."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Tied to ongoing NFT/metaverse development trends."
+      }
+    }
+  },
+  {
+    "tweet_id": "1446516207159582743",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major Ethereum upgrade announcement likely to spread through developer communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific technical milestone in blockchain development."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Enthusiastic announcement with rocket emoji."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Significant long-term upgrade to Ethereum network."
+      }
+    }
+  },
+  {
+    "tweet_id": "1446133641176698886",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "NFT authenticity argument could resonate in digital art communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Explains key NFT value proposition clearly."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral comparison between physical/digital art."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Addresses enduring NFT authenticity discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1445905599858806786",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Regulatory criticism with call-to-action could mobilize crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Details specific SEC actions against XRP."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Strong negative emotions expressed ('sick of', 'force')."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant until legal resolution of XRP case."
+      }
+    }
+  },
+  {
+    "tweet_id": "1445857060424347649",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Comparative performance data format popular in finance circles."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides verifiable performance metrics for multiple assets."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of factual data."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Time-bound to 2021 performance data."
+      }
+    }
+  }
+]

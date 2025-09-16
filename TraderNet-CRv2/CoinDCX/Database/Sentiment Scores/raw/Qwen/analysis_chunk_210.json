@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1732045659300299005",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet discusses Ethereum costs and introduces a solution with LINK token, which could resonate within crypto communities but may not go viral beyond that."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides information about Ethereum costs and introduces a specific solution, though it's somewhat niche."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment, discussing a problem and a solution without strong emotion."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's impact is medium, as it's about a specific product launch that may be relevant for a few weeks."
+}
+}
+},
+{
+"tweet_id": "1732043618704031784",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Announcing a major bank's crypto services launch, which is significant and likely to be shared widely within crypto circles."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides credible, newsworthy information about a major financial institution entering the crypto market."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment with excitement about the launch."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The impact is medium-term, as the service launch will be relevant for days to weeks."
+}
+}
+},
+{
+"tweet_id": "1732043497514139968",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "A TL;DR of crypto discussions, which may not be widely shared beyond niche communities."
+},
+"informative_value": {
+"score": 5,
+"justification": "Summarizes various crypto topics but lacks depth."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment, presenting information without strong emotion."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Short-term impact, as the topics discussed are current but may lose relevance quickly."
+}
+}
+},
+{
+"tweet_id": "1732043388382507343",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Promotes a DAO-building app on Arbitrum, which could attract interest within Ethereum communities."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides useful information about building DAOs without coding."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment, encouraging and helpful."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Medium-term impact, as DAOs are an ongoing topic in the crypto space."
+}
+}
+},
+{
+"tweet_id": "1732040781907824790",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Discusses a common issue (gas fees) and offers solutions, likely to be shared among Web3 users."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides actionable advice on optimizing gas fees."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment, focusing on practical advice."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Medium-term impact, as gas fees are an ongoing concern in Ethereum."
+}
+}
+},
+{
+"tweet_id": "1732040600994894279",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Complaint about Ethereum fees in Spanish, likely to resonate within Spanish-speaking crypto communities but not widely."
+},
+"informative_value": {
+"score": 3,
+"justification": "Minimal information, just a complaint."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "Negative sentiment, expressing frustration."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short-term impact, as it's a complaint about a current issue."
+}
+}
+},
+{
+"tweet_id": "1732039488443203722",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Mentions a token launch on Cardano and bridges, which may attract some interest but not go viral."
+},
+"informative_value": {
+"score": 5,
+"justification": "Provides information about the token's availability on different networks."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment, factual information."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Short-term impact, as it's about a specific product launch."
+}
+}
+},
+{
+"tweet_id": "1732037876152672693",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "News about Safe wallets, which could be shared among Ethereum users."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides important information about wallet creation without seed phrases."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment, presenting a new feature."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Medium-term impact, as wallet security is an ongoing concern."
+}
+}
+},
+{
+"tweet_id": "1732037175573979154",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Announces a partnership affecting Ethereum staking, likely to be shared within crypto communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides information about a significant partnership and its impact on public goods funding."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment, highlighting a beneficial collaboration."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Medium-term impact, as staking and public goods are ongoing topics."
+}
+}
+},
+{
+"tweet_id": "1732035587593711864",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Exciting alert about a pump and ETF approval, likely to be widely shared among crypto enthusiasts."
+},
+"informative_value": {
+"score": 4,
+"justification": "Minimal information, mostly promotional."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Positive and exciting sentiment, encouraging action."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Very short-term impact, as it's tied to a specific event."
+}
+}
+}
+]

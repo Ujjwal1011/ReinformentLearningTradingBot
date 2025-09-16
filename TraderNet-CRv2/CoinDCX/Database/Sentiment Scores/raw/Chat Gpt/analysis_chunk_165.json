@@ -1,0 +1,107 @@
+[
+{
+  "tweet_id": "1519166370197667845",
+  "analysis": {
+    "virality_potential": {
+      "score": 7,
+      "justification": "The tweet discusses a conflict between video game developers and publishers over Web3 integration, a hot topic in both gaming and crypto communities. It includes many relevant hashtags (#Web3, #Bitcoin, #Ethereum, #Nfts) and a link, which can attract shares within niche communities. The author has a modest follower count (4,247) and the content is not breaking news, so the viral potential is moderate to high, not extreme."
+    },
+    "informative_value": {
+      "score": 6,
+      "justification": "The tweet provides a news hook about a clash in the gaming industry regarding Web3, and includes a link for further details. It offers some factual context but lacks depth in the tweet itself, resulting in medium‑high informative content."
+    },
+    "sentiment_polarity": {
+      "score": 5,
+      "justification": "The tone is neutral, simply reporting a situation without strong emotional language."
+    },
+    "duration_of_impact": {
+      "score": 6,
+      "justification": "Web3 integration debates are likely to stay relevant for weeks to months as the industry evolves, giving the tweet a medium‑term impact."
+    }
+  }
+},
+{
+  "tweet_id": "1518730242504159232",
+  "analysis": {
+    "virality_potential": {
+      "score": 6,
+      "justification": "The tweet announces a 23% increase in NFT trade volume nearing $1 billion, a compelling statistic for the crypto/NFT community. Hashtags and a link can drive shares, but the audience remains niche."
+    },
+    "informative_value": {
+      "score": 8,
+      "justification": "It provides concrete market data (23% increase, $1 billion sales) and points to a source, offering high informational value about recent activity."
+    },
+    "sentiment_polarity": {
+      "score": 7,
+      "justification": "Positive language such as \"Jumped\" and \"Higher\" conveys excitement about the market growth."
+    },
+    "duration_of_impact": {
+      "score": 4,
+      "justification": "The statistics refer to a specific week, making the relevance short‑term as newer data supersedes it."
+    }
+  }
+},
+{
+  "tweet_id": "1518577744635904001",
+  "analysis": {
+    "virality_potential": {
+      "score": 9,
+      "justification": "A claim that EU policymakers want to push Ethereum over Bitcoin is politically charged and market‑moving. Combined with the \"JUST IN\" framing and the author's 3.4 million followers, the tweet has very high viral potential."
+    },
+    "informative_value": {
+      "score": 8,
+      "justification": "The tweet reports on internal EU documents suggesting a regulatory shift, which is newsworthy and provides significant information despite not being a primary source."
+    },
+    "sentiment_polarity": {
+      "score": 5,
+      "justification": "The tweet is presented as a factual news alert without strong emotional language, resulting in a neutral tone."
+    },
+    "duration_of_impact": {
+      "score": 8,
+      "justification": "If EU policy favors Ethereum, the effect could persist for a long period, influencing market dynamics and regulatory discussions over the long term."
+    }
+  }
+},
+{
+  "tweet_id": "1517999573247172608",
+  "analysis": {
+    "virality_potential": {
+      "score": 7,
+      "justification": "The humorous meme about Ethereum's price volatility uses a relatable shopping scenario, which can spread quickly within crypto communities, giving it good viral potential within a niche audience."
+    },
+    "informative": {
+      "score": 2,
+      "justification": "The tweet is a joke and does not convey factual information or actionable insight, resulting in very low informational value."
+    },
+    "sentiment_polarity": {
+      "score": 8,
+      "justification": "The meme expresses amusement and light‑hearted humor, reflecting a very positive emotional tone."
+    },
+    "duration_of_impact": {
+      "score": 5,
+      "justification": "Memes of this type are typically shared for a few days to a week before relevance fades as market conditions change."
+    }
+  }
+},
+{
+  "tweet_id": "1517966379147837442",
+  "analysis": {
+    "virality_potential": {
+      "score": 5,
+      "justification": "The tweet expresses personal disappointment about Ethereum's mainstream adoption and includes a link, which may attract some attention from followers but lacks a strong hook for broad sharing."
+    },
+    "informative_value": {
+      "score": 3,
+      "justification": "It is an opinion statement without factual data, offering limited informational content."
+    },
+    "sentiment_polarity": {
+      "score": 2,
+      "justification": "The phrasing \"This isn’t how I envisioned...\" conveys clear disappointment, a negative sentiment."
+    },
+    "duration_of_impact": {
+      "score": 5,
+      "justification": "The sentiment reflects a momentary personal view; unless the linked content contains lasting analysis, the tweet's relevance is short to medium."
+    }
+  }
+}
+]

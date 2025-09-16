@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1500960097794621442",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "The tweet is likely to be shared within crypto communities but not beyond."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Provides some information but is opinionated."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative sentiment towards blockchain projects."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term impact as it's a critique."
+      }
+    }
+  },
+  {
+    "tweet_id": "1500868552366202880",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Relatable but not likely to go viral."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Somewhat informative but not detailed."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term impact."
+      }
+    }
+  },
+  {
+    "tweet_id": "1500820362954690562",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Niche job offer, likely shared among developers."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Detailed job posting."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Medium-term impact."
+      }
+    }
+  },
+  {
+    "tweet_id": "1500649538675113984",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Funny personal story, likely to be shared."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Not very informative."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term impact."
+      }
+    }
+  },
+  {
+    "tweet_id": "1500410899558981634",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Informative but not likely to go viral."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides clear data."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Medium-term impact."
+      }
+    }
+  },
+  {
+    "tweet_id": "1500407703612448770",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Current trends, likely shared."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "News summary with link."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Medium-term impact."
+      }
+    }
+  },
+  {
+    "tweet_id": "1499780129962139648",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Fact-based but not likely to go viral."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Corrects a misconception."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term impact."
+      }
+    }
+  },
+  {
+    "tweet_id": "1499775221083090952",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "From a notable person, likely shared."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Opinion with some info."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Medium-term impact."
+      }
+    }
+  },
+  {
+    "tweet_id": "1499482384529604610",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Funny image, likely shared."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Not very informative."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term impact."
+      }
+    }
+  },
+  {
+    "tweet_id": "1499465625223286787",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Strong opinion, likely shared."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides some facts."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative sentiment."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Medium-term impact."
+      }
+    }
+  }
+]

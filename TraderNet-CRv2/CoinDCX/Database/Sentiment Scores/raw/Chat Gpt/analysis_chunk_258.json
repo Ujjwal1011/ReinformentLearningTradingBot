@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1570552928586563586",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet offers a primer thread on Ethereum’s new Proof of Stake system, which is likely to be shared within the crypto community but not expected to go globally viral."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It provides educational content about new terms and tooling, linking to a detailed thread that explains the merge."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral and encouraging, simply urging readers to learn."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Educational material about the merge will remain relevant for months as the new system is adopted."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570510964092735489",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "A personal brag about price predictions is unlikely to spread beyond the user’s followers."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "The tweet contains no verifiable data or context, just a claim."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The user expresses self‑confidence and positivity about being right."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The relevance fades once the price moves or the claim is disproved."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570504058087280641",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The sarcastic joke about the merge with Turkish lira can resonate with crypto humor fans and may get retweeted within that niche."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "It is primarily a joke and offers no factual information."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "The tone is mildly negative/sarcastic."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The joke loses relevance quickly as the news cycle moves on."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570489098522984455",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news about Ethereum’s transition to Proof of Stake is likely to be widely shared across crypto and mainstream tech audiences."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It reports a factual event and includes price impact, providing valuable information."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "The tone is neutral with a slight negative note due to the price drop."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The news remains relevant for weeks as people discuss the merge’s implications."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570484385694224384",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "A congratulatory tweet to the Ethereum team can attract engagement within the community but is not expected to go viral globally."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "It mentions a concrete benefit—reduced electricity consumption—providing a factual detail."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tweet expresses strong positive sentiment and appreciation."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The congratulatory message and the environmental benefit will keep it relevant for a while."
+      }
+    }
+  }
+]

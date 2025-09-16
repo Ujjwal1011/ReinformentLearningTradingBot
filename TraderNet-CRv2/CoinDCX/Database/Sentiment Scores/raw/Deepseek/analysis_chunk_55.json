@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1486394992553861120",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Significant personal investment story in crypto could resonate within financial communities, though lacks universal appeal for global virality."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides insight into market behavior and personal strategy, but lacks verifiable data or sources."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Expresses confidence and optimism about Ethereum's future despite market dip."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant as long as Ethereum price discussions remain active, likely weeks in crypto cycles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1486355730110242818",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Shocking financial figures and whale activity make this highly shareable in crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Reports specific, verifiable market activity with clear figures and assets involved."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting style without explicit emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to immediate crypto market movements, likely days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1486352276537106433",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Mysterious tone and SHIB community engagement could drive shares despite vague content."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Lacks concrete information beyond an ambiguous link and hashtag."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral/ambiguous tone with no clear positive or negative language."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Tied to immediate speculation around the link, relevance expires quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1486080177490706433",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Technical solution for crypto communities could see moderate sharing among developers."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Details a technical implementation with zk-proofs and provides supporting documentation."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual presentation without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Technical solutions may remain relevant for weeks/months in developer circles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1486001592692260870",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Product launch with mainstream appeal in crypto could generate significant sharing."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Clear explanation of new Web3 investment tool with protocol details."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive language like 'excited' and 'powerful' shows enthusiasm."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Product relevance could last weeks as adoption grows."
+      }
+    }
+  },
+  {
+    "tweet_id": "1485932224457367553",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Cramer's market predictions often circulate in financial circles."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Reports expert opinion on market trends with specific assets mentioned."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of analyst prediction."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to immediate market cycle, likely days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1485874689495150592",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Provocative price prediction from famous author could generate shares."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Reports expert opinion but lacks original source verification."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative language around market crash and price testing."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance lasts until predicted price level is tested/achieved."
+      }
+    }
+  },
+  {
+    "tweet_id": "1485849294171099136",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Controversial claim about crypto rivals likely to spark engagement."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Unsupported assertion without evidence or context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral statement format despite provocative content."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Ongoing crypto debates could keep this relevant for days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1485800322937212928",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Technical Ethereum improvement proposal from founder will circulate in developer communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Detailed technical documentation with acknowledged expert review."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Academic tone without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Core protocol discussions remain relevant for months/years in blockchain development."
+      }
+    }
+  },
+  {
+    "tweet_id": "1485788396823973888",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Humor from celebrity account with large following guarantees wide sharing."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Pure joke without factual content or actionable information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral humor without positive/negative stance on subject."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Joke relevance typically lasts days at most."
+      }
+    }
+  }
+]

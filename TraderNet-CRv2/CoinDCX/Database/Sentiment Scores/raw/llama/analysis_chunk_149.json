@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1639123359811133440",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet contains hashtags for popular topics like #AI, #NFTs, and #Ethereum, which could generate interest within specific communities, but lacks a strong hook for broader virality."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet is more promotional than informative, with a brief mention of AI and a link, but lacks substantial content or context."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tone is moderately positive, expressing excitement or anticipation with 'be there or be square', but doesn't convey strong emotions."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The relevance of the tweet is tied to the lifespan of the linked content or event, likely remaining relevant for a short period, possibly up to a week."
+}
+}
+},
+{
+"tweet_id": "1639028559162511360",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "As an announcement from MetaMask about a significant compatibility update, it has high potential for sharing within the Ethereum and broader crypto communities."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides newsworthy, technical information about MetaMask's compatibility with EIP-4361, including a feature description."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tone is very positive, indicating excitement and a sense of achievement in enhancing user experience with the 'Sign In with Ethereum' feature."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet's relevance will extend for days or weeks, as the update's implications are absorbed by the community and discussed."
+}
+}
+},
+{
+"tweet_id": "1638824989087367168",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet's engagement potential is neutral, as it asks a question relevant to Ethereum devs, but doesn't inherently encourage widespread sharing."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides some useful information by posing a question about the best Ethereum test net, potentially sparking informative discussions."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The sentiment is neutral, as the tweet is a question without emotional tone, seeking opinions rather than expressing a feeling."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet remains relevant for as long as the question is topical, likely a matter of days, depending on community engagement."
+}
+}
+},
+{
+"tweet_id": "1638617228005220374",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The tweet's comparative structure and self-deprecating humor have high potential for sharing, as it's relatable and amusing."
+},
+"informative_value": {
+"score": 2,
+"justification": "While mentioning well-known figures and their achievements, the tweet's primary focus is on the author's personal anecdote rather than providing informative content."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The sentiment is moderately positive, as despite the humorous comparison leading to a negative self-assessment, the overall tone is lighthearted."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The tweet's relatability and humor give it a longer shelf life, potentially being referenced or shared over several weeks."
+}
+}
+},
+{
+"tweet_id": "1638504396228108290",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The comprehensive list of cryptocurrencies could attract shares from enthusiasts, but it's more of a resource than a viral piece of content."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides a useful, visual resource (chart) for comparing various cryptocurrencies, though the context is brief."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The sentiment is neutral, as the tweet is primarily informational, listing cryptocurrencies without expressing emotion."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The relevance of the tweet is tied to the currency chart's date, likely remaining useful for a few days to a week before becoming outdated."
+}
+}
+},
+{
+"tweet_id": "1637983933764648960",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The comparison and hypothetical scenario could generate interest within the Ethereum and Bitcoin communities, but may not extend far beyond."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides a comparative analysis of Ethereum vs. Bitcoin's supply post-proof of stake, offering insightful information, albeit briefly."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tone is moderately positive, suggesting an improvement (more burn, faster blocks) without expressing strong emotions."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet's relevance could extend for weeks, as discussions around Ethereum's post-proof of stake dynamics continue."
+}
+}
+},
+{
+"tweet_id": "1637928923693735936",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet is promotional and niche (NFT scene), which limits its virality potential to within the OpenSea community."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet informs about a new NFT scene availability but is more of a sales announcement than an informative piece."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tone is moderately positive, indicating excitement or pride in the new NFT scene's availability."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is short-lived, as the announcement's impact diminishes once the initial interest in the NFT scene passes, likely within days."
+}
+}
+},
+{
+"tweet_id": "1637299914282618880",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The unique insight into a successful airdrop hunter, coupled with the 'degen score' concept, has high potential for sharing within crypto communities."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides insightful, newsworthy information about a notable airdrop hunter and a novel metric ('degen score'), offering valuable crypto community knowledge."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tone is moderately positive, suggesting admiration for the hunter's success without expressing strong emotions."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The tweet remains relevant for weeks or even months, as the information about the airdrop hunter and the 'degen score' concept is absorbed and discussed."
+}
+}
+},
+{
+"tweet_id": "1637140989478572032",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The dramatic, breaking news style announcement about a significant market move (GMX whale flipping long on ETH) has high potential for widespread sharing."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides timely, significant market information, though the context is brief and lacks in-depth analysis."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tone is very positive, indicating excitement and possibly amusement at the dramatic turn of events in the market."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is short-lived, as the market move's immediate impact diminishes rapidly, likely within hours to days."
+}
+}
+},
+{
+"tweet_id": "1636804642108473352",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet's confessional nature and the mention of making 8 BTC could attract shares, especially within communities interested in crypto and NFTs."
+},
+"informative_value": {
+"score": 3,
+"justification": "While mentioning BTC NFTs or Ordinals, the primary focus is on the author's personal, somewhat humorous anecdote rather than providing substantial information."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The tone is very negative, expressing disdain towards others with the phrase 'People are so fucking stupid', despite the overall story being one of personal success."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relatability and the controversial tone give it a moderate shelf life, potentially being referenced or shared over several days to a week."
+}
+}
+} 
+]

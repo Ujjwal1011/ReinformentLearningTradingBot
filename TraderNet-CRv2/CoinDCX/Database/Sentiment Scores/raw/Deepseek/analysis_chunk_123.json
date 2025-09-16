@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1557445405289365505",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Actionable crypto advice about an upcoming hard fork could drive sharing within Ethereum communities, though lacks universal appeal."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific strategic recommendations for an upcoming blockchain event with clear instructional value."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral instructional tone without strong positive/negative language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant until the hard fork occurs, with potential lasting impact for crypto strategists."
+      }
+    }
+  },
+  {
+    "tweet_id": "1557434161392193541",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Data visualization of Ethereum gas usage could spread in developer circles but has niche appeal."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Contains original analysis of blockchain metrics with supporting data source."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Analytical tone without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Historical gas usage patterns remain relevant for Ethereum researchers long-term."
+      }
+    }
+  },
+  {
+    "tweet_id": "1557404287151521793",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Hashtag-driven excitement about Ethereum upgrade could generate moderate sharing."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Pure expression of anticipation without substantive information."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Clear positive sentiment through phrase 'Can't wait' and celebratory tone."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to pre-Merge anticipation period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1557356188504915972",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major exchange announcement about Ethereum Merge likely to spread quickly in crypto circles."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Newsworthy update about institutional blockchain support."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual announcement without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Important until Merge completion, then superseded by newer updates."
+      }
+    }
+  },
+  {
+    "tweet_id": "1557292798734376960",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Provocative statement about institutional adoption with multiple hashtags could drive engagement."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Vague assertion without supporting data or specifics."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive excitement implied through 'Let that sink in' and multiple crypto tags."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Generic institutional adoption claims have short relevance cycle."
+      }
+    }
+  },
+  {
+    "tweet_id": "1557170159026143232",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Interesting biographical fact about Ethereum's founder has moderate sharing potential."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Historical fact about whitepaper authorship with established notability."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of factual information."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Permanent historical fact about Ethereum's origins."
+      }
+    }
+  },
+  {
+    "tweet_id": "1556743328774995971",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Major regulatory action against crypto privacy tool likely to spark widespread discussion."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Documents significant government intervention in crypto with concrete examples."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative framing of regulatory overreach through phrases like 'assault on crypto'."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Sets precedent for crypto regulation with long-term industry implications."
+      }
+    }
+  },
+  {
+    "tweet_id": "1556708643617312768",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Concrete example of crypto compliance will drive intense debate in financial circles."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific documentation of stablecoin issuer's regulatory compliance actions."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Implied negative perspective on centralized control through blacklisting."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Landmark event in crypto regulation with lasting compliance implications."
+      }
+    }
+  },
+  {
+    "tweet_id": "1556706440726716416",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Dramatic 'Triple Halvening' framing and high engagement metrics indicate viral potential."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Introduces novel economic concept for Ethereum's transition with educational thread."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive excitement about transformative network upgrade."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The Merge's economic impacts will be analyzed long after implementation."
+      }
+    }
+  },
+  {
+    "tweet_id": "1556637211537334272",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Standard market update typical for crypto tracking accounts."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Specific metric about Ethereum's market position at a point in time."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of financial data."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Market cap figures become outdated quickly in volatile crypto markets."
+      }
+    }
+  }
+]

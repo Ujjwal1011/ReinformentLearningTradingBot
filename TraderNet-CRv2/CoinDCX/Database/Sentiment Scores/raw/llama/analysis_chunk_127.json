@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1572262118778609664",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The philosophical nature of the tweet about Ethereum's purpose might spark engagement within specific crypto communities, but it's unlikely to go viral beyond."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet provides a subjective viewpoint on Ethereum's invention, lacking concrete, newsworthy, or educational content."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The user expresses a positive, liberating sentiment about Ethereum's purpose, conveying a sense of freedom."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is standard, generating discussion for a day or two before fading, as it doesn't address a breaking news topic or a timeless principle."
+}
+}
+},
+{
+"tweet_id": "1572241752635084800",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet's assertion about EVM chains, coming from a notable figure in the space, has potential to be shared within crypto communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides a somewhat informative statement about the future of EVM chains, though it lacks depth or newsworthy content."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Expresses a moderately positive sentiment towards the future of EVM chains, indicating optimism."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Remains relevant for days or weeks, as discussions about blockchain futures tend to have a longer shelf life."
+}
+}
+},
+{
+"tweet_id": "1572210251713351686",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Announcements about major financial institutions entering the crypto space can generate significant interest and sharing."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides newsworthy, high-impact information about Nasdaq's move into digital assets, serving institutional investors."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Conveys a very positive sentiment, indicating a significant and positive development in the crypto space."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Remains highly relevant for months, as this development can influence the broader financial and crypto markets."
+}
+}
+},
+{
+"tweet_id": "1572139360509624322",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Breaking news about the SEC's claim on Ethereum transactions, especially with a provocative question, is highly likely to be widely shared."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides significant, newsworthy information about a regulatory development affecting Ethereum, though the tone is somewhat sensational."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "Expresses a very negative sentiment towards the SEC's claim, conveying surprise and possibly alarm."
+},
+"duration_of_impact": {
+"score": 9,
+"justification": "Highly relevant for an extended period, as regulatory actions can have long-lasting impacts on the crypto space."
+}
+}
+},
+{
+"tweet_id": "1572118169665572865",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "A significant regulatory claim by the SEC, especially when tweeted by an account with a large following, is very likely to go viral."
+},
+"informative_value": {
+"score": 9,
+"justification": "Delivers high-impact, newsworthy information about the SEC's jurisdiction claim over Ethereum transactions."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "Conveys a very negative sentiment, indicating alarm or concern over the SEC's regulatory reach."
+},
+"duration_of_impact": {
+"score": 9,
+"justification": "Remains highly relevant for months, given the significant regulatory implications for Ethereum and the broader crypto market."
+}
+}
+},
+{
+"tweet_id": "1571992949524942848",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Expressing alarm over a significant regulatory development, especially with emphatic language, can lead to substantial sharing within crypto communities."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides informative content about the SEC's claim, though the tone is more personal alarm than objective news reporting."
+},
+"sentiment_polarity": {
+"score": 1,
+"justification": "Expresses an extremely negative sentiment, using words like 'YIKES!!!' to convey shock and alarm."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Remains relevant for weeks or months, as the implications of the SEC's claim unfold and are discussed."
+}
+}
+},
+{
+"tweet_id": "1571988281222463489",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Sharing a link to a news article about a significant regulatory development in crypto can generate considerable interest and sharing."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides direct access to newsworthy, high-impact information about the SEC's claim on Ethereum's jurisdiction."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet's sentiment is neutral, focusing on reporting the news without emotional tone."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Remains highly relevant for an extended period, given the significant implications of the regulatory news for Ethereum."
+}
+}
+},
+{
+"tweet_id": "1571941657184210945",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "A personal update with mixed sentiments about Ethereum and Bitcoin is less likely to be widely shared beyond the user's followers."
+},
+"informative_value": {
+"score": 5,
+"justification": "Provides some context about the Ethereum merge and its effects, but the information is not particularly newsworthy or deeply informative."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Expresses a mix of sentiments, from neutral to moderately positive, regarding the Ethereum merge and its outcomes."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is short-lived, primarily generating discussion for a day or two before losing traction."
+}
+}
+},
+{
+"tweet_id": "1571905591693524994",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "A tweet criticizing a financial prediction, especially with a significant price drop, might get shared within investing communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides somewhat informative content by comparing a past prediction with current outcomes, though it lacks depth."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "Expresses a moderately negative sentiment towards Jim Cramer's prediction, indicating disappointment or criticism."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is standard, generating discussion for a day or two before fading, as it's tied to a specific, short-lived event."
+}
+}
+},
+{
+"tweet_id": "1571724217082679297",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "A humorous, relatable scenario about a past Ethereum investment recommendation can be shared within crypto and financial communities."
+},
+"informative_value": {
+"score": 2,
+"justification": "Provides minimal informative content, focusing on humor rather than educational or newsworthy information."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Conveys a moderately positive sentiment through humor, though the context implies a negative outcome for the investment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Remains relevant for days or weeks, as humorous content can continue to be shared and enjoyed over a longer period."
+}
+}
+}
+]

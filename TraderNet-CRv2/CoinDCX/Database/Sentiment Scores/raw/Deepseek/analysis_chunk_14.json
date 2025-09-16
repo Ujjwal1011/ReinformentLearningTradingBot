@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1356647111195041792",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Price milestone announcements in crypto often generate excitement, especially with platform-specific hashtags (#Binance), but lacks a unique emotional hook for broader virality."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides a verifiable market data point about Ethereum's price, though lacks contextual analysis or broader implications."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement without explicit emotional language, though the exclamation point suggests mild enthusiasm."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Price updates become obsolete immediately as markets fluctuate, limiting relevance to hours/days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1386712216439861248",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Combines sports celebrity news with crypto adoption - interesting crossover appeal but lacks viral hooks like humor or controversy."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Specific details about contract structure (multi-year deal, crypto payment methods) provide newsworthy information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual reporting style without overt positive/negative language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for current news cycle about athlete crypto deals but unlikely to resurface after initial coverage."
+      }
+    }
+  },
+  {
+    "tweet_id": "1397946781745483776",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High engagement driver: Direct access to Ethereum's founder combined with open question format encourages community participation."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Primarily a call for content rather than providing information itself."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone through engagement invitation and excitement about the interview."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevance extends through interview preparation and post-release discussion period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1392023186775187458",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Personal crypto update with vague claims ('business décolle tranquillement') unlikely to engage beyond followers."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No concrete information about the nature of the crypto business mentioned."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive emojis (😎☄️) and phrases like 'business décolle' convey optimism."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Personal business updates typically have very short relevance windows."
+      }
+    }
+  },
+  {
+    "tweet_id": "1429823778268360709",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Broad crypto endorsement common in the community - lacks novel perspective for widespread sharing."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Opinion statement without supporting data or analysis."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong positive stance through 'bullish' declaration and 'here to stay' conclusion."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "General crypto sentiment statements typically mirror market cycles (days/weeks)."
+      }
+    }
+  },
+  {
+    "tweet_id": "1443644589902991384",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Listing major corporate Ethereum adopters creates shareable content for crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Documents real adoption trends though lacks specific implementation details."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of facts with implied positivity through 'Probably nothing' meme."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Corporate blockchain adoption is an ongoing narrative with medium-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1443621824651149312",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Combines TikTok's massive reach with NFT/crypto hype - strong viral potential in multiple communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific technical details about Layer 2 implementation (Immutable X, StarkWare) add educational value."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Enthusiastic language ('thrilled', 'WAGMI 🚀') conveys strong positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "NFT collections and platform partnerships often maintain relevance through launch phases and secondary sales."
+      }
+    }
+  },
+  {
+    "tweet_id": "1443329254377197568",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Ethereum vs Cardano debates are perennially popular but lack breakout potential beyond crypto circles."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Opinion-based comparison of development timelines without cited sources."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Analytical tone without clear positive/negative bias."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Blockchain development cycles are long-term narratives that remain relevant for months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1443249467940122624",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Nostalgic list format has high shareability across multiple tech/crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Factually accurate timeline of modern tech companies but lacks analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of chronological facts."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Evergreen content about tech evolution that can resurface in multiple contexts."
+      }
+    }
+  },
+  {
+    "tweet_id": "1443165960060522502",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Critique of regulatory figure combines crypto policy debate with technical understanding - potent mix for community sharing."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Highlights a factual discrepancy in regulatory understanding of Ethereum mechanics."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative tone through expressed confusion and implied criticism of regulatory knowledge."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant while Ethereum's regulatory status remains debated, but tied to specific statement."
+      }
+    }
+  }
+]

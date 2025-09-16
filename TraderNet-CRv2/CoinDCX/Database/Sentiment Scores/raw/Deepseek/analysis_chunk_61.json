@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1479121057797718018",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Engaging question about cryptocurrency investment with a popular hashtag, likely to spark discussion within crypto communities."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Purely speculative question without providing factual information or context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone - presents a question without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant primarily during current market speculation cycles, tied to short-term investment decisions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1478696186240503808",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Significant protocol update announcement from an authoritative source in the Ethereum community."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides concrete timeline for major blockchain network upgrade from a credible source."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual announcement without emotional language or commentary."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Will remain relevant through the transition period and serve as historical record of Ethereum's development."
+      }
+    }
+  },
+  {
+    "tweet_id": "1478480954150817797",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Critique of corporate crypto practices could resonate in tech/cybersecurity communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Explains a specific crypto-related consumer issue with technical details."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Expresses criticism and concern about corporate crypto mining practices."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevance depends on continued discussion about energy costs in crypto mining."
+      }
+    }
+  },
+  {
+    "tweet_id": "1478186679609401348",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Technical details about crypto transactions will primarily interest niche communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific operational requirements for a crypto-related process."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral instructional content without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Most relevant during the immediate activation period mentioned."
+      }
+    }
+  },
+  {
+    "tweet_id": "1477682321323175939",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Personal exchange with limited appeal beyond immediate participants."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "Sarcastic remark without substantive information."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Confrontational tone with implied criticism through sarcasm."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Relevance limited to momentary personal interaction."
+      }
+    }
+  },
+  {
+    "tweet_id": "1477587926011756545",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Provocative financial question combining luxury goods and crypto investment."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Hypothetical personal finance question without data or analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral question format despite dramatic premise."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Tied to current crypto market conditions and meme culture."
+      }
+    }
+  },
+  {
+    "tweet_id": "1477553288199516160",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Interesting anecdote about crypto adoption resistance with meme potential."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Documents a social phenomenon in crypto culture without hard data."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone while describing surprising behavior."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to ongoing discussions about crypto adoption psychology."
+      }
+    }
+  },
+  {
+    "tweet_id": "1477402772215586820",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Important technical update from Ethereum's creator to crypto developers and investors."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Details strategic design philosophy changes for a major blockchain network."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive appraisal of simplified design approaches."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Will remain relevant as reference for Ethereum's development history and philosophy."
+      }
+    }
+  },
+  {
+    "tweet_id": "1477402770231676929",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Insightful reflection on software development challenges from a prominent figure."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides historical context about Ethereum's technical evolution."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral retrospective analysis acknowledging past complexity."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Lasting reference for understanding blockchain development challenges."
+      }
+    }
+  },
+  {
+    "tweet_id": "1477324561368723456",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "High-stakes regulatory case with industry-wide implications for cryptocurrency."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Analyzes potential outcomes of landmark crypto regulation case."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of opposing regulatory scenarios."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "Case outcome could shape crypto regulation for years to come."
+      }
+    }
+  }
+]

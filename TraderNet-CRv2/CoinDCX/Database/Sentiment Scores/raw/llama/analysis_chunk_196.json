@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1732165080127766618",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet is somewhat engaging due to its use of emojis and a relatable sentiment about payday, but it's unlikely to be shared widely beyond the author's immediate followers."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides some useful information about current Bitcoin and Ethereum prices, but it's not in-depth or particularly newsworthy."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The user expresses a mix of emotions, from frustration to anticipation, but overall the tone is moderately positive due to the excitement about payday."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "The tweet's relevance is extremely short-term, tied to the fleeting moment of payday."
+}
+}
+},
+{
+"tweet_id": "1732164912657338873",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet has potential to be shared within specific cryptocurrency communities due to its informative content and relevant hashtags."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides credible information about the potential of $XFT and its comparison to $XMR, making it useful for readers interested in altcoins."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The user expresses a very positive sentiment towards $XFT, highlighting its potential and advantages."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet remains relevant for days or weeks, as discussions about altcoins and their market share can persist over time."
+}
+}
+},
+{
+"tweet_id": "1732163886088909164",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet is moderately engaging due to the auction aspect, but its virality is limited to those interested in photography or the specific artwork."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet informs readers about an ongoing auction, but the information is more promotional than educational."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The user expresses a moderately positive sentiment, encouraging engagement with the auction."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is short-term, lasting until the auction's end date (1/5/24)."
+}
+}
+},
+{
+"tweet_id": "1732163400078143921",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "The tweet is unlikely to be shared widely, as it's a brief, context-dependent response to another user."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet contains minimal information, merely expressing enthusiasm without providing context or substance."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The user expresses a very positive sentiment, though briefly, indicating strong enthusiasm."
+},
+"duration_of_impact": {
+"score": 1,
+"justification": "The tweet's relevance is extremely short-term, tied to the immediate context of the conversation."
+}
+}
+},
+{
+"tweet_id": "1732161342046634131",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet has potential to be shared within specific tech and cryptocurrency communities due to its informative, technical content."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides detailed, newsworthy information about M2's integration with Celestia and its support for Aptos and Sui Move."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet presents information factually without a strong emotional tone."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The tweet remains relevant for months, as the integration's impact on the tech and cryptocurrency landscape can be discussed over an extended period."
+}
+}
+},
+{
+"tweet_id": "1732160851283767436",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet has potential to be shared within cryptocurrency communities due to its comparative analytics between Solana and Ethereum NFT lending."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides credible, newsworthy information about the current state of NFT lending on Solana and Ethereum."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet presents information factually without a strong emotional tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is short-term, lasting while the mentioned analytics remain topical (about a week)."
+}
+}
+},
+{
+"tweet_id": "1732160615479730246",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet is very likely to be shared broadly within cryptocurrency communities due to its predictive, engaging content about $BTC, $ETH, and Ethereum L2s."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides some useful insights into the potential future performance of $BTC, $ETH, and the benefits of Ethereum L2s, though it's somewhat speculative."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The user expresses a very positive sentiment towards the future of $ETH and Ethereum L2s, encouraging investment."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet remains relevant for weeks or even months, as discussions about cryptocurrency market predictions can persist over time."
+}
+}
+},
+{
+"tweet_id": "1732158704647078067",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet has potential to be shared within tech and cryptocurrency communities due to its engaging, comparative content about ease of use."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides some useful insights into the importance of ease of use for blockchain platforms, though it's more of a general statement."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The user expresses a moderately positive sentiment, emphasizing the necessity of ease of use for success."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet remains relevant for days or weeks, as discussions about the ease of use of blockchain platforms can persist over time."
+}
+}
+},
+{
+"tweet_id": "1732158203666780330",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet is somewhat engaging due to the Fear and Greed Index, but its virality is limited to those interested in Ethereum's current market state."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides useful, up-to-date information about Ethereum's Fear and Greed Index and current price."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet presents information factually without a strong emotional tone."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is short-term, lasting while the mentioned index and price remain topical (about a day)."
+}
+}
+},
+{
+"tweet_id": "1732157909063348356",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The tweet is very likely to be shared broadly due to its engaging, comparative content featuring a well-known figure in the cryptocurrency space."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides credible, newsworthy information about Solana's co-founder comparing Solana and Ethereum, with a link to more in-depth content."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet presents information factually without a strong emotional tone, though the comparison might imply a positive stance towards Solana."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The tweet remains relevant for months, as the comparison and the insights from the Solana co-founder can be discussed over an extended period."
+}
+}
+} 
+]

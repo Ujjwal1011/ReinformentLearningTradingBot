@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1445788346677018631",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet makes a bold claim about the rarity of Ethereum, which could attract attention and encourage sharing among crypto enthusiasts."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides a prediction about Ethereum's future, which is somewhat informative but lacks detailed evidence or sources."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses optimism and excitement about Ethereum's future, indicating a positive sentiment."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet's impact is likely to last for several weeks as it pertains to a future prediction about Ethereum, which could be discussed in crypto communities."
+}
+}
+},
+{
+"tweet_id": "1445525651872632836",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet combines crypto updates with a humorous personal touch, making it shareable within crypto and meme communities."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet provides current price points but lacks depth or context, making it minimally informative."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet conveys satisfaction and positivity about the crypto prices and personal life, indicating a positive sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to the specific moment, with prices mentioned that may change quickly, limiting its long-term impact."
+}
+}
+},
+{
+"tweet_id": "1445507710326231046",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet connects OG rappers with Ethereum and NFTs, which could resonate within specific communities but may not go viral globally."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet offers an opinion on rappers' forward-thinking nature but doesn't provide factual information or sources."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses admiration and respect for OG rappers, indicating a positive sentiment."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's impact is likely to be short-term, as it's a specific observation about a trend that may not sustain long-term interest."
+}
+}
+},
+{
+"tweet_id": "1445505226576781314",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The tweet threatens a 51% attack on Ethereum Classic, which is a significant event in the crypto space and likely to be widely shared."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides a warning about a potential attack, which is critical information for those involved in Ethereum Classic."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The tweet expresses a negative sentiment due to the threat of an attack, indicating concern or alarm."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's impact is likely to last for several days as the community discusses the potential attack and its implications."
+}
+}
+},
+{
+"tweet_id": "1445463549740941320",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet shares a personal story about buying a car with Ethereum, which could resonate with crypto users but may not go viral widely."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet provides a personal anecdote about using Ethereum for a purchase but lacks detailed information or context."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses satisfaction and excitement about the purchase, indicating a positive sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to the specific purchase, which may not sustain long-term interest beyond a few days."
+}
+}
+},
+{
+"tweet_id": "1445450451499962369",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet highlights major companies building on Ethereum, which is significant and likely to be shared within tech and crypto communities."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides valuable information about companies adopting Ethereum, which is useful for those interested in blockchain technology."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses optimism and excitement about Ethereum's adoption, indicating a positive sentiment."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet's impact is likely to last for several weeks as the news about companies building on Ethereum is discussed and followed."
+}
+}
+},
+{
+"tweet_id": "1445418287156932608",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet uses a relatable metaphor comparing Ethereum to New York, which could resonate with some but may not go viral widely."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet provides a metaphorical comparison but lacks detailed information or context, making it somewhat informative."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet presents a neutral perspective, neither strongly positive nor negative, about Ethereum."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's impact is likely to be short-term, as it's a specific comparison that may not sustain long-term interest."
+}
+}
+},
+{
+"tweet_id": "1444836739051311108",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet discusses wallet numbers, which is niche but could attract attention from crypto enthusiasts interested in growth metrics."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides specific numbers about wallet adoption, which is informative for those tracking Ethereum's growth."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses optimism about Ethereum's growth, indicating a positive sentiment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's impact is likely to last for several weeks as the discussion around wallet adoption continues."
+}
+}
+},
+{
+"tweet_id": "1443976348599414790",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet introduces a significant feature (Sign-In with Ethereum) that could change the internet, making it likely to be widely shared."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides important information about a new feature with potential widespread implications."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses excitement and optimism about the feature, indicating a positive sentiment."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet's impact is likely to last for several weeks as the community discusses the implications of Sign-In with Ethereum."
+}
+}
+},
+{
+"tweet_id": "1443948426908127239",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet provides a technical analysis of the ETH/BTC cross, which could attract attention from crypto traders and analysts."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet offers a detailed technical analysis with a link to further information, making it highly informative."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses optimism about the potential price movement, indicating a positive sentiment."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is tied to the specific market analysis, which may lose impact as market conditions change."
+}
+}
+}
+]

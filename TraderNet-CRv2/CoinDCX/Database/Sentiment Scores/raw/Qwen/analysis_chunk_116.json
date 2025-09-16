@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1544064502269988865",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Promotes a significant event with a large group joining Ethereum, likely to be shared within crypto communities."
+},
+"informative_value": {
+"score": 5,
+"justification": "Provides information about an event but lacks detailed context."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive tone with excitement about the event."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days around Eid-Al-Adha."
+}
+}
+},
+{
+"tweet_id": "1544016872445820928",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Promotes an NFT giveaway, likely shared among NFT enthusiasts."
+},
+"informative_value": {
+"score": 5,
+"justification": "Explains a free project but lacks depth."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive and encouraging tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for 24 hours."
+}
+}
+},
+{
+"tweet_id": "1543900052703219712",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Fun fact, may be shared by Ethereum enthusiasts."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides historical data."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral fact."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days."
+}
+}
+},
+{
+"tweet_id": "1543684139697819648",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Boastful, may be shared in crypto circles."
+},
+"informative_value": {
+"score": 3,
+"justification": "Opinion-based without data."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive and confident tone."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short-term personal update."
+}
+}
+},
+{
+"tweet_id": "1543634759716200448",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Compares two major blockchains, likely shared among crypto users."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides data on NFT volumes."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral presentation of data."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for weeks as blockchain trends."
+}
+}
+},
+{
+"tweet_id": "1543605088916324354",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Personal reaction, limited virality."
+},
+"informative_value": {
+"score": 3,
+"justification": "Opinion without data."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "Negative reaction."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short-term relevance."
+}
+}
+},
+{
+"tweet_id": "1543591384602533888",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Meme-like content, may be shared humorously."
+},
+"informative_value": {
+"score": 4,
+"justification": "Anecdotal story."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive and humorous tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days."
+}
+}
+},
+{
+"tweet_id": "1543493578927656960",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Announces fee drop, relevant to Ethereum users."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides specific fee information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive news."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days."
+}
+}
+},
+{
+"tweet_id": "1543432135989727234",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Discusses staking losses, relevant to Ethereum investors."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides statistical data."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Negative implications."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days."
+}
+}
+},
+{
+"tweet_id": "1543269443341623296",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Lists crypto followers, relevant to crypto enthusiasts."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides current follower data."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral presentation."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days."
+}
+}
+}
+]

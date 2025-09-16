@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1457298029707505664",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Predictions about cryptocurrency prices can spark discussions among enthusiasts, though it's not a breaking news event."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific price targets, which is useful for crypto followers."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, as it's a factual prediction without strong emotion."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a few days as people discuss the predictions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1457218505678352388",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Engaging question likely to get replies, especially in crypto communities."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Asks a comparison question without providing new information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral question without strong emotion."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevant for a few hours as people answer the question."
+      }
+    }
+  },
+  {
+    "tweet_id": "1457195856394801154",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Poll-style question with clear options, likely to get many replies."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Asks about future price without providing new info."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, presenting options without bias."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevant until the poll closes or the event occurs."
+      }
+    }
+  },
+  {
+    "tweet_id": "1457168925574119425",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Personal story about fighting misinformation can resonate within Ethereum communities."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Shares a personal experience without new information."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Moderately negative due to mental health struggles."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevant until the community responds or the issue is addressed."
+      }
+    }
+  },
+  {
+    "tweet_id": "1457109136425070596",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Specific news about a CryptoPunk bid, niche interest."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides a significant financial update on a specific asset."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, factual update."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevant for a few days as the sale is discussed."
+      }
+    }
+  },
+  {
+    "tweet_id": "1457060324939423745",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Thought-provoking comparison that can generate discussions."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Explains a novel way to value blockchain tokens."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, presenting an idea without emotion."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for weeks as the idea is debated."
+      }
+    }
+  },
+  {
+    "tweet_id": "1457056521645350912",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Strong opinion that resonates with Ethereum supporters."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Expresses a bullish opinion without new info."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong positive sentiment with enthusiasm."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant for a few days as the opinion is discussed."
+      }
+    }
+  },
+  {
+    "tweet_id": "1456987697382313987",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Interesting comparison but not widely shareable."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides growth metrics for wallets."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, with a shrug emoji indicating indifference."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevant for a few days as the comparison is noted."
+      }
+    }
+  },
+  {
+    "tweet_id": "1456982061403750404",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Shows significant investment returns, likely shared among crypto investors."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides detailed financial data over a year."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive, highlighting large gains."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant for weeks as people analyze the data."
+      }
+    }
+  },
+  {
+    "tweet_id": "1456736860596736010",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Educational content about a specific technology, likely shared among NFT enthusiasts."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Explains a technical concept with a link for more info."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, informative without emotion."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant for a few weeks as the technology is discussed."
+      }
+    }
+  }
+]

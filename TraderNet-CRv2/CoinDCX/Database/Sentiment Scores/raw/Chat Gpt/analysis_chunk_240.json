@@ -1,0 +1,107 @@
+[
+{
+"tweet_id":"1559926476543246337",
+"analysis":{
+"virality_potential":{
+"score":7,
+"justification":"The tweet reports a major crypto event (Ethereum merge) from a credible source (JPMorgan) and is likely to be shared within the crypto community, but it is not a sensational meme or breaking news from a primary source."
+},
+"informative_value":{
+"score":6,
+"justification":"It provides a factual claim about the impact of the Ethereum merge on Coinbase revenue, citing a reputable financial institution."
+},
+"sentiment_polarity":{
+"score":5,
+"justification":"The tone is neutral, simply stating a fact without positive or negative emotion."
+},
+"duration_of_impact":{
+"score":6,
+"justification":"The Ethereum merge is a significant event that will remain relevant for weeks or months, keeping the tweet relevant for an extended period."
+}
+}
+},
+{
+"tweet_id":"1559824950164348931",
+"analysis":{
+"virality_potential":{
+"score":6,
+"justification":"The tweet is a short meme that could spread within the crypto community, but it lacks a strong hook or breaking news element."
+},
+"informative_value":{
+"score":2,
+"justification":"It is an opinion statement with no verifiable facts or data."
+},
+"sentiment_polarity":{
+"score":2,
+"justification":"The tweet expresses negative sentiment toward Bitcoin, Ethereum, and NFTs."
+},
+"duration_of_impact":{
+"score":4,
+"justification":"The meme may be relevant for a few days to a week before it fades."
+}
+}
+},
+{
+"tweet_id":"1559727104903757826",
+"analysis":{
+"virality_potential":{
+"score":7,
+"justification":"The tweet announces the upcoming Ethereum merge, a major event, and includes advice, making it likely to be shared within the crypto community."
+},
+"informative_value":{
+"score":6,
+"justification":"It provides factual information about the merge and offers guidance to beginners and experts."
+},
+"sentiment_polarity":{
+"score":5,
+"justification":"The tone is neutral, presenting facts and advice without strong emotion."
+},
+"duration_of_impact":{
+"score":6,
+"justification":"The information about the merge will remain relevant for weeks or months."
+}
+}
+},
+{
+"tweet_id":"1559357892645437440",
+"analysis":{
+"virality_potential":{
+"score":6,
+"justification":"The tweet discusses censorship concerns, a topic that may resonate within the crypto community but is not a sensational headline."
+},
+"informative_value":{
+"score":3,
+"justification":"It is an opinion about potential censorship, not a factual report."
+},
+"sentiment_polarity":{
+"score":3,
+"justification":"The tweet contains negative sentiment about censorship but also hopeful optimism about the community."
+},
+"duration_of_impact":{
+"score":5,
+"justification":"The topic may remain relevant for a moderate period as discussions about censorship continue."
+}
+}
+},
+{
+"tweet_id":"1559336657463422977",
+"analysis":{
+"virality_potential":{
+"score":5,
+"justification":"The tweet is a simple link to a thread, likely to be shared but not a headline or meme."
+},
+"informative_value":{
+"score":6,
+"justification":"It links to a thread that presumably explains differences between Ethereum and Ethereum 2.0, providing educational content."
+},
+"sentiment_polarity":{
+"score":5,
+"justification":"The tweet is neutral, simply sharing a link."
+},
+"duration_of_impact":{
+"score":6,
+"justification":"The thread will remain relevant for a while as people discuss Ethereum upgrades."
+}
+}
+}
+]

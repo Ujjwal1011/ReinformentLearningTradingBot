@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1732066924404818372",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet uses sensational language ('Insane', '20k traders get sandwiched') and a call to action for $UNIBOT, which may attract shares within crypto communities, but lacks broader appeal."
+},
+"informative_value": {
+"score": 3,
+"justification": "The claim about 20k traders being sandwiched is unsubstantiated and the tweet primarily promotes a product, offering little verifiable information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The language is enthusiastic and promotional, expressing strong positive excitement about using $UNIBOT."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The relevance is tied to current market hype and a specific product promotion, likely fading after the short-term buzz."
+}
+}
+},
+{
+"tweet_id": "1732064305418297652",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Highlights a 'great breakdown' of Ripple and XRP with strong statements about replacing the value transmission system, which could be shared among crypto enthusiasts but remains niche."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides a perspective on XRP's function and includes a quote, offering some insight, though depth and source detail are limited."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Uses enthusiastic language ('GREAT BREAKDOWN') and positive framing, indicating a moderately positive tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Discussions about XRP's role in value transmission can remain relevant for weeks or months, giving the tweet medium‑term impact."
+}
+}
+},
+{
+"tweet_id": "1732063025933500849",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Combines a high‑profile, controversial figure (Andrew Tate) with crypto investments, a combination likely to generate widespread sharing across both fan and critic communities."
+},
+"informative_value": {
+"score": 3,
+"justification": "The claim about Tate's investment lacks source or evidence, providing minimal verifiable information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet uses neutral emojis (📈 🤔) indicating curiosity rather than strong emotion, resulting in a neutral tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevance is tied to current news about Andrew Tate and may diminish once the story loses momentum, leading to short‑term impact."
+}
+}
+},
+{
+"tweet_id": "1732061082385002944",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Standard technical‑analysis tweet about an upcoming ETH rally; such content is common in crypto circles and unlikely to go viral beyond that audience."
+},
+"informative_value": {
+"score": 6,
+"justification": "Suggests that indicators signal a rally but provides no details in the tweet itself; the linked analysis offers moderate informational value."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Expresses optimism about a price rally, reflecting a positive sentiment."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Price rally predictions are typically relevant for a few days to weeks, giving the tweet short‑to‑medium‑term relevance."
+}
+}
+},
+{
+"tweet_id": "1732060178571247850",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "A personal reflection on dApp adoption with no hook or sensational claim, likely to attract limited attention."
+},
+"informative_value": {
+"score": 5,
+"justification": "Shares the author's changed perspective but lacks data or actionable information, offering low informational value."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Conveys disappointment about user disinterest and resistance, reflecting a moderately negative tone."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The personal opinion is tied to a specific moment and does not address evergreen topics, resulting in short‑term relevance."
+}
+}
+}
+]

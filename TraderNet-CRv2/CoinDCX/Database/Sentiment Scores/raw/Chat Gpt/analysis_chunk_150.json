@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1505954084897054730",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet is a humorous meme about a crypto influencer, likely to be shared within the crypto community but not expected to go globally viral."
+},
+"informative_value": {
+"score": 2,
+"justification": "It contains no factual information, just a joke."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet uses a laughing emoji and a lighthearted tone, indicating a positive, humorous sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The meme may remain relevant for a few days or weeks within the crypto community before fading."
+}
+}
+},
+{
+"tweet_id": "1505918543766122500",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "A professional announcement in the crypto space can be shared by industry peers and followers, but it is unlikely to become a global meme."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides a verifiable fact about a new CISO at Polygon, including details about the role and upcoming projects."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tone is enthusiastic and positive, expressing excitement about the new position."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The announcement remains relevant for months as the new CISO works at Polygon."
+}
+}
+},
+{
+"tweet_id": "1505763532125589504",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Crypto news about SHIB holders and price movements can spread quickly across the crypto community."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet cites specific data about SHIB holders and price decline, but the source is not verified."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "The tweet conveys a slightly negative tone regarding SHIB’s performance."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The information may remain relevant for a few weeks as market participants discuss the trend."
+}
+}
+},
+{
+"tweet_id": "1505738189214035969",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "A personal anecdote with humor can be shared within a small circle but is unlikely to go viral."
+},
+"informative_value": {
+"score": 1,
+"justification": "The tweet is a personal story with no factual or news content."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tone is lighthearted and positive, reflecting a humorous perspective."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The anecdote is likely to fade quickly after the initial retweets."
+}
+}
+},
+{
+"tweet_id": "1505635016805601283",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The call to pay devs may resonate within the dev community and be shared, but it is not a breaking news event."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet makes a claim about dev salaries but lacks verifiable evidence."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The tone is critical and somewhat negative toward current compensation practices."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The discussion about dev compensation may persist for weeks as the community debates the issue."
+}
+}
+}
+]

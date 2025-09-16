@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1526190756926746624",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet uses humor and comparisons that resonate with crypto communities, likely to be shared among enthusiasts."
+},
+"informative_value": {
+"score": 5,
+"justification": "Provides current prices but is more of a personal opinion than a detailed report."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Negative towards some coins, positive towards Bitcoin, overall mixed sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a short period as it's about current prices."
+}
+}
+},
+{
+"tweet_id": "1526185955102801920",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Announcement from Cloudflare may attract attention within tech and crypto communities."
+},
+"informative_value": {
+"score": 7,
+"justification": "Credible source discussing important tech developments."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment about future developments."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Impact lasts as it's about ongoing experiments."
+}
+}
+},
+{
+"tweet_id": "1526100347722289152",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Timely and relevant to current events, likely shared widely."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides important information for investors."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment about potential relief."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Impact lasts as it's about a specific event."
+}
+}
+},
+{
+"tweet_id": "1525715282299342848",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Informative but not highly shareable beyond crypto circles."
+},
+"informative_value": {
+"score": 6,
+"justification": "Compares prices over time, useful for analysis."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, presenting facts without strong emotion."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Short-term relevance as it's a回顾."
+}
+}
+},
+{
+"tweet_id": "1525537213181722624",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Structured thread may generate discussion."
+},
+"informative_value": {
+"score": 7,
+"justification": "Educational content about Ethereum."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment encouraging ownership."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Medium impact as it's a topic of ongoing interest."
+}
+}
+},
+{
+"tweet_id": "1525135031894544384",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Important update for Ethereum users, likely shared."
+},
+"informative_value": {
+"score": 8,
+"justification": "Technical announcement from a credible source."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive about upcoming changes."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Long-term impact as it's a significant event."
+}
+}
+},
+{
+"tweet_id": "1525116183988543488",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "Personal anecdote, unlikely to go viral."
+},
+"informative_value": {
+"score": 4,
+"justification": "Minimal information, personal story."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "Negative sentiment about investment choices."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "Very short-term relevance."
+}
+}
+},
+{
+"tweet_id": "1525102761624449026",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Speculative but could generate discussion."
+},
+"informative_value": {
+"score": 6,
+"justification": "Compares to historical events."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive about potential recovery."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Medium impact as it's about a potential future event."
+}
+}
+},
+{
+"tweet_id": "1524971932252520454",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Informative but not highly shareable."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides context on stablecoin crashes."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, presenting facts."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Short-term relevance."
+}
+}
+},
+{
+"tweet_id": "1524968300853071873",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Factual update, may be shared among crypto users."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides current price support levels."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, presenting data."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Short-term relevance."
+}
+}
+}
+]

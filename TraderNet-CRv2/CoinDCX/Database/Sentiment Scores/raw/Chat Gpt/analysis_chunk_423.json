@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1732020881579282556",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Promotional content with a call to action and link, likely to be shared within the Ethereum developer community but not expected to go viral globally."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides details about a developer pack and includes a link for more information, offering moderate educational value."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive tone encouraging developers to join, expressing enthusiasm."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The developer pack remains relevant for some time, but the tweet itself will likely fade after a few days."
+}
+}
+},
+{
+"tweet_id": "1732019183775359153",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "News about a major investment firm entering crypto is likely to attract attention and be shared widely across finance and crypto communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "Conveys a factual update about Franklin Templeton's investment, offering high informational content."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral factual statement without strong emotional language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The investment news remains relevant for weeks as the market reacts, but the tweet's immediate impact will diminish after the initial buzz."
+}
+}
+},
+{
+"tweet_id": "1732010903942598972",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "A chart-based analysis may interest crypto enthusiasts, but the lack of a link and limited context reduces its shareability."
+},
+"informative_value": {
+"score": 7,
+"justification": "Explains a Satoshi chart comparing Ethereum and Bitcoin, providing useful insight into dominance metrics."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral explanatory tone with no overt emotional language."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The chart's relevance persists for a moderate period, but the tweet will likely fade after a few days."
+}
+}
+},
+{
+"tweet_id": "1732009566039138792",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Speculative question about Satoshi's status may spark discussion, but its niche nature limits widespread sharing."
+},
+"informative_value": {
+"score": 3,
+"justification": "Speculation rather than factual information, offering low informational value."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral tone, posing a question without emotional bias."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Speculation will likely lose relevance quickly as the conversation moves on."
+}
+}
+},
+{
+"tweet_id": "1732008606277484825",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Announcement of a new roll‑up on Tezos is newsworthy for the Ethereum and Tezos communities, likely to be shared by developers."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides concrete details about Etherlink's launch date and benefits, high informational content."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive tone highlighting benefits and excitement for developers."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet remains relevant until the launch in March 2024, after which its impact will decline."
+}
+}
+}
+]

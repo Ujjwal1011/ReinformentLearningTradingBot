@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1732813539394338839",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Hype-driven crypto content with a clear call-to-action and hashtag usage, likely to resonate within crypto communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Lacks concrete information - makes speculative claims without supporting data or context."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong positive sentiment expressed through urgency and capitalization ('NOW', 'LARGE CAPS')."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Time-sensitive crypto market commentary that loses relevance as market conditions change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732796637368533435",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Emphatic statement with hashtag could drive engagement, but lacks unique value proposition for broader sharing."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Pure speculation without any supporting evidence or actionable information."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Extremely positive declaration reinforced by capitalization and exclamation marks."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term relevance tied to immediate market movements."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732788304989606153",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Specific price prediction format tends to generate discussion in crypto communities."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Contains a clear prediction but lacks supporting analysis or context."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Optimistic forecast expressed through definitive statement."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Prediction remains relevant until target date (2024), but limited to crypto market watchers."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732779207095116065",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news format about market movements with comparative data points attracts attention."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific market cap comparison between two crypto assets with supporting link."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of market data without explicit emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to volatile meme coin market caps that change frequently."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732774027264159972",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Technical roadmap details valuable to Ethereum community but too niche for broader appeal."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Detailed list of upcoming Ethereum developments with specific technical references."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive outlook expressed through 'excited' declaration and 'good time' conclusion."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Covers multi-stage developments with relevance through 2024 implementation timelines."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732749297991537035",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Cryptic hype message benefits from active crypto community engagement patterns."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No substantive information beyond hashtag and vague assertion."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Implied positive sentiment through assertive declaration about Ethereum's prospects."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Immediate impact that fades without specific event tie-in."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732745160524533805",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Niche CryptoPunks market update primarily relevant to NFT collectors."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Specific bid details with monetary conversions provide concrete market data."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of marketplace activity without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance lasts until bid is accepted or expired in fast-moving NFT market."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732731781609111957",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Combination of meme culture, NFT promotion, and multi-chain appeal drives sharing potential."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Details about NFT minting process and blockchain options provide actionable information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive promotional tone encouraging user participation."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Standard NFT campaign lifespan unless the collection gains significant traction."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732713245742448862",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Technical DeFi service promotion with limited appeal beyond specific blockchain users."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Explains bridge/swap functionality but lacks technical details or unique selling points."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone focused on product features rather than emotional appeal."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Standard duration for infrastructure service announcements in crypto space."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732712864052285588",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Giveaway mechanics (retweet requirements) and NFT prize create strong sharing incentives."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Primarily promotional content without educational or news value."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive excitement generated through giveaway opportunity and emoji usage."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Immediately time-bound with expiration date (Dec 11th) for entries."
+      }
+    }
+  }
+]

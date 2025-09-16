@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1565236518637031425",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "OpenSea is a major NFT marketplace, and the Ethereum merge is a significant event. The tweet announces support for the merge, which is likely to be shared widely within the crypto community, making it highly shareable."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "The tweet provides a factual update that OpenSea will support the Ethereum merge, which is newsworthy and informative for users of the platform."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is a neutral statement with no emotional language."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The merge is a one-time event, so the tweet remains relevant for a few months but will eventually fade."
+      }
+    }
+  },
+  {
+    "tweet_id": "1585935412694028291",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Vitalik Buterin is a high-profile figure; his claim about moving Twitter HQ to Switzerland is controversial and likely to be widely shared."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "The tweet is a personal statement from Vitalik, not a verified fact or official announcement, so its informational value is moderate."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is a neutral suggestion, lacking strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The claim is a one-time statement and will likely be relevant for a short period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1585629954901176322",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Google's announcement of a blockchain node engine for Ethereum developers is a significant tech update that will attract attention within the developer community."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "The tweet provides factual information about a new service from Google, which is newsworthy."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, simply stating the announcement."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The announcement will remain relevant for developers for some time but will eventually fade."
+      }
+    }
+  },
+  {
+    "tweet_id": "1585629145354342401",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet announces a new Google service with 'JUST IN' and includes a hashtag, making it likely to be widely shared."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It provides a factual update about a new node-hosting service with Ethereum support, which is highly informative."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, simply announcing the service."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The service will be relevant for developers for weeks or months, giving it a moderate duration of impact."
+      }
+    }
+  },
+  {
+    "tweet_id": "1585282991957282816",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "The tweet claims Ethereum is being used to cure cancer, a sensational statement that is likely to be widely shared for its shock value."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "The tweet makes a sensational claim without providing evidence or sources, so its informational value is low."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet expresses excitement and positivity about the potential of Ethereum in medicine."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The thread may remain relevant for a while as people discuss the claim, giving it a moderate duration of impact."
+      }
+    }
+  }
+]

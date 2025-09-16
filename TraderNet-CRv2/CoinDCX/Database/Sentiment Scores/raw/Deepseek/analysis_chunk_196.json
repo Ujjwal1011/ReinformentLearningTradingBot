@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1732165080127766618",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Crypto price updates and warnings about altcoins could resonate within the Web3 community, but lack universal appeal for global virality."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides current Bitcoin/Ethereum prices and market advice, though lacks verifiable sources for claims."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Excited tone about salary days mixed with cautious advice creates a moderately positive emotional blend."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Price data becomes outdated quickly, and market warnings are only relevant until next market shift."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732164912657338873",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Niche discussion about privacy coins might attract crypto enthusiasts but lacks broad appeal factors."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Compares multiple privacy-focused cryptocurrencies with specific technical claims about XFT's architecture."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Clear advocacy for $XFT with positive language like 'I like' and 'can address this need'."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Privacy coin discussions remain relevant, but specific project comparisons may become outdated with market changes."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732163886088909164",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "NFT auctions have limited viral potential beyond art/collector communities without celebrity involvement."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Clearly describes auction terms and incentives but lacks context about the artwork's significance."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral promotional tone without strong emotional language beyond sales enthusiasm."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance ends with the auction closure date on 1/5/24, with no lasting cultural value."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732163400078143921",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Vague reply tweet lacking original content or engagement drivers beyond the mentioned account's followers."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Contains no substantive information beyond an unsupported claim about momentum."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong positive emphasis through double exclamation points and 'no signs of slowing down' phrasing."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Immediately loses relevance as it's tied to an unspecified current moment."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732161342046634131",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Technical blockchain details appeal to developers but lack mass appeal elements for broader sharing."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific technical integration details about Ethereum L2 solutions with project links."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, factual presentation of technical capabilities without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Blockchain infrastructure developments remain relevant for months in tech circles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732160851283767436",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Market comparison between major chains could spark debates within crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific 7-day volume metrics with attribution to an analytics account."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of data without explicit commentary or emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Volume statistics become outdated weekly, though the Solana vs Ethereum narrative persists."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732160615479730246",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Price predictions and low-cap coin mentions often generate discussion in crypto circles."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Makes specific market predictions but lacks supporting evidence or data sources."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong optimistic language with 'will make ATH' predictions and emoji emphasis."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant until the next Bitcoin halving event, projected for April 2024."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732158704647078067",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Blockchain usability discussion has moderate appeal in developer communities."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Presents an opinion about desired chain features without concrete examples or data."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral suggestion framed as imperative statements without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Ongoing relevance to blockchain scalability discussions, though not groundbreaking."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732158203666780330",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Common market sentiment metric with routine interest from crypto traders."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides current Fear & Greed Index reading and Ethereum price with source link."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of metrics without emotional commentary."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Index updates daily, making this specific reading quickly obsolete."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732157909063348356",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High-profile founder comparison between major blockchains likely to generate significant engagement."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides direct insight from Solana's co-founder about technical philosophy with podcast link."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong positive framing of Solana as superior through the Windows 2000 analogy."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Blockchain comparisons remain reference points in tech discussions for months."
+      }
+    }
+  }
+]

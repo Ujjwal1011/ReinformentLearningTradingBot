@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1570357343170199553",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet mentions a major financial institution (JP Morgan) and a historic event (Ethereum Merge), generating interest in both crypto and finance circles; moderate engagement (2890 likes, 413 retweets) indicates medium‑high shareability."
+},
+"informative_value": {
+"score": 3,
+"justification": "The content is purely a congratulatory statement and does not provide new factual information or context about the merge."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The language is clearly positive, expressing congratulations and approval."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet is tied to the immediate reaction to the merge and is unlikely to be referenced much after the event passes."
+}
+}
+},
+{
+"tweet_id": "1570356356527394816",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "A provocative critique from a well‑known influencer (Hasu) about the Bitcoin community is likely to be widely shared and debated within crypto circles; engagement (1959 likes, 195 retweets) supports high shareability."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet expresses personal opinion about the intellectual state of the Bitcoin community without presenting verifiable data."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "Strongly negative language such as \"in shambles\" conveys a very negative sentiment toward the Bitcoin community."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The critique may continue to be cited in ongoing discussions about Bitcoin vs. Ethereum for weeks or months, giving it medium‑long relevance."
+}
+}
+},
+{
+"tweet_id": "1570338727347785728",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Authored by PlanB, a high‑profile figure, and containing a bold, controversial statement about Bitcoin, the tweet attracted strong engagement (3145 likes, 291 retweets) and is likely to be widely shared."
+},
+"informative_value": {
+"score": 6,
+"justification": "It correctly states the factual event of Ethereum moving from PoW to PoS, but the speculation about Bitcoin is opinion‑based."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The tweet uses derogatory language (\"some idiot\", \"🤡\") toward Bitcoin, reflecting a very negative sentiment."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Discussion of Ethereum's transition and its implications for Bitcoin may remain relevant for months as the PoS debate continues."
+}
+}
+},
+{
+"tweet_id": "1570334032587620354",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Brad Garlinghouse, a prominent CEO, publicly praises the merge; the tweet's high engagement (5198 likes, 592 retweets) suggests strong shareability across crypto and business audiences."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet offers no new factual information, only a congratulatory message."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The language is highly positive, calling the merge an \"incredible technological feat\"."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "While tied to the event, the endorsement from a notable figure may be referenced in future discussions about the merge's significance."
+}
+}
+},
+{
+"tweet_id": "1570321739023777792",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet combines celebratory emojis, a link to historic POAPs, and moderate engagement (2354 likes, 441 retweets), making it likely to be shared within NFT and crypto enthusiast communities."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides a direct link to historic POAPs/mints, offering concrete information about commemorative tokens related to the merge."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tone is upbeat and congratulatory, expressing strong positive sentiment."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Historic POAPs are collectible artifacts that may be referenced for years, giving the tweet long‑term relevance."
+}
+}
+}
+]

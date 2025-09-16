@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1510731366782017541",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet predicts a dramatic price rise for Ethereum, a topic that resonates strongly within the crypto community and can spark shares among enthusiasts, though it lacks broader appeal beyond that niche."
+},
+"informative_value": {
+"score": 2,
+"justification": "It offers a speculative price target without supporting data or factual information, providing minimal informational content."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The language is optimistic and enthusiastic about Ethereum reaching $10,000, reflecting a strong positive emotional tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Price predictions tend to be relevant only until market conditions change, typically lasting a few hours to a couple of days."
+}
+}
+},
+{
+"tweet_id": "1510442459125321730",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The comparative claim about Ethereum and Bitcoin is provocative and can generate discussion within crypto circles, but it is unlikely to spread widely beyond that audience."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet makes a broad claim about the number of competitors without evidence or context, offering limited factual information."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "The statement subtly criticizes Ethereum while praising Bitcoin, conveying a mildly negative tone toward Ethereum."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Debates about the competitive landscape of cryptocurrencies persist for weeks or months, giving the tweet a medium‑term relevance."
+}
+}
+},
+{
+"tweet_id": "1510388233842016256",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Mentioning major comic brands on an Ethereum layer‑2 is a niche crossover that may attract some interest but lacks a strong hook for widespread sharing."
+},
+"informative_value": {
+"score": 3,
+"justification": "The claim that Marvel and DC are on L2 Ethereum is presented without verification or detail, providing minimal useful information."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "The addition of \"Probably nothing\" suggests a skeptical, slightly negative attitude toward the claim."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "If the claim is true it may be relevant for a short period while the news circulates, but it is unlikely to retain attention long term."
+}
+}
+},
+{
+"tweet_id": "1510320540145364996",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Whale activity and cross‑token purchases are hot topics in crypto; the tweet's \"JUST IN\" framing can drive rapid sharing among enthusiasts."
+},
+"informative_value": {
+"score": 6,
+"justification": "It reports a specific transaction amount and value, offering concrete information, though it lacks a source to confirm authenticity."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tone is excited and positive about the large purchase, reflecting a moderately positive emotional stance."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Whale moves can influence market sentiment for several days to weeks, giving the tweet a medium‑term relevance."
+}
+}
+},
+{
+"tweet_id": "1510309122461163525",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "A personal declaration of switching from Ethereum to Bitcoin taps into ongoing PoW vs PoS debates, likely to be shared within crypto communities."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet shares a personal decision without broader factual content, offering limited informational value."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The language is strongly positive about Bitcoin and proof‑of‑work, expressing clear enthusiasm."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The underlying argument about proof‑of‑work versus proof‑of‑stake remains relevant for an extended period, sustaining interest beyond the immediate post."
+}
+}
+}
+]

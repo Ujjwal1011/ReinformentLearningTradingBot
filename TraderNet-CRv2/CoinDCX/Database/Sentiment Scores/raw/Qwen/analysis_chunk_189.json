@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1732188108542623982",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "The tweet explains the roles of Ethereum, Chainlink, and The Graph but lacks a strong hook or emotional appeal, limiting its virality."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Provides a basic explanation of blockchain components but lacks depth or sources."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone with a slight emoji suggesting mild positivity."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a short period as it's a general explanation without breaking news."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732188075311169742",
+    "analysis": {
+      "virality_potential": {
+        "score": 2,
+        "justification": "Mentions Ethereum but lacks context or engagement drivers."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Minimal information, only tagging another user and a keyword."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, no strong emotion expressed."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Irrelevant quickly as it's a simple mention."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732187998765126121",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Encourages action and uses hashtags, which can attract attention within crypto communities."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Advocates for spending on Ethereum but lacks detailed information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive encouragement to spend and reinvest."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant until tax season ends, then loses impact."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732187917551075768",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Introduces a new project but in Vietnamese, limiting its reach beyond that community."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Explains Botanix Testnet and its significance in the crypto space."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive introduction with emojis expressing excitement."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant as long as Botanix Testnet is a topic of interest."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732187818880077940",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Discusses Bitcoin and Ethereum but in Turkish, limiting its reach."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Shares an opinion on potential price movements."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive outlook on Bitcoin overshadowing Ethereum losses."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant until the price movement or halving event occurs."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732187739288953339",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "References Vitalik Buterin and suggests testing, which may engage niche communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Links to a relevant post and discusses current issues in Ethereum."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, presenting an idea for improvement."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant as long as Ethereum's application issues are a topic."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732187707550679214",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Shares important news about Grayscale's ETF delay, likely to be shared among crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides detailed information on SEC's decision with relevant context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of the news."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Remains relevant until the new deadline in January 2024."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732187665834123481",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Promotes a wallet with multiple crypto hashtags, attracting attention in crypto circles."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Brief mention of a secure wallet without detailed information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive promotion of the wallet."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant until the product's features become outdated."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732187450293055568",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Discusses Ethereum settlement in a niche context, may engage specific communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Presents an idea for improving Ethereum's efficiency."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral suggestion with a humorous emoji."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant as long as Ethereum's settlement remains a topic."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732187354809454990",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Personal opinion in German about crypto gains and losses, limited reach."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Shares a personal financial strategy involving Bitcoin and Ethereum."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive about Bitcoin gains despite Ethereum losses."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevant only during the discussed financial period."
+      }
+    }
+  }
+]

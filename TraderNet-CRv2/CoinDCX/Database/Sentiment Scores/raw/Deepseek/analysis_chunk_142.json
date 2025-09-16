@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1590229401312333827",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Explanatory thread about a crypto exchange conflict during market turmoil has strong sharing potential within crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides analysis of current crypto market events and future implications for investors."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral explanatory tone without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant until the FTX/Binance situation resolves, with potential mid-term market implications."
+      }
+    }
+  },
+  {
+    "tweet_id": "1589978671498264583",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news about major crypto exchange halting withdrawals has high sharing urgency."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific, verifiable information about critical platform functionality changes."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Implies negative situation through factual reporting of service disruption."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Immediate crisis information with relevance lasting until withdrawals resume."
+      }
+    }
+  },
+  {
+    "tweet_id": "1589773604291772416",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Endorsement from influential figure could drive limited sharing within Ethereum community."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "General praise without specific technical or factual information."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Clear positive sentiment with words like 'Amazing' and 'Great work'."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Standard congratulatory message with typical engagement lifespan."
+      }
+    }
+  },
+  {
+    "tweet_id": "1589739389545914368",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Technical announcement about Ethereum infrastructure innovation has developer appeal."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Detailed information about new software release with technical specifications."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone highlighting product benefits ('fast, portable, secure')."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Ongoing relevance for developers working with Ethereum clients."
+      }
+    }
+  },
+  {
+    "tweet_id": "1589646941465763840",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Legal analysis affecting entire crypto sector has high sharing potential."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Primary source legal document analysis with industry-wide implications."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative framing ('extraordinarily dangerous precedent')."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Long-term regulatory implications for cryptocurrency classification."
+      }
+    }
+  },
+  {
+    "tweet_id": "1589436227006394368",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Market-moving allegation about major crypto firm could spread quickly."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Speculative claim requiring verification but relevant to traders."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Implied criticism through exposure of risky position."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to current market prices and liquidation events."
+      }
+    }
+  },
+  {
+    "tweet_id": "1589230417626157056",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Humorous personal anecdote with limited broad appeal."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No factual content beyond personal financial situation joke."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative framing of personal financial state ('I'm broke')."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Ephemeral joke tied to current pop culture reference."
+      }
+    }
+  },
+  {
+    "tweet_id": "1588544890161577986",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Educational resource compilation likely shared in developer communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Curated list of programming learning resources with direct links."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of educational materials."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Evergreen educational content with long-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1588272911177039873",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Controversial opinion about Bitcoin/Ethereum rivalry sparks engagement."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Personal opinion without supporting data or analysis."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative characterization of Bitcoin supporters ('creepy Twitter screamers')."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Ongoing debate in crypto communities but not timeless."
+      }
+    }
+  },
+  {
+    "tweet_id": "1587806145250484226",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major traditional financial institution adopting crypto is newsworthy."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Factual announcement of institutional crypto service launch."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of business development."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Significant milestone with medium-term industry implications."
+      }
+    }
+  }
+]

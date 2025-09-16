@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1507943287671255041",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Targets a niche crypto community with potential interest in Matic's new products."
+},
+"informative_value": {
+"score": 4,
+"justification": "Asks a speculative question without detailed information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral question without strong emotion."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant until product release, then loses interest."
+}
+}
+},
+{
+"tweet_id": "1507880581278752769",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Engages the crypto community with a poll."
+},
+"informative_value": {
+"score": 4,
+"justification": "Pose a question without providing info."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral question."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Poll relevance diminishes quickly."
+}
+}
+},
+{
+"tweet_id": "1507678660928557059",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Partnership news in blockchain gaming."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides link to detailed info."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive about partnership."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Partnerships have medium-term relevance."
+}
+}
+},
+{
+"tweet_id": "1507588464950198272",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Invites another community, Solana."
+},
+"informative_value": {
+"score": 6,
+"justification": "Includes links to ecosystem info."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive invitation."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Ecosystems evolve over time."
+}
+}
+},
+{
+"tweet_id": "1507503596975362049",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Price prediction for Ethereum."
+},
+"informative_value": {
+"score": 4,
+"justification": "Speculative without data."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive prediction."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Price changes quickly."
+}
+}
+},
+{
+"tweet_id": "1507367673117687810",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Breaking news from a major bank."
+},
+"informative_value": {
+"score": 8,
+"justification": "Announcement from a reputable source."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive for crypto adoption."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Significant but may be overtaken by news."
+}
+}
+},
+{
+"tweet_id": "1507276933217894422",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Breaking news about a major bank."
+},
+"informative_value": {
+"score": 8,
+"justification": "Important announcement."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive for crypto."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Significant but may fade."
+}
+}
+},
+{
+"tweet_id": "1507180543531794435",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Large USDT transfer to Binance."
+},
+"informative_value": {
+"score": 8,
+"justification": "Significant financial event."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral alert."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "One-time event."
+}
+}
+},
+{
+"tweet_id": "1506779959242764288",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Major Ethereum event explained."
+},
+"informative_value": {
+"score": 9,
+"justification": "Educational thread."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Positive about the merge."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Long-term relevance."
+}
+}
+},
+{
+"tweet_id": "1506765063834767369",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Interesting fact about Ethereum."
+},
+"informative_value": {
+"score": 6,
+"justification": "Fun fact without data."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive comparison."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Fact may not stay relevant."
+}
+}
+}
+]

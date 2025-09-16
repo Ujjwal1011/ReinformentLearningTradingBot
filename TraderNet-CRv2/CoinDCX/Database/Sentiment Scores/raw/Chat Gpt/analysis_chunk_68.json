@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1462277275701833730",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet makes a provocative claim about Ethereum overtaking Bitcoin, a hot topic in the crypto community, likely to spark retweets among enthusiasts but not mainstream audiences."
+},
+"informative_value": {
+"score": 1,
+"justification": "The statement is purely speculative with no data or source, offering no factual information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, presenting a claim without strong emotional language."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The claim is tied to a short-term market debate and will likely lose relevance after the immediate discussion."
+}
+}
+},
+{
+"tweet_id": "1462262941085061132",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "A respectful request for each crypto camp to prove dominance may generate discussion within Ethereum and Avalanche communities, but its appeal is limited to niche audiences."
+},
+"informative_value": {
+"score": 1,
+"justification": "The tweet contains no factual content, only a call to action."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The language is courteous and neutral, lacking strong positive or negative emotion."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Its relevance is tied to current price competition, making it short-lived."
+}
+}
+},
+{
+"tweet_id": "1462222041868689408",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Claiming insider news that Ethereum gas fees will be fixed tomorrow is a potentially breaking story for crypto users, likely to be widely shared within the community."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet offers an unverified claim without source or evidence, providing limited factual value."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The author expresses optimism and a triumphant tone, indicating moderately positive sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The relevance is tied to the immediate timeframe of the alleged fix, making it short-term."
+}
+}
+},
+{
+"tweet_id": "1462215180067082241",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "A bold price prediction that Ethereum will reach $20,000 can attract attention and shares among bullish crypto followers."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet is a speculative prediction without supporting data, offering little factual information."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The message conveys excitement and optimism, reflecting very positive sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Price predictions are typically discussed briefly until market movements occur, giving it short relevance."
+}
+}
+},
+{
+"tweet_id": "1462212764202504196",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The rant about $10,000 transaction costs taps into common frustrations in the crypto community, likely to be shared among those concerned about fees."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet mentions a specific high fee figure but provides no source or context, offering limited informational value."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The language is frustrated and critical, indicating very negative sentiment."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "While fee concerns persist, the specific claim is tied to a particular moment, making its impact short to medium."
+}
+}
+}
+]

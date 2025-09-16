@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1593652370268823552",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet announces a new campaign with multiple blockchain mentions and a link to a thread, likely to be shared among NFT and crypto communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides details about a new campaign and platforms involved, though lacks in-depth explanation."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Excited tone with emojis and multiple mentions, indicating strong positive sentiment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Impact lasts a few weeks as campaigns typically have a defined period."
+}
+}
+},
+{
+"tweet_id": "1593624356952965124",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Announces a significant chain swap, relevant to Tether holders, likely shared among crypto users."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides important update with a link to more information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral factual announcement."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a day or two as it's a one-time event."
+}
+}
+},
+{
+"tweet_id": "1593614611441336320",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Criticism of Ethereum and exchanges, likely shared in crypto communities."
+},
+"informative_value": {
+"score": 4,
+"justification": "Personal opinion without detailed information."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "Negative sentiment with criticism."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days as it's a current issue."
+}
+}
+},
+{
+"tweet_id": "1593547169742602240",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Fun fact about Ethereum's market cap, likely shared among crypto enthusiasts."
+},
+"informative_value": {
+"score": 5,
+"justification": "Interesting fact without context."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment with excitement."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a day as it's a single fact."
+}
+}
+},
+{
+"tweet_id": "1593413144201904129",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Significant news about a large holder, likely shared."
+},
+"informative_value": {
+"score": 8,
+"justification": "Newsworthy information with a link."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral factual news."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Remains relevant for weeks as it's a significant event."
+}
+}
+},
+{
+"tweet_id": "1593294567503265794",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Discusses blockchain's benefits, relevant to crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides insights into blockchain's accountability."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment highlighting blockchain's advantages."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Remains relevant for weeks as it's a discussion on blockchain's future."
+}
+}
+},
+{
+"tweet_id": "1592914258136010752",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Announces a project from Ethereum's co-founder, likely widely shared."
+},
+"informative_value": {
+"score": 6,
+"justification": "Exciting announcement with a call to action."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive and enthusiastic tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Impact lasts a few weeks as it's about an upcoming project."
+}
+}
+},
+{
+"tweet_id": "1592713804215103488",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Raises a concern about Ethereum's timeline, likely shared among investors."
+},
+"informative_value": {
+"score": 4,
+"justification": "Hypothetical question without detailed information."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Negative sentiment with skepticism."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days as it's a specific concern."
+}
+}
+},
+{
+"tweet_id": "1592704134163357696",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Asks about Ethereum's response to FTX issues, relevant to crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "Raises a serious question with potential implications."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral and inquisitive tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Remains relevant for weeks as it's a current issue with long-term effects."
+}
+}
+},
+{
+"tweet_id": "1592580135978344448",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Breaking news about Ethereum halting withdrawals, likely widely shared."
+},
+"informative_value": {
+"score": 9,
+"justification": "Critical update with a link to more information."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "Negative sentiment with urgency."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days as it's a breaking event."
+}
+}
+}
+]

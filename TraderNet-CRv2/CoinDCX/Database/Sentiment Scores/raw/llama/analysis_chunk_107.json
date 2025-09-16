@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1534599553273450500",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet announces a new all-time high for Ethereum addresses, which could generate interest within the crypto community, potentially leading to shares and discussions."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides specific, verifiable information about Ethereum's address count, making it a valuable update for those interested in crypto markets."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tone is moderately positive, implying a sense of achievement or milestone for Ethereum, but it's primarily informative rather than emotionally charged."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The relevance of this tweet is somewhat short-term, as the 'new all-time high' status will eventually change, reducing its impact over time."
+}
+}
+},
+{
+"tweet_id": "1534578339381358592",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The 'BREAKING' tag, coupled with the significant event of Ethereum's Merge on Ropsten testnet, has high potential for shares and discussions across the crypto and tech spaces."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet informs about a critical development in Ethereum's transition, providing timely and relevant information to the crypto community."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tone is very positive, with a sense of anticipation and excitement, indicated by 'The Merge is coming. Don't sleep.'"
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "This tweet remains relevant for days or weeks, as the implications of the Merge on the Ropsten testnet will be discussed and analyzed extensively."
+}
+}
+},
+{
+"tweet_id": "1534572614768898049",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Similar to the previous Merge announcement, this has high potential for shares within the crypto and tech communities due to its significance."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides direct, newsworthy information about the completion of Ethereum's Ropsten testnet merge to proof-of-stake."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tone is moderately positive, focusing on the achievement of the merge, but is primarily a factual announcement."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for a shorter period, as the 'breaking' aspect diminishes once the news spreads, but still significant in the context of Ethereum's development."
+}
+}
+},
+{
+"tweet_id": "1534572583378636800",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Announcing the successful transition of Ethereum's testnet to PoS is significant, attracting shares and discussions within the crypto space."
+},
+"informative_value": {
+"score": 9,
+"justification": "Directly informs about a major milestone in Ethereum's development, providing valuable information to followers."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Moderately positive, as it marks a success in Ethereum's transition process, but the tone is more informative than celebratory."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Similar to the previous, its relevance peaks immediately after the announcement and diminishes as the news spreads."
+}
+}
+},
+{
+"tweet_id": "1534568260150013953",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "While the Merge is a significant event, this tweet's phrasing and content are less likely to go viral compared to 'BREAKING' tagged announcements."
+},
+"informative_value": {
+"score": 7,
+"justification": "Informs about the Ropsten testnet merge and hints at future steps, but is less direct than other announcements."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Very positive, with a sense of excitement and anticipation for the future of Ethereum, indicated by 'The Merge is coming 🐼'."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for a shorter period, primarily around the time of the merge and immediate aftermath."
+}
+}
+},
+{
+"tweet_id": "1534512045571289089",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "While informative, the tweet's potential for virality is neutral, as it's more of a preview to an event rather than a breaking announcement."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides context and anticipation for the Ropsten network's Merge, educating readers on its significance."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Moderately positive, indicating a significant event for Ethereum, but the tone is more anticipatory than celebratory."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Its relevance peaks just before and during the Merge event, then diminishes."
+}
+}
+},
+{
+"tweet_id": "1534505052458602496",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Less likely to go viral, as it's a scheduled event announcement rather than a breaking news item."
+},
+"informative_value": {
+"score": 7,
+"justification": "Informs about the expected start time of Ethereum's testnet transition to PoS, but is more of a reminder than a detailed update."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, as it simply states a fact without expressing emotion."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Very short-term relevance, primarily useful just before the announced time."
+}
+}
+},
+{
+"tweet_id": "1534504843750084608",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "Unlikely to go viral, as it's a personal update expressing anticipation rather than sharing significant news."
+},
+"informative_value": {
+"score": 3,
+"justification": "Provides minimal information, mainly expressing the user's personal anticipation for the Ropsten merge."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Moderately positive, showing excitement for the upcoming event."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "Very short-term, relevant only in the immediate context of the merge."
+}
+}
+},
+{
+"tweet_id": "1534201575228710912",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Announcing PayPal's support for transferring major cryptocurrencies has high potential for shares across finance and crypto spaces."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides significant, newsworthy information about PayPal's crypto support, impacting both crypto and traditional finance followers."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Very positive, as it marks a major adoption milestone for cryptocurrencies."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Remains relevant for an extended period, as this development has long-term implications for crypto adoption."
+}
+}
+},
+{
+"tweet_id": "1534198291143049217",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Unlikely to go viral, as it's a niche topic (Ethereum developer tooling landscape) with limited broader appeal."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides valuable, specific information for those interested in Ethereum development, though its appeal is niche."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, as it's primarily a resource share without emotional tone."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Relevant for a longer period, especially for developers and those interested in Ethereum's ecosystem development."
+}
+}
+} 
+]

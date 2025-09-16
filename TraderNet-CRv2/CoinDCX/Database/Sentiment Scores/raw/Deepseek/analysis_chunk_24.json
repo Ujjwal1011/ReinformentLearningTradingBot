@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1453815996641419281",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Contrasts major platforms (Ethereum vs Facebook) with ideological framing likely to resonate in crypto communities. Strong emotional hook about building a better future."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides clear comparison of blockchain philosophies but lacks concrete data or sources to support claims."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong positive sentiment toward decentralized systems with phrases like 'build a better future' showing optimism."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Metaverse development is a multi-year trend, but specific platform comparisons may become dated."
+      }
+    }
+  },
+  {
+    "tweet_id": "1453783119123845124",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Personal career transition story in trending space (crypto/NFTs), but limited broader appeal beyond niche communities."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Mainly shares personal experience without providing substantive information about crypto/NFT space."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive excitement about career move, though with some irony about public crypto awareness."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Personal announcements typically have short relevance cycles unless they become major news."
+      }
+    }
+  },
+  {
+    "tweet_id": "1453591691194257410",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Humorous take on crypto speculation patterns could resonate, but self-deprecating ending limits shareability."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No factual content - purely speculative and humorous in nature."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative undertone in final line about 'losing everything', though presented humorously."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Meme-style content with rapid decay typical of joke predictions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1453559178501312512",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Interactive poll format with contentious crypto debate topic encourages engagement and sharing."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Poses market speculation question without providing any analysis or data."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral polling format without clear emotional direction."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Poll relevance tied to immediate market conditions rather than lasting discussion."
+      }
+    }
+  },
+  {
+    "tweet_id": "1453083017174474761",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Bold price predictions with celebratory emojis likely to drive engagement in crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Makes specific numerical predictions but provides no supporting rationale."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Extremely positive tone with 'inevitable' claim and starry-eyed emoji."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Price predictions remain reference points until either achieved or disproven."
+      }
+    }
+  },
+  {
+    "tweet_id": "1453078932513869832",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Historical performance data presented in relatable terms ($100 investments) appeals to crypto investors."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides verifiable historical price data with percentage return calculations."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive celebration of past gains while avoiding future speculation."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Historical performance data remains relevant as long as assets exist."
+      }
+    }
+  },
+  {
+    "tweet_id": "1452998375025127427",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Direct investment question driving high engagement (2514 replies) in active crypto debate."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Asks common investment question without providing analysis or context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral question format without emotional leaning."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to current market conditions and immediate responses."
+      }
+    }
+  },
+  {
+    "tweet_id": "1452907974821761024",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Provocative scarcity narrative about Ethereum ownership drives engagement."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Makes forward-looking claim about asset accessibility without supporting data."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive outlook on Ethereum's value proposition."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Scarcity narratives persist until disproven by market movements."
+      }
+    }
+  },
+  {
+    "tweet_id": "1452788485916610562",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Newsworthy price milestone announcement relevant to crypto investors."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "States verifiable price achievement but lacks context or analysis."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone celebrating market milestone."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Price records are quickly superseded in volatile markets."
+      }
+    }
+  },
+  {
+    "tweet_id": "1452595897032798208",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Controversial 'flippening' debate question drives high engagement (974 replies)."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Poses speculative market question without supporting data."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral question format about market dynamics."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Ongoing debate about Bitcoin vs Ethereum dominance maintains relevance."
+      }
+    }
+  }
+]

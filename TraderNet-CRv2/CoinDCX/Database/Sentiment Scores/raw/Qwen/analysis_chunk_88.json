@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1531771109602799617",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet provides technical advice from a well-known figure in the Ethereum community, which could be shared within developer and crypto communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet offers valuable technical advice about dapp development, which is important for developers working with Ethereum."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, providing a factual recommendation without strong emotional language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The advice is relevant for developers working on dapps, which could remain relevant for some time as Ethereum standards evolve."
+}
+}
+},
+{
+"tweet_id": "1531606091599159297",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Breaking news about a significant event in Ethereum's history, likely to be widely shared among crypto enthusiasts."
+},
+"informative_value": {
+"score": 10,
+"justification": "Announces a critical event in Ethereum's transition to Proof of Stake, providing essential information for the community."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet is positive, signaling an important milestone with the use of a breaking news format."
+},
+"duration_of_impact": {
+"score": 9,
+"justification": "The Merge is a foundational event that will have long-term implications for Ethereum, keeping this tweet relevant."
+}
+}
+},
+{
+"tweet_id": "1531369111938138112",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Announcement of a major testnet event, likely to be shared among Ethereum developers and enthusiasts."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides detailed information about the Ropsten Merge, including timelines and roles for node operators."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive tone with emojis, indicating excitement about the upcoming event."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The Merge is a significant event with lasting effects on Ethereum's infrastructure."
+}
+}
+},
+{
+"tweet_id": "1531234031492550656",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Links to an article about Bitcoin and Altcoins, which may be shared within crypto communities."
+},
+"informative_value": {
+"score": 7,
+"justification": "Summarizes an analyst's views on market trends, providing some educational content."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, presenting a viewpoint without strong emotional language."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Focuses on a specific market cycle, relevant for a limited time."
+}
+}
+},
+{
+"tweet_id": "1531157443157315584",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Announcement of a significant donation by a well-known figure, likely to be shared in crypto and tech circles."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides information about a notable donation, though not deeply technical."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive tone highlighting a charitable act."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The impact is short-term as it's a one-time donation announcement."
+}
+}
+},
+{
+"tweet_id": "1530964042088689665",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Announcement of a major blockchain bridge launch, likely to be widely shared."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides critical information about a new infrastructure development between Cardano and Ethereum."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Positive tone with excitement about the bridge launch."
+},
+"duration_of_impact": {
+"score": 9,
+"justification": "The bridge is a significant development with long-term implications for cross-chain interactions."
+}
+}
+},
+{
+"tweet_id": "1530916210161893376",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Shares a notable statistic about Ethereum ownership, likely to be shared among crypto enthusiasts."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides a significant statistic about Ethereum's distribution, valuable for understanding the ecosystem."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral presentation of a factual statistic."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The statistic is relevant at the time but may lose impact as ownership patterns change."
+}
+}
+},
+{
+"tweet_id": "1530763367282921472",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Discusses a significant drop in NFT values, likely to be shared among crypto and art communities."
+},
+"informative_value": {
+"score": 7,
+"justification": "Summarizes market trends in NFTs, providing useful information for investors."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Negative sentiment due to the drop in values."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Focuses on a recent trend, relevant for a limited period."
+}
+}
+},
+{
+"tweet_id": "1530619053202710530",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Features a well-known figure in the crypto space, likely to be shared among enthusiasts."
+},
+"informative_value": {
+"score": 4,
+"justification": "Provides a link to a profile, with minimal additional context."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, simply sharing a profile link."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The impact is short-term as it's a profile link without additional content."
+}
+}
+},
+{
+"tweet_id": "1530573651447275520",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Shares an interesting fact comparing Ethereum's market cap to a major bank, likely to be shared widely."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides a significant and verifiable statistic about Ethereum's market position."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive tone highlighting Ethereum's growth."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The fact is current but may lose relevance as market conditions change."
+}
+}
+}
+]

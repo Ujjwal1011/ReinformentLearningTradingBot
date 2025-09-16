@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1732149311717191871",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet's provocative and humorous take on Ethereum vs Solana may resonate within crypto communities, but its niche subject and hyperbolic tone limit broader appeal, yielding medium virality potential."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet offers no factual information or data, merely a satirical statement, resulting in very low informative value."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The tone is mildly negative and sarcastic, expressing a provocative stance without strong emotional language, placing it in the moderately negative range."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet references a specific crypto rivalry that may spark short-term discussion but is unlikely to remain relevant beyond a few days, indicating a short to medium duration."
+}
+}
+},
+{
+"tweet_id": "1732148953901146282",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Announcing a new, widely applicable feature from Coinbase Wallet in Spanish, the tweet has a broad audience and includes a link, giving it medium-high potential for sharing across crypto and mainstream users."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides concrete details about the feature, lists supported coins, and links to more information, offering substantial factual content."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, posing a question about the feature's quality without expressing strong emotions, fitting the neutral category."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The feature will remain relevant for weeks as users adopt it, and the tweet may continue to be referenced during that period, indicating a medium duration."
+}
+}
+},
+{
+"tweet_id": "1732148916819505539",
+"analysis": {
+"virality_potential": {
+"score": 2,
+"justification": "A niche question about a specific investigation directed at a single user is unlikely to attract wide attention, resulting in very low virality potential."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet merely poses a question and does not provide new information, so its informative value is minimal."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The tone is slightly negative, focusing on an investigation, but not strongly emotive, placing it in the moderately negative range."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is tied to a specific investigation that may resolve quickly, giving it a short-term impact."
+}
+}
+},
+{
+"tweet_id": "1732148729874993220",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "A promotional tweet about a niche NFT platform garners limited engagement and is unlikely to spread widely, yielding low virality potential."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet shares basic information about Pyros World's benefits on Radix, providing moderate factual content."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet is upbeat and promotional, expressing positive enthusiasm about the platform, fitting the moderately positive range."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet may remain relevant for a few weeks as users consider the platform, indicating a neutral to medium duration."
+}
+}
+},
+{
+"tweet_id": "1732147826694471962",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet about flipping Ethereum Phunks and referencing CryptoPhunksV2 has moderate engagement and could resonate within the NFT community, giving it medium virality potential."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet offers a brief statement about a flip but lacks detailed information, resulting in low informative value."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply stating an event without strong emotional language, placing it in the neutral category."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is tied to the NFT flipping activity, which may sustain interest for a few weeks, indicating a medium duration."
+}
+}
+}
+]

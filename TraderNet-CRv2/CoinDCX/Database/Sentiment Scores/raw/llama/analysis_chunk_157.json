@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1707061839924756669",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet's use of eye-catching emojis and tagging multiple relevant projects (@arbitrum, @buildOnBase, etc.) could generate interest within specific crypto communities, but its niche nature limits broader virality."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet provides some information about a new cross-chain era but lacks detailed explanations or links to further resources, making its informative value moderate at best."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The overall tone is positive and excited, indicated by the use of emojis (⬡, 🪙) and the announcement of a 'new era', suggesting optimism."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is tied to the announcement's novelty, likely generating discussion for a day or two before fading, which is standard for such announcements."
+}
+}
+},
+{
+"tweet_id": "1706685785812996425",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The launch of @Polkastarter on #OmniOverdrive, with its potential for scaling across Ethereum, could attract significant attention within the crypto and blockchain development communities."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides useful information about the launch, its benefits, and includes a link for more details, making it moderately to highly informative for those interested in blockchain development."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The tone is very positive, celebrating a 'new era' for decentralized fundraising, indicating enthusiasm and optimism for the launch's potential impact."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The relevance of the tweet will extend beyond the initial launch day, as the implications of the launch on Ethereum and the broader crypto space unfold over days or weeks."
+}
+}
+},
+{
+"tweet_id": "1705241648383377746",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "A news update about Ethereum's performance post-upgrade might attract some engagement, especially from Ethereum followers, but its virality potential is limited due to its negative tone and lack of surprising information."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet informs readers about JPMorgan's assessment of Ethereum's performance, providing some context, but lacks in-depth analysis or additional insights."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The tweet conveys a negative sentiment about Ethereum's performance, using the word 'disappointing', which expresses a clear negative emotion."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is short-lived, tied to the immediate reaction to JPMorgan's statement, with its impact diminishing quickly as new news emerges."
+}
+}
+},
+{
+"tweet_id": "1704946902393860589",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The announcement of sunsetting the Truffle Suite might generate significant engagement within the developer community, but its reach beyond this niche is limited."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet clearly communicates a significant change (sunsetting the Truffle Suite) and expresses gratitude, providing some context, making it informative for its audience."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Despite the negative news of sunsetting, the tone is more reflective and thankful, balancing the negative aspect with a positive expression of gratitude."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet's impact will last for days or weeks as the community reacts to the sunsetting news and its implications for developers unfold."
+}
+}
+},
+{
+"tweet_id": "1704487017810403503",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "A personal, somewhat vague update about being 'bullish' after networking events might not resonate widely beyond the author's immediate followers."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet lacks specific information or insights, merely expressing a sentiment without context, making it minimally informative."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The use of the word 'bullish' clearly indicates a very positive sentiment, showing optimism and confidence."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "The tweet's relevance is extremely short-lived, as the sentiment expressed is more of a fleeting personal update rather than a statement with lasting impact."
+}
+}
+},
+{
+"tweet_id": "1704261456768725431",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Expressing excitement over achieving something 'cool' on Ethereum could attract engagement, especially if the linked content is compelling, within the crypto and Ethereum communities."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet teases an experience without providing direct information, making its informative value low, though it might pique curiosity."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The tone is very positive, with the user expressing they 'can't believe' what they've done, indicating a high level of excitement and satisfaction."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's impact is somewhat short-lived, mainly generating interest for a brief period as readers might check the linked content and then move on."
+}
+}
+},
+{
+"tweet_id": "1703250574508995010",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "A tweet referencing past market predictions and comparing current market states might attract some engagement, particularly from those interested in crypto market analysis."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides some historical market context and a question that encourages reflection, making it moderately informative for those interested in market trends."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, presenting historical market data without expressing a clear positive or negative emotion towards the current market state."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The relevance of the tweet extends beyond the immediate moment, as the discussion of market trends and past predictions can remain relevant for days or weeks."
+}
+}
+},
+{
+"tweet_id": "1702981971809312777",
+"analysis": {
+"virality_potential": {
+"score": 2,
+"justification": "A list of cryptocurrencies by market cap, without additional commentary or insights, is unlikely to generate significant engagement or sharing."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides a clear, useful list of cryptocurrencies by market cap, making it highly informative for those seeking this specific data."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet presents information in a neutral manner, without expressing any emotion or sentiment towards the listed cryptocurrencies."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is somewhat short-lived, as the market cap values change frequently, making the information outdated quickly."
+}
+}
+},
+{
+"tweet_id": "1702014395344122237",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "News about FTX's court approval for liquidating crypto assets might generate engagement within the crypto community, but its broader appeal is limited."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet informs readers about a significant development in FTX's situation, listing the involved assets, making it moderately to highly informative."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The tone is moderately negative, as the context of liquidation implies a negative situation for FTX, though the tweet itself is factually presented."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance will last for days or weeks as the implications of the liquidation approval unfold and are discussed within the crypto community."
+}
+}
+},
+{
+"tweet_id": "1701232146159931730",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The announcement of a legal refund claim contract might attract some engagement, particularly from those directly affected or interested in the project's development."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet clearly communicates a significant development, provides a link for more information, and thanks contributors, making it highly informative for its audience."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tone is positive, expressing gratitude and providing a solution (the refund claim contract), though the context might initially seem negative."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet's impact will last for days or weeks as the community reacts to the announcement and its implications for donors and the project's future."
+}
+}
+}
+]

@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1591723135497379845",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet lists multiple cryptocurrencies as scams, using strong negative language and many hashtags. While it may resonate with crypto skeptics and generate some retweets, it is not tied to a breaking news event and is unlikely to go globally viral."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet contains unverified claims and opinions without factual evidence or sources, providing little informative content."
+},
+"sentiment_polarity": {
+"score": 1,
+"justification": "The overall tone is strongly negative, expressing disdain toward several cryptocurrencies."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The rant may remain relevant for a few days as people discuss it, but it is not tied to a specific event and will likely fade after a short period."
+}
+}
+},
+{
+"tweet_id": "1591642525236101121",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The tweet announces a major error involving $400 million in user Ethereum sent to the wrong address, a breaking news event that is likely to be widely shared and discussed."
+},
+"informative_value": {
+"score": 8,
+"justification": "It reports a factual incident with significant financial impact, providing newsworthy information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is largely neutral, presenting the facts of the incident without overt emotional language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The incident will remain relevant for weeks as the situation is resolved and its implications are analyzed."
+}
+}
+},
+{
+"tweet_id": "1591339383961313280",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet criticizes non-smart contract chains and references Elon Musk, which could attract attention from crypto communities, but it is not tied to a breaking event."
+},
+"informative_value": {
+"score": 3,
+"justification": "It offers an opinion about the superiority of Ethereum over other coins, but lacks verifiable data or sources."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The tone is negative, highlighting perceived disadvantages of doge and bitcoin."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The rant may spark short-term discussion but is unlikely to remain relevant beyond a few days."
+}
+}
+},
+{
+"tweet_id": "1590737576910258182",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet comments on the FTX collapse and defends Ethereum and DeFi, a topic that may resonate with crypto enthusiasts and generate shares."
+},
+"informative_value": {
+"score": 5,
+"justification": "It references the FTX collapse to support a claim about Ethereum's value, providing some contextual information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The overall tone is positive, praising Ethereum and DeFi."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The discussion around DeFi and Ethereum will continue for weeks, keeping the tweet relevant."
+}
+}
+},
+{
+"tweet_id": "1590338086990290944",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet presents a strong opinion about Ethereum's legitimacy versus being a ponzi, which could spark debate within crypto circles."
+},
+"informative_value": {
+"score": 3,
+"justification": "It is mainly an opinion with no factual evidence or sources, offering limited informative content."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The tone is negative, criticizing those who view Ethereum positively."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet may remain relevant for a few weeks as people discuss the FTX collapse and Ethereum's status."
+}
+}
+}
+]

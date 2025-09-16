@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1732098577306960038",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet discusses a collaboration between prominent figures in blockchain, which could attract attention within the crypto community but may not go viral beyond that."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet provides specific information about a collaboration and its implications for ZK technology, with links to further details."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet expresses excitement about the collaboration, indicating a positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tweet's relevance will likely last for several weeks as the collaboration's impact on ZK technology unfolds."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732097001825698152",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "The tweet is a brief mention without much context, making it unlikely to be widely shared."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "The tweet provides minimal information, merely stating that Bitfinex was created by the Ethereum founder."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The tweet has a positive tone, but it's not strongly emotional."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The tweet's relevance is limited to the short-term interest in Ethereum 3.0."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732096634375504301",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet presents a specific statistic about Avalanche's retention rate, which could attract attention within the crypto community."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "The tweet provides a factual claim about Avalanche's performance and invites discussion, with a link to further information."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The tweet is positive, highlighting Avalanche's success."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tweet's relevance will likely last for several weeks as the crypto community discusses Avalanche's performance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732096320683344137",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "The tweet is in Turkish and provides a brief update, which may not attract much attention beyond the user's followers."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "The tweet provides a simple update with a link, but the information is not particularly detailed."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The tweet has a positive tone, indicating satisfaction with the update."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The tweet's relevance is limited to the short-term interest in the update."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732095707937444185",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet discusses a significant amount of USDC bridged to PulseChain, which could attract attention within the crypto community."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "The tweet provides specific information about the bridging of USDC, with a link to further details."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The tweet is positive, highlighting the significance of the bridging."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tweet's relevance will likely last for several weeks as the crypto community discusses the implications of the bridging."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732095152582426828",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet promotes PulseChain as the future of crypto, which could attract attention within the crypto community."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "The tweet provides a brief overview of PulseChain's features, but it's more promotional than informative."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tweet is strongly positive, promoting PulseChain as the future of crypto."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tweet's relevance will likely last for several weeks as the crypto community discusses PulseChain."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732094616093044939",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "The tweet is in Turkish and provides a brief introduction to FacetSwap, which may not attract much attention beyond the user's followers."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "The tweet provides a brief introduction to FacetSwap, but the information is not particularly detailed."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The tweet has a positive tone, indicating interest in FacetSwap."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The tweet's relevance is limited to the short-term interest in FacetSwap."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732094107038908737",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet discusses Eigenlayer as a significant growth opportunity, which could attract attention within the Ethereum community."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "The tweet provides an overview of Eigenlayer's potential, with a thread for further details."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet is positive, highlighting Eigenlayer's potential."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tweet's relevance will likely last for several weeks as the Ethereum community discusses Eigenlayer."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732093550525845865",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "The tweet is about an NFT project, which may attract attention within the NFT community but may not go viral widely."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "The tweet provides information about a new NFT release, but it's more promotional than informative."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet is positive, highlighting the new NFT release."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The tweet's relevance is limited to the short-term interest in the NFT release."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732093004838519027",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet discusses Sommelier's milestone, which could attract attention within the DeFi community."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "The tweet provides specific information about Sommelier's growth and features, with a link to further details."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet is positive, highlighting Sommelier's achievements."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tweet's relevance will likely last for several weeks as the DeFi community discusses Sommelier's growth."
+      }
+    }
+  }
+]

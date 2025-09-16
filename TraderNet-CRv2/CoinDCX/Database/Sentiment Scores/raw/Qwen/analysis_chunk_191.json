@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1732183351405257130",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet is a meme about cryptocurrencies, which can resonate within specific crypto communities but is unlikely to go viral beyond that."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet provides some information about crypto prices but lacks depth and context."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The sentiment is neutral, presenting information without strong emotion."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is tied to current crypto prices, which can change quickly."
+}
+}
+},
+{
+"tweet_id": "1732183346120433707",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet is in Vietnamese and discusses crypto news, likely to be shared among Vietnamese crypto enthusiasts."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides several news points with links, offering useful information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The sentiment is neutral, presenting news without strong emotion."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The news is relevant for a short period, tied to current events."
+}
+}
+},
+{
+"tweet_id": "1732183214264045637",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet discusses Ethereum ecosystem solutions, likely shared among tech-savvy crypto users."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides technical information about blockchain solutions."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The sentiment is neutral, presenting information factually."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The topic is relevant for a few weeks as it's a technical discussion."
+}
+}
+},
+{
+"tweet_id": "1732182552457142727",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "A reply about crypto, likely only shared within a small community."
+},
+"informative_value": {
+"score": 3,
+"justification": "Minimal information, mostly a personal opinion."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive sentiment with excitement about crypto."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "Relevance is very short, tied to a specific crypto moment."
+}
+}
+},
+{
+"tweet_id": "1732182446257631333",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Announces an NFT aggregator, likely shared among NFT enthusiasts."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides info on supported chains and a link, useful for NFT users."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive sentiment about the aggregator's features."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevance lasts a few weeks as NFT trends can change."
+}
+}
+},
+{
+"tweet_id": "1732182404234678343",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Discusses crypto prices, likely shared among crypto traders."
+},
+"informative_value": {
+"score": 3,
+"justification": "Minimal information, mostly a price update."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment, stating a price observation."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "Relevance is very short, tied to current prices."
+}
+}
+},
+{
+"tweet_id": "1732182391559483603",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Discusses BRC-20's impact on multiple blockchains, likely widely shared in crypto circles."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides in-depth analysis and a link to further reading."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment about BRC-20's potential."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The topic is relevant for months as BRC-20's impact continues."
+}
+}
+},
+{
+"tweet_id": "1732181565319364916",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Critiques CNE's blockchain claims, likely shared among Venezuelan crypto users."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides info on CNE's blockchain mechanism."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "Negative sentiment criticizing CNE's claims."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevance lasts a few weeks as it's a specific critique."
+}
+}
+},
+{
+"tweet_id": "1732181534847996246",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Discusses past crypto performance, likely shared among crypto investors."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides historical context on crypto prices."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive sentiment about potential future gains."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevance lasts a few weeks as it's a historical analysis."
+}
+}
+},
+{
+"tweet_id": "1732181190684062055",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "Announces a bridge transfer, likely only shared among specific users."
+},
+"informative_value": {
+"score": 5,
+"justification": "Provides info on a specific bridge transfer."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment, stating a factual update."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "Relevance is very short, tied to a specific transfer."
+}
+}
+}
+]

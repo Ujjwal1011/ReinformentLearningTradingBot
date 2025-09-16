@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1302221193081163776",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet highlights a significant cost difference between two oracle services, which can spark interest among developers and crypto enthusiasts. While it contains relevant hashtags and mentions, it is a niche technical comparison rather than a broad meme or breaking news, so it is likely to resonate mainly within the crypto community."
+},
+"informative_value": {
+"score": 7,
+"justification": "It provides a concrete data point about transaction costs on Ethereum versus TRON, along with a link for further details. This factual information is useful for anyone evaluating oracle options."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, simply stating facts without emotional language."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The cost comparison remains relevant for developers and users of oracle services, but as network fees fluctuate, the specific figures may become outdated. The tweet will likely stay relevant for a few weeks to months."
+}
+}
+},
+{
+"tweet_id": "1320802735843954691",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The announcement of a live community crowdsale for a DeFi token, coupled with high engagement metrics and a link to a reputable news source, makes this tweet highly shareable across the crypto community and beyond."
+},
+"informative_value": {
+"score": 8,
+"justification": "It supplies the crowdsale address, a link to the crowdsale page, and a Cointelegraph article for context, giving readers actionable information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral in tone, simply informing about the crowdsale without expressing strong emotions."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The crowdsale will be relevant for the duration of the sale and for potential investors researching the token, likely keeping the tweet in circulation for several weeks."
+}
+}
+},
+{
+"tweet_id": "1318940081869131776",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "A quote from Vitalik Buterin about Ethereum’s status can attract attention within the crypto community, but it is a philosophical statement rather than a meme or breaking news, so its reach is moderate."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet offers a conceptual viewpoint on Ethereum’s evolution, providing insight into the community’s perception of the platform."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The statement is positive, praising Ethereum’s maturity, but it is not overly emotional."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The comparison remains relevant as Ethereum continues to be a major platform, making the tweet potentially evergreen."
+}
+}
+},
+{
+"tweet_id": "1318930492381523971",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "PayPal’s announcement of adding major cryptocurrencies to its wallet is a significant development in mainstream crypto adoption, likely to be widely shared across social media."
+},
+"informative_value": {
+"score": 8,
+"justification": "It clearly lists the supported coins and the availability timeline, giving users concrete information."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet is neutral but carries a positive tone about the expansion of crypto services."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The announcement will remain relevant for the foreseeable future as PayPal continues to support these coins, keeping the tweet in circulation for months."
+}
+}
+},
+{
+"tweet_id": "1318898980026118145",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Vitalik’s welcoming message to PayPal’s entry into the Ethereum ecosystem is a notable statement that can resonate with both crypto enthusiasts and mainstream audiences, leading to moderate sharing."
+},
+"informative_value": {
+"score": 7,
+"justification": "It confirms that PayPal customers can use BTC, ETH, and other cryptos for merchant payments, providing useful information."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses enthusiasm and positivity toward PayPal’s integration, making it a positive tone."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The information about PayPal’s crypto payment capability will remain relevant for a significant period, as it is a foundational change in payment options."
+}
+}
+}
+]

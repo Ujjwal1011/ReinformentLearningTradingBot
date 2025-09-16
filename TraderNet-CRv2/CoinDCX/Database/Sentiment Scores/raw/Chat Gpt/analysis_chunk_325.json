@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1725112879429406851",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet announces a significant regulatory filing by BlackRock for a Spot Ethereum ETF, a major event in the crypto and financial markets. Such news tends to attract broad attention across both crypto and mainstream finance communities, leading to high shareability."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It provides a factual update about a corporate filing that could influence market dynamics. While not a primary source, it conveys timely information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, simply reporting the news without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The filing will remain relevant for weeks to months as the ETF progresses through regulatory review."
+      }
+    }
+  },
+  {
+    "tweet_id": "1725063403948097604",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet is a strong negative rant about Ethereum, which may resonate within certain crypto circles but lacks a broader hook or news element. Its shareability is limited to niche audiences."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "The content is largely opinionated and does not present verifiable facts or new information."
+      },
+      "sentiment_polarity": {
+        "score": 0,
+        "justification": "The tweet expresses intense negative sentiment, using harsh language and criticism."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Personal rants tend to fade quickly once the initial reaction subsides."
+      }
+    }
+  },
+  {
+    "tweet_id": "1724651439069282800",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet references a meme-like comment about Ethereum's state, accompanied by a laughing emoji and a link. Memes can spread quickly within crypto communities but usually have a short lifespan."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "The tweet offers no factual information beyond a humorous remark."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The use of a laughing emoji and comedic tone indicates a positive, lighthearted sentiment."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Meme content typically remains relevant for a day or two before losing traction."
+      }
+    }
+  },
+  {
+    "tweet_id": "1724588794387612138",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet shares a practical tip about onboarding to Solana, which could be useful to newcomers and may be shared within crypto education circles."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "It provides a specific, actionable insight about Solana's user experience, making it moderately informative."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tone is encouraging and positive, praising Solana's ease of use."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The tip remains useful for a moderate period as new users continue to join the ecosystem."
+      }
+    }
+  },
+  {
+    "tweet_id": "1724452398276477003",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet reports a significant acquisition by a major Chinese company, which is newsworthy and likely to attract attention across crypto and business audiences."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It delivers factual information about a large investment in Bitcoin and Ethereum, providing timely market insight."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, simply stating the acquisition."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The acquisition will be relevant for weeks to months as market reactions unfold."
+      }
+    }
+  }
+]

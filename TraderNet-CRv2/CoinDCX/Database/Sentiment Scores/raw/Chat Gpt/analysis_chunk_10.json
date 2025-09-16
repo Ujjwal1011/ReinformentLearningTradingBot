@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1333743998637400073",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet is from the official Ethereum account and announces a milestone (Genesis of Ethereum 2.0). While the content is brief, the official source and the significance of the event give it a moderate chance of being shared within the crypto community."
+},
+"informative_value": {
+"score": 6,
+"justification": "It provides a factual statement about the launch of Ethereum 2.0, which is a key development for the network."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, simply stating a fact."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The genesis of Ethereum 2.0 is a significant milestone that will remain relevant for months as the network evolves."
+}
+}
+},
+{
+"tweet_id": "1355939489143803905",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet comments on a market shift, which can attract attention from traders and crypto enthusiasts, but it lacks a hook or meme."
+},
+"informative_value": {
+"score": 6,
+"justification": "It reports a market event (Bitcoin and Ethereum dumping, investors moving to Dogecoin), providing useful information for those following price movements."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The language expresses negative sentiment about Bitcoin and Ethereum."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The market shift is likely to be relevant for a short period, perhaps a day or a few days."
+}
+}
+},
+{
+"tweet_id": "1355629610608840704",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "A list of high price predictions can spark discussion and retweets among traders and speculators."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet offers specific price targets for several cryptocurrencies, which is informative but speculative."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, presenting predictions without emotional language."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Predictions may remain relevant for weeks or months, but they can become outdated as market conditions change."
+}
+}
+},
+{
+"tweet_id": "1355300945001934851",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Providing market cap figures can be useful for many users, leading to some retweets, but it's not a sensational piece."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet lists accurate market capitalization data for major cryptocurrencies, which is highly informative."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Market cap numbers are relevant for a while, especially for investors tracking the size of the market."
+}
+}
+},
+{
+"tweet_id": "1355259561268154368",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "An announcement about Grayscale Ethereum Trust's private placement can attract attention from institutional investors and crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "It provides a factual update about the availability of the trust's shares, which is valuable information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The announcement is time-sensitive and may be relevant for a few days to a week."
+}
+}
+}
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1472822340606042115",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet discusses a significant development in the DeFi space, which is a niche but growing area. The mention of Ethereum, a well-known platform, adds to its potential virality."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "The tweet provides factual information about Terraluna's position in the DeFi market, making it informative."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The sentiment is neutral, as the tweet is a factual statement without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The topic is relevant for a few weeks, as DeFi trends can remain popular for that duration."
+      }
+    }
+  },
+  {
+    "tweet_id": "1472803700322275335",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The question format encourages engagement and replies, increasing its potential to be shared."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "The tweet is a question without much context, providing minimal information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The sentiment is neutral, as it's a question without strong emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The topic of long-term crypto holding is evergreen, maintaining relevance over time."
+      }
+    }
+  },
+  {
+    "tweet_id": "1472783520695308298",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet highlights the misuse of a tech figure in politics, which can attract attention within specific communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "The tweet provides context on the misuse of Vitalik Buterin's image, offering informative content."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "The sentiment is moderately negative, expressing concern over the use of Vitalik's image."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The issue may remain relevant for a few weeks, depending on public discourse."
+      }
+    }
+  },
+  {
+    "tweet_id": "1472781585330020353",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The joke about someone's crush could resonate humorously, leading to shares."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet is a joke with minimal informative content."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The sentiment is neutral with a light-hearted tone."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The joke's relevance is short-lived, likely fading within a day."
+      }
+    }
+  },
+  {
+    "tweet_id": "1472779874851069957",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The anecdote about Vitalik explaining blockchain is interesting and could go viral."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "The tweet provides context on blockchain, offering educational value."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The sentiment is positive, highlighting a positive interaction."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The story may remain relevant for a few weeks, depending on interest."
+      }
+    }
+  },
+  {
+    "tweet_id": "1472778301466947592",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The joke about cracking Windows with Vitalik's help could spread humorously."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet is a joke with minimal informative content."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The sentiment is neutral with a humorous twist."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The joke's relevance is short-lived, likely fading within a day."
+      }
+    }
+  },
+  {
+    "tweet_id": "1472777083378094088",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The humorous story about Vitalik installing games could attract shares."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "The tweet provides minimal information beyond the anecdote."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The sentiment is positive, highlighting a fun story."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The story's relevance is short-lived, likely fading within a day."
+      }
+    }
+  },
+  {
+    "tweet_id": "1472776546821840901",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The funny story about Vitalik selling avocados could spread humorously."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet is a joke with minimal informative content."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The sentiment is neutral with a humorous tone."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The joke's relevance is short-lived, likely fading within a day."
+      }
+    }
+  },
+  {
+    "tweet_id": "1472775067343867906",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The concern for Vitalik's well-being could attract attention within his community."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "The tweet is a personal concern without much information."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "The sentiment is moderately negative, expressing concern."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The tweet's relevance is short-lived, likely fading within a day."
+      }
+    }
+  },
+  {
+    "tweet_id": "1472761702827495424",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Meeting Vitalik at a concert is a notable event, likely to be shared."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "The tweet provides context on crypto's role in the economy, offering informative content."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The sentiment is positive, highlighting a positive interaction and enthusiasm."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The story may remain relevant for a few weeks, depending on public interest."
+      }
+    }
+  }
+]

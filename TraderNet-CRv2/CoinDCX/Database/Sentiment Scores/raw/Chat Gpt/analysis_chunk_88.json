@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1474438037203566593",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "A personal holiday greeting with a mention of a well-known figure; unlikely to spread widely beyond the author's followers."
+},
+"informative_value": {
+"score": 1,
+"justification": "The tweet is a personal greeting, not providing factual or news content."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses warm, positive holiday wishes."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant mainly during the holiday season; fades quickly after."
+}
+}
+},
+{
+"tweet_id": "1474428589240033282",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Rumor about a prominent figure can attract attention within crypto communities and beyond."
+},
+"informative_value": {
+"score": 2,
+"justification": "The claim is unverified speculation, lacking factual evidence."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The tweet conveys negative tone toward the subject, implying deception."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Rumors can linger for days or weeks until debunked."
+}
+}
+},
+{
+"tweet_id": "1474424836478885895",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "A niche news event that may interest followers of politics and crypto, but not likely to go viral."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides factual information about a specific event involving a public figure."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Neutral to mildly positive tone, describing a friendly interaction."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Event-specific content remains relevant for a few days to a week."
+}
+}
+},
+{
+"tweet_id": "1474415320110665739",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "A call for unity in the crypto space can resonate and be shared among community members."
+},
+"informative_value": {
+"score": 4,
+"justification": "Expresses an opinion rather than factual data."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive, encouraging tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "General statement about competition may remain relevant as long as the crypto ecosystem evolves."
+}
+}
+},
+{
+"tweet_id": "1474384130469150721",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Negative rumor about a well-known figure can spread quickly within crypto circles."
+},
+"informative_value": {
+"score": 2,
+"justification": "Unverified claim lacking evidence."
+},
+"sentiment_polarity": {
+"score": 1,
+"justification": "The tweet expresses negative sentiment toward the subject."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Rumor may persist until addressed, but will likely fade after a few days."
+}
+}
+}
+]

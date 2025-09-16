@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1531771109602799617",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Technical advice from Ethereum's co-founder carries weight in developer communities, though limited to specific audiences."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides concrete guidance about dapp development standards with clear actionable advice."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral instructional tone without emotional language."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Evergreen advice about development standards that remains relevant as long as Ethereum exists."
+}
+}
+},
+{
+"tweet_id": "1531606091599159297",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Breaking news about Ethereum's major protocol change from a crypto-focused account."
+},
+"informative_value": {
+"score": 8,
+"justification": "Conveys critical timeline information about a landmark blockchain event."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Factual announcement without emotional language."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Time-sensitive relevance that expires after the June 8 event date."
+}
+}
+},
+{
+"tweet_id": "1531369111938138112",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Official testnet merge announcement crucial for node operators and developers."
+},
+"informative_value": {
+"score": 9,
+"justification": "Detailed technical update with specific dates and link to official documentation."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Professional announcement tone with minimal emotion."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Remains relevant through the testing phase but superseded by mainnet updates."
+}
+}
+},
+{
+"tweet_id": "1531234031492550656",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Market analysis appealing to crypto traders but lacks unique insights."
+},
+"informative_value": {
+"score": 6,
+"justification": "Shares analyst perspectives through linked article but lacks original data."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral reporting of market analysis."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevant until market conditions change, typically weeks/months."
+}
+}
+},
+{
+"tweet_id": "1531157443157315584",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Notable philanthropic act by a crypto celebrity attracts attention."
+},
+"informative_value": {
+"score": 7,
+"justification": "Specific donation details with amounts and recipient institution."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive framing of charitable contribution."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "News cycle lifespan unless followed by additional donations."
+}
+}
+},
+{
+"tweet_id": "1530964042088689665",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Significant infrastructure development for cross-chain interoperability."
+},
+"informative_value": {
+"score": 8,
+"justification": "Announcement of live production bridge between major blockchain networks."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral technical announcement."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Ongoing relevance as long as the bridge remains operational."
+}
+}
+},
+{
+"tweet_id": "1530916210161893376",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Interesting on-chain metric for long-term investors."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides verifiable blockchain data about holder behavior."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral presentation of statistical data."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Remains relevant as a market indicator until significant holder movement occurs."
+}
+}
+},
+{
+"tweet_id": "1530763367282921472",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Reports notable NFT market trends appealing to collectors."
+},
+"informative_value": {
+"score": 7,
+"justification": "Quantified analysis of blue-chip NFT floor price changes."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "Implied negative trend through 'wobble' and 'dropped' language."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevant until next major market movement in NFT space."
+}
+}
+},
+{
+"tweet_id": "1530619053202710530",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Low-effort post with just a link and name mention."
+},
+"informative_value": {
+"score": 3,
+"justification": "Contains no inherent information beyond a linked resource."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral presentation with no emotional content."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "Immediately irrelevant without context for the link."
+}
+}
+},
+{
+"tweet_id": "1530573651447275520",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Comparative market cap factoid appealing to crypto enthusiasts."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides verifiable financial comparison between asset classes."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive framing of Ethereum's growth."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevant until market cap rankings significantly change."
+}
+}
+}
+]

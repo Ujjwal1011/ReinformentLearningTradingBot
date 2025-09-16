@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1766139659414131169",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Lists multiple cryptocurrency milestones with a call-to-action ('click like'), which could drive engagement within crypto communities and attract broader attention due to price excitement."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides current price data for several cryptocurrencies, but lacks deeper context or analysis beyond numerical values."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positively framed to celebrate price gains and explicitly asks if the reader is happy, creating an enthusiastic tone."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Cryptocurrency prices fluctuate rapidly, making this tweet's relevance short-lived as markets change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1766036870973026455",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Offers financial advice that could resonate within crypto investment circles, but lacks viral hooks like humor or breaking news."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Presents a comparative analysis of investment strategies but lacks citations or verifiable data to support claims."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Critically questions the effectiveness of stablecoin strategies, conveying mild negativity through rhetorical challenges."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Discusses evergreen investment principles that could remain relevant for weeks among crypto traders."
+      }
+    }
+  },
+  {
+    "tweet_id": "1766019561038524420",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Large-scale USDT minting events from a verified tracker account (@whale_alert) often attract significant attention in crypto markets."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Reports a specific, verifiable blockchain transaction with exact figures and a source link, providing concrete data."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of a transaction without explicit emotional language or commentary."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Transaction alerts are time-sensitive but may influence short-term market speculation."
+      }
+    }
+  },
+  {
+    "tweet_id": "1765987450474856448",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Comparative performance metrics between cryptocurrencies could drive shares among investors, though niche to crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific historical return percentages for multiple assets, offering actionable data for traders."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Celebratory tone ('Congrats!') and emphasis on outperformance create a positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Historical performance data may be referenced for days as investors analyze trends."
+      }
+    }
+  },
+  {
+    "tweet_id": "1765967035723620494",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Uses repetitive rhetorical questions and hashtags to create urgency, which could drive engagement in crypto communities."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Focuses on hype around past gains rather than providing new information or analysis."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Exuberant tone ('feeling amazing right now') and multiple positive assertions create strong positivity."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Hype-driven content typically has short relevance as markets shift focus."
+      }
+    }
+  },
+  {
+    "tweet_id": "1765963643664093217",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High-percentage gains highlighted with visual emojis and links make this highly shareable in crypto circles."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific daily performance metrics for multiple assets, useful for real-time trading decisions."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Enthusiastic exclamation ('WOW!') and emphasis on positive price action convey strong positivity."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Daily price changes lose relevance quickly as new data emerges."
+      }
+    }
+  },
+  {
+    "tweet_id": "1765935584076267981",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Breaking news about a major platform overtaking Ethereum in DEX volume has high viral potential in crypto markets."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Reports verifiable, newsworthy market data about two major blockchain platforms."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of factual market data without explicit sentiment."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Market leadership stats are impactful but quickly superseded by newer data."
+      }
+    }
+  },
+  {
+    "tweet_id": "1765908171489779780",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Analysis of market dips could attract shares from investors, but lacks unique insights for broader virality."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides observations about historical price patterns but lacks supporting evidence or sources."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone discussing market behavior without strong positive/negative language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Market trend analysis may remain relevant for days among traders."
+      }
+    }
+  },
+  {
+    "tweet_id": "1765902712905068716",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Bold price predictions for multiple cryptocurrencies could drive engagement, especially from the author's followers."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Presents speculative opinions rather than verifiable facts or data-supported analysis."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Repeated optimistic assertions ('going to go up') create strong positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Predictions lose relevance as market conditions change, typically within days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1765900597046472971",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Technical critique of Ethereum L2s may engage developers but lacks mass appeal for virality."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Offers an opinion on blockchain architecture tradeoffs, useful for technical audiences."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Criticizes L2 solutions ('pay more for less'), conveying moderate negativity."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Technical debates about blockchain layers can persist for weeks in developer communities."
+      }
+    }
+  }
+]

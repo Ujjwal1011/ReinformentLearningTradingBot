@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1500960097794621442",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Critiques of popular crypto projects often spark debates within blockchain communities, increasing shareability among enthusiasts."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Contains opinion-based comparisons without verifiable data or substantive analysis."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Moderately negative tone through dismissive comparisons ('copy+paste', 'pretending to be')."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for current crypto discourse but tied to transient market perceptions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1500868552366202880",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Basic transactional question with limited appeal beyond new crypto users."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Personal inquiry without broader informational value."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral transactional language without emotional valence."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Immediately irrelevant after question is answered."
+      }
+    }
+  },
+  {
+    "tweet_id": "1500820362954690562",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "High salary figures and remote work details attract attention in tech/crypto circles."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific job requirements and compensation details for developers."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral recruitment message without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant through active hiring period (weeks)."
+      }
+    }
+  },
+  {
+    "tweet_id": "1500649538675113984",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Relatable humor about crypto investments enhances shareability during market volatility."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Personal anecdote without substantive market analysis."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Self-deprecating humor conveys mild negative sentiment about investment advice."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Tied to specific market price point that may quickly become outdated."
+      }
+    }
+  },
+  {
+    "tweet_id": "1500410899558981634",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Comparative data presentation format is highly shareable in crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides structured transaction metrics across multiple blockchain networks."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual presentation without explicit emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Transaction metrics remain reference-worthy for weeks in payment system discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1500407703612448770",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Market trend reports with multiple hashtags attract crypto investors."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Reports verifiable market data with news article link."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of market statistics."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Tied to weekly metrics that become outdated with new data."
+      }
+    }
+  },
+  {
+    "tweet_id": "1499780129962139648",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Controversial claim about major financial institution from notable figure drives engagement."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific claim about institutional blockchain infrastructure ownership."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual statement without overt emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for ongoing discussions about institutional crypto involvement."
+      }
+    }
+  },
+  {
+    "tweet_id": "1499775221083090952",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Positive endorsement from high-profile investor attracts broad attention."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Highlights blockchain growth trends with industry examples."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Enthusiastic tone about technological growth ('phenomenal', 'capital coming in')."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Broad industry commentary remains relevant for months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1499482384529604610",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Humorous content with visual element and popular hashtag enhances shareability."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No substantive information beyond implied joke about Ethereum."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive amusement indicated by laughter reference."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Meme-style content typically has short cultural lifespan."
+      }
+    }
+  },
+  {
+    "tweet_id": "1499465625223286787",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Controversial centralization claims likely to spark debates in crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Makes specific claims about corporate ownership structures in blockchain."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Strong negative assessment ('trojan horse for tyranny')."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Centralization debates remain relevant in ongoing blockchain governance discussions."
+      }
+    }
+  }
+]

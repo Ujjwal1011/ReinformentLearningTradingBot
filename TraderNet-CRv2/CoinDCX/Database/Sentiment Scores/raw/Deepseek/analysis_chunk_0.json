@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1238314470679535618",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Addresses a volatile market event with strong counter-opinions likely to resonate within crypto communities."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Opinion-based defense of crypto assets without new data or verifiable information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Mixed tone: acknowledges negative events ('super shitty day') but maintains optimistic neutrality about the future."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for months as market cycles evolve, but tied to specific market conditions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1250429247908270086",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Positive comparison to early crypto communities could drive sharing within niche groups."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Primarily expresses appreciation without substantive technical or factual content."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong positive sentiment with phrases like 'real promise' and 'technical merit'."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Community morale boosts can have medium-term relevance for project ecosystems."
+      }
+    }
+  },
+  {
+    "tweet_id": "1264197751455309825",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Industry-specific media critique likely limited to crypto journalism circles."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides meta-analysis of media quality with comparative examples."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Clearly positive appreciation for quality reporting ('rare and valuable skill')."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Ongoing discussion about media standards gives this weeks-long relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1263187395358478336",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Hashtag spam and price speculation lack broad appeal beyond day traders."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Unsubstantiated price predictions without supporting analysis."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Optimistic emojis and rocket symbol convey strong positive speculation."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term relevance limited to immediate trading activity."
+      }
+    }
+  },
+  {
+    "tweet_id": "1262332956208762881",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "High-profile author trolling Bitcoin guarantees widespread engagement."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Explicitly states being a troll, negating informational value."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Mocking tone toward Bitcoin community indicates moderate negativity."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Controversy typically has short lifespan without substantive claims."
+      }
+    }
+  },
+  {
+    "tweet_id": "1261359936983855105",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Major corporate adoption news drives interest across crypto and finance sectors."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific claim about Visa's Ethereum integration with source link."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Corporate blockchain adoption has medium-term relevance for industry trends."
+      }
+    }
+  },
+  {
+    "tweet_id": "1260796719526100992",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news about mass crypto adoption from a major platform."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Concrete user metrics and implications for tokenization trends."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Enthusiastic language ('Inevitable #adoption!') shows strong positivity."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Large-scale platform integrations have long-term ecosystem effects."
+      }
+    }
+  },
+  {
+    "tweet_id": "1256061426050965509",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Comparative price analysis appeals to traders but lacks viral hooks."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides verifiable historical price data with context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of comparative statistics without commentary."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Price comparisons lose relevance quickly in volatile markets."
+      }
+    }
+  },
+  {
+    "tweet_id": "1273105449131401219",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Provocative categorization of crypto assets sparks community debate."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Opinion-based framework without empirical support."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative characterization of maximalists ('insecure') with emoji mitigation."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Ongoing maximalism debates maintain relevance for months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1272532591674089472",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Strong DeFi thesis from known analyst attracts sector-specific sharing."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Comparative analysis of financial service evolution with concrete examples."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Clear optimism about Ethereum's capabilities ('flex Ethereum's ability')."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Fundamental DeFi commentary remains relevant for years."
+      }
+    }
+  }
+]

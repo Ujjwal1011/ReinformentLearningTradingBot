@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1732570659941761183",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet addresses a community-specific policy change with practical implications, likely to be shared within the TipChat user base but lacks broader viral hooks."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides clear, actionable information about a claims process update directly relevant to users, though limited to a specific platform."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive tone emphasized by the 'Community First ♥️' message, indicating goodwill."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant until the claim process concludes or further updates, likely weeks of relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732565692489101667",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Detailed investment thesis on Solana from an influential account may drive shares within crypto communities, but technical focus limits broader appeal."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Offers substantive analysis of Solana's technical architecture and investment rationale, supported by a linked thread."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Optimistic about Solana's potential, though phrased analytically rather than emotionally."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Investment theses often remain relevant for months in fast-moving crypto markets."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732564122892751020",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Vietnamese-language NFT market update lacks engagement drivers beyond niche audiences, evidenced by low retweets."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Reports specific Ethereum NFT trading volume data but lacks source citations or deeper context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of market activity with a bullish headline emoji (🔥)."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Time-sensitive market data likely outdated within days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732555298341302325",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "News aggregation tweet with multiple bullet points may see moderate sharing in Vietnamese crypto circles."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Compiles verifiable news items (NFT volume, El Salvador BTC profits) but lacks direct sources."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual presentation without overt emotion, though headline emojis suggest positivity."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Daily news items lose relevance quickly except for the Bitcoin profit note."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732551684117995725",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Announcement of a Euro-backed stablecoin by a major bank could attract interest in fintech circles."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Details a significant institutional crypto product launch with technical specifics (ERC-20)."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of a product launch, though 🔥 emoji adds mild excitement."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant until EURCV gains adoption or faces regulatory challenges, likely months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732550752059695150",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Ethereum price analysis may see moderate sharing among traders, but lacks unique insights."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Reports ETH price levels and institutional interest with verifiable data points."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Mildly bullish tone focused on price action."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Price predictions become outdated quickly unless ETH breaches $3,000."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732550536938070136",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Personal trading loss anecdote with niche hashtags; relatable to crypto traders but not broadly shareable."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Primarily expresses personal frustration without actionable insights."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Clear negative emotions ('móm quá', 'gồng lỗ tuột quần') about portfolio losses."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Ephemeral personal update with no lasting relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732541059903918380",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Provocative question format and high engagement (408 likes) suggest meme potential in crypto communities."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Zero informational content beyond nostalgic baiting."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Implied criticism/neglect of Ethereum (😭 emoji)."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Meme relevance typically lasts days unless it sparks broader discussion."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732525859418857702",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Niche tip for domain traders unlikely to spread beyond Avalanche/ENS enthusiasts."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides a specific strategy for domain registration arbitrage."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral instructional tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Strategy remains valid until domain availability changes, potentially weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732524953902153869",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Showcases a lucrative airdrop, likely to drive shares in crypto communities as 'proof' of rewards."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Demonstrates a real-world airdrop outcome with monetary value, though lacks methodological details."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive celebration of financial gain with a comparative boast against Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant until JTO price stabilizes or new airdrops emerge, likely weeks."
+      }
+    }
+  }
+]

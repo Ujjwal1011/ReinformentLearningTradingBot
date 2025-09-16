@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1758939338484732387",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet contains a rumor about a significant event in the cryptocurrency space (Ethereum Spot ETF approval), which can elicit strong interest and sharing within the crypto community."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides specific, albeit unverified, information about a potential ETF approval, making it somewhat informative for those interested in Ethereum."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The user expresses excitement and optimism with the use of 'BOYZ' and '🔥', indicating a very positive sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to the rumored event's timeline (end of March 2024), making its impact relatively short-term."
+}
+}
+},
+{
+"tweet_id": "1758232805882970562",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet's unique content (simulated 51% attack on Bitcoin and Ethereum) has potential for sharing within tech and crypto circles."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet links to a published paper with in-depth, technical information, providing high informative value."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet maintains a neutral tone, focusing on sharing research findings without expressing strong emotions."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "As a research paper, its relevance can extend for months or even years, especially within academic and professional communities."
+}
+}
+},
+{
+"tweet_id": "1758193071047786551",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The introduction of a new program ('Mint to Earn') on a popular platform (Magic Eden) may generate interest and sharing within the NFT and Ethereum communities."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides some details about the new program and links to more information, offering moderate informative value."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The tone is very positive, with phrases like 'Finally, a new hope for minters everywhere', expressing excitement and optimism."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance is tied to the launch and initial interest in the 'Mint to Earn' program, making its impact medium-term."
+}
+}
+},
+{
+"tweet_id": "1758136030593728585",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "A generic, positive statement about community and vision, while uplifting, is not particularly designed to go viral."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet does not provide new or specific information, serving more as a statement of values."
+},
+"sentiment_polarity": {
+"score": 10,
+"justification": "The tweet expresses an extremely positive sentiment, emphasizing the importance of community in a very optimistic light."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "As a foundational statement, its relevance can extend over a long period, serving as a guiding principle."
+}
+}
+},
+{
+"tweet_id": "1758070967870329180",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "A tweet about a specific resistance level in Ethereum's price, while informative for traders, is unlikely to broadly viral."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides specific, actionable information for traders and investors, offering high informative value."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet maintains a neutral tone, focusing on market analysis without expressing strong emotions."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "The tweet's relevance is extremely short-term, tied to immediate market movements."
+}
+}
+},
+{
+"tweet_id": "1758061466446438840",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The provocative statement about L2s and dapps, combined with the humorous tone, has high potential for sharing and discussion."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet's content is more opinion-based and provocative rather than providing verifiable information."
+},
+"sentiment_polarity": {
+"score": 1,
+"justification": "Despite the humorous tone, the user expresses strong negative opinions about L2s and most dapps."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is tied to the immediate reaction and potential backlash or support, making its impact relatively neutral in duration."
+}
+}
+},
+{
+"tweet_id": "1757857494079066395",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "News about a significant financial move (Genesis selling trust shares) in the crypto space can generate considerable interest and sharing."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides breaking news with specific, verifiable information about a major development in the crypto market."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet maintains a neutral tone, focusing on reporting news without expressing strong emotions."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to the news cycle, making its impact relatively short-term."
+}
+}
+},
+{
+"tweet_id": "1757776250037551442",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "A philosophical, self-descriptive tweet from a notable figure may generate interest and sharing within related communities."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet provides some personal insight but lacks specific, actionable, or broadly informative content."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The user expresses a very positive sentiment about their focus on philanthropy and making the world a better place."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet's relevance can extend for a while, as it serves as a personal statement from a public figure."
+}
+}
+},
+{
+"tweet_id": "1757180273538572720",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "A cautionary tale about margin trading, while informative, is not particularly designed to go viral."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides a useful lesson with a specific example, offering high informative value for investors."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The user expresses a moderately negative sentiment, warning against the dangers of margin trading."
+},
+"duration_of_impact": {
+"score": 9,
+"justification": "As a cautionary tale, its relevance can extend for a long time, serving as a piece of evergreen advice."
+}
+}
+},
+{
+"tweet_id": "1757168443084898465",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "News about a significant player (Franklin Templeton) joining the Ethereum ETF race can generate interest and sharing within the crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides specific, verifiable information about a major development in the Ethereum ETF space."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet maintains a neutral tone, focusing on reporting news without expressing strong emotions."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance is tied to the ongoing ETF race, making its impact medium-term."
+}
+}
+}
+]

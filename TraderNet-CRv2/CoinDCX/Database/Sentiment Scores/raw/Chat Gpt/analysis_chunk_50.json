@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1452526722713149444",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The short hype about Ethereum reaching $5,000 is likely to be shared within crypto enthusiasts, but lacks a strong hook for broader audiences."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet is a speculative price prediction without any factual data or sources, providing minimal informational content."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The language expresses excitement and optimism about a price increase, indicating a moderately positive sentiment."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Price speculation is tied to short‑term market movements and loses relevance quickly once the price changes."
+}
+}
+},
+{
+"tweet_id": "1452513158522982400",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet reports a surprising trading‑volume shift with specific numbers, a hook that can spread quickly among crypto communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "It provides concrete, newsworthy data about SHIB's 24‑hour trading volume surpassing Ethereum by $1.6 billion."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The use of \"JUST IN\" and the 🤯 emoji conveys excitement and amazement, reflecting a moderately positive tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Trading‑volume news remains relevant for several days as markets react, giving it a medium‑term impact."
+}
+}
+},
+{
+"tweet_id": "1452334458066149377",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Authored by Elon Musk, whose massive follower base and media attention amplify any statement, making it extremely likely to be widely shared."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet offers personal opinion and advice without verifiable data, limiting its informational contribution."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The tone is cautionary and critical of crypto speculation, reflecting a moderately negative sentiment."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Musk’s stance on cryptocurrency is frequently cited in discussions, giving the tweet a long‑lasting relevance."
+}
+}
+},
+{
+"tweet_id": "1452296880361201665",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "The observation about repetitive debates lacks a strong hook and shows low engagement, limiting its spread."
+},
+"informative_value": {
+"score": 3,
+"justification": "It describes community behavior without providing factual data or actionable information."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The language conveys frustration and annoyance toward the ongoing arguments, indicating a very negative sentiment."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The comment is tied to a specific, ongoing debate and is unlikely to stay relevant beyond the short term."
+}
+}
+},
+{
+"tweet_id": "1452266229935312899",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet announces a striking trading‑volume figure for SHIB, a hook that can quickly circulate among crypto followers."
+},
+"informative_value": {
+"score": 8,
+"justification": "It supplies precise, newsworthy data about SHIB's 24‑hour volume exceeding Bitcoin and Ethereum combined."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The exclamation and \"JUST IN\" phrasing convey excitement, reflecting a moderately positive sentiment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Volume statistics remain of interest for several days as market participants analyze the data, giving it a medium‑term relevance."
+}
+}
+}
+]

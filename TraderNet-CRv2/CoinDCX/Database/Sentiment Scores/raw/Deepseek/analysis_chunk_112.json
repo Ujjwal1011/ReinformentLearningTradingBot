@@ -1,0 +1,212 @@
+[
+{
+  "tweet_id": "1549711356668026882",
+  "analysis": {
+    "virality_potential": {
+      "score": 5,
+      "justification": "Engages crypto communities with a relatable paradox, but lacks strong emotional hooks for broader virality."
+    },
+    "informative_value": {
+      "score": 2,
+      "justification": "Personal opinion without factual content or educational value."
+    },
+    "sentiment_polarity": {
+      "score": 6,
+      "justification": "Playful tone with moderately positive comparison between cryptocurrencies."
+    },
+    "duration_of_impact": {
+      "score": 3,
+      "justification": "Relevance limited to current crypto community discussions with no lasting value."
+    }
+  }
+},
+{
+  "tweet_id": "1549558331517259776",
+  "analysis": {
+    "virality_potential": {
+      "score": 7,
+      "justification": "Educational thread with strong practical value likely to be shared within crypto communities."
+    },
+    "informative_value": {
+      "score": 8,
+      "justification": "Provides comprehensive security guidance with clear educational intent."
+    },
+    "sentiment_polarity": {
+      "score": 5,
+      "justification": "Neutral instructional tone focused on factual information."
+    },
+    "duration_of_impact": {
+      "score": 7,
+      "justification": "Security advice remains relevant for months as fundamental crypto knowledge."
+    }
+  }
+},
+{
+  "tweet_id": "1549518634690699265",
+  "analysis": {
+    "virality_potential": {
+      "score": 8,
+      "justification": "Teases major technical development likely to generate buzz in crypto circles."
+    },
+    "informative_value": {
+      "score": 7,
+      "justification": "Announces upcoming milestone but lacks specific technical details."
+    },
+    "sentiment_polarity": {
+      "score": 8,
+      "justification": "Enthusiastic tone with celebratory emojis and positive anticipation."
+    },
+    "duration_of_impact": {
+      "score": 6,
+      "justification": "Impact duration depends on subsequent announcements and actual technical delivery."
+    }
+  }
+},
+{
+  "tweet_id": "1549299822947192832",
+  "analysis": {
+    "virality_potential": {
+      "score": 6,
+      "justification": "Interactive price prediction format encourages engagement within crypto communities."
+    },
+    "informative_value": {
+      "score": 3,
+      "justification": "Speculative poll without substantive information or analysis."
+    },
+    "sentiment_polarity": {
+      "score": 5,
+      "justification": "Neutral presentation of speculative options without clear bias."
+    },
+    "duration_of_impact": {
+      "score": 2,
+      "justification": "Immediately outdated once price moves beyond the specified target."
+    }
+  }
+},
+{
+  "tweet_id": "1549268276152500225",
+  "analysis": {
+    "virality_potential": {
+      "score": 7,
+      "justification": "Significant technical development in Ethereum ecosystem with strong community interest."
+    },
+    "informative_value": {
+      "score": 8,
+      "justification": "Concrete announcement of zkRollup release with collaboration details."
+    },
+    "sentiment_polarity": {
+      "score": 7,
+      "justification": "Positive tone celebrating development milestone."
+    },
+    "duration_of_impact": {
+      "score": 7,
+      "justification": "Technical infrastructure developments maintain relevance through testing and implementation phases."
+    }
+  }
+},
+{
+  "tweet_id": "1549176605792256002",
+  "analysis": {
+    "virality_potential": {
+      "score": 5,
+      "justification": "Basic market update with limited engagement drivers beyond crypto traders."
+    },
+    "informative_value": {
+      "score": 6,
+      "justification": "Provides verifiable market data but lacks context or analysis."
+    },
+    "sentiment_polarity": {
+      "score": 5,
+      "justification": "Neutral reporting of factual information."
+    },
+    "duration_of_impact": {
+      "score": 3,
+      "justification": "Market cap figures become outdated with price fluctuations."
+    }
+  }
+},
+{
+  "tweet_id": "1549144549762662409",
+  "analysis": {
+    "virality_potential": {
+      "score": 6,
+      "justification": "Controversial meme format likely to spark discussions in crypto communities."
+    },
+    "informative_value": {
+      "score": 2,
+      "justification": "Image-based content without substantive information or context."
+    },
+    "sentiment_polarity": {
+      "score": 3,
+      "justification": "Implied criticism through meme format about Ethereum's distribution."
+    },
+    "duration_of_impact": {
+      "score": 4,
+      "justification": "Meme relevance tied to ongoing debates about Ethereum's origins."
+    }
+  }
+},
+{
+  "tweet_id": "1549085077036056583",
+  "analysis": {
+    "virality_potential": {
+      "score": 4,
+      "justification": "Basic price analysis with limited unique insight for broad sharing."
+    },
+    "informative_value": {
+      "score": 3,
+      "justification": "Simple mathematical observation without deeper analysis."
+    },
+    "sentiment_polarity": {
+      "score": 7,
+      "justification": "Optimistic outlook on price recovery."
+    },
+    "duration_of_impact": {
+      "score": 2,
+      "justification": "Immediately outdated if price reaches mentioned levels."
+    }
+  }
+},
+{
+  "tweet_id": "1549070709816688644",
+  "analysis": {
+    "virality_potential": {
+      "score": 7,
+      "justification": "Leverages popular 'Inverse Cramer' meme format with verifiable data point."
+    },
+    "informative_value": {
+      "score": 5,
+      "justification": "Combines price data with commentary on financial personality's advice."
+    },
+    "sentiment_polarity": {
+      "score": 7,
+      "justification": "Positive tone celebrating market movement contradicting criticism."
+    },
+    "duration_of_impact": {
+      "score": 5,
+      "justification": "Remains relevant as long as Cramer's commentary remains topical."
+    }
+  }
+},
+{
+  "tweet_id": "1549065009128681472",
+  "analysis": {
+    "virality_potential": {
+      "score": 6,
+      "justification": "Provocative stance on regulation likely to spark debates in crypto circles."
+    },
+    "informative_value": {
+      "score": 3,
+      "justification": "Expresses ideological position without factual content."
+    },
+    "sentiment_polarity": {
+      "score": 2,
+      "justification": "Strong negative sentiment towards regulatory bodies."
+    },
+    "duration_of_impact": {
+      "score": 6,
+      "justification": "Ongoing relevance due to persistent regulatory debates in crypto."
+    }
+  }
+}
+]

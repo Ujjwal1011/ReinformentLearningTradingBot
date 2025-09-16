@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1770470493201567885",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "News about a prominent cryptocurrency foundation under investigation can generate significant interest and sharing within the crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides newsworthy information about an investigation, citing a reputable source (CoinDesk), making it informative for those interested in cryptocurrency."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The tweet reports on an investigation in a neutral, factual manner without expressing a clear emotional tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The relevance of this tweet will last for several days or until the investigation concludes, generating ongoing interest and discussion."
+}
+}
+},
+{
+"tweet_id": "1770469360710095256",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "While the news is significant, the tweet's format and content are more suited for information dissemination within the crypto community rather than going viral broadly."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides factual information about an investigation, including a source, but is somewhat brief and lacks additional context."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, focusing on reporting the news without expressing a sentiment."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Similar to the first tweet, its relevance will span several days, tied to the progression of the investigation."
+}
+}
+},
+{
+"tweet_id": "1770232793299112171",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The combination of a major investment by a well-known entity (BlackRock) and a bullish prediction for Ethereum's price can elicit strong engagement and sharing."
+},
+"informative_value": {
+"score": 6,
+"justification": "While informative about a significant investment, the tweet's primary focus is on the bullish sentiment rather than providing detailed information."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "Expresses a very positive sentiment with the use of 'HIGHER!!!' and highlighting a major investment as 'the most bullish news possible'."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet's relevance will extend for several days, influenced by the short-term market reactions to the news."
+}
+}
+},
+{
+"tweet_id": "1770214477251674606",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "A comparative statement about two cryptocurrencies, especially with a personal preference, can spark engagement and sharing within the crypto community."
+},
+"informative_value": {
+"score": 4,
+"justification": "Provides a personal opinion rather than factual, newsworthy, or educational content about the cryptocurrencies mentioned."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Expresses a moderately positive sentiment towards Ethereum by preferring it over Solana due to gas fees."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is relatively short-lived, as it pertains to a personal preference rather than a developing story or announcement."
+}
+}
+},
+{
+"tweet_id": "1770196664349032857",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "News about a major financial player (BlackRock) launching a product on Ethereum can generate significant interest and sharing within the crypto and finance communities."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides newsworthy and informative content about a significant development in the cryptocurrency space, including a link to more information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, focusing on reporting the news without expressing a clear emotional tone."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The relevance of this tweet will last for several weeks, as the launch of such a product by a major player can have ongoing implications for Ethereum."
+}
+}
+},
+{
+"tweet_id": "1770179511864131856",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "A bullish prediction coupled with news about BlackRock's involvement with Ethereum can elicit strong engagement and sharing."
+},
+"informative_value": {
+"score": 5,
+"justification": "While it mentions a significant event (BlackRock on Ethereum), the primary focus is on the user's bullish sentiment rather than providing detailed information."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "Expresses a very positive sentiment with the use of 'ludacris' to describe Ethereum's price being under $10k, indicating a strong bullish stance."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Similar to other bullish tweets, its relevance will be influenced by short-term market reactions and the ongoing narrative of Ethereum's price potential."
+}
+}
+},
+{
+"tweet_id": "1770177665099596282",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Breaking news about a significant investment by BlackRock into the Ethereum network can generate substantial interest and sharing across crypto and financial communities."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides breaking, newsworthy information about a major development in the cryptocurrency space, including specific details about the investment."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet reports the news in a neutral, factual manner without expressing a clear emotional tone."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The relevance of this tweet will last for several weeks, given the significance of the investment and its potential long-term implications for Ethereum."
+}
+}
+},
+{
+"tweet_id": "1770167246423257343",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The announcement of a tokenized asset fund on Ethereum by a major player like BlackRock, presented in a visually engaging 'BREAKING' format, can lead to high engagement and sharing."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides significant, newsworthy information about a development in the cryptocurrency space, though the details are somewhat brief."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Expresses a moderately to very positive sentiment through the use of 'GIGA BULLISH' and the enthusiastic presentation of the news."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The tweet's relevance will span several weeks, influenced by the ongoing discussion and implications of BlackRock's move in the crypto space."
+}
+}
+},
+{
+"tweet_id": "1770164192437211333",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "A rumor about a significant upcoming event (Ethereum Spot ETF approval) can generate interest and sharing within the crypto community, though its impact may be muted by the 'RUMOR' caveat."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides information that could be significant if true, but it's presented as a rumor, reducing its informative value."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Expresses a moderately positive sentiment, as the rumored approval could be seen as beneficial for Ethereum, though the tone is cautious due to the speculative nature of the tweet."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The relevance of this tweet is somewhat short-lived, as its impact is heavily dependent on the confirmation or denial of the rumor in the near future."
+}
+}
+},
+{
+"tweet_id": "1770087855916028394",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Information about a specific decentralized exchange and its integration with another platform, while informative, is less likely to go viral due to its niche appeal."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides detailed, informative content about a decentralized exchange, its features, and its integration, making it valuable for those interested in the specific topic."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, focusing on describing the service and its capabilities without expressing a clear emotional tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The relevance of this tweet will last for several days to a week, as it provides evergreen information about a service, though its discussion-generating potential is limited."
+}
+}
+}
+]

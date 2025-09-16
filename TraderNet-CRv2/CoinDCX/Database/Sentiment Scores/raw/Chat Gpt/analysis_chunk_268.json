@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1569405980772913153",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Personal update with a humorous tone, but not tied to a trending topic or event, limiting its shareability."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "No factual or news content; it's a personal preference."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone, no strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Personal statement likely to lose relevance quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1569326945447411714",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Credible source discussing a major event in crypto, likely to be shared widely."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides factual information from a reputable institution about a significant event."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral statement."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Relevant for weeks as the merge and its implications unfold."
+      }
+    }
+  },
+  {
+    "tweet_id": "1569083013501165571",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Real-time update on a major event, likely to be shared by interested users."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Factual countdown to a significant event."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant until the merge occurs, after which relevance declines."
+      }
+    }
+  },
+  {
+    "tweet_id": "1568470358340308992",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Real-time update on a major event, likely to be shared by interested users."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Factual countdown to a significant event."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant until the merge occurs, after which relevance declines."
+      }
+    }
+  },
+  {
+    "tweet_id": "1567941700311719936",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Opinion piece on crypto politics, may resonate within the community but limited broader appeal."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Opinion rather than factual data."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Encouraging tone, moderately positive."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for ongoing crypto debates, likely to remain in discussion for weeks."
+      }
+    }
+  }
+]

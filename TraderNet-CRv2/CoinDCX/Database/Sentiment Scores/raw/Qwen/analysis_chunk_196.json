@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1732165080127766618",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet is about crypto prices, which can attract attention within the crypto community, but it's not likely to go viral beyond that niche."
+},
+"informative_value": {
+"score": 5,
+"justification": "Provides current prices of Bitcoin and Ethereum, which is useful for crypto followers, but lacks detailed analysis."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Expresses excitement about approaching payday and crypto prices, indicating a positive sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to current crypto prices, which can change quickly, making its impact short-term."
+}
+}
+},
+{
+"tweet_id": "1732164912657338873",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Targets a specific crypto audience discussing privacy coins, which may generate some interest within that community."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides a detailed analysis of XFT's potential in the privacy market, offering valuable insights."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Expresses optimism about XFT's future, indicating a positive sentiment."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The discussion of XFT's potential could remain relevant for a few weeks as interest in privacy coins may persist."
+}
+}
+},
+{
+"tweet_id": "1732163886088909164",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "An auction for a photo, niche interest, unlikely to go viral beyond art or crypto communities."
+},
+"informative_value": {
+"score": 4,
+"justification": "Informs about an auction but lacks detailed information about the photo's significance."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive tone about the auction, encouraging participation."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant only during the auction period, which is a few months."
+}
+}
+},
+{
+"tweet_id": "1732163400078143921",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "A reply with limited engagement, unlikely to spread beyond the conversation."
+},
+"informative_value": {
+"score": 3,
+"justification": "Minimal information, just a comment on Ethereum's activity."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive sentiment about Ethereum's momentum."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "Relevant only in the context of the conversation, very short-term."
+}
+}
+},
+{
+"tweet_id": "1732161342046634131",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Targets Ethereum developers and blockchain enthusiasts, may generate interest within that community."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides technical details about M2's integration with various technologies, valuable for developers."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment about M2's capabilities."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The information could remain relevant for weeks as it's about a specific project's development."
+}
+}
+},
+{
+"tweet_id": "1732160851283767436",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Compares NFT lending volumes, relevant to crypto traders, may generate some interest."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides data on NFT lending volumes and mentions analytics from a specific source."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment, presenting data without strong emotion."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevant for a few days as it's about current market trends."
+}
+}
+},
+{
+"tweet_id": "1732160615479730246",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Predictions about crypto prices can attract attention, especially with mentions of specific projects."
+},
+"informative_value": {
+"score": 6,
+"justification": "Predictions and mentions of Ethereum L2s provide some insight into market expectations."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment about the potential of certain cryptocurrencies."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevant until the halving events occur, which could be a few months away."
+}
+}
+},
+{
+"tweet_id": "1732158704647078067",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Discusses blockchain features, relevant to developers and enthusiasts, may generate some interest."
+},
+"informative_value": {
+"score": 6,
+"justification": "Highlights the importance of ease of use in blockchain technology."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment about the potential of a blockchain that is easier to use."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevant for a few weeks as it's about a specific feature comparison."
+}
+}
+},
+{
+"tweet_id": "1732158203666780330",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Shares the Fear and Greed Index, relevant to crypto traders, but not likely to go viral."
+},
+"informative_value": {
+"score": 5,
+"justification": "Provides current data on Ethereum's Fear and Greed Index and price."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment, presenting data without strong emotion."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days as it's about current market sentiment."
+}
+}
+},
+{
+"tweet_id": "1732157909063348356",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Features a well-known figure in crypto, which can attract significant attention."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides a detailed comparison between Solana and Ethereum, valuable for understanding their differences."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment about Solana's potential over Ethereum."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The comparison could remain relevant for months as it's a foundational discussion about blockchain technology."
+}
+}
+}
+]

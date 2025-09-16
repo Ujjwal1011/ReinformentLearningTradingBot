@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1359050643785216006",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Provides a concise daily snapshot of crypto prices, which can be shared among crypto communities, but lacks a hook for broader virality."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Offers factual price changes for several major cryptocurrencies, giving readers quick market insights."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone, purely informational."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevance lasts a day or two until the next update."
+      }
+    }
+  },
+  {
+    "tweet_id": "1358967080750624770",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "A hype tweet calling the Ethereum community to action, likely to spread within the Ethereum fan base."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No factual information, just a personal hype statement."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong positive excitement and hype."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-lived hype for the next day."
+      }
+    }
+  },
+  {
+    "tweet_id": "1358936678027694083",
+    "analysis": {
+      "virality_potential": {
+        "score": 2,
+        "justification": "Personal comment about high crypto prices, unlikely to spread widely."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No factual data, just a personal opinion."
+      },
+      "sentiment_polarity": {
+        "score": 1,
+        "justification": "Anxious and negative tone about market volatility."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Short-lived personal remark."
+      }
+    }
+  },
+  {
+    "tweet_id": "1358864786922983426",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Standard daily crypto price update, shareable within crypto circles but not a viral hook."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides factual price changes for several major cryptocurrencies."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, purely informational."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevance lasts a day or two until the next update."
+      }
+    }
+  },
+  {
+    "tweet_id": "1358763645342273536",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news claim about Tesla buying Ethereum, likely to attract attention and shares despite questionable accuracy."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Content is false or unverified, offering no reliable information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral factual tone."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Breaking news remains relevant for a day or two."
+      }
+    }
+  },
+  {
+    "tweet_id": "1358658137020985344",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Standard daily crypto price update, shareable within crypto circles but not a viral hook."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides factual price changes for several major cryptocurrencies."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, purely informational."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevance lasts a day or two until the next update."
+      }
+    }
+  },
+  {
+    "tweet_id": "1358037418918699010",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news about Grayscale buying Ethereum, likely to spread widely among crypto investors."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Factual news about a significant institutional purchase."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, factual tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for days as the market reacts to the news."
+      }
+    }
+  },
+  {
+    "tweet_id": "1357743313974099970",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Playful question about which crypto coin to toss, likely to be shared for humor within crypto communities."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No factual information, just a playful suggestion."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive, humorous tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-lived, relevant only for the moment of the joke."
+      }
+    }
+  },
+  {
+    "tweet_id": "1357280964326612994",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Hype tweet about multiple cryptocurrencies, likely to spread among crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No factual data, just hype."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Very positive, enthusiastic tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-lived hype, relevant for a day or two."
+      }
+    }
+  },
+  {
+    "tweet_id": "1356738181828345857",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Short hype tweet with emojis and price, likely to spread among crypto fans."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No factual data beyond a price mention."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive, enthusiastic tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-lived, relevant for a day or two."
+      }
+    }
+  }
+]

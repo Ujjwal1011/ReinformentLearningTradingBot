@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1732168570652463499",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Step-by-step guide for a niche platform; limited audience; unlikely to go viral beyond community."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides clear instructions for using PROOF, useful for users."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual instructions, no emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Useful for a period of time but eventually outdated as platform updates."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732167759960707298",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Opinion rant; limited to niche audience; unlikely to go viral."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Expresses personal opinion; lacks verifiable facts."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Expresses anger and frustration about Ethereum's pricing and decentralization."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant while market conditions persist; likely to fade after a few days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732167747537383568",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Opinion; limited to crypto community; unlikely to go viral."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Personal viewpoint; no verifiable data."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive about Ethereum, negative about BTC; overall moderate positive tone."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Opinion about current state; likely to fade after a few days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732165640541351999",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Opinion about Layer 2; limited to niche audience; unlikely to go viral."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Provides some factual observations but largely opinion; moderate informative value."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Descriptive; no strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Network congestion and fees are current issues; likely to fade after a few days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732165276576133402",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Informative technical tweet; limited to niche audience; unlikely to go viral."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides factual explanation of Nakamoto coefficient; credible source; high informative value."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual statement; no emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Technical concept remains relevant for years; likely to be referenced long-term."
+      }
+    }
+  }
+]

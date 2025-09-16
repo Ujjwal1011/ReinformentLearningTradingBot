@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1490769708924104704",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Personal anecdote with limited shareability; not a news event."
+},
+"informative_value": {
+"score": 3,
+"justification": "Personal experience, no new factual information."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "Expresses frustration and anger."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Only relevant until the issue is resolved."
+}
+}
+},
+{
+"tweet_id": "1490759688039899136",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Breaking news about Ethereum surpassing Mastercard's market cap, likely to be widely shared."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides credible, newsworthy information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral factual tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for weeks as market cap changes."
+}
+}
+},
+{
+"tweet_id": "1490730531625082885",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Major corporate announcement, likely to be widely shared."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides credible, newsworthy information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive excitement."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for weeks as corporate adoption continues."
+}
+}
+},
+{
+"tweet_id": "1490728332345987078",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Corporate announcement, but limited audience."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides credible info about corporate investment."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive tone about investment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for weeks as corporate adoption continues."
+}
+}
+},
+{
+"tweet_id": "1490724594407428101",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Corporate announcement, but less detail."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides news about corporate treasury."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral factual tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for weeks."
+}
+}
+}
+]

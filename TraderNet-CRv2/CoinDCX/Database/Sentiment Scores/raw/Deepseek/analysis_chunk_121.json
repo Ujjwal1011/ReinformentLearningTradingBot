@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1558836594123186179",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Proposes a radical crypto-native governance model that could spark intense discussion within crypto communities, though lacks immediate viral hooks."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Presents structured ideas about digital governance but lacks concrete implementation details or sources."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone presenting a conceptual framework without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Proposals about fundamental crypto governance could remain relevant for weeks in niche communities."
+      }
+    }
+  },
+  {
+    "tweet_id": "1558517913866440704",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Market cap milestones frequently circulate in crypto circles but lack broader viral appeal."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific, verifiable market data about Ethereum's valuation."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual announcement without explicit sentiment indicators."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Market cap figures become outdated quickly as prices fluctuate."
+      }
+    }
+  },
+  {
+    "tweet_id": "1558474495685443587",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Memetic structure and tribal crypto comparisons encourage sharing within communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Opinion-based statement without supporting data or context."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive framing through flattering comparison ('Geniuses')."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term engagement typical of tribal crypto memes."
+      }
+    }
+  },
+  {
+    "tweet_id": "1558308479491706882",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Price milestones attract attention but lack unique viral elements."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific price point information relevant to crypto traders."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral price announcement without commentary."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Immediately outdated with price fluctuations."
+      }
+    }
+  },
+  {
+    "tweet_id": "1558279170182074368",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Poll format and Merge timing create engagement incentives."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Speculative price prediction without analysis or sources."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Enthusiastic emojis and capitalization indicate positive bias."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant until Merge date occurs in September."
+      }
+    }
+  },
+  {
+    "tweet_id": "1558277572139548672",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Similar to other market cap tweets - niche interest with moderate sharing."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific market capitalization figure from known tracker account."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral financial reporting."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Time-sensitive market data with short relevance window."
+      }
+    }
+  },
+  {
+    "tweet_id": "1558072902972473344",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Critical technical update from Ethereum's founder about The Merge, highly anticipated event."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Primary-source technical details about Ethereum's protocol change with prediction timeline."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral technical communication with factual details."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Historic protocol change that will be referenced in crypto development for years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1557891995254808577",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Leverages 'Inverse Cramer' meme popular in finance circles for engagement."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Combines historical price data with commentary, but primarily opinion-based."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Implied criticism through reference to previous negative price action."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Tied to current market conditions and Cramer's ongoing commentary."
+      }
+    }
+  },
+  {
+    "tweet_id": "1557818615637966849",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Niche joke requiring understanding of specific crypto personalities."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Personal anecdote without substantive information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral humor without strong positive/negative valence."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Context-dependent joke with limited shelf life."
+      }
+    }
+  },
+  {
+    "tweet_id": "1557765858876952577",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Combines two influential figures discussing major crypto event, driving engagement."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Confirms Merge timeline and future content plans from primary sources."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive framing through 'good luck' and collaboration announcement."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Remains relevant through Merge execution and subsequent podcast release."
+      }
+    }
+  }
+]

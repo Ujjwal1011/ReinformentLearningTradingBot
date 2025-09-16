@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1732475474972999729",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet announces a significant event (launch of Baby Doge AI Image Generator & NFT Minter) with clear benefits for holders, likely generating excitement and shares within the Baby Doge community and possibly beyond."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides specific details about an upcoming launch, including benefits for Baby Doge holders, but the information's depth is somewhat limited to the event itself."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "Expresses high enthusiasm and excitement with the use of emojis (🐶 🎨) and phrases like 'Unleash your Creativity', indicating a very positive tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance peaks at the launch time but remains relevant for discussions and follow-ups on the generator and NFT minter for a few days after."
+}
+}
+},
+{
+"tweet_id": "1732469774012019049",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "While the resolution of a Metamask FUD issue might interest the HEX and Ethereum communities, it's unlikely to spread widely beyond these groups."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides specific, newsworthy information about a resolved issue with Metamask and BlockAIDS, including context and a thank you to a community member."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Expresses relief and positivity with the resolution of the issue, thanking a community member, but the tone is more informative than ecstatic."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The relevance of this tweet is short-lived, primarily of interest during the immediate aftermath of the issue's resolution."
+}
+}
+},
+{
+"tweet_id": "1732469330288537740",
+"analysis": {
+"virality_potential": {
+"score": 2,
+"justification": "A somewhat controversial or satirical take on Bitcoin core and Ethereum, but it lacks a clear hook for widespread sharing."
+},
+"informative_value": {
+"score": 3,
+"justification": "Presents a subjective, somewhat confusing viewpoint without clear factual information or new insights into Bitcoin or Ethereum."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "Expresses a moderately negative sentiment towards the Bitcoin core team, but the tone is more critical than intensely emotional."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevance is short-term, mainly sparking immediate reactions or debates, with little long-term discussion value."
+}
+}
+},
+{
+"tweet_id": "1732467461025657283",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "A survey about Ethereum's price future might interest followers of Peter Brandt and Ethereum, but it's not highly engaging for a broad audience."
+},
+"informative_value": {
+"score": 6,
+"justification": "Informs about a survey by a renowned analyst, providing some context about Ethereum's price movement, but lacks in-depth analysis."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Maintains a neutral tone, focusing on reporting an event (the survey) without expressing a clear emotional stance."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevance lasts as long as the survey is open and for a short period after, when results might be discussed."
+}
+}
+},
+{
+"tweet_id": "1732467445309309159",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "News about the SEC's decision on Grayscale's Ethereum ETF might interest crypto enthusiasts, but it's not highly shareable beyond this group."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides timely, newsworthy, and specific information about a significant regulatory decision affecting Ethereum and the crypto market."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Reports the news in a neutral tone, without expressing a clear emotional stance or bias."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet remains relevant for several days as the implications of the SEC's decision are discussed and analyzed."
+}
+}
+},
+{
+"tweet_id": "1732459957654610171",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Criticism of JPMorgan's involvement with Ethereum and potential future CBDC, while engaging for some, might not spread widely due to its specific focus."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides specific information about JPMorgan's past and potential future actions in the crypto space, but with a critical, subjective spin."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "Expresses a strongly negative sentiment towards JPMorgan's actions and potential implications, using critical language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevance extends beyond the immediate as the discussion around CBDCs and JPMorgan's role evolves."
+}
+}
+},
+{
+"tweet_id": "1732455656404156622",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Announces a significant event (Baby Doge AI image generator & NFT minter launch) with broad appeal, especially to creatives and NFT enthusiasts, likely generating high engagement."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides specific details about the upcoming launch, including the ability to create AI-generated Baby Doge art, appealing to potential users."
+},
+"sentiment_polarity": {
+"score": 10,
+"justification": "Expresses extreme enthusiasm and excitement, inviting followers to 'Dive into the digital art world', indicating a highly positive and inviting tone."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet's relevance peaks at launch but remains a topic of discussion for several days after as users engage with the new features."
+}
+}
+},
+{
+"tweet_id": "1732455168032338152",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "While the top 10 crypto performance update might interest crypto followers, it's more of a standard update than a highly shareable piece of content."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides clear, factual information about the year-to-date performance of top cryptocurrencies, including Bitcoin and Ethereum."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Maintains a neutral tone, focusing on reporting factual information without expressing a clear emotional stance."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevance is moderate, lasting through the end of the year as performance summaries are discussed."
+}
+}
+},
+{
+"tweet_id": "1732445560605733091",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Discussions with 'super cool' BRC20 projects might interest the Bitcoin and Ethereum communities, potentially generating some buzz."
+},
+"informative_value": {
+"score": 6,
+"justification": "Informs about BakerySwap's discussions with BRC20 projects, aiming to bridge Bitcoin and Ethereum ecosystems, but lacks detailed insights."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Expresses a positive sentiment, describing projects as 'super cool' and aiming for a significant ecosystem connection."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevance extends as the projects near launch and the community discusses the potential impact of this bridge."
+}
+}
+},
+{
+"tweet_id": "1732444833753743658",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The introduction of 'SUPERCHAIN' by SuperchiefNFT, especially during Miami Art Week, has the potential to generate significant interest and shares within the NFT and art communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides detailed information about the 'SUPERCHAIN' multichain open edition, including its availability on multiple platforms."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "Expresses a highly positive tone, celebrating the launch of 'SUPERCHAIN' during a significant event (Miami Art Week), indicating enthusiasm."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet's relevance is high during Miami Art Week and remains a topic of discussion for several days after as the NFT's novelty is explored."
+}
+}
+}
+]

@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1732198166999580989",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet has a mix of niche hashtags (e.g., #NFTartwork, #pixelart) and broader ones (e.g., #Crypto, #Ethereum), potentially generating interest within specific communities."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet informs about an NFT drop with a link, but the information is promotional rather than educational or newsworthy."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses moderate positive sentiment, indicated by the enthusiastic tone and use of hashtags like #tuesdayvibe."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is short-term, tied to the NFT drop's immediate promotional period."
+}
+}
+},
+{
+"tweet_id": "1732198073932357748",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet's technical content and specific reference to a challenge might limit its virality to a niche audience."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet discusses a specific, somewhat technical topic (Ethereum L2 and multi-signature wallets), providing some educational value."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The sentiment is neutral, focusing on discussing a topic without expressing strong emotions."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is standard, potentially generating discussion for a day or two within the interested community."
+}
+}
+},
+{
+"tweet_id": "1732198070144717250",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "The tweet, being in a non-English language (zxx) and lacking context, has limited potential for broad sharing."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet provides minimal information, being a link without context in an uncommon language."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The sentiment cannot be accurately determined due to the language barrier and lack of contextual information."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "The tweet's relevance is very short, as its impact is instantly diminished due to the language and content issues."
+}
+}
+},
+{
+"tweet_id": "1732198047298302377",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet has a neutral virality potential, being a news update that might interest the gaming and crypto communities but lacks a strong hook."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides newsworthy information about Amazon Prime and an NFT game, including a link for more details."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet expresses a moderately positive sentiment, indicated by the nature of the news (free card packs)."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is somewhat short-term, tied to the immediate interest in the news update."
+}
+}
+},
+{
+"tweet_id": "1732197914099810700",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet's content, while informative, is in Vietnamese, limiting its broad sharing potential to mostly Vietnamese-speaking audiences."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides high-value, newsworthy information about a significant development in blockchain by a major bank."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The sentiment is neutral, focusing on reporting news without expressing strong emotions."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The tweet's relevance endures for a longer period, as the news about the bank's blockchain move has lasting implications."
+}
+}
+},
+{
+"tweet_id": "1732197644536311976",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet's use of engaging visuals (emojis) and discussion of crypto market trends could generate interest within the crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides specific, useful information about crypto market trends and investments."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses a moderately positive sentiment, indicated by the enthusiastic presentation of market growth."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance lasts for days or weeks, as market trends continue to be of interest to the crypto community."
+}
+}
+},
+{
+"tweet_id": "1732197206164377834",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet is informative but lacks a strong hook for broad virality, appealing mainly to those interested in the specific network and token."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides detailed, useful information about a wallet integration on Ethereum, including a link to the full announcement."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The sentiment is neutral, focusing on informing about a development without expressing strong emotions."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance endures for days or weeks, as the integration's announcement has ongoing interest for the affected community."
+}
+}
+},
+{
+"tweet_id": "1732197191987716116",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet discusses a highly speculative and engaging topic (Elon Musk's plans for X and potential crypto integrations), likely to generate significant interest."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides some speculative insight but lacks concrete, newsworthy information, relying on general knowledge about Elon Musk's plans."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses a very positive sentiment, indicated by the enthusiastic tone and anticipation of significant developments."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet's relevance lasts for days or weeks, as speculation about X and crypto integrations continues to interest the broader crypto and tech communities."
+}
+}
+},
+{
+"tweet_id": "1732196905697128745",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet's success story (minting to selling at a higher value) could generate interest within NFT and crypto communities, especially with the use of a provocative hashtag (#FCKOFF)."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet provides some information about an NFT's value increase but lacks broader educational or newsworthy content."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The tweet expresses a very positive sentiment, indicated by the boastful tone and success story."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is somewhat short-term, tied to the immediate interest in the NFT's success story."
+}
+}
+},
+{
+"tweet_id": "1732196776851976233",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet's mention of multiple cryptocurrencies and a somewhat generic call to action might generate moderate interest within the crypto community."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet provides minimal information, lacking specific insights or newsworthy content beyond a promotional message."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses a very positive sentiment, indicated by the enthusiastic tone and use of positive emojis (🚀, 🔥)."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is standard, potentially generating discussion for a day or two within the interested community."
+}
+}
+}
+]

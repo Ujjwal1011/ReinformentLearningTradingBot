@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1732118899414474998",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet is about an artistic performance, which may have niche appeal but lacks a strong hook for broader sharing."
+},
+"informative_value": {
+"score": 3,
+"justification": "It's a personal update with mentions of collaborators but lacks substantial information."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive sentiment with gratitude and excitement about the performance."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant for the duration of the event, likely a short period."
+}
+}
+},
+{
+"tweet_id": "1732118593133748522",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Critique of Ethereum's scalability issues, likely shared within crypto communities."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides technical insights into Ethereum and Solana developments."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "Negative sentiment towards Ethereum's approach."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Ongoing relevance as it's a critique of current trends."
+}
+}
+},
+{
+"tweet_id": "1732116551149441038",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Promotion of an NFT, likely shared within the NFT community."
+},
+"informative_value": {
+"score": 4,
+"justification": "Brief promotion without detailed information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment encouraging purchase."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Short-lived as NFT trends can quickly change."
+}
+}
+},
+{
+"tweet_id": "1732112951631360386",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Mentions of crypto in a popular show, likely shared widely."
+},
+"informative_value": {
+"score": 4,
+"justification": "Fun fact about crypto in media."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive and excited about the mention."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for the duration of the show's episode."
+}
+}
+},
+{
+"tweet_id": "1732112815530348860",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Discussion of Ethereum in a political context, shared within crypto communities."
+},
+"informative_value": {
+"score": 7,
+"justification": "References regulatory discussions, informative for enthusiasts."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment, focusing on the content."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Ongoing relevance due to regulatory topics."
+}
+}
+},
+{
+"tweet_id": "1732111541531554057",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "Mentions several protocols but lacks a strong hook."
+},
+"informative_value": {
+"score": 4,
+"justification": "Call to action without detailed information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment, promotional in nature."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short relevance as it's a specific call to action."
+}
+}
+},
+{
+"tweet_id": "1732111520006328633",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Technical discussion about Ethereum Classic, niche appeal."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides insights into blockchain technology."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, informative tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Medium relevance as it's a technical topic."
+}
+}
+},
+{
+"tweet_id": "1732110958192099652",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Promotion of a cryptocurrency, shared within crypto communities."
+},
+"informative_value": {
+"score": 4,
+"justification": "Encourages awareness but lacks detailed info."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment aiming for global recognition."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Short relevance as crypto trends can change quickly."
+}
+}
+},
+{
+"tweet_id": "1732110451461234991",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Promotion of a mission with rewards, shared within the community."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides steps to earn rewards."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive and encouraging."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Time-sensitive, relevant for the mission period."
+}
+}
+},
+{
+"tweet_id": "1732110330938171673",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Critique of a project's decision, shared within crypto communities."
+},
+"informative_value": {
+"score": 7,
+"justification": "Discusses technical and strategic decisions."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "Negative sentiment towards the project's choice."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Ongoing relevance as it's a critique of a specific strategy."
+}
+}
+}
+]

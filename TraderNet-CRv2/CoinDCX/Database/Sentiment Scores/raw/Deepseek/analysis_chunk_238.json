@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1766896528373809623",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet discusses a blockchain fee change relevant to Ethereum users, likely sparking interest within crypto communities but lacking global appeal."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides actionable information about fee changes but lacks technical details or primary-source verification."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone with factual observations about blockchain activity, no overt emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for weeks as users adapt to fee changes, but superseded by future protocol updates."
+      }
+    }
+  },
+  {
+    "tweet_id": "1766847843556262287",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Strong comparative claims about HEX vs. Ethereum may drive engagement in crypto communities through debate."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Offers specific comparisons of blockchain features but lacks supporting data or sources."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Clearly negative toward Ethereum with terms like 'crappier' and criticism of fees."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Gas fee debates remain relevant for months in crypto discourse."
+      }
+    }
+  },
+  {
+    "tweet_id": "1766707165828469211",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Provocative question about underreported Ethereum upgrade could spark discussion among developers."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Raises awareness of an event but provides no technical details or context."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Frustrated tone implied by 'the fuck,' indicating moderate negativity."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance limited to immediate post-hardfork analysis period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1766594523872866635",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Historic content featuring Ethereum's creator has high shareability in crypto circles."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Merely shares a video link without context or educational value."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of a historical figure with no emotional valence."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Evergreen content about Ethereum's origins maintains long-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1766590070209864172",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Large USDT minting events often attract attention in crypto markets."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Reports a significant on-chain event critical for traders and analysts."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of a financial transaction without commentary."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant primarily for short-term market liquidity analysis."
+      }
+    }
+  },
+  {
+    "tweet_id": "1766589672019353618",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Identical to previous USDT tweet; duplicate content may reduce virality but still notable."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Same critical financial data as prior tweet, equally informative."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Identical neutral reporting of transaction data."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Same short-term relevance as duplicate alert."
+      }
+    }
+  },
+  {
+    "tweet_id": "1766550765223739844",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Endorsement by a major financial figure (Larry Fink) drives crypto community interest."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Reports a notable opinion but lacks context or verification."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive implication through endorsement of cryptocurrencies."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant until next significant market-moving statement."
+      }
+    }
+  },
+  {
+    "tweet_id": "1766480813590503632",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Uplifting message about crypto innovation encourages sharing among enthusiasts."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "General statement about projects without specific insights."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive framing of technological progress."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Evergreen reference to foundational blockchain projects."
+      }
+    }
+  },
+  {
+    "tweet_id": "1766319753700725152",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Competitive metric (DEX volume) between chains drives engagement through rivalry."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific market data point valuable for traders."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of comparative metrics."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant for current market analysis cycle (days)."
+      }
+    }
+  },
+  {
+    "tweet_id": "1766266656530059431",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Service disruption at major exchange likely to spread rapidly among users."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Critical operational update for Gemini platform users."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Alarming news conveyed through urgent language ('BREAKING')."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Immediate concern until withdrawal functionality resumes."
+      }
+    }
+  }
+]

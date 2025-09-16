@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1641980557650452481",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet announces a sale, which can attract community interest and shares within the DeGods community, but lacks a broader emotional hook."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides clear factual info about a sale price and platform, useful for interested users."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral factual statement with no emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The tweet is relevant for the duration of the sale, likely a few days, then fades."
+      }
+    }
+  },
+  {
+    "tweet_id": "1641976775239675905",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Useful update for community, likely shared within community but not beyond."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Factual announcement with links, providing useful info about migration."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral informational tone."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant for the migration period, a few days to weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1663784295670988802",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet uses many crypto hashtags and a call to action, and has high retweet count relative to follower base, indicating strong shareability within the crypto community."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides basic info about a token airdrop and a link, but is primarily promotional."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive, enthusiastic tone encouraging participation."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant for the duration of the airdrop, likely a few days to a week."
+      }
+    }
+  },
+  {
+    "tweet_id": "1663626521821708288",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "High retweet and like counts relative to follower base, many crypto hashtags, indicates strong shareability."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides basic info about airdrop and link, but primarily promotional."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive, urgent tone encouraging participation."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant for the duration of the airdrop, likely a few days to a week."
+      }
+    }
+  },
+  {
+    "tweet_id": "1663618690061946881",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "High retweets and likes relative to follower base, many crypto hashtags, indicates strong shareability."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides basic info about airdrop and link, but primarily promotional."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive, urgent tone encouraging participation."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant for the duration of the airdrop, likely a few days to a week."
+      }
+    }
+  }
+]

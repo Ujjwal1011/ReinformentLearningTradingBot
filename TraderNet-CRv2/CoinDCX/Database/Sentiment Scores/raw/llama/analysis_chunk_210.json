@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1732045659300299005",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet discusses a specific solution for Ethereum's expense issue, which might generate interest within the crypto community, but its reach is limited."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides useful information about stakedotlink's efforts to enable cross-chain liquid staking, educating readers on a specific aspect of the Ethereum ecosystem."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tone is moderately positive, highlighting a solution to a problem, but the language is more informative than enthusiastically promotional."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance will last as long as the staking event is anticipated and shortly after, making its impact medium-term."
+}
+}
+},
+{
+"tweet_id": "1732043618704031784",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "News about a major bank launching crypto services can elicit strong interest and sharing within the crypto and financial communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides significant, newsworthy information about a major development in crypto adoption by a traditional financial institution."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tone is very positive, indicated by the use of '🚀', suggesting excitement and optimism about the development."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The news will remain relevant for several days to a week, as it marks a significant milestone in crypto adoption."
+}
+}
+},
+{
+"tweet_id": "1732043497514139968",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet's content, while engaging for those deeply into crypto, is niche and unlikely to attract a broader audience."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides a brief, somewhat informative overview of current discourse in crypto, but it's more of a commentary than in-depth information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, offering a summary without expressing strong emotions, though the choice of words might slightly lean towards the negative for some projects."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The relevance of the tweet is short-term, as the 'current discourse' in crypto changes rapidly."
+}
+}
+},
+{
+"tweet_id": "1732043388382507343",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The promotional nature of the tweet, while potentially engaging for those interested in DAOs, is unlikely to go viral beyond that niche."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet educates readers on a specific tool (Aragon App on Arbitrum) for building DAOs, providing useful information for a targeted audience."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tone is moderately positive, encouraging and supportive, with the use of emojis (💙 🧡) to convey enthusiasm."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance will last as long as the Aragon App on Arbitrum remains a novel solution, making its impact medium-term."
+}
+}
+},
+{
+"tweet_id": "1732040781907824790",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet's practical advice on optimizing Ethereum gas fees could generate interest and sharing within the Web3 community."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides actionable tips (via a linked resource) for a common pain point in the Web3 space, offering high informative value."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, focusing on providing a solution rather than expressing emotion about the issue of gas fees."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The relevance of optimizing gas fees is an ongoing concern, making the tweet's impact long-term."
+}
+}
+},
+{
+"tweet_id": "1732040600994894279",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet's complaint about Ethereum fees, while relatable, is not unique or impactful enough to generate significant sharing."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet expresses a personal frustration without providing new or useful information about Ethereum or its fees."
+},
+"sentiment_polarity": {
+"score": 1,
+"justification": "The tone is very negative, with the user expressing disgust ('asco') towards Ethereum's fees."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is short-term, as it's a fleeting expression of frustration without lasting impact."
+}
+}
+},
+{
+"tweet_id": "1732039488443203722",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet's specific project update is niche and unlikely to generate broad interest or sharing."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides specific, albeit somewhat technical, information about a project's development and its relationship with various blockchains."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, presenting information without emotional leaning, though the context might imply a slight negative undertone regarding the project's platform choices."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The relevance of the tweet is medium-term, lasting as long as the mentioned project developments remain of interest."
+}
+}
+},
+{
+"tweet_id": "1732037876152672693",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "News about a significant change in how Ethereum users create wallets could generate considerable interest and sharing within the crypto community."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides highly newsworthy and informative content about a major development in Ethereum's user experience."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, focusing on reporting the news without expressing a clear emotional stance."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The news will remain highly relevant for an extended period, as it marks a significant shift in Ethereum's approach to user security and convenience."
+}
+}
+},
+{
+"tweet_id": "1732037175573979154",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The announcement of a partnership could generate interest within the Ethereum staking and regenerative public goods funding communities."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet informs readers about a specific collaboration aimed at impacting Ethereum's staking landscape and public goods funding."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tone is moderately positive, indicated by the excitement of a 'Big announcement' and the potential positive impact of the partnership."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The relevance of the tweet will last as long as the partnership's effects are anticipated and realized, making its impact medium to long-term."
+}
+}
+},
+{
+"tweet_id": "1732035587593711864",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The sensational prediction of an Ethereum pump and a Bitcoin ETF approval could generate significant sharing and discussion, especially within speculative communities."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet provides speculative information without clear basis or credible sources, reducing its informative value."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The tone is extremely positive, with the use of '🚨' and '100X #ALTCOINS 2024', indicating high excitement and optimism about the predicted events."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The relevance of the tweet is short-term, as the predicted events are time-sensitive and the tweet's impact hinges on their immediate occurrence."
+}
+}
+} 
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1547934436242497536",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Targets a niche community but provides specific information that could be shared within Ethereum circles."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides a clear update on a significant event in the Ethereum ecosystem."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone, simply stating facts about the merge."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant until the merge occurs, likely a few weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1547917664743354369",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Similar to the first tweet, targets Ethereum developers and enthusiasts."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Gives a timeframe for the merge, useful for the community."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral statement about the target date."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant until the merge date, a few weeks ahead."
+      }
+    }
+  },
+  {
+    "tweet_id": "1547266063615803394",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Personal list of tools, unlikely to go viral beyond niche audiences."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides useful resources for crypto analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral listing of tools without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant for a short period as tools may change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1546998994638979074",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High-value transaction in crypto, likely shared in crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Details a significant transaction with relevant links."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment with excitement about the purchase."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a few days as it's a specific sale event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1546877283297902595",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Quote from a notable figure, likely shared among Bitcoin and Ethereum communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides a statement from Michael Saylor about Ethereum."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment regarding Ethereum's security."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a few days as it's a specific quote."
+      }
+    }
+  },
+  {
+    "tweet_id": "1546604805572927493",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Interesting comparison that could spark discussions."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Compares crypto to traditional currencies, providing context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral comparison without strong emotion."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant for a few days as it's a specific comparison."
+      }
+    }
+  },
+  {
+    "tweet_id": "1546523153224159234",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Personal anecdote, unlikely to go viral beyond niche audiences."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Shares a personal story without providing broader information."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative sentiment about the investment decision."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevant only until the investment outcome is clear."
+      }
+    }
+  },
+  {
+    "tweet_id": "1546332898147672064",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Criticism of high fees, likely shared in crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Highlights issues with Ethereum transaction costs."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative sentiment towards Ethereum's fees."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for weeks as it's a common issue."
+      }
+    }
+  },
+  {
+    "tweet_id": "1546142971543814145",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Lists popular cryptocurrencies, relevant to crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides current data on crypto followers."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral listing of data."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant for a few days as follower counts change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1546016303583993856",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Fun fact about Ethereum's history, shared among crypto communities."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Provides historical context but is not deeply informative."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral fact without strong emotion."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant for a few days as it's a historical milestone."
+      }
+    }
+  }
+]

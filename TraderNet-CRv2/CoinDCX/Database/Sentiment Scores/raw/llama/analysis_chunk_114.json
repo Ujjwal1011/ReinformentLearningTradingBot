@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1547934436242497536",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "A specific, yet somewhat niche, update about Ethereum's merge timeline has potential within crypto communities, but lacks broad appeal."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides specific, newsworthy information about Ethereum's development roadmap, likely valuable to those following the project."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, factual reporting without emotional tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant until the merge occurs, then quickly loses significance."
+}
+}
+},
+{
+"tweet_id": "1547917664743354369",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Similar to the previous tweet, this Ethereum merge update has community-specific interest but limited broader virality."
+},
+"informative_value": {
+"score": 8,
+"justification": "Conveys timely, relevant information about Ethereum's merge, valuable to followers of the project."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Reports news in a neutral, factual manner."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Remains relevant until the merge, then its impact diminishes."
+}
+}
+},
+{
+"tweet_id": "1547266063615803394",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "A list of tools for crypto analysis is useful within a niche but lacks the hook for broader sharing."
+},
+"informative_value": {
+"score": 9,
+"justification": "Extremely valuable for those in crypto analysis, providing a comprehensive list of resources."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, as the tweet is informative without expressing emotion."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "As a list of resources, it remains relevant for an extended period, potentially months or longer."
+}
+}
+},
+{
+"tweet_id": "1546998994638979074",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "High-value transactions, especially in the NFT space, can generate significant interest and sharing within and beyond crypto communities."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides specific, verifiable transaction data, though its informative value may be limited to those interested in CryptoPunks or NFTs."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, focusing on reporting a transaction without emotional tone."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Primarily relevant in the short term, as the novelty of the transaction wears off quickly."
+}
+}
+},
+{
+"tweet_id": "1546877283297902595",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "A provocative statement from a notable figure can spark engagement and sharing, particularly within the Bitcoin vs. Ethereum debate."
+},
+"informative_value": {
+"score": 3,
+"justification": "Limited to quoting an opinion without additional context or educational value."
+},
+"sentiment_polarity": {
+"score": 1,
+"justification": "Expresses a strong negative sentiment towards Ethereum, framed as a security."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevant for a few days, primarily within the context of the ongoing debate between Bitcoin and Ethereum supporters."
+}
+}
+},
+{
+"tweet_id": "1546604805572927493",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Humor, especially when comparing complex financial topics to relatable everyday experiences, has high potential for broad sharing."
+},
+"informative_value": {
+"score": 2,
+"justification": "Minimal informative value, as the primary purpose is humor rather than education."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Moderately positive, due to the humorous approach, despite discussing a potentially negative financial topic."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "As a humorous tweet, it can remain engaging for several days to a week, depending on its discovery within social circles."
+}
+}
+},
+{
+"tweet_id": "1546523153224159234",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Personal anecdotes, especially those with unexpected twists or lessons, can resonate and be shared widely."
+},
+"informative_value": {
+"score": 1,
+"justification": "Very low, as the tweet's focus is on a personal story rather than conveying information or advice."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "Moderately negative, given the context of financial loss, but presented in a somewhat lighthearted or resigned manner."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Primarily relevant in the short term, as the story's novelty wears off quickly."
+}
+}
+},
+{
+"tweet_id": "1546332898147672064",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Provocative, relatable comparisons that critique modern economic norms have high potential for sharing and discussion."
+},
+"informative_value": {
+"score": 4,
+"justification": "Provides a comparative perspective, though not deeply informative, sparking thought on the new economy's challenges."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "Very negative towards the new economy, framing it as 'rekt'."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Remains relevant for several days to weeks, as the critique of the new economy is a recurring topic."
+}
+}
+},
+{
+"tweet_id": "1546142971543814145",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Lists, especially those ranking popular cryptocurrencies, have moderate appeal within the crypto community but limited broader virality."
+},
+"informative_value": {
+"score": 8,
+"justification": "Valuable for those interested in the relative popularity of cryptocurrencies on Twitter."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, presenting data without emotional tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for several days, as the rankings can spark short-term interest and comparisons."
+}
+}
+},
+{
+"tweet_id": "1546016303583993856",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Nostalgic or 'fun fact' tweets about cryptocurrency prices have limited appeal and sharing potential."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides a historical price point for Ethereum, which might be interesting but not highly informative."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, as the tweet is factual without expressing emotion."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Primarily relevant in the very short term, as nostalgic value quickly diminishes."
+}
+}
+}
+]

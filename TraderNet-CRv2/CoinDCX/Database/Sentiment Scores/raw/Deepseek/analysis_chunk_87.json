@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1510731366782017541",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Bold price prediction with crypto hashtag could generate discussion within crypto communities, but lacks unique data/analysis for broader appeal."
+},
+"informative_value": {
+"score": 2,
+"justification": "Contains no verifiable information - just an unsupported price prediction."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Expresses optimistic outlook through bullish price prediction."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Price predictions remain relevant until either achieved or disproven, creating medium-term discussion."
+}
+}
+},
+{
+"tweet_id": "1510442459125321730",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Provocative comparison between cryptocurrencies likely to spark debates within crypto communities."
+},
+"informative_value": {
+"score": 3,
+"justification": "Makes a subjective claim about competition without supporting evidence."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "Implies negative comparison of Ethereum through competitive framing."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Ongoing crypto debates could keep this comparison relevant for weeks."
+}
+}
+},
+{
+"tweet_id": "1510388233842016256",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Niche appeal combining pop culture brands with crypto tech, limited to specific communities."
+},
+"informative_value": {
+"score": 4,
+"justification": "Mentions corporate adoption of Ethereum L2 but provides no concrete details."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral statement with implied optimism through 'Probably nothing' meme."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevance tied to current corporate blockchain developments, likely short-term."
+}
+}
+},
+{
+"tweet_id": "1510320540145364996",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Large transaction news with specific figures likely to spread quickly in crypto circles."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides verifiable transaction details with specific amounts and entities."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral reporting of factual information without clear emotional tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Transaction news typically has short-term relevance unless part of larger trend."
+}
+}
+},
+{
+"tweet_id": "1510309122461163525",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Controversial asset swap announcement likely to provoke discussion in crypto communities."
+},
+"informative_value": {
+"score": 3,
+"justification": "Personal investment decision without broader analytical value."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "Expresses negative sentiment toward Ethereum through asset divestment."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevance limited to current proof-of-work vs proof-of-stake debates."
+}
+}
+},
+{
+"tweet_id": "1510292791254937602",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Motivational message with crypto FOMO angle could resonate within community."
+},
+"informative_value": {
+"score": 4,
+"justification": "Provides no new information - focuses on personal experience/advice."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Encouraging tone with optimistic view of crypto opportunities."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Evergreen FOMO narrative maintains relevance in crypto spaces."
+}
+}
+},
+{
+"tweet_id": "1509994442014474243",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Real-world crypto adoption news with visual evidence could drive shares."
+},
+"informative_value": {
+"score": 5,
+"justification": "Documents physical crypto advertising but lacks context/verification."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral reporting of observed advertisement."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Time-bound to specific advertising campaign visibility."
+}
+}
+},
+{
+"tweet_id": "1509919431652261893",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Controversial asset swap mirrors previous tweet, ensuring debate engagement."
+},
+"informative_value": {
+"score": 3,
+"justification": "Personal investment choice without analytical depth."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Expresses strong positive sentiment toward Ethereum's proof-of-stake."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Tied to ongoing technical debates in crypto with medium-term relevance."
+}
+}
+},
+{
+"tweet_id": "1509898040693436420",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Technical explanation has niche appeal but limited viral potential."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides clear educational content about Ethereum wallet security."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral technical explanation with implied support for self-custody."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Fundamental security concepts maintain long-term relevance."
+}
+}
+},
+{
+"tweet_id": "1509870705256456196",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Breaking news format about major blockchain integration attracts immediate attention."
+},
+"informative_value": {
+"score": 8,
+"justification": "Presents significant platform development news with thread promise."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Implied positive sentiment toward Ethereum through integration news."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Major platform changes have medium-long term relevance in crypto ecosystems."
+}
+}
+}
+]

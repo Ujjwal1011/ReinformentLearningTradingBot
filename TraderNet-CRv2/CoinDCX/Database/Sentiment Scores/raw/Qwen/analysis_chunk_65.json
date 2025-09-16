@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1495572067315556360",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Expresses confidence in Ethereum, which could resonate with crypto communities but lacks a strong hook for broader virality."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Personal opinion without detailed information or sources."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment with enthusiasm about Ethereum's potential."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Impact is short-term as it's a speculative prediction."
+      }
+    }
+  },
+  {
+    "tweet_id": "1495521902802186240",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Specific claim about Ethereum's future, likely to engage crypto communities."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Lacks sources or detailed explanation, making it less informative."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment with confidence in Ethereum's future."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term impact as it's a speculative claim."
+      }
+    }
+  },
+  {
+    "tweet_id": "1495491311037730818",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Notable event about a dormant address, likely to attract attention in crypto circles."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides factual information with a link to the event."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment, presenting a factual update."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Medium-term impact as it's a significant event but not timeless."
+      }
+    }
+  },
+  {
+    "tweet_id": "1495301305652461571",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Technical suggestion, relevant to Ethereum users but not widely shareable."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides useful tips for Ethereum wallet improvements."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment, focusing on functionality."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Medium-term impact as it's a suggestion for ongoing improvement."
+      }
+    }
+  },
+  {
+    "tweet_id": "1495298037492551680",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Factual milestone announcement, likely to engage crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific data with a link to the source."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment highlighting Ethereum's success."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term impact as it's a recent event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1495182605519630338",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Quote from a notable figure, likely to be shared widely."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides a meaningful statement about cryptocurrency's purpose."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment emphasizing the importance of cryptocurrency."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Long-term impact as it's a foundational statement."
+      }
+    }
+  },
+  {
+    "tweet_id": "1495165600687140869",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Meme about Vitalik's attire, likely to go viral quickly."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Minimal information, focuses on a trivial aspect."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment, presenting a humorous observation."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Very short-term impact as it's a fleeting meme."
+      }
+    }
+  },
+  {
+    "tweet_id": "1495089875913256962",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Personal concern about investment, resonates with some but not widely viral."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Personal anecdote without detailed analysis."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Moderately negative sentiment questioning investment wisdom."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term impact as it's a personal concern."
+      }
+    }
+  },
+  {
+    "tweet_id": "1494940219463782400",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Announcement of a new listing, likely to engage crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides information on a new listing with a link."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment about the listing."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term impact as it's a recent event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1494921128023769090",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Joke about Vitalik's presence, may resonate within crypto circles."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Minimal information, focuses on a joke."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Moderately negative sentiment comparing to another figure."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Very short-term impact as it's a joke."
+      }
+    }
+  }
+]

@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1732190298120331710",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet announces a new cryptocurrency launch, which can generate significant interest within the crypto community, and the use of engaging visuals and hashtags increases its shareability."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet informs about a new cryptocurrency launch, providing some context, but lacks in-depth information or educational value beyond the announcement."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The tweet expresses strong positive emotions through the use of enthusiastic language ('Just Launched!', 'digital fortune') and emojis (🚀, 🌈)."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance will last for days to weeks, as the initial launch phase of the cryptocurrency generates interest, but its impact will fade as the novelty wears off."
+}
+}
+},
+{
+"tweet_id": "1732190168587894903",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet discusses a potential market surge based on a specific event, which might interest crypto enthusiasts, but lacks a strong hook for broader sharing."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides newsworthy information about a potential significant market movement, including specific projections, making it informative for those interested in Ethereum."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet maintains a neutral tone, focusing on reporting potential market movements without expressing strong emotions."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to the short-term outcome of the SEC approval, making its impact relatively short-lived."
+}
+}
+},
+{
+"tweet_id": "1732190150476574964",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet discusses a specific Ethereum L2 project, which might interest a niche audience, but lacks broad appeal for widespread sharing."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides detailed information about a project, including its funding and features, making it informative for those interested in Ethereum L2 solutions."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet maintains a neutral tone, focusing on providing information about the project without expressing strong emotions."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet's relevance will last for days to weeks, as the project's launch and its features generate interest within the Ethereum community."
+}
+}
+},
+{
+"tweet_id": "1732190121540374918",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet discusses successful Ethereum-based projects, which might generate interest within the crypto community, but lacks a strong viral hook."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides in-depth information about two projects, including their history and impact, making it highly informative for those interested in Ethereum's ecosystem."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses positive sentiments towards the projects' success and impact, but in a professional and restrained manner."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The tweet's relevance will last for months, as the information about the projects' success and their foundational aspects remains valuable over time."
+}
+}
+},
+{
+"tweet_id": "1732190048487952723",
+"analysis": {
+"virality_potential": {
+"score": 2,
+"justification": "The tweet is a brief, non-descript link share that lacks any engagement drivers, making it highly unlikely to be shared widely."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet provides minimal information, only sharing a link without context, making it of little informative value."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet's sentiment is neutral, as it does not express any emotions or opinions."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "The tweet's relevance is instantly fleeting, as it lacks any lasting value or context."
+}
+}
+},
+{
+"tweet_id": "1732189792589484051",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "The tweet discusses a strategy involving IBC tx fees, which might interest a niche audience, but lacks broad appeal for widespread sharing."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet provides a specific strategy but lacks in-depth explanation or broader educational value, limiting its informative impact."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses a moderately positive sentiment through the expression of a bullish outlook."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to the short-term market fluctuations, making its impact relatively short-lived."
+}
+}
+},
+{
+"tweet_id": "1732189748796457215",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet reports a significant transaction, which might generate interest within the crypto community, but lacks a strong viral hook."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides specific, newsworthy information about a large transaction, including details, making it informative for those tracking Ethereum transactions."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet maintains a neutral tone, focusing on reporting the transaction without expressing strong emotions."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is short-lived, as the significance of the transaction fades quickly in the context of ongoing market activity."
+}
+}
+},
+{
+"tweet_id": "1732189744497356813",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The tweet's enthusiastic announcement of a new season for a cryptocurrency project, combined with multiple relevant hashtags and emojis, increases its shareability significantly."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet informs about a new season launch but lacks in-depth information or educational value beyond the announcement."
+},
+"sentiment_polarity": {
+"score": 10,
+"justification": "The tweet expresses extremely positive emotions through the use of highly enthusiastic language ('Lesgooooo', '🚀🚀🚀🚀') and multiple positive hashtags."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance will last for days to weeks, as the initial launch phase of the new season generates interest within the project's community."
+}
+}
+},
+{
+"tweet_id": "1732189626620649859",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet discusses a comparative preference between Ethereum and Solana, which might interest crypto enthusiasts, but lacks a strong hook for broader sharing."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides a subjective comparison but lacks in-depth analysis or broader educational value, limiting its informative impact."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The tweet expresses a moderately negative sentiment towards Ethereum by implying Solana is 'simply better'."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance will last for a standard period, as the comparison might generate some discussion within the crypto community."
+}
+}
+},
+{
+"tweet_id": "1732189497423708407",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "The tweet reports a transaction in a non-English language, which limits its appeal to a broader audience, making it less likely to be shared widely."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides specific information about a transaction, but its value is limited by the language barrier for non-Vietnamese speakers."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet maintains a neutral tone, focusing on reporting the transaction without expressing strong emotions."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is short-lived, as the significance of the transaction fades quickly in the context of ongoing market activity."
+}
+}
+} 
+]

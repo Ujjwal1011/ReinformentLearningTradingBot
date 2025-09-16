@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1768123207700066455",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "From the Uniswap founder, announcing sub‑cent gas fees on Optimism and praising the Dencun upgrade, the tweet is highly exciting for the crypto community and likely to be widely retweeted among Ethereum enthusiasts."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides a concrete data point (trading costs < $0.01) and mentions a major network upgrade, offering factual information useful to developers and traders."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "Uses strong positive language ('Let’s fucking go', 'Huge shoutout') expressing enthusiastic excitement."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Low‑fee trading and the Dencun upgrade have medium‑term relevance; the information will stay useful for weeks to months as users adopt Optimism."
+}
+}
+},
+{
+"tweet_id": "1768032567230394433",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The 'BREAKING' claim about a meme‑coin overtaking an Ethereum L2 in market cap is sensational and likely to be shared quickly within the crypto trading community."
+},
+"informative_value": {
+"score": 5,
+"justification": "States a market‑cap change but provides no data, source, or context, offering only a brief factual claim."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral in tone, simply reporting a fact without explicit positive or negative language."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Market‑cap flips are typically short‑lived; interest will fade within hours to a day as prices adjust."
+}
+}
+},
+{
+"tweet_id": "1767983026443579448",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Announces the first L2 blob post on Ethereum, a technical milestone that will be widely discussed among developers and L2 enthusiasts."
+},
+"informative_value": {
+"score": 8,
+"justification": "Delivers specific technical information about EIP‑4844 deployment and its expected effect on transaction fees."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Uses enthusiastic language and emojis ('blobs are here', '⭐'), conveying strong positive excitement."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "EIP‑4844 is a long‑term scaling upgrade; the tweet will remain relevant for months as the ecosystem adapts."
+}
+}
+},
+{
+"tweet_id": "1767978094143418864",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "A bold price prediction for Ethereum can attract attention and retweets among traders, though it lacks a broader hook."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet only contains a claim and a link, offering minimal factual content without context."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Expresses optimism about Ethereum reaching $20,000, reflecting a positive sentiment."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Price predictions stay relevant for a short to medium period (days to weeks) until market moves or new predictions appear."
+}
+}
+},
+{
+"tweet_id": "1767974564514910362",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "A promotional tweet about a retro NFT rewards program may be shared within the NFT community but lacks a viral hook for broader spread."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides details on how to claim retro rewards and the eligibility criteria, offering useful information for participants."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tone is upbeat and encouraging, inviting users to claim rewards, indicating a moderately positive sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The rewards claim is likely time‑limited, making the tweet relevant for only a few days to a week."
+}
+}
+}
+]

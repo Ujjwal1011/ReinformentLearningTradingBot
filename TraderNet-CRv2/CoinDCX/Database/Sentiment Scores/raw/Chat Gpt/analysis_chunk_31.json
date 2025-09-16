@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1442489062087086081",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet highlights a surprising and large transaction fee, which is likely to catch the attention of the crypto community and beyond. The specific figure and hashtag #Ethereum make it shareable, giving it high virality potential."
+},
+"informative_value": {
+"score": 7,
+"justification": "It provides a concrete fact about a real transaction fee, giving readers a clear piece of information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply reporting a fact without emotional language."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "While the specific incident may be time-limited, the fact about high fees remains relevant for discussions about Ethereum's scalability, giving it a moderate lasting impact."
+}
+}
+},
+{
+"tweet_id": "1442308116121473030",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The claim that dYdX is doing more volume than Coinbase is a bold statement that could spark debate within the crypto trading community, giving it medium virality potential."
+},
+"informative_value": {
+"score": 6,
+"justification": "It offers a factual claim about trading volume, though it lacks supporting data, so it is moderately informative."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, with a brief dismissive remark 'It's probably nothing', indicating no strong emotional tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The relevance of trading volume comparisons persists as long as dYdX remains active, giving it a medium duration of impact."
+}
+}
+},
+{
+"tweet_id": "1442097698895716356",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet promotes a summary of a high-profile legal case, using strong language like 'MUST READ' and 'AMAAAZING', which can drive shares across legal and crypto audiences, giving it high virality potential."
+},
+"informative_value": {
+"score": 8,
+"justification": "It points to a comprehensive summary of the Ripple v. SEC lawsuit, providing valuable information to readers."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses enthusiasm and positivity, encouraging readers to engage with the content."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The legal case remains relevant for an extended period, and the summary will likely be referenced for months, giving it a long duration of impact."
+}
+}
+},
+{
+"tweet_id": "1441529690758418434",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet presents a visionary statement about Ethereum's future, which may resonate with enthusiasts and spark discussion, giving it medium virality potential."
+},
+"informative_value": {
+"score": 4,
+"justification": "It is more of an opinion about potential rather than concrete facts, so its informative value is moderate to low."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet conveys optimism about Ethereum's future, reflecting a positive sentiment."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The idea of Ethereum as a social network is an evergreen concept that will continue to be relevant for years, giving it a long duration of impact."
+}
+}
+},
+{
+"tweet_id": "1441389198208946179",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet shares a news update about a request for comment from a notable figure, which can attract attention from industry followers, giving it medium virality potential."
+},
+"informative_value": {
+"score": 6,
+"justification": "It provides factual information about the status of a comment request, making it moderately informative."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "The tweet has a slightly negative tone due to the declined request and lack of response, but overall remains neutral."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The story will remain relevant until a comment is obtained, giving it a short to medium duration of impact."
+}
+}
+}
+]

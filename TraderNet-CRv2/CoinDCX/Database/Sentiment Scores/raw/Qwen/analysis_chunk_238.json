@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1766896528373809623",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet discusses a fee change in blockchain, which could be shared within crypto communities but may not go viral globally."
+},
+"informative_value": {
+"score": 5,
+"justification": "Provides information about fee changes but lacks depth or sources."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral tone, no strong emotion."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days as fee changes are time-sensitive."
+}
+}
+},
+{
+"tweet_id": "1766847843556262287",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Compares HEX and eHEX, likely shared among crypto users."
+},
+"informative_value": {
+"score": 6,
+"justification": "Explains reasons but lacks detailed data."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive, highlights benefits."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Remains relevant for weeks as trading strategies evolve."
+}
+}
+},
+{
+"tweet_id": "1766707165828469211",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Niche interest, unlikely to go viral."
+},
+"informative_value": {
+"score": 4,
+"justification": "States an event without context."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "Disappointment expressed."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant only during the hardfork period."
+}
+}
+},
+{
+"tweet_id": "1766594523872866635",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Image of Vitalik, may be shared but not widely."
+},
+"informative_value": {
+"score": 3,
+"justification": "No new information, just an image."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short-term relevance."
+}
+}
+},
+{
+"tweet_id": "1766590070209864172",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Breaking news about USDT, likely widely shared."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides specific data on minting."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days."
+}
+}
+},
+{
+"tweet_id": "1766589672019353618",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Same as above, breaking news."
+},
+"informative_value": {
+"score": 7,
+"justification": "Same as above."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Same as above."
+}
+}
+},
+{
+"tweet_id": "1766550765223739844",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "News about Larry Fink, likely shared."
+},
+"informative_value": {
+"score": 6,
+"justification": "Links to an article for more info."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive about Bitcoin and Ethereum."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for weeks."
+}
+}
+},
+{
+"tweet_id": "1766480813590503632",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Visual comparison, may be shared in crypto circles."
+},
+"informative_value": {
+"score": 5,
+"justification": "States concepts without depth."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days."
+}
+}
+},
+{
+"tweet_id": "1766319753700725152",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Breaking news, likely widely shared."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides specific data on DEX volume."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive about Solana's performance."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for weeks."
+}
+}
+},
+{
+"tweet_id": "1766266656530059431",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Breaking news about withdrawals, widely shared."
+},
+"informative_value": {
+"score": 8,
+"justification": "Important update with link."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "Negative due to concerns."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days."
+}
+}
+}
+]

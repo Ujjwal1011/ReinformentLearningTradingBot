@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1521556649294585857",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet announces a notable policy change that is likely to resonate within crypto and education communities, and the user’s large following amplifies reach, but it lacks a sensational hook that would trigger global virality."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "It provides a factual update about a university accepting crypto payments, which is newsworthy and adds to the public record."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, simply stating a fact without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The policy change remains relevant for months as a reference point for crypto adoption in education, but it may lose prominence as newer developments arise."
+      }
+    }
+  },
+  {
+    "tweet_id": "1521471900836372481",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "The tweet is a brief statement with a link, likely to attract some interest from followers, but it lacks a strong hook or breaking news element."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "It claims Ethereum is not expensive but offers no supporting data or context, providing minimal informational content."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The tweet expresses a positive view of Ethereum, using encouraging language."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The statement about Ethereum’s price may remain relevant for a while but is subject to market fluctuations, giving it moderate longevity."
+      }
+    }
+  },
+  {
+    "tweet_id": "1521336041629941760",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The warning about potential losses could spark discussion among crypto holders, but the tweet’s brevity and lack of source limit its viral reach."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "It highlights a risk that could affect a portion of holders, offering useful cautionary information, though it lacks detailed evidence."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "The tweet conveys a warning and negative tone regarding potential unprofitable positions."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The risk of unprofitable positions remains relevant as long as the market conditions persist, giving the tweet medium-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1521199689403715588",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Similar to tweet 1, this news about a major bank adding crypto support is likely to spread within crypto communities and beyond, aided by the user’s large following."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "It provides a factual update about a significant financial institution’s crypto offerings, which is newsworthy."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, simply reporting the fact."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The bank’s support for crypto remains a reference point for months, but may become less relevant as other banks adopt similar services."
+      }
+    }
+  },
+  {
+    "tweet_id": "1521193787309056004",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Giveaways with a holiday theme and crypto hashtags can quickly spread, especially with the user’s sizable following and the engaging hook."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "The tweet is a promotional giveaway, offering little factual or educational content."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tweet conveys excitement and generosity, using celebratory language and emojis."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The giveaway is time-bound and likely to lose relevance shortly after the event, giving it a short-term impact."
+      }
+    }
+  }
+]

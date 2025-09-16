@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1731964749615677526",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet compares Bitcoin and Ethereum ecosystems, which could spark debate within crypto communities, but lacks elements for broader viral appeal."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Contains an opinion-based suggestion rather than factual information or new insights."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone with implied criticism of Bitcoin through comparison, but no strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant to ongoing crypto ecosystem debates but tied to a specific comparison moment."
+      }
+    }
+  },
+  {
+    "tweet_id": "1731961719583396119",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Technical achievement with specific metrics (30,000 nodes) likely to interest Ethereum developers and infrastructure enthusiasts."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides concrete details about a new tool's capabilities and implementation timeline."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone highlighting project success through words like 'successfully' and technical enthusiasm."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Tool announcement with weeks-long relevance for network participants and developers."
+      }
+    }
+  },
+  {
+    "tweet_id": "1731958274239422646",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Promotional content with excessive hashtags but low engagement signals limited shareability."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Primarily serves as an advertisement with multiple hashtags but no substantive information."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Mildly positive through emojis and promotional language without strong emotional triggers."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Tied to specific NFT game promotion with short-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1731958044739977346",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Clear value proposition for DeFi users with emoji-driven formatting optimized for financial communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Explains lending mechanics and platform benefits with specific features listed."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone emphasizing growth opportunities and platform advantages."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Financial service offering remains relevant for weeks as users evaluate options."
+      }
+    }
+  },
+  {
+    "tweet_id": "1731954235967721555",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Technical question with engagement call-to-action, primarily relevant to Italian-speaking Ethereum users."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Raises important technical considerations about Layer 2 transactions despite partial text truncation."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral educational intent with request for engagement through heart emoji."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Technical discussion about transaction finality maintains relevance for days in developer circles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1731946706365808829",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Milestone announcement from official account with high engagement signals strong community interest."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Documents significant technical evolution with specific dates and technological components."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive framing of platform capabilities and opportunities."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Historic technical benchmark likely to be referenced in blockchain development discussions long-term."
+      }
+    }
+  },
+  {
+    "tweet_id": "1731945042363736318",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Cryptocurrency chart post with open-ended question drives engagement through curiosity."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Lacks context or analysis beyond presenting a price chart."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral inquiry without clear positive/negative framing."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Price discussion typically has short-term relevance unless tied to major market events."
+      }
+    }
+  },
+  {
+    "tweet_id": "1731942815515410589",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Comparative technical data presented as superiority claim could spark discussions among crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific blockchain performance metrics with future projections."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive emphasis on Kaspa's advantages through comparison."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Performance metrics remain relevant for weeks in technical comparisons."
+      }
+    }
+  },
+  {
+    "tweet_id": "1731939459418267824",
+    "analysis": {
+      "virality_potential": {
+        "score": 2,
+        "justification": "Routine NFT sale announcement with minimal engagement signals limited interest."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Basic transaction report without context or analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral factual reporting of a sale."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Single NFT sale becomes irrelevant immediately after reporting."
+      }
+    }
+  },
+  {
+    "tweet_id": "1731927717627539537",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Substantial banking news localized to Brazil, with moderate crypto community interest."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Announces major traditional financial institution entering crypto space with expansion plans."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive framing of institutional crypto adoption."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Banking integration news remains relevant for weeks in financial tech discussions."
+      }
+    }
+  }
+]

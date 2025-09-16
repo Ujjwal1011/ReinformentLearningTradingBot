@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1627638092009033728",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "This is a significant policy change that could attract attention from crypto communities, though it may not go viral globally."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides factual information about a regulatory change affecting cryptocurrency trading."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive sentiment as it's a favorable development for investors."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The impact is medium as it's a policy change that will be relevant for some time."
+      }
+    }
+  },
+  {
+    "tweet_id": "1627173520198311943",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Interesting fact but unlikely to go viral beyond crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Educational but not breaking news."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment, just a fact."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term impact as it's a historical fact."
+      }
+    }
+  },
+  {
+    "tweet_id": "1624369414467452930",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Generates positive sentiment and likely shared widely in crypto and disaster relief circles."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Highly informative about a significant donation to a critical cause."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Very positive sentiment highlighting generosity."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Medium duration as it ties to the ongoing earthquake relief efforts."
+      }
+    }
+  },
+  {
+    "tweet_id": "1623858705963057153",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Appeals to Ethereum stakers but not likely to go viral beyond that niche."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides useful information about staking without server requirements."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment, informative without strong emotion."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term as it's a specific solution to a current issue."
+      }
+    }
+  },
+  {
+    "tweet_id": "1623305129729351682",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Revolut's product update is likely to be shared among its users and crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Important update on staking availability for a large user base."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive sentiment about new features."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Medium duration as it's a significant product launch."
+      }
+    }
+  },
+  {
+    "tweet_id": "1623189534757498886",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Engaging content with a notable figure, likely shared within crypto and podcast communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides information about a podcast discussing relevant topics."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment about the podcast's content."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Short-medium duration as it's a specific episode release."
+      }
+    }
+  },
+  {
+    "tweet_id": "1622734006323216384",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Niche interest but could be shared among crypto art collectors."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides information about a significant transaction in the crypto art space."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment about a high-profile sale."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Short-medium duration as it's a specific transaction."
+      }
+    }
+  },
+  {
+    "tweet_id": "1622616941822091266",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Significant for crypto adoption, likely shared among finance and crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Important update on Visa's testing of USDC on Ethereum."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive sentiment about crypto integration."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Medium duration as it's a notable development in crypto payments."
+      }
+    }
+  },
+  {
+    "tweet_id": "1622571025127948288",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Similar to the previous Visa tweet, likely shared among finance and crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Important update on Visa's testing of USDC on Ethereum."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive sentiment about crypto adoption."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Medium duration as it's a notable development in crypto payments."
+      }
+    }
+  },
+  {
+    "tweet_id": "1622553298308935685",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Positive sentiment about helping earthquake victims, likely shared within Turkish and crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides information about companies helping after the earthquake."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Very positive sentiment about offering help."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Medium duration as it's tied to the ongoing crisis."
+      }
+    }
+  }
+]

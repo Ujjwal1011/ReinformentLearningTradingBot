@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1571685477836627968",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news about Ethereum's price drop is likely to be shared widely among crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides timely information about a significant price change in Ethereum."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral statement of fact without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a few hours as crypto prices are volatile."
+      }
+    }
+  },
+  {
+    "tweet_id": "1571372082608615425",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Fun fact about a significant donation, likely shared within crypto and charity communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Shares a notable donation event, providing specific details."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment highlighting a generous act."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a day as it's a past event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1571312728249339905",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Congratulatory tweet with emojis, shareable but not viral."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Celebrates Ethereum's success without detailed info."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment with congratulations and emojis."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a few days as it's a specific event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1571114007964319750",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Niche funding announcement, unlikely to go viral."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Announces a new project, but lacks depth."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral statement about seeking funding."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevant until funding is secured."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570985808445997057",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Significant update on Ethereum's energy consumption, likely widely shared."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides critical information about a major environmental impact."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment about a major improvement."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Long-term relevance due to its foundational change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570959238536790017",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Personal ad with a crypto mention, unlikely to go viral."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Minimal information, more of a joke."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment, mostly factual."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Irrelevant quickly as it's a personal ad."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570888703257739265",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Serious incident in Iran, likely widely shared due to emotional content."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Reports a significant news event with social implications."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative sentiment about a tragic event."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a few days as it's a current event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570621003545575424",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Inspirational tweet about past successes, likely shared within tech communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Shares achievements of notable figures and projects."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive sentiment celebrating milestones."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Relevant for weeks as it reflects on a legacy."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570593439896711168",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Fun fact about Ethereum's founder, likely shared within crypto communities."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Provides a historical fact about Vitalik Buterin."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment highlighting youthful achievement."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a few days as it's a specific fact."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570573636603641856",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "News about Ethereum's regulatory status, likely widely shared among investors."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Links to a reputable source discussing a significant regulatory update."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment as it's a news article link."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for days as it's a regulatory development."
+      }
+    }
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1560683605206220800",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Discusses Ethereum's governance issues and personal divestment, likely to spark debate within crypto communities."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Shares personal financial decision with some industry context but lacks verifiable data or sources."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Expresses frustration and distrust through phrases like 'threatening to abandon' and 'not waiting any longer'."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for current Ethereum discussions but tied to evolving regulatory developments."
+      }
+    }
+  },
+  {
+    "tweet_id": "1560665770816081920",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Giveaway mechanics incentivize sharing through required retweets and tags, driving engagement."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Primarily promotional content without educational or news value beyond the NFT project itself."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive tone through giveaway announcement and emoji use, though not intensely emotional."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Time-bound relevance limited to giveaway entry period (likely days)."
+      }
+    }
+  },
+  {
+    "tweet_id": "1560643202025136128",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Controversial price prediction could spark discussions among crypto traders."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Presents an opinion about market trends without supporting data or analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of a bearish market prediction without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance tied to volatile crypto prices that change rapidly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1560570981738958855",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Technical critique of Ethereum's roadmap from an influential account could drive developer discussions."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides structured criticism of Ethereum's technical direction with thread expansion."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative assessment through phrases like 'problems are caused' and 'no way out'."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant through Ethereum's Merge implementation timeline (weeks/months)."
+      }
+    }
+  },
+  {
+    "tweet_id": "1560340754077306880",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Ranking content often gets shared as reference material in crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides verifiable metrics about social media followings with clear timestamp."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of factual data without emotional bias."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Statistics become outdated quickly as follower counts change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1560271759328260130",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "High-engagement NFT giveaway with multiple participation requirements drives exponential sharing."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Focuses on promotional mechanics rather than educational content."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Enthusiastic tone with celebratory emojis and giveaway announcement."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance limited to pre-mint promotional period (days)."
+      }
+    }
+  },
+  {
+    "tweet_id": "1560068622621491201",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Criticism of Ethereum's founder could spark debates in crypto communities."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Reports on personal opinion about Vitalik's stance without primary sources."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative assessment through words like 'disappointing' and 'wrecked'."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Moderate relevance as part of ongoing regulatory discussions in crypto."
+      }
+    }
+  },
+  {
+    "tweet_id": "1560049658457513985",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Regulatory commentary from Ethereum's founder guarantees high visibility."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Shares perspective on regulatory issues but acknowledges incomplete information."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positively framed support for regulatory fairness despite neutral caveats."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant to ongoing crypto regulation debates (weeks/months)."
+      }
+    }
+  },
+  {
+    "tweet_id": "1560035176562016262",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Important policy announcement from major NFT company regarding ETH fork."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides crucial guidance for NFT holders with concrete corporate policy."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral statement of corporate position without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Policy implications lasting through and beyond the Ethereum Merge."
+      }
+    }
+  },
+  {
+    "tweet_id": "1559972466402988037",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Milestone announcement likely shared within ENS communities but limited broader appeal."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Specific, verifiable metric about domain registrations with source credibility."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of factual achievement."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Milestone becomes historical data once surpassed."
+      }
+    }
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1732195906999513559",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Niche NFT transaction update with minimal engagement drivers. Relevant only to crypto collectors."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Provides specific transaction details but lacks broader context or educational value."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral transactional announcement without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Relevance limited to immediate NFT market participants. Short-term interest."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732195832475058563",
+    "analysis": {
+      "virality_potential": {
+        "score": 2,
+        "justification": "Specialized NFT purchase update with generic hashtags. Unlikely to spread beyond niche communities."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Documents a specific transaction but provides no analysis or broader market context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual reporting without emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Immediate transaction record with ephemeral relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732195792218169719",
+    "analysis": {
+      "virality_potential": {
+        "score": 2,
+        "justification": "Another niche NFT transaction update using identical hashtags as previous tweets. Low shareability."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Specific price information but repetitive format reduces informational value."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral transactional language without emotional indicators."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Single-event documentation with no lasting relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732195778649641375",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Meme coin promotion with emojis and aspirational language could resonate within crypto communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Promotional content without substantive information about the token's utility."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong positive tone with excitement indicators like rocket and star emojis."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Dependent on sustained community engagement with the meme coin project."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732195586982465719",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Price oracle data could be shared within trading communities but lacks viral hooks."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides multiple cryptocurrency price points but lacks timestamp or source context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral data presentation without commentary."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Price data becomes obsolete quickly in volatile crypto markets."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732195486952546530",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Contrarian viewpoint on crypto influencers could spark debates within the community."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Mentions historical Ethereum inscriptions but lacks technical details."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative tone criticizing mainstream influencers ('clueless', 'echo chamber')."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Could remain relevant through ongoing blockchain inscription discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732195364814627206",
+    "analysis": {
+      "virality_potential": {
+        "score": 1,
+        "justification": "Single link without context has no engagement drivers."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "No information beyond an unspecified link."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "No discernible emotional content."
+      },
+      "duration_of_impact": {
+        "score": 0,
+        "justification": "Completely dependent on unknown link content. Assume instant obsolescence."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732195326059315302",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Engages with prominent figure (@CryptoHayes) about Ethereum price action, likely to circulate in crypto circles."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Humorous complaint about price expectations without substantive content."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Mildly negative/frustrated tone about unmet expectations."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance tied to immediate market movements around the tweet date."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732195192453611845",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Case study about major Ethereum event could attract technical audiences."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides analysis of significant blockchain event (The Merge) with source link."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone implied by sharing research content (👀 emoji)."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Ethereum's Merge remains a foundational event in blockchain history."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732194894829990361",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "NFT mint event announcement could generate interest within specific communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides event details, timeline, and platform information for NFT collectors."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive celebratory tone with multiple engagement prompts."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance limited to the immediate mint event period."
+      }
+    }
+  }
+]

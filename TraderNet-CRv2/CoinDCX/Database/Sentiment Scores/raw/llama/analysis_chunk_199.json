@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1732143110518603784",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "The tweet is about an already minted image, lacks a strong hook, and is unlikely to be widely shared beyond the user's followers."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides some useful information about the availability of an image on OpenSea, but it's not groundbreaking or highly educational."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet presents information in a neutral, factual manner without expressing strong emotions."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to the availability of the image, which may change, but the impact is generally short-term."
+}
+}
+},
+{
+"tweet_id": "1732142593100874142",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet is about a news update, but its virality is neutral as it doesn't evoke strong emotions or contain highly shareable content."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides credible, newsworthy information about the SEC's decision on Grayscale's Ethereum ETF, including a link to more details."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet reports news in a neutral, factual manner without expressing a sentiment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance will last for days or weeks, as the decision's impact unfolds and is discussed."
+}
+}
+},
+{
+"tweet_id": "1732140926275883467",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet announces a significant event (launch of BabyDogeAI on Ethereum), likely to generate excitement and sharing within the BabyDoge community."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet informs about a new feature launch, its significance, and potential delay, providing useful information to the community."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses positive emotions, anticipating the launch and its impact on BabyDoge's presence."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet's relevance will extend for days or weeks, as the launch approaches and the community reacts."
+}
+}
+},
+{
+"tweet_id": "1732139873182585292",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet is part of a conversation and expresses an opinion, but it's unlikely to be widely shared due to its niche nature."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet provides a personal opinion on Hedera's potential, which is somewhat informative but not highly educational or newsworthy."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The user expresses a moderately positive sentiment towards Hedera's future, contrasting with a negative view of 'hippies and anarchists'."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is tied to the ongoing conversation and the user's engagement, with a neutral duration impact."
+}
+}
+},
+{
+"tweet_id": "1732139278594126336",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet provides market analysis, which can be shared within specific communities interested in Ethereum's price movements."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet offers insightful analysis of Ethereum's market strength and potential future prices, useful for followers."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses a moderately positive sentiment towards Ethereum's market strength and future potential."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance will last for days or weeks, as the market reacts to the analysis provided."
+}
+}
+},
+{
+"tweet_id": "1732138394132554213",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet reports news, but its impact on virality is neutral due to the lack of highly engaging or emotional content."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet informs about the SEC's decision and its potential market impact, providing useful information."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The user expresses a moderately positive sentiment, viewing the delay as 'good news' for market speculation."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is tied to the immediate market reaction, with a relatively short duration of impact."
+}
+}
+},
+{
+"tweet_id": "1732138363438694540",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet is part of a conversation, expresses an opinion, and is unlikely to be widely shared due to its niche discussion nature."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet provides a personal interpretation of 'fundamentals' in the context of Ethereum's last cycle, somewhat informative but not highly educational."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet presents information and opinions in a neutral, conversational manner without strong emotional tone."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is tied to the ongoing conversation, with a neutral duration impact."
+}
+}
+},
+{
+"tweet_id": "1732136389066543454",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet hints at a surprise, encouraging engagement and sharing within the crypto community, especially around ETF speculations."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides some information about upcoming ETFs for Bitcoin and Ethereum, but the main value lies in the tease about another crypto."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses a moderately positive sentiment, anticipating the reveal of another crypto potentially getting an ETF."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance will last for days or weeks, as speculation and discussion around the teased ETF unfold."
+}
+}
+},
+{
+"tweet_id": "1732135996471509502",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Similar to the other identical tweet, it encourages engagement and sharing within the crypto community around ETF speculations."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides the same information as the other identical tweet, with value in the tease rather than the confirmed ETFs for Bitcoin and Ethereum."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Expresses the same moderately positive sentiment as the identical tweet, looking forward to the reveal."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance will similarly last for days or weeks, as the community speculates and discusses the teased ETF."
+}
+}
+},
+{
+"tweet_id": "1732134555711353219",
+"analysis": {
+"virality_potential": {
+"score": 2,
+"justification": "The tweet is a simple announcement of a sale, unlikely to be widely shared beyond the immediate followers or those closely following the project."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet informs about a specific sale on OpenSea, providing useful information for those interested in the project."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet presents information in a neutral, factual manner without expressing strong emotions."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is short-term, tied to the immediate aftermath of the sale announcement."
+}
+}
+}
+]

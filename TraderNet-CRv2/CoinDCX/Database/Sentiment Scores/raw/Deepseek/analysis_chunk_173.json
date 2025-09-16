@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1732524328862834885",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Discusses crypto ETFs and addresses viral accusations, likely to engage crypto communities but lacks universal appeal."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Clarifies market dynamics but lacks new data or sources, focusing on personal perspective."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Mix of flattery ('genuinely flattered') and criticism of market misconceptions; overall neutral tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Tied to ongoing ETF developments, maintaining relevance for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732508474884657381",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Bold claim about Solana disrupting major tech firms, likely to spark widespread sharing in crypto circles."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Presents a thesis without evidence but references specific companies, prompting discussion."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Strongly positive endorsement of Solana with enthusiastic language ('great crypto thesis')."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Ongoing debate about blockchain disruption could sustain relevance for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732508278687514886",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Provocative comparison of Ethereum and Bitcoin, likely to drive niche crypto debates."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Abstract statement without context or supporting information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral observation phrased as a rhetorical question; no clear emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Philosophical take on crypto roles may fade after initial discussion."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732505003007553932",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Vietnamese-language analysis of ETH adoption; limited to regional audiences but relevant to traders."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Highlights trader sentiment shifts with a link to further analysis."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Optimistic about Ethereum's growth potential ('tiếp tục tăng trưởng')."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Tied to Ethereum's performance, maintaining relevance for days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732503294700884134",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Promotes exclusive NFT perks with high engagement; incentivizes shares via calls to action."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Details collection benefits and in-game utility, though promotional."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Excited tone with emojis and phrases like 'Timeless badass pixel art' and 'VVIP status.'"
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "NFT utility and upcoming mint could sustain interest for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732497131691270397",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Exposes perceived hypocrisy by JPMorgan, likely to resonate in crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Lists specific JPMorgan crypto activities, adding factual context."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative critique accusing JPMorgan of 'spreading FUD to fool retail.'"
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant as long as institutional crypto involvement is debated."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732491004861624349",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Reply asking about a video; limited reach beyond the conversation."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Poses a question without providing information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral inquiry without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term relevance unless the video gains attention."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732490112766705908",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Announces a product launch with emojis and exclamation, appealing to the Baby Doge community."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Details new AI tool and NFT minting process with links."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Enthusiastic language like 'BREAKING' and 'Unleash a galaxy of creativity.'"
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Depends on product adoption but could trend for days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732488356620288427",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Technical comparison relevant to developers; moderate sharing potential in niche circles."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Explores WASM vs. EVM with a linked article, offering educational value."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral analysis of technical trade-offs without emotional bias."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Evergreen developer discussion could remain relevant for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732479268632891868",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Price prediction with a chart; commonly shared content in crypto trading communities."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Makes a claim without supporting data or context."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive excitement indicated by fire emoji and 'breakout' phrasing."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term relevance tied to immediate price movements."
+      }
+    }
+  }
+]

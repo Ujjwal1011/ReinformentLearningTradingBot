@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1552947565510795264",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Breaking news about a major loss at Babel Finance, likely to be widely shared among the crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides factual information from a reputable source, The Block, about a significant financial loss."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "The tweet reports a negative event but uses neutral language without strong emotional tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The loss is significant but may fade after some time; remains relevant for weeks."
+}
+}
+},
+{
+"tweet_id": "1552727078394527744",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "A simple factual update about Ethereum's market cap, likely to get some shares but not a hook."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides a specific figure about Ethereum's market cap."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral tone with no emotional language."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Market cap changes are short-lived, relevant for a day or two."
+}
+}
+},
+{
+"tweet_id": "1552717181430939648",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Breaking news about Ethereum's Goerli merge, likely to be widely shared."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides details about the merge date and its significance."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral tone with no emotional language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for days or weeks as the merge is a significant event."
+}
+}
+},
+{
+"tweet_id": "1552712874543439876",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Breaking news with hype, likely to be widely shared."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides factual details about the merge date and its significance."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Strong positive sentiment with 'Bullish' and rocket emoji."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for days or weeks as the merge is a significant event."
+}
+}
+},
+{
+"tweet_id": "1551930840233418754",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "Personal reflection, unlikely to go viral."
+},
+"informative_value": {
+"score": 2,
+"justification": "No factual information, just a personal opinion."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "Expresses doubt, slightly negative tone."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "Personal reflection, short-lived relevance."
+}
+}
+}
+]

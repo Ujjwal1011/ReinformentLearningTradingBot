@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1492733255719669763",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "High-interest crypto/Netflix collaboration with multiple trending hashtags, but limited to niche communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Announces a new TV series about a real crypto scandal with specific financial figures."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting tone without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant until series release and during subsequent discussions about crypto security."
+      }
+    }
+  },
+  {
+    "tweet_id": "1492613733864153089",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Engagement-driving question format from an influencer, but limited to crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Poll-style question without substantive information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral question format without emotional bias."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance limited to current crypto market conditions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1492597270809821193",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Extraordinary NFT transaction value likely to spread through crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Specific transaction details with verifiable blockchain data."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual reporting of transaction details."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Historic NFT sale will remain reference point in crypto art discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1492551379176636424",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Novel real estate/NFT crossover story with clear financial figures."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Documents milestone in NFT adoption with specific transaction details."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement style."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Will be referenced in NFT adoption discussions for months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1492491110664400899",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Politically charged content likely to spread within specific communities."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Opinion-based commentary without verifiable data."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Strong negative sentiment through mocking language and emojis."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Tied to specific political moment and short crypto market cycle."
+      }
+    }
+  },
+  {
+    "tweet_id": "1491821215924690950",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High-stakes security disclosure with large bounty amount."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Critical technical information about Ethereum infrastructure security."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Matter-of-fact disclosure with neutral tone."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Will remain reference in blockchain security discussions for years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1491506132636086277",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Practical financial advice likely to be shared in crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides actionable DeFi strategies without technical details."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive framing about putting assets to work."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Evergreen content about ETH staking remains relevant."
+      }
+    }
+  },
+  {
+    "tweet_id": "1491502663149703168",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Mainstream tech/crypto crossover news with mass appeal potential."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Reports on significant platform feature adoption."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement style."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant until feature implementation or next Apple announcement."
+      }
+    }
+  },
+  {
+    "tweet_id": "1491452010863857665",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Influential founder's commentary on community dynamics."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Opinion statement about community management."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Constructive criticism without strong emotion."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Will fuel ongoing discussions about crypto community inclusivity."
+      }
+    }
+  },
+  {
+    "tweet_id": "1491423787203821572",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Obvious scam format limits sharing beyond mockery."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "No legitimate information - common crypto scam template."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative perception due to fraudulent intent."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Immediately irrelevant after recognition as scam."
+      }
+    }
+  }
+]

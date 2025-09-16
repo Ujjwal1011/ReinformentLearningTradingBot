@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1502404977175810061",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "The tweet announces a major shift in staking dominance, a breaking news event in the crypto space that is likely to be widely shared across the community."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It provides a specific, verifiable fact about LUNA’s staking volume, making it highly informative."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral, simply reporting a fact without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The news remains relevant for weeks to months as the staking landscape evolves, but will eventually be eclipsed by newer developments."
+      }
+    }
+  },
+  {
+    "tweet_id": "1502298042837483523",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "A niche question about creating a new country for technologists is unlikely to go viral beyond a small community."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet is a personal query, offering little factual or newsworthy content."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral, simply asking for advice."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The relevance is short‑term, tied to the immediate discussion rather than a lasting topic."
+      }
+    }
+  },
+  {
+    "tweet_id": "1502188549394690050",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "A large whale transfer of 429 BTC is a headline‑worthy event likely to be widely shared."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It reports a specific, verifiable transaction amount, providing valuable information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is factual and neutral, with no emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The event remains noteworthy for weeks, but will eventually be replaced by newer news."
+      }
+    }
+  },
+  {
+    "tweet_id": "1502148988371300358",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The technical critique may resonate within the crypto community, but is unlikely to reach a broad audience."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "It offers an educational perspective on blockchain state trees, though it is opinion‑based."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "The tone is mildly negative, warning against a common misconception."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The technical point remains relevant for a while as new chains launch, but will gradually fade."
+      }
+    }
+  },
+  {
+    "tweet_id": "1501896694161559555",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "A Bitcoin address with $20M activated after 11 years is a headline‑worthy event likely to be widely shared."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It provides a specific, verifiable fact about a significant Bitcoin transaction."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, simply reporting a fact."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The event remains noteworthy for weeks, but will eventually be eclipsed by newer developments."
+      }
+    }
+  }
+]

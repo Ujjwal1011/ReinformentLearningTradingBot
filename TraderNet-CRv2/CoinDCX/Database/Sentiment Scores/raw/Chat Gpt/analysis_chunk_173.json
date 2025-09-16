@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1511896028730957825",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Summarizes the highly anticipated Ethereum Merge, a major event in the crypto space, making it likely to be shared widely among crypto enthusiasts, though its appeal remains niche."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides concise, factual bullet points about the technical and economic changes from the Merge, offering valuable educational content."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Primarily factual and neutral; the closing line is mildly teasing but does not convey strong emotion."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The Merge's implications (energy reduction, deflationary nature) will be discussed for weeks to months, giving the tweet medium‑long relevance."
+}
+}
+},
+{
+"tweet_id": "1511424635690270727",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Emotional plea about high Ethereum fees taps into a common frustration, encouraging shares within the crypto community."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet contains only a request and a link without context, offering little factual information."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "Expresses frustration and desperation about fees, reflecting a very negative tone."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Fee spikes are recurring, but the specific tweet loses relevance as the fee situation changes, giving it short‑to‑medium lifespan."
+}
+}
+},
+{
+"tweet_id": "1511390560095019008",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Humorous, meme‑style content about Ethereum and legal trouble is highly shareable, especially among crypto users, leading to high virality."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet is a joke and does not convey factual or educational information."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Playful humor creates a moderately positive tone despite the mention of jail."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Crypto memes often persist for weeks or months, so the tweet can remain relevant for a medium period."
+}
+}
+},
+{
+"tweet_id": "1511267400708243464",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Shares a credible source (Microsoft’s Blockchain Director) discussing Ethereum’s future, appealing to both tech and crypto audiences, resulting in moderate virality."
+},
+"informative_value": {
+"score": 7,
+"justification": "Points to an authoritative interview that likely contains substantive insights about Ethereum, offering high informational value."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral tone, simply relaying a source without emotional language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Discussion of Ethereum’s future remains relevant for several weeks to months as the ecosystem evolves."
+}
+}
+},
+{
+"tweet_id": "1511010206020509703",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Claims a major government action regarding Ethereum, a sensational breaking‑news style tweet that can spread quickly, especially if unverified."
+},
+"informative_value": {
+"score": 2,
+"justification": "Makes an unsubstantiated claim without evidence or source, providing low factual value."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Uses celebratory emojis and enthusiastic language, reflecting a very positive sentiment."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "If the claim is false, interest will fade quickly; if true, it could have longer relevance, but generally the tweet’s impact is short‑to‑medium."
+}
+}
+}
+]

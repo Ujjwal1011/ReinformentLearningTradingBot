@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1732157672584057176",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet provides significant news about an Ethereum ETF, which could attract attention within the crypto community, though its reach is limited to French speakers."
+},
+"informative_value": {
+"score": 8,
+"justification": "It offers concrete information about a regulatory filing, which is newsworthy for crypto enthusiasts."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral tone, presenting factual information without strong emotion."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for a few days as ETF news can influence market discussions."
+}
+}
+},
+{
+"tweet_id": "1732157226775916840",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Targets the crypto community, likely shared among blockchain enthusiasts."
+},
+"informative_value": {
+"score": 7,
+"justification": "Explains a technical project, providing useful information for the Cardano community."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment with emojis and encouraging language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Remains relevant as the project is ongoing."
+}
+}
+},
+{
+"tweet_id": "1732156609659301951",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Directed at crypto traders, may have niche virality."
+},
+"informative_value": {
+"score": 6,
+"justification": "Predicts price movements, useful for traders."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive, encouraging holding."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Short-term as it's a price prediction."
+}
+}
+},
+{
+"tweet_id": "1732155702079107254",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Niche concern, unlikely to go viral."
+},
+"informative_value": {
+"score": 5,
+"justification": "Opinion on interoperability, not a formal analysis."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, presenting concerns."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Short-term relevance."
+}
+}
+},
+{
+"tweet_id": "1732155093795918040",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Strong opinions on Ethereum's performance, likely shared among crypto users."
+},
+"informative_value": {
+"score": 6,
+"justification": "Critique of Ethereum's performance."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "Negative sentiment towards Ethereum."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Short-term as it's a market sentiment."
+}
+}
+},
+{
+"tweet_id": "1732154802145046672",
+"analysis": {
+"virality_potential": {
+"score": 2,
+"justification": "Personal message with low engagement."
+},
+"informative_value": {
+"score": 3,
+"justification": "Minimal information, focuses on art."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Positive and friendly tone."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "Immediately irrelevant."
+}
+}
+},
+{
+"tweet_id": "1732153887476322600",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Announces a partnership, likely shared within the crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "Explains technical aspects of a partnership."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive and encouraging."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for weeks as it's about ongoing developments."
+}
+}
+},
+{
+"tweet_id": "1732152811725697223",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "High engagement on Bitcoin vs Ethereum ETFs, likely shared."
+},
+"informative_value": {
+"score": 7,
+"justification": "Discusses financial products and market expectations."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral analysis."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for days as ETF news is timely."
+}
+}
+},
+{
+"tweet_id": "1732152078313611762",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Niche interest in blockchain bridging."
+},
+"informative_value": {
+"score": 6,
+"justification": "Reports on blockchain movement."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive about the bridge."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Short-term relevance."
+}
+}
+},
+{
+"tweet_id": "1732151951775691171",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Discusses Bitcoin fees, relevant to blockchain users."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides data on blockchain economics."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral presentation of facts."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Short-term as it's a recent event."
+}
+}
+}
+]

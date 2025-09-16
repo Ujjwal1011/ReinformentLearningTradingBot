@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1495758298527719433",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet poses a challenge that can spark debate within the crypto community, but it lacks a broader hook or emotional content to reach a wide audience."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet presents a single claim without context or supporting evidence, offering minimal informative content."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is a factual statement with no strong emotional tone, presenting a neutral stance."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The tweet may generate discussion for a few days but will likely fade as the topic moves on."
+      }
+    }
+  },
+  {
+    "tweet_id": "1495720617907212294",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet announces a new trading platform, which is a timely and potentially widely shared news item."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet provides a clear, verifiable update about a new trading service, offering high informative value."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is a factual announcement with no emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The announcement will be relevant for a period of weeks as traders adapt to the new platform."
+      }
+    }
+  },
+  {
+    "tweet_id": "1495719006610808836",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet is an official announcement that can attract attention within the crypto community, but it lacks the broader appeal of a breaking news headline."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet confirms the start of trading, providing clear information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is a factual statement with no emotional content."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The announcement will remain relevant for weeks as the market adjusts."
+      }
+    }
+  },
+  {
+    "tweet_id": "1495682969750720516",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "The tweet is a personal reflection that may resonate with some followers but lacks a broader hook for widespread sharing."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet offers a personal viewpoint without providing new factual information."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "The tweet hints at dissatisfaction with Ethereum, indicating a mild negative tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The tweet's relevance is limited to the immediate context of the user's investment decisions and will likely fade quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1495640443924660226",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet highlights a significant milestone that can attract interest within the gaming and crypto communities, but it may not reach a broad audience beyond those niches."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "The tweet shares a verifiable sales figure for a popular game, offering useful information."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tweet expresses excitement about the game's success, reflecting a strong positive tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The achievement will be referenced for weeks as the game continues to grow, but it may not remain relevant for years."
+      }
+    }
+  }
+]

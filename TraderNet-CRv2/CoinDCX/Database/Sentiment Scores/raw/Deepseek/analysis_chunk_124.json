@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1556581761785573377",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news from Ethereum's founder about transaction fees has high shareability in crypto communities and mainstream tech media."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides direct insight from a primary source (Vitalik Buterin) about Ethereum's roadmap."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of factual statement without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Transaction fee discussion remains relevant for weeks/months as Ethereum evolves."
+      }
+    }
+  },
+  {
+    "tweet_id": "1556539367673380864",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Important protocol decision likely to spark discussion in blockchain communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Clear statement about Chainlink's position on a major network change."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement of technical decision."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant through Ethereum's transition period but may fade post-transition."
+      }
+    }
+  },
+  {
+    "tweet_id": "1556377184373178370",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Controversial financial data about Ethereum Foundation could spread in crypto circles."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific quantitative data about ETH holdings with transaction timing."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual presentation without overt positive/negative framing."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Foundation's financial moves remain discussion-worthy for months in crypto markets."
+      }
+    }
+  },
+  {
+    "tweet_id": "1555930519694675968",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Market cap milestones often get shared in financial/crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Specific current market data point with clear context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of financial metric."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Market cap figures become outdated quickly as prices fluctuate."
+      }
+    }
+  },
+  {
+    "tweet_id": "1555902237548896256",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Expert analysis on contentious fork could spark technical discussions."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides informed perspective on Ethereum's potential fork scenarios."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Analytical tone without strong emotional valence."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Fork discussions remain relevant through network transition period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1555804935018532864",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Comparisons to traditional finance institutions often perform well in crypto spaces."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides contextual market data comparing crypto/traditional finance."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of comparative data."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Benchmark comparisons remain reference points for months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1555643733437304833",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Historical price comparisons generate engagement in crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific historical price data with temporal context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of historical fact."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Primarily relevant for anniversary discussions and short-term nostalgia."
+      }
+    }
+  },
+  {
+    "tweet_id": "1554644902717169664",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Security incident details important for crypto users but limited mainstream appeal."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Detailed case study with wallet addresses and attack patterns."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative context about security breaches and asset loss."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Security case studies remain relevant for weeks as warnings/examples."
+      }
+    }
+  },
+  {
+    "tweet_id": "1554502115665625090",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "NFT giveaway with engagement mechanics designed for maximum sharing."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Primarily promotional content without substantive information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive/excited tone with celebratory emojis and incentives."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Giveaways typically lose relevance after event conclusion."
+      }
+    }
+  },
+  {
+    "tweet_id": "1554502063698083840",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Cross-chain NFT promotion with viral giveaway mechanics and tagging requirements."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Promotional content focused on contest mechanics rather than information sharing."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone encouraging participation through incentives."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Time-bound giveaway with 24-hour window limits long-term relevance."
+      }
+    }
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1457850996068081667",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet discusses a major tech announcement (Discord CEO teasing Ethereum integration) and has moderate engagement, indicating potential to spread within tech and crypto communities, though it is not a meme or breaking news from a primary source."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "It provides a factual update about a significant integration, linking to the original source, but it is a brief commentary rather than in-depth analysis."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The tweet expresses excitement with 'Holy shit' and a positive emoji, reflecting moderately positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The news about integration may remain relevant for weeks, but the tweet itself will likely fade after a few days as the topic moves on."
+      }
+    }
+  },
+  {
+    "tweet_id": "1457844953070116864",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "From a well-known crypto news outlet with high follower count, the tweet shares a trending announcement and has high engagement, indicating strong potential for widespread sharing."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "It delivers a concise news update with a link to the original announcement, providing clear factual information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet uses enthusiastic emojis and a positive tone, reflecting moderately positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The integration announcement will be relevant for a longer period, and the tweet may continue to be referenced for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1457842402106830849",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "A personal reflection on ENS's success from a moderately followed user, with moderate engagement, suggests potential sharing within the Ethereum community but limited broader reach."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "The tweet offers background on ENS's origins and growth, providing useful context and historical insight."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tone is appreciative and grateful, indicating moderately positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The historical perspective on ENS is evergreen and likely to remain relevant for a long time."
+      }
+    }
+  },
+  {
+    "tweet_id": "1457811131611815936",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "A price update announcing an all-time high for Ethereum is highly shareable and trending, especially from a popular crypto influencer, leading to high potential virality."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "It provides a factual price point but lacks deeper analysis, making it moderately informative."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet expresses excitement and optimism about the price, reflecting moderately positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Price updates are time-sensitive and typically fade after a few days or weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1457746293586022405",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet presents a strong opinion comparing Bitcoin and Ethereum, with moderate engagement, indicating potential sharing within crypto communities but not a global meme."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "It mentions Bitcoin upgrades and provides some technical details, offering moderate informational content."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "The tweet criticizes Ethereum, expressing negative sentiment, but not extreme negativity."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The discussion about Bitcoin upgrades remains relevant for weeks, giving the tweet a medium-term impact."
+      }
+    }
+  }
+]

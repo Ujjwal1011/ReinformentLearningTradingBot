@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1750163387932119062",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Contains a hashtag but lacks context or a hook to drive widespread sharing beyond Ethereum enthusiasts."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No verifiable information provided; only a link and hashtag without context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone with no clear emotional expression."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term relevance tied to immediate Ethereum community discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1750123523819876372",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "High engagement metrics and meme coin announcement with strong hooks (emojis, community focus)."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides contract details and launch information but lacks deeper educational context."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Strongly positive tone with celebratory language and emojis."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Meme coins often sustain interest for weeks, especially with active communities."
+      }
+    }
+  },
+  {
+    "tweet_id": "1749642584610443640",
+    "analysis": {
+      "virality_potential": {
+        "score": 2,
+        "justification": "Personal plea with limited appeal beyond immediate followers."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "Purely emotional content with no factual information."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Expresses distress and vulnerability ('Having a hard time')."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Immediate personal crisis with no lasting relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1749594016042127791",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Controversial take on SEC/Ethereum litigation could spark debate within crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Highlights regulatory concerns but lacks specific evidence or sources."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Criticism of Ethereum's motives ('pure money grab')."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Regulatory discussions may remain relevant for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1749303412708061577",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Technical integration news important to Ethereum developers but niche for general audiences."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific details about Eigenlayer integration and project goals."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive language ('thrilled', 'sophisticated') but lacks strong emotion."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Technical partnerships typically sustain interest for days to weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1748705901798678871",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Combines Ethereum founder endorsement with political commentary, appealing to multiple communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Reports verifiable statement from Vitalik Buterin with source link."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive framing of political endorsement ('respaldó las políticas libertarias')."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Political-tech crossover content may remain relevant for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1748361109155791172",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major exchange listing announcement with high engagement metrics."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides contract address and bridging instructions but lacks broader context."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone celebrating platform expansion ('🌟 Our choice')."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Exchange listings typically drive sustained trading activity for days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1748198932889702519",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Provocative Bitcoin vs Ethereum comparison may spark debates in crypto circles."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Opinion-based comparison without supporting arguments."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative toward Ethereum ('stupid man’s Bitcoin')."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Tribal crypto debates typically have short cycles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1748197900558139669",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Similar to previous tweet - Bitcoin maximalist content with limited appeal beyond that community."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Makes claims about corporate holdings without verification."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Implied criticism of Ethereum's value proposition."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term relevance tied to ongoing crypto tribalism."
+      }
+    }
+  },
+  {
+    "tweet_id": "1748104886640676924",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High-stakes regulatory news with broad implications for crypto markets."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Critical update about SEC's ETF decision process."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of regulatory action."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "ETF decisions influence markets for weeks/months."
+      }
+    }
+  }
+]

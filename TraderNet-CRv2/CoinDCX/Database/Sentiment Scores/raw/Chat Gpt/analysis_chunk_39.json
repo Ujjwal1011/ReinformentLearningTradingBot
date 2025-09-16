@@ -1,0 +1,107 @@
+[
+{
+  "tweet_id": "1435456963572273153",
+  "analysis": {
+    "virality_potential": {
+      "score": 7,
+      "justification": "The tweet is a witty, detailed commentary on SEC restrictions and DeFi workarounds, resonating with crypto enthusiasts; high engagement indicates strong shareability within that niche, but its technical nature limits broader viral spread."
+    },
+    "informative_value": {
+      "score": 5,
+      "justification": "The tweet mentions the SEC's stance and outlines a complex DeFi strategy, offering some insight but primarily as a personal rant, limiting its informational depth."
+    },
+    "sentiment_polarity": {
+      "score": 4,
+      "justification": "The tweet expresses frustration with regulatory constraints using sarcasm, indicating a mildly negative sentiment."
+    },
+    "duration_of_impact": {
+      "score": 6,
+      "justification": "The discussion of regulatory constraints and DeFi strategies stays relevant within crypto circles for weeks to months, though specific details may become outdated quickly."
+    }
+  }
+},
+{
+  "tweet_id": "1435421954337427457",
+  "analysis": {
+    "virality_potential": {
+      "score": 6,
+      "justification": "The tweet highlights a trend of talent moving to crypto platforms, which may interest both finance and crypto audiences; moderate engagement suggests some shareability but limited to niche communities."
+    },
+    "informative_value": {
+      "score": 6,
+      "justification": "The tweet highlights a trend of traders moving to Ethereum and Solana, offering a brief but informative observation about industry dynamics."
+    },
+    "sentiment_polarity": {
+      "score": 5,
+      "justification": "The tweet simply recounts two instances of traders moving to crypto without strong emotional language, resulting in a neutral tone."
+    },
+    "duration_of_impact": {
+      "score": 5,
+      "justification": "The observation reflects a trend that may be referenced for a short period but lacks lasting evergreen relevance."
+    }
+  }
+},
+{
+  "tweet_id": "1435284575190724611",
+  "analysis": {
+    "virality_potential": {
+      "score": 7,
+      "justification": "The tweet's bold, profanity-laden critique of panicking investors can resonate as a meme within crypto circles, driving shares; however, its niche focus and profanity may limit broader appeal."
+    },
+    "informative_value": {
+      "score": 3,
+      "justification": "The tweet expresses a strong opinion about market reactions without providing factual data or actionable information."
+    },
+    "sentiment_polarity": {
+      "score": 2,
+      "justification": "The tweet uses profanity and contempt to criticize panicking investors, reflecting strong negative sentiment."
+    },
+    "duration_of_impact": {
+      "score": 3,
+      "justification": "The tweet reacts to a specific price correction, making it relevant only for a few hours to days until market conditions change."
+    }
+  }
+},
+{
+  "tweet_id": "1435250087270174727",
+  "analysis": {
+    "virality_potential": {
+      "score": 5,
+      "justification": "The tweet provides a straightforward price prediction, which may be retweeted by traders but lacks a strong hook or emotional appeal, limiting its viral potential."
+    },
+    "informative_value": {
+      "score": 4,
+      "justification": "The tweet offers a simple price prediction without supporting data, providing limited informational content."
+    },
+    "sentiment_polarity": {
+      "score": 5,
+      "justification": "The tweet is a neutral statement about an upcoming price level, lacking emotional language."
+    },
+    "duration_of_impact": {
+      "score": 3,
+      "justification": "The price prediction is relevant only until the market reaches or passes the $80 level, limiting its lasting impact."
+    }
+  }
+},
+{
+  "tweet_id": "1435198983195009024",
+  "analysis": {
+    "virality_potential": {
+      "score": 9,
+      "justification": "The tweet announces a significant regulatory development (Panama recognizing Bitcoin and Ethereum), which is newsworthy and likely to be widely shared across crypto and mainstream media, indicating high virality potential."
+    },
+    "informative_value": {
+      "score": 9,
+      "justification": "The tweet shares a significant regulatory development, providing credible, newsworthy information about Panama's bill."
+    },
+    "sentiment_polarity": {
+      "score": 7,
+      "justification": "The tweet conveys excitement about a regulatory development favoring crypto, reflecting a moderately positive sentiment."
+    },
+    "duration_of_impact": {
+      "score": 8,
+      "justification": "The announcement of Panama's bill recognizing Bitcoin and Ethereum has lasting significance for regulatory discourse and may be referenced for months or years."
+    }
+  }
+}
+]

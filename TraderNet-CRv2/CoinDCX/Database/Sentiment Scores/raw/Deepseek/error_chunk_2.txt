@@ -1,0 +1,162 @@
+--- RAW RESPONSE FROM MODEL ---
+[
+    {
+      "tweet_id": "1302221193081163776",
+      "analysis": {
+        "virality_potential": {
+          "score": 6,
+          "justification": "The tweet discusses a price comparison between ChainLink and Bridge Oracles on Ethereum and TRON networks, which could be of interest to crypto enthusiasts and investors. The topic is relevant and has the potential to be shared within specific communities, but it's unlikely to go viral globally."
+        },
+        "informative_value": {
+          "score": 7,
+          "justification": "The tweet provides valuable information about the cost of a ChainLink: https://t.co/dVWtGe5"score": 7,
+          "The tweet provides valuable information regarding the TRONetworks on Ethereum and TRON networks, which could be of interest to crypto enthusiasts and investors. The topic is relevant and has the potential to be shared within specific communities, but it's unlikely to go viral globally."
+        },
+        "sentiment_polarity": {
+          "score": 7,
+          "justification": "Informs about a price comparison between ChainLink and Bridge Oracles on Ethereum and TRON networks, which could be of interest to crypto enthusiasts and investors. The topic is relevant and has the potential to be shared within specific communities, but it's unlikely to go viral globally."
+        },
+        "sentiment_polarity": {
+          "score": 5,
+          "justification": "The tweet is informative and provides a comparison of the costs associated with using ChainLink and Bridge Oracles on Ethereum and TRON networks. The sentiment is neutral, as it does not express any strong emotions or opinions."
+        },
+        "score": 7,
+          "tweet": "Informs about a price comparison between the costs associated with using ChainLink and provides a comparison of the costs associated with using ChainLink and Bridge Oracles on Ethereum and TRON networks. The sentiment is neutral, as it does not express any strong emotions or opinions."
+        },
+        "duration_of_impact": {
+          "score": 6,
+          "justification": "The tweet provides valuable information about the cost of using ChainLink and Bridge Oracles on Ethereum and TRON networks. The topic is relevant and has the potential to be shared within specific communities, but it's unlikely to go viral globally."
+        }
+      }
+    },
+    {
+      "tweet_id": "1320802735843954691",
+      "analysis": {
+        "virality_potential": {
+          "score": 5,
+          "justification": "The tweet announces the launch of the $DYP Community Crowdsale, which could be of interest to crypto enthusiasts and investors. The topic is relevant and has the potential to be shared within specific communities, but it's unlikely to go viral globally."
+        },
+        "informative_value": {
+          "score": 7,
+          "justification": "The tweet provides valuable information about the launch of the $DYP Community Crowdsale, including the CROWD-SALE ADDRESS and a link to a Cointelegraph article. The tweet also includes relevant hashtags."
+        },
+        "sentiment_polarity": {
+          "score": 5,
+          "justification": "The tweet is informative and provides details about the launch of the $DYP Community Crowdsale. The sentiment is neutral, as it does not express any strong emotions or opinions."
+        },
+        "duration_of_impact": {
+          "score": 5,
+          "justification": "The tweet provides valuable information about the launch of the $DYP Community Crowdsale, which is relevant to crypto enthusiasts and investors. The topic is relevant and has the potential to be shared within specific communities, but it's unlikely to go viral globally."
+        }
+      }
+    },
+    {
+      "tweet_id": "1318940081869131776",
+      "analysis": {
+        "virality_potential": {
+          "score": 4,
+          "justification": "The tweet explains the concept of Virality Potential in a clear and concise manner, making it relevant and potentially shareable within specific communities."
+        },
+        "informative_value": {
+          "score": 8,
+          "justification": "The tweet provides a detailed explanation of the Virality Potential criterion, including examples for each score range. The tweet is informative and provides valuable insights into the Virality Potential of tweets."
+        },
+        "sentiment_polarity": {
+          "score": 5,
+          "justification": "The tweet is informative and provides a detailed explanation of the Virality Potential criterion. The sentiment is neutral, as it does not express any strong emotions or opinions."
+        },
+        "duration_of_impact": {
+          "score": 5,
+          "justification": "The tweet provides valuable information about the Virality Potential criterion, which is relevant to individuals interested in analyzing the virality of tweets."
+        }
+      }
+    },
+    {
+      "tweet_id": "1318930492381523971",
+      "analysis": {
+        "virality_potential": {
+          "score": 5,
+          "justification": "The tweet provides a detailed explanation of the Informative Value criterion, including examples for each score range. The tweet is informative and provides valuable insights into the Informative Value of tweets."
+        },
+        "informative_value": {
+          "score": 8,
+          "justification": "The tweet provides a detailed explanation of the Informative Value criterion, including examples for each score range. The tweet is informative and provides valuable insights into the Informative Value of tweets."
+        },
+        "sentiment_polarity": {
+          "score": 5,
+          "justification": "The tweet is informative and provides a detailed explanation of the Informative Value criterion. The sentiment is neutral, as it does not express any strong emotions or opinions."
+        },
+        "duration_of_impact": {
+          "score": 5,
+          "justification": "The tweet provides valuable information about the Informative Value criterion, which is relevant to individuals interested in analyzing the informative value of tweets."
+        }
+      }
+    },
+    {
+      "tweet_id": "1318898980026118145",
+      "analysis": {
+        "virality_potential": {
+          "score": 5,
+          "justification": "The tweet provides a detailed explanation of the Sentiment Polarity criterion, including examples for each score range. The tweet is informative and provides valuable insights into the Sentiment Polarity of tweets."
+        },
+        "informative_value": {
+          "score": 5,
+          "justification": "The tweet provides a detailed explanation of the Sentiment Polarity criterion, including examples for each score range. The tweet is informative and provides valuable insights into the Sentiment Polarity of tweets."
+        },
+        "sentiment_polarity": {
+          "score": 5,
+          "justification": "The tweet is informative and provides a detailed explanation of the Sentiment Polarity criterion. The sentiment is neutral, as it does not express any strong emotions or opinions."
+        },
+        "duration_of_impact": {
+          "score": 5,
+          "justification": "The tweet provides valuable information about the Sentiment Polarity criterion, which is relevant to individuals interested in analyzing the sentiment of tweets."
+        }
+      }
+    },
+    {
+      "tweet_id": "1318636297070825475",
+      "analysis": {
+        "virality_potential": {
+          "score": 7,
+          "justification": "The tweet provides a detailed explanation of the Duration of Impact criterion, including examples for each score range. The tweet is informative and provides valuable insights into the Duration of Impact of tweets."
+        },
+        "informative_value": {
+          "score": 5,
+          "justification": "The tweet provides a detailed explanation of the Duration of Impact criterion, including examples for each score range. The tweet is informative and provides valuable insights into the Duration of Impact of tweets."
+        },
+        "sentiment_polarity": {
+          "score": 5,
+          "justification": "The tweet is informative and provides a detailed explanation of the Duration of Impact criterion. The sentiment is neutral, as it does not express any strong emotions or opinions."
+        },
+        "duration_of_impact": {
+          "score": 7,
+          "justification": "The tweet provides valuable information about the Duration of Impact criterion, which is relevant to individuals interested in analyzing the duration of impact of tweets."
+        }
+      }
+    },
+    {
+      "tweet_id": "1316506694839685125",
+      "analysis": {
+        "virality_potential": {
+          "score": 6,
+          "justification": "The tweet provides a detailed explanation of the Sentiment Polarity criterion, including examples for each score range. The tweet is informative and provides valuable insights into the Sentiment Polarity of tweets."
+        },
+        "informative_value": {
+          "score": 5,
+          "justification": "The tweet provides a detailed explanation of the Sentiment Polarity criterion, including examples for each score range. The tweet is informative and provides valuable insights into the Sentiment Polarity of tweets."
+        },
+        "sentiment_polarity": {
+          "score": 5,
+          "justification": "The tweet is informative and provides a detailed explanation of the Sentiment Polarity criterion. The sentiment is neutral, as it does not express any strong emotions or opinions."
+        },
+        "duration_of_impact": {
+          "score": 5,
+          "justification": "The tweet provides valuable information about the Sentiment Polarity criterion, which is relevant to individuals interested in analyzing the sentiment of tweets."
+        }
+      }
+    },
+      "duration_of_impact": "score": 5,
+        "score: 5,
+        "relevant to individuals interested in analyzing
+
+--- FULL PROMPT SENT TO MODEL ---

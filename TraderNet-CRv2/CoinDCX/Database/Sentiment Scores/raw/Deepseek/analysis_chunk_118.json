@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1564288006898458627",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Announcement of a major Ethereum network upgrade with specific technical details and timelines, likely to generate significant interest in crypto communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides critical technical details about The Merge upgrade including exact dates and trigger values from an official source."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral informational tone without emotional language, focused on factual announcements."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The Merge represents a fundamental change to Ethereum's infrastructure with long-term network implications."
+      }
+    }
+  },
+  {
+    "tweet_id": "1563955156743438336",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Significant statistic about Ethereum's token economics presented in a shareable format, but limited to crypto audiences."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides concrete data about EIP-1559 impacts with a verifiable metric ($3.86B value burned)."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of factual data without explicit positive/negative framing."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Burn metrics remain relevant for economic analyses but tied to specific protocol implementation timeframe."
+      }
+    }
+  },
+  {
+    "tweet_id": "1563815413707833345",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Generic greeting with image links lacks engagement hooks beyond personal audience."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No substantive information beyond a morning greeting and unspecified media links."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive morning greeting with heart emoji conveys friendly sentiment."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Ephemeral content tied to daily greeting with no lasting relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1563713718902558720",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major payment processor adoption news likely to generate broad interest across crypto and financial sectors."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Reports significant industry developments with multiple corporate partnerships and asset mentions."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting style despite positive implications of adoption news."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Payment processor integrations represent ongoing developments in crypto adoption."
+      }
+    }
+  },
+  {
+    "tweet_id": "1563556579768938496",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Sensitive market-moving information about major crypto unlocks likely to circulate in trading communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific unlock amounts and timing for two significant crypto events."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of factual information using eye emojis for emphasis."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Primarily relevant around the specific unlock dates with diminishing attention afterward."
+      }
+    }
+  },
+  {
+    "tweet_id": "1563366682697281536",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Vague tweet from a prominent artist may generate curiosity but lacks clear engagement hooks."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Contains only 'RAW ETHEREUM' text with unspecified link, providing minimal information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Ambiguous tone without clear positive/negative indicators."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Art-related crypto content typically has short attention cycle unless part of larger collection."
+      }
+    }
+  },
+  {
+    "tweet_id": "1562873091234996224",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Celebrity endorsement of major technical upgrade likely to amplify reach beyond core crypto audiences."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Reports public figure's stance on technical development but lacks new technical details."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive framing through 'fan' characterization of Cuban's position."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Celebrity endorsements maintain relevance but tied to specific upgrade timeframe."
+      }
+    }
+  },
+  {
+    "tweet_id": "1562627394820722689",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Time-sensitive update about major protocol change presented as 'fun fact' for shareability."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific date for technical milestone but lacks implementation details."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of factual timeline information."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Scheduled upgrade date remains relevant until event occurs, with historical interest afterward."
+      }
+    }
+  },
+  {
+    "tweet_id": "1561666150991335431",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Comparative brand performance data presented in meme-style format for crypto/NFT audiences."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific revenue figures with attributed data source for verification."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of comparative metrics without explicit commentary."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Brand performance metrics remain reference points until updated numbers emerge."
+      }
+    }
+  },
+  {
+    "tweet_id": "1561115106703921152",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Addresses common misconception about Ethereum upgrade, likely to generate discussion."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Clarifies technical aspect of major upgrade, managing community expectations."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative connotation through frowning emoji and disappointment about fee structure."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Clarification remains relevant as long as misconceptions about The Merge persist."
+      }
+    }
+  }
+]

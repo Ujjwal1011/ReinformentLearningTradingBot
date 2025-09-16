@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1732189792589484051",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Niche crypto suggestion with limited audience; no strong hook or breaking news."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Opinion/suggestion without verifiable data."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Expresses optimism with the word 'bullish', indicating a positive tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Specific suggestion tied to current fee usage; relevance likely short-lived."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732189748796457215",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Large crypto transfer may attract attention within crypto community but lacks broader appeal."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides concrete data (amount, token, addresses) about a specific transaction."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Statement is factual without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Pertains to a single transaction; interest likely fades after initial discussion."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732189744497356813",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Enthusiastic promotion with multiple hashtags likely to be shared among crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Announces Season 2 but lacks substantive details, offering limited informational content."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Uses exuberant language and emojis, conveying strong positive excitement."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevance persists while Season 2 is active, extending beyond a single moment."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732189626620649859",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Opinionated statement may generate discussion but lacks a strong hook for widespread sharing."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Contains personal opinion without verifiable facts."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Shows preference for SOL and mild criticism of ETH, resulting in a moderately positive tone toward SOL."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Topic is a specific debate that may lose relevance after initial reactions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732189497423708407",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Reply format and niche content limit its spread beyond the immediate crypto community."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Reports a specific large transfer of Ethereum to Kraken, offering concrete financial data."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Expresses interest with a positive phrase, indicating a favorable tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Pertains to a single transaction, interest likely diminishes quickly."
+      }
+    }
+  }
+]

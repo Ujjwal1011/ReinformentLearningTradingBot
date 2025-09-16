@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1767721455276761196",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet discusses crypto topics, which can generate interest among enthusiasts, but it's not likely to go viral beyond niche communities."
+},
+"informative_value": {
+"score": 5,
+"justification": "Provides insights into crypto predictions but lacks formal data, relying on personal opinions."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral tone, discussing possibilities without strong emotion."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days as crypto news can change rapidly."
+}
+}
+},
+{
+"tweet_id": "1767642511416201649",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Critique of Ethereum may resonate with Bitcoin supporters but not widely beyond."
+},
+"informative_value": {
+"score": 6,
+"justification": "Points out Ethereum's issues, providing some educational content."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Negative critique of Ethereum."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Impact is short-term as it's a critique."
+}
+}
+},
+{
+"tweet_id": "1767604349423984905",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Suggests an alternative to Ethereum, relevant to its community."
+},
+"informative_value": {
+"score": 6,
+"justification": "Compares costs, providing useful info."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Negative towards Ethereum."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Impact lasts a few days as it's a specific suggestion."
+}
+}
+},
+{
+"tweet_id": "1767595314670870600",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Significant move from Ethereum to Solana, likely to be shared widely in crypto and gaming."
+},
+"informative_value": {
+"score": 8,
+"justification": "Announces a major project shift, valuable info."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive announcement."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Impact lasts weeks as it's a notable change."
+}
+}
+},
+{
+"tweet_id": "1767380677006426618",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Personal commitment statement, relevant to crypto followers."
+},
+"informative_value": {
+"score": 5,
+"justification": "Shares opinions on crypto, not formal info."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive and determined tone."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Impact is short-term as it's a personal statement."
+}
+}
+},
+{
+"tweet_id": "1767376509139112411",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Market prediction, shared among crypto traders."
+},
+"informative_value": {
+"score": 6,
+"justification": "Predicts price targets, useful for traders."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive outlook."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Impact is short-term as predictions can change."
+}
+}
+},
+{
+"tweet_id": "1767341887533293645",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Partnership announcement, relevant to Web3 community."
+},
+"informative_value": {
+"score": 7,
+"justification": "Announces a new partnership, valuable info."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive and excited tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Impact lasts a few weeks as it's a significant partnership."
+}
+}
+},
+{
+"tweet_id": "1767335350077157589",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Major institutional news, likely to go viral in crypto."
+},
+"informative_value": {
+"score": 9,
+"justification": "Significant investment opportunity announcement."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Positive and bullish sentiment."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Impact is long-term as it's a foundational change."
+}
+}
+},
+{
+"tweet_id": "1767266161442398451",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Announces a film about Ethereum contributors, relevant to niche audience."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides info on Ethereum's roadmap and contributors."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive and proud tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Impact lasts a few weeks as it's a specific project update."
+}
+}
+},
+{
+"tweet_id": "1767259974403858532",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Warns about gas fees, relevant to Ethereum users."
+},
+"informative_value": {
+"score": 6,
+"justification": "Points out potential issues with Ethereum."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Negative sentiment towards high gas fees."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Impact is short-term as gas fees can fluctuate."
+}
+}
+}
+]

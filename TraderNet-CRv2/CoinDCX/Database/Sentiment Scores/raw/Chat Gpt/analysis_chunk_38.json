@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1436342951295193089",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet uses a simple call-to-action and a popular hashtag, which can resonate within the crypto community and encourage sharing, but it lacks a broader hook or breaking news, limiting its global reach."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet offers no factual information or context beyond a personal request; it is essentially a meme."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The heart emoji and encouraging tone convey a positive sentiment toward those who bought Ethereum at a low price."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The relevance of the tweet is tied to a specific price point and will likely fade after a few days as the conversation moves on."
+}
+}
+},
+{
+"tweet_id": "1436320035774124034",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet contains a motivational message and popular crypto hashtags, which can spark engagement among crypto enthusiasts, but it does not present a unique hook or breaking news."
+},
+"informative_value": {
+"score": 5,
+"justification": "It offers a general statement about past price levels and encourages accumulation, but lacks specific data or sources."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet promotes a positive investment strategy, reflecting an optimistic tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The advice to accumulate is relevant for a longer period, as it applies to ongoing investment decisions."
+}
+}
+},
+{
+"tweet_id": "1436121394509660164",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet is posted by a high-profile celebrity (KSI) and discusses a trending topic (high Ethereum fees), which can attract attention across both crypto and mainstream audiences."
+},
+"informative_value": {
+"score": 4,
+"justification": "It shares a personal opinion about fee levels and a switch to Solana, but does not provide detailed data or sources."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "The tweet expresses frustration with Ethereum fees and a positive stance toward Solana, resulting in a mixed sentiment."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The issue of high fees is ongoing, so the tweet may remain relevant for a few weeks as the conversation continues."
+}
+}
+},
+{
+"tweet_id": "1435974498906349569",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet is a simple question from a well-known celebrity, which can spark curiosity and engagement within the crypto community, but it lacks additional context or a hook."
+},
+"informative_value": {
+"score": 2,
+"justification": "It does not provide any factual information or analysis, merely posing a question."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply asking a question without expressing an opinion."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The relevance is limited to the immediate discussion and will likely fade after a short period."
+}
+}
+},
+{
+"tweet_id": "1435532158932865027",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "A statement from a major financial institution about Ethereum's valuation is newsworthy and can attract widespread attention across financial and crypto audiences."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet conveys a credible, data-driven valuation from a reputable source, providing significant informational content."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is a neutral factual statement without overt emotional language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The valuation information remains relevant for investors and analysts for an extended period, though it may be updated as market conditions change."
+}
+}
+}
+]

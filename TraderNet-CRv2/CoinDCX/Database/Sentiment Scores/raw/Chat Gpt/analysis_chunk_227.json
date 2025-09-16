@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1548365442393133057",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet presents a bold claim about Ethereum's deflationary nature, which is likely to spark discussion and shares within the crypto community. The user’s large following and the tweet’s moderate engagement suggest it has medium to high virality potential."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "The tweet provides a specific claim about Ethereum’s monetary properties, offering some informational content, though it lacks supporting evidence or sources."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The tweet expresses optimism about Ethereum’s future, using positive language like 'What a contrast' and the rocket emoji, indicating a moderately positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The statement concerns a fundamental property of Ethereum that could remain relevant for an extended period, especially within the crypto community."
+      }
+    }
+  },
+  {
+    "tweet_id": "1548349214274359299",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet uses an enthusiastic exclamation that may attract retweets within the crypto community, but its brevity and lack of additional context limit its broader virality."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet merely states that Ethereum is 'exploding' without providing any data or context, offering little informative content."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tweet uses all caps and exclamation marks to convey strong excitement, reflecting a very positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The hype is likely to fade quickly as market conditions change, making the tweet relevant only for a short period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1548228260726599682",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet contains specific data (10K+ new wallets daily) and a bullish outlook, which can resonate with the NFT community and encourage sharing."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet provides concrete data and analysis about the NFT market, offering valuable information to readers."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The tweet expresses optimism about the NFT market, indicating a moderately positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The market trend discussed is likely to remain relevant for weeks or months as the NFT ecosystem evolves."
+      }
+    }
+  },
+  {
+    "tweet_id": "1548106245277564932",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "The tweet is a straightforward price update that may be shared by traders, but its lack of additional context limits broader virality."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "The tweet provides a factual price change, which is useful for traders but not deeply informative."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet simply reports a price increase without emotional language, indicating a neutral sentiment."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The price alert is only relevant until the next price update, making it short-lived."
+      }
+    }
+  },
+  {
+    "tweet_id": "1547956163303522311",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet reports a high-value transaction of a CryptoPunk, which could interest collectors and be shared within the community, but it is a specific event."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "The tweet provides detailed transaction data, including the amount and addresses, offering valuable information to those tracking CryptoPunk sales."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is a factual statement with no emotional tone, indicating a neutral sentiment."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "While the transaction itself is a one-time event, the information may be referenced by collectors and historians for some time, but it will not remain relevant indefinitely."
+      }
+    }
+  }
+]

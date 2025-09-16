@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1469258842487808001",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The bold prediction about Ethereum's price could attract attention within crypto communities."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "It's a speculative prediction, not factual information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment towards Ethereum's potential."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant until the price target is met or the deadline passes."
+      }
+    }
+  },
+  {
+    "tweet_id": "1469099889552334852",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "A simple question in Spanish with low engagement."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Minimal information provided."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-lived relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1469015392483872772",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Attracts crypto enthusiasts interested in real-world applications."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides details on using Ethereum for payments."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment about Ethereum's usability."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for a few weeks as a case study."
+      }
+    }
+  },
+  {
+    "tweet_id": "1468675657488117766",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Breaking news about SEC's stance on crypto."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides important regulatory information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, factual tone."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Long-term relevance for crypto discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1468601645164470272",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Concise comparison appeals to crypto investors."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Educational comparison of Ethereum and Bitcoin."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive towards both cryptocurrencies."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Standard lifespan for crypto content."
+      }
+    }
+  },
+  {
+    "tweet_id": "1468317923563515908",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Engaging poll on price prediction."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Minimal information, speculative."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, as it's a poll."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant until Christmas."
+      }
+    }
+  },
+  {
+    "tweet_id": "1468214813184733190",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Critique of a bank CEO's stance on crypto."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Raises awareness about crypto's growth."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Negative towards the CEO's ignorance."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for a few days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1467965194785763338",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Introduces a new service in crypto space."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides info on a new encrypted service."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive about the service's potential."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for a few weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1467915994437980163",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Price update with moderate engagement."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Updates on Ethereum's price."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, factual update."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a day."
+      }
+    }
+  },
+  {
+    "tweet_id": "1467662718752923649",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Critique of Solana's claims."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Raises questions about Solana's positioning."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Negative towards Solana's marketing."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a few days."
+      }
+    }
+  }
+]

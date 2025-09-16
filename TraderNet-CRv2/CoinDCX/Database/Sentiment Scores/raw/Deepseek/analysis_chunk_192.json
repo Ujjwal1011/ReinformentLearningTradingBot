@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1732181119800615210",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Cryptocurrency performance comparisons with clear visual formatting may resonate strongly within crypto communities, though lacking broader viral hooks."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific percentage changes for multiple assets, though lacks source citations or deeper analysis."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Mixed emojis show balanced perspective, but concluding 'good opportunity' suggests cautious optimism."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Crypto price analyses typically have short relevance windows due to market volatility."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732181091572719713",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Niche NFT industry news with minimal engagement signals limited sharing potential."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Highlights a specific threat to NFT projects, though requires clicking through for full context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting tone without explicit emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to immediate response to Thirdweb threat, likely days-long news cycle."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732181048015098351",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Vietnamese-language DEX tutorial may see moderate sharing within regional crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides educational content about platform functionality across multiple chains."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral instructional tone without emotional valence."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Tutorial content maintains value until platform undergoes significant changes."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732180705411555725",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Problem-solution format with multiple niche hashtags could drive targeted sharing."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Promotes a service rather than providing standalone information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral promotional tone with slight positive inflection ('pennies')."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Migration solutions remain relevant as long as Web3 storage costs persist."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732180228162584635",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Technical product announcement lacks mass appeal despite emoji use."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Details key features of new token implementation with multiple technical claims."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Enthusiastic emojis and 'big potential' statement convey optimism."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "New token features remain relevant through initial adoption phase."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732179985815961780",
+    "analysis": {
+      "virality_potential": {
+        "score": 2,
+        "justification": "Niche NFT sale announcement with zero engagement shows minimal sharing potential."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Basic transaction reporting without market context or analysis."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Rocket and explosion emojis convey strong positive excitement."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "NFT floor prices fluctuate rapidly, making this immediately dated."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732179628708749815",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Major Ethereum upgrade discussion likely to circulate within developer communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Highlights significant technical improvement with network-wide implications."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone enhanced by humorous Pulitzer comment."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Protocol upgrades typically influence ecosystem development for years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732178977064632776",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Technical thread reply lacks standalone viral elements despite engagement."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Clarifies nuanced DeFi concept with platform-specific insights."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive opener ('Absolutely love') tempered by technical correction."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Flash loan discussions persist but this specific correction has limited lifespan."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732178849478164987",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "French technical analysis likely limited to Francophone trading circles."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides trading signals with technical indicators (RSI)."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Multiple rocket emojis and 'choquer tout le monde' express strong bullishness."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Technical analysis predictions typically have hours-to-days relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732178702325198857",
+    "analysis": {
+      "virality_potential": {
+        "score": 2,
+        "justification": "Simple price comparison with minimal engagement potential."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "States current NFT floor prices without additional context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral factual comparison without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "NFT prices change frequently, making this immediately time-sensitive."
+      }
+    }
+  }
+]

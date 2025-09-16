@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1535660715650031623",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Stark financial comparison attracts crypto communities' attention, though lacks universal appeal for global virality."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific investment performance data but lacks source citations or broader market context."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Implies negative outcome through financial loss comparison, though stated neutrally."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant until next major market movement, tied to volatile crypto prices."
+      }
+    }
+  },
+  {
+    "tweet_id": "1535655201096466434",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Time-sensitive market update likely shared within crypto circles, but limited emotional hook."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Concrete market cap figure provides measurable data point about Ethereum's status."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of factual market data without explicit emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to current market cycle, likely superseded by next price movement."
+      }
+    }
+  },
+  {
+    "tweet_id": "1535620652354441216",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Breaking news format with historical comparison increases shareability in crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Specific price point and historical context provide clear market information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting despite negative price movement implications."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Significant until next major price threshold is reached or surpassed."
+      }
+    }
+  },
+  {
+    "tweet_id": "1535599786870587395",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Strong warning with specific predictions likely to spark debate and shares in financial circles."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Contains market predictions but lacks supporting data or source references."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Strong negative sentiment through phrases like 'rough weekend' and 'you'll lose money'."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Predictions could remain relevant through the discussed timeframe (weekend market activity)."
+      }
+    }
+  },
+  {
+    "tweet_id": "1535593369988214785",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Notable real-world crypto adoption news likely shared across business and crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Specific information about payment method adoption by named business entity."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive implication through adoption news, though neutrally presented."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant through initial implementation phase of payment system."
+      }
+    }
+  },
+  {
+    "tweet_id": "1535551662747635712",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Simple bullish statement with engagement hook (❤️), limited to existing followers."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Personal opinion without supporting analysis or data."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Clear positive sentiment expressed through 'bullish' declaration and heart emoji."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to current market sentiment, likely fading with price changes."
+      }
+    }
+  },
+  {
+    "tweet_id": "1535315484433711104",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Mentions Ethereum founder but lacks context for broad sharing without viewing linked content."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No inherent information beyond name recognition and link (content unknown)."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral statement with no discernible emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Minimal lasting impact without additional context from linked content."
+      }
+    }
+  },
+  {
+    "tweet_id": "1535226643035267074",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Notable retail crypto adoption news, particularly relevant to luxury market followers."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Specific information about payment methods adopted by named company."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of business decision."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant through initial implementation and early adoption phase."
+      }
+    }
+  },
+  {
+    "tweet_id": "1534807806183845888",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Niche governance update primarily relevant to ApeCoin and Ethereum communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Concrete information about passed proposal affecting crypto ecosystem structure."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of governance outcome."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Structural ecosystem decisions maintain relevance through implementation period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1534722368941174788",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Technical analysis appealing to crypto enthusiasts, but too niche for broad sharing."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Detailed supply mechanics analysis with specific numerical projections."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of technical data without explicit commentary."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Fundamental supply mechanics remain relevant to Ethereum's long-term valuation."
+      }
+    }
+  }
+]

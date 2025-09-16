@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1752362433203835342",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet contains breaking news about a significant financial event, which is likely to be shared widely among crypto communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "The tweet provides credible, newsworthy information about a potential SEC approval of Ethereum ETFs, which is of high importance to investors."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet expresses positive sentiment with words like 'BIG BREAKING' and the mention of a large financial figure."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tweet's impact will last for days or weeks as the crypto community discusses the potential approval of Ethereum ETFs."
+      }
+    }
+  },
+  {
+    "tweet_id": "1752346237817196579",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet includes a meme and mentions a prominent figure in the crypto space, which could be shared within specific communities."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "The tweet contains a joke rather than factual information, making it less informative."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet has a positive tone with a playful meme, indicating a light-hearted sentiment."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The tweet's relevance is likely short-lived as it is a meme tied to a specific moment."
+      }
+    }
+  },
+  {
+    "tweet_id": "1752159070604132567",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "The tweet asks a question about crypto charts, which may generate some discussion but is unlikely to go viral."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "The tweet provides a question without much context or information, making it minimally informative."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, presenting a question without strong positive or negative sentiment."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The tweet's relevance is tied to current crypto trends, which may fade within a few days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1752136916156416077",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet discusses crypto strategies and past events, which could resonate with crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "The tweet provides some educational content about crypto dips and FUD, offering insights for investors."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, discussing past events without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tweet's content about crypto strategies may remain relevant for weeks as investors consider similar situations."
+      }
+    }
+  },
+  {
+    "tweet_id": "1751300364698063285",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "The tweet is a personal complaint about Ethereum's fees, which may be shared within specific communities but lacks a strong hook."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "The tweet provides some information about Ethereum's fee structure but is primarily a personal anecdote."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "The tweet expresses negative sentiment with frustration about Ethereum's fees."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The tweet's relevance is tied to the specific issue mentioned, which may fade once the issue is addressed."
+      }
+    }
+  },
+  {
+    "tweet_id": "1750819186832515268",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet shares a personal investment journey, which may inspire others but is unlikely to go viral."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "The tweet provides some investment insights but is primarily a personal story."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet expresses positive sentiment with a long-term investment perspective."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tweet's content about investment strategies may remain relevant for some time as others consider similar approaches."
+      }
+    }
+  },
+  {
+    "tweet_id": "1750558058801922193",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet contains breaking news about a significant financial event, which is likely to be shared widely among crypto communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "The tweet provides credible, newsworthy information about the SEC delaying an Ethereum ETF, which is of high importance to investors."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "The tweet expresses negative sentiment with the mention of a delay, which may disappoint investors."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tweet's impact will last for days or weeks as the crypto community discusses the implications of the delay."
+      }
+    }
+  },
+  {
+    "tweet_id": "1750265146054975890",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet criticizes Ethereum, which may generate discussion within crypto communities but lacks a strong hook."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "The tweet provides a link to an article but lacks context, making it minimally informative."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "The tweet expresses negative sentiment with the use of the word 'fuds,' indicating criticism."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The tweet's relevance is tied to current crypto trends, which may fade within a few days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1750250411972559210",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet contains breaking news about a significant financial event, which is likely to be shared widely among crypto communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "The tweet provides credible, newsworthy information about the SEC delaying an Ethereum ETF, which is of high importance to investors."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "The tweet expresses negative sentiment with the mention of a delay, which may disappoint investors."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tweet's impact will last for days or weeks as the crypto community discusses the implications of the delay."
+      }
+    }
+  },
+  {
+    "tweet_id": "1750246931656237518",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet contains breaking news about a significant financial event, which is likely to be shared widely among crypto communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "The tweet provides credible, newsworthy information about the SEC delaying an Ethereum ETF, which is of high importance to investors."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "The tweet expresses negative sentiment with the mention of a delay, which may disappoint investors."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tweet's impact will last for days or weeks as the crypto community discusses the implications of the delay."
+      }
+    }
+  }
+]

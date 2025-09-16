@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1524395228995764225",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "References mainstream media coverage of crypto projects with a 'we're early' narrative that resonates in crypto communities."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Mainly commentary on media coverage rather than providing new factual information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone about Ethereum's positioning with an optimistic 'early' perspective."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant until UST/Ethereum narratives remain topical in crypto discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1524393617611182082",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Self-promotional content with multiple hashtags but lacks universal appeal beyond specific crypto communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Primarily promotional claims without verifiable data or substantive information."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong positive assertions about personal and community superiority in crypto space."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Time-sensitive airdrop references limit long-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1524327678005809152",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Controversial comparison of blockchain platforms during a market crisis increases shareability."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides opinionated analysis of current crypto market conditions with specific platform references."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral comparison stating facts about platform performance without overt emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Relevant until Ethereum's merge completion and competitor platform developments."
+      }
+    }
+  },
+  {
+    "tweet_id": "1524232105118642178",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Negative market statistic presented as 'news' likely to spread quickly among crypto traders."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific market data point about Ethereum investors though source isn't cited."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative implication about investment performance without direct emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to current market conditions that may change rapidly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1524203797051891713",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Provocative comparison to failed project Luna designed to spark debate in crypto communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Opinion-based critique without technical evidence or verifiable claims."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Strong negative comparison using terms like 'dirty truth' and 'obfuscated'."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Comparison debate may persist until Ethereum's technical roadmap proves/disproves claims."
+      }
+    }
+  },
+  {
+    "tweet_id": "1524178921029345283",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Interesting historical fact about Ethereum's founder that appeals to crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides verifiable biographical information about a key industry figure."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of factual information without emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Historical facts about prominent figures maintain long-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1524056940136964096",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Technical update about major platform's blockchain integrations interests developers."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Specific details about supported blockchains and wallet integrations with roadmap."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement of technical developments without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Relevant until all announced integrations are fully implemented."
+      }
+    }
+  },
+  {
+    "tweet_id": "1524056673136136192",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Combination of iconic character IP and NFT trend creates high shareability across multiple communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Specific details about NFT drop date, quantity, and blockchain platform."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive excitement about partnership and metaverse entry using celebratory emojis."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Primary relevance until NFT drop date, with secondary interest in collection performance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1523988705672941568",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news about financial product approvals likely to spread quickly in investment circles."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific regulatory development with dates and asset types listed."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone implied by 'BREAKING' and institutional adoption news."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant until ETF launch date and initial trading performance data emerges."
+      }
+    }
+  },
+  {
+    "tweet_id": "1523587012162318338",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Major platform's Web3 integration news has cross-industry appeal beyond crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific announcement about supported blockchains from verified source."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive framing of platform expansion into NFTs."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Long-term relevance as part of Instagram's ongoing Web3 strategy development."
+      }
+    }
+  }
+]

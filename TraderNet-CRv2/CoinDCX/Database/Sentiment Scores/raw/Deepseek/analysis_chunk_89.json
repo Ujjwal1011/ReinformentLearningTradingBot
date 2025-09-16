@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1530533720033316865",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Encourages financial freedom with actionable advice about Ethereum validation, likely resonating within crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific technical requirements for Ethereum 2.0 validation but lacks source citations."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive tone promoting empowerment and career independence through crypto participation."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant until Ethereum's validation requirements change, maintaining medium-term interest."
+      }
+    }
+  },
+  {
+    "tweet_id": "1530392300052185094",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Market analysis with multiple hashtags could gain traction in financial/crypto circles."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Links to external analysis about Bitcoin-gold decoupling, though dependent on external content."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting tone without explicit emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Tied to specific market conditions likely to change within days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1530059058539274240",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Dramatic 'Crypto Winter' framing may attract attention during market downturn."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "References specific market phenomena with supporting link for context."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative implications through terms like 'Capitulation Dump'."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to immediate market cycle developments."
+      }
+    }
+  },
+  {
+    "tweet_id": "1529692372833288192",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Quantitative market decline statistics may interest crypto traders."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific percentage drops from price highs with source link."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Implied negative outlook through focus on market declines."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance limited to current bear market phase."
+      }
+    }
+  },
+  {
+    "tweet_id": "1529622992203882496",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Provocative comparison between Terra and Ethereum development timelines could spark debates."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Raises questions about development processes but lacks substantive data."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Implied criticism through comparison questioning development efficiency."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant until Ethereum 2.0 launches or development timelines change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1529497192976744450",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Concrete metric ($2.54 fees) presented clearly for crypto users' interest."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides verifiable on-chain data point with historical comparison."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of factual information."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to current network fee levels that frequently fluctuate."
+      }
+    }
+  },
+  {
+    "tweet_id": "1529491700317552640",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Breaking news format from verified account amplifies shareability."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Timely update about network fee changes impacting Ethereum users."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement despite positive implication of lower fees."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Immediate relevance that diminishes with next fee fluctuation."
+      }
+    }
+  },
+  {
+    "tweet_id": "1529458000011972610",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Technical discussion about chain stability attracts developer community attention."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Details specific blockchain event with proposal context for solutions."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Analytical tone discussing technical improvements without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant until protocol changes are implemented or debated."
+      }
+    }
+  },
+  {
+    "tweet_id": "1529424018113273860",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Surprising comparative statistic (4.5x Visa) has strong shareability potential."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides notable performance metric but lacks source citation."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive framing of Ethereum's transaction capacity."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Comparative statistic remains relevant for annual performance analyses."
+      }
+    }
+  },
+  {
+    "tweet_id": "1529179668900990976",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news about major interoperability solution with multiple partner mentions."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Announces concrete product launch with technical implications for cross-chain operations."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Enthusiastic tone using fire emoji and 'leap in interoperability' phrasing."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Long-term relevance as bridge functionality remains operational."
+      }
+    }
+  }
+]

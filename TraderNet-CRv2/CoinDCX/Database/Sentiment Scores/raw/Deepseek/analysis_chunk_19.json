@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1436342951295193089",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Encourages engagement through a call-to-action with a trending cryptocurrency hashtag, likely resonating within crypto communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "No factual content beyond prompting user interaction; lacks educational or news value."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone implied by the heart emoji and encouragement of investment behavior."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevance tied to Ethereum's price volatility, likely fading as market conditions change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1436320035774124034",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Broad cryptocurrency advice with popular hashtags may drive sharing among crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "General investment encouragement without specific data or sources."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Optimistic tone advocating accumulation of assets."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Evergreen investment advice could remain relevant for weeks in crypto circles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1436121394509660164",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High engagement metrics and commentary on trending blockchain migration (Ethereum to Solana)."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Highlights Ethereum's fee issue while mentioning platform migration, though lacks depth."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Mildly negative toward Ethereum fees but humorous in tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Blockchain fee discussions remain relevant for weeks as an ongoing industry challenge."
+      }
+    }
+  },
+  {
+    "tweet_id": "1435974498906349569",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Celebrity account sparking direct comparison debate between major cryptocurrencies."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Simple question without informational content or context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral phrasing inviting discussion without emotional bias."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Ongoing blockchain debates maintain relevance for days to weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1435532158932865027",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Newsworthy price prediction from a major financial institution drives sharing potential."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Specific valuation data attributed to a credible source (Standard Chartered)."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual reporting without explicit positive/negative framing."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "High-profile price predictions remain reference points for months in financial discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1435456963572273153",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Niche appeal to DeFi enthusiasts with complex strategy, limiting broad virality."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Detailed explanation of a multi-platform crypto strategy provides educational value."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Sarcastic tone criticizing regulatory constraints through exaggerated example."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "DeFi strategies remain relevant for weeks but evolve with platform changes."
+      }
+    }
+  },
+  {
+    "tweet_id": "1435421954337427457",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Insider perspective on industry trends may resonate within crypto professional circles."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Highlights developer migration patterns between blockchain platforms."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral observation of industry talent shifts over time."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Developer trends remain relevant for months in tech discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1435284575190724611",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Strong language and contrarian market opinion may drive engagement in crypto communities."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Personal opinion on market behavior without data or actionable insights."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative toward panicking investors, using aggressive language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Tied to short-term market fluctuations, relevance fades with next price movement."
+      }
+    }
+  },
+  {
+    "tweet_id": "1435250087270174727",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Specific price prediction lacks broad appeal beyond immediate crypto traders."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Makes a market prediction but lacks supporting analysis or sources."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative implication of significant price drop."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Price predictions become irrelevant quickly if market moves contrary."
+      }
+    }
+  },
+  {
+    "tweet_id": "1435198983195009024",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Major regulatory news about cryptocurrency adoption by a nation-state."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Reports concrete legislative action with significant financial implications."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive framing of cryptocurrency adoption progress."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "Legal recognition of cryptocurrencies has long-term regulatory and market implications."
+      }
+    }
+  }
+]

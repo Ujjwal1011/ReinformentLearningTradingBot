@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1490685624407441414",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet uses strong hype language and relevant crypto hashtags, likely to spread within the crypto community, but it is not breaking news."
+},
+"informative_value": {
+"score": 3,
+"justification": "It offers a speculative prediction about Ethereum’s price action with no source or detailed data."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tone is moderately positive and enthusiastic, encouraging excitement about a potential altseason."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The speculation will remain relevant for a few weeks or months until the event unfolds, then it will fade."
+}
+}
+},
+{
+"tweet_id": "1490653661315289091",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Giveaway posts with retweet and tag requirements typically go viral quickly, especially with emojis and a clear call to action."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet mainly advertises a giveaway; it provides little factual or educational content."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tone is highly positive and celebratory, using emojis and excitement."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "The giveaway is limited to 24 hours, after which the tweet’s relevance ends."
+}
+}
+},
+{
+"tweet_id": "1490643884262764544",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "A concise statement from Bloomberg about Ethereum’s role can attract shares, but it is not a sensational headline."
+},
+"informative_value": {
+"score": 7,
+"justification": "It cites Bloomberg and presents a factual claim about Ethereum’s foundational role in NFTs and stablecoins."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply stating a fact without emotional language."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The claim about Ethereum’s foundational role remains relevant for a long time, especially as the ecosystem grows."
+}
+}
+},
+{
+"tweet_id": "1490391141677633537",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "A technical explanation by Vitalik can spread among crypto enthusiasts, but it is not a headline-grabbing piece."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides an in-depth educational overview of block times and trade-offs, linking to detailed resources."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral and factual, typical of an explanatory post."
+},
+"duration_of_impact": {
+"score": 9,
+"justification": "The discussion of block times is evergreen and will remain relevant for years as the network evolves."
+}
+}
+},
+{
+"tweet_id": "1489799208269979653",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet’s strong rant and critique of banks can resonate and spread, especially within crypto circles."
+},
+"informative_value": {
+"score": 3,
+"justification": "It is largely opinionated and lacks verifiable facts or sources."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The tone is negative, expressing frustration and anger toward banks."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The rant remains relevant for a while as discussions about centralization continue, but it will eventually fade."
+}
+}
+}
+]

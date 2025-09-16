@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1538804424478445568",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet contains a notable achievement in the Ethereum network, which could generate interest within the crypto community, potentially leading to shares and discussions."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides specific, newsworthy information about the Ethereum network, including a comparison to USDT, making it informative for those interested in crypto."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet has a moderately positive tone, implying a significant and positive development in the Ethereum network."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The relevance of this tweet is tied to the immediate aftermath of the transaction flip, likely remaining relevant for a short period, perhaps a few days."
+}
+}
+},
+{
+"tweet_id": "1538706290553327618",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The 'FUN FACT' format, combined with a surprising piece of trivia about Vitalik Buterin, has a high potential to be shared, especially among Ethereum enthusiasts and gamers."
+},
+"informative_value": {
+"score": 6,
+"justification": "While the tweet provides an interesting fact, its informative value is more towards entertainment than hard, newsworthy information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet has a moderately positive tone, presenting an interesting, lighthearted fact without any negative connotations."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "As a fun fact, it remains relevant for a longer period, potentially being shared sporadically over weeks or months, especially in communities interested in Ethereum's origins."
+}
+}
+},
+{
+"tweet_id": "1538627103339565060",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "A list of cryptocurrency prices, while useful, is less likely to go viral unless it captures a significant, unexpected movement, which is not highlighted here."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides a clear, concise update on multiple cryptocurrencies' prices over a 24-hour period, making it highly informative for crypto enthusiasts."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply presenting factual information without expressing a sentiment."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The relevance of this tweet is extremely short-lived, as cryptocurrency prices fluctuate rapidly, making it relevant for only a few hours."
+}
+}
+},
+{
+"tweet_id": "1538536940269490178",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The contrast between Ethereum's current price and its 2017 peak, alongside the mention of DeFi, NFTs, and DAOs, could generate interest and shares within the crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides insightful commentary on Ethereum's fundamentals, including its price history, current uses, and upcoming developments, making it informative for those interested in Ethereum."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses a very positive sentiment towards Ethereum's current state and future prospects, highlighting its strengths."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The relevance of this tweet extends beyond immediate price fluctuations, as it discusses fundamental aspects of Ethereum, remaining relevant for days or weeks."
+}
+}
+},
+{
+"tweet_id": "1538432374643609600",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The all-time high in the Ethereum 2.0 Deposit Contract is a significant milestone that could generate interest and shares within the Ethereum community."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides specific, newsworthy information about a significant event in the Ethereum 2.0 transition, making it highly informative for Ethereum followers."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet has a moderately positive tone, implying progress and growth in the Ethereum network."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The relevance of this tweet is somewhat short-lived, as the 'all-time high' status can change, but it remains relevant for a longer period than simple price updates, potentially for weeks."
+}
+}
+},
+{
+"tweet_id": "1538348857825828864",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet's conspiracy theory about market manipulation could generate significant interest, discussion, and shares, especially among those skeptical of market practices."
+},
+"informative_value": {
+"score": 5,
+"justification": "While the tweet suggests an interesting perspective, its informative value is lower due to the speculative nature of the claim without provided evidence."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The tweet expresses a very negative sentiment towards the perceived market manipulation and its effects on Bitcoin and Ethereum."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The relevance of this tweet could extend for a longer period, as discussions about market manipulation can simmer for weeks or months, especially if more evidence or similar incidents come to light."
+}
+}
+},
+{
+"tweet_id": "1538336919033094144",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The critique of 'crypto experts' and the implication of bias could resonate widely, leading to shares and discussions, especially among those critical of the crypto industry."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet provides a subjective critique rather than factual information, reducing its informative value."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The tweet expresses a very negative sentiment towards the credibility of crypto experts quoted in the media."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The relevance of this tweet is somewhat short-lived, as the critique, while potentially sparking immediate discussion, may not remain a focal point beyond a few days."
+}
+}
+},
+{
+"tweet_id": "1538316619717353472",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The advice on building a position during times of 'extreme fear' could generate interest and shares among crypto investors looking for strategy insights."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides a market analysis and investment advice, making it informative for those interested in crypto investment strategies."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet has a moderately positive tone, suggesting a potential for long-term gains despite current market fears."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The relevance of this tweet extends beyond immediate market fluctuations, as the strategy advice remains relevant for weeks or months, depending on market conditions."
+}
+}
+},
+{
+"tweet_id": "1538302000202391552",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The humorous contrast between Ethereum's price and the 'fundamentals of getting a real job' is highly likely to be shared for its humor and relatability."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet's primary purpose is humor rather than providing informative content about Ethereum or job markets."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses a moderately positive sentiment, using humor to highlight a situation rather than expressing outright negativity."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "As a humorous tweet, it remains relevant for a longer period, potentially being shared sporadically over weeks or months, especially in communities interested in crypto and finance humor."
+}
+}
+},
+{
+"tweet_id": "1538253890906247173",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The significant price drop of Ethereum to under $900 could generate interest and shares, especially among those invested in or following Ethereum."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides specific, timely information about a significant price milestone in Ethereum, making it informative for crypto followers."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The tweet has a moderately negative tone, implying a significant downward movement in Ethereum's price."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The relevance of this tweet is extremely short-lived, as the price of Ethereum fluctuates rapidly, making it relevant for only a few hours."
+}
+}
+}
+]

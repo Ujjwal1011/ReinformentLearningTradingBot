@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1489182737143586817",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "High-profile corporate blockchain discussion with Ethereum relevance has medium viral potential within crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides expert insight about Ethereum's future from Microsoft's blockchain director through linked content."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement without explicit emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Strategic corporate blockchain discussions maintain relevance for weeks in tech circles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1489130307575894019",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news about a major $320M hack has high sharing potential in crypto communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Reports critical security incident with specific financial impact and technical details."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative tone implied through words like 'Woes Worsen' and 'hack'."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Major hacks remain relevant for weeks in security discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1489129033040154624",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Controversial comparison of blockchain platforms could spark heated discussions."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Opinion-based critique without supporting evidence or data."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Strong negative language ('shit show', 'broken', 'doesn't exist')."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Platform debates have standard 1-2 day relevance cycle."
+      }
+    }
+  },
+  {
+    "tweet_id": "1489041221947375616",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Technical breakdown of major hack from credible source has high sharing potential."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Detailed technical explanation of security breach with specific financial impact."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual presentation without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Post-mortems of major hacks remain reference material for months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1489010729596465157",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Large ETH amount and NFT question could drive engagement."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Personal investment query without informational content."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive excitement implied by 'fresh wallet' and investment intent."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Ephemeral question with relevance limited to current NFT trends."
+      }
+    }
+  },
+  {
+    "tweet_id": "1488969447482273794",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major institutional adoption news has high sharing potential."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Reports significant platform expansion from financial giant Fidelity."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral corporate announcement."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Institutional adoption decisions influence markets long-term."
+      }
+    }
+  },
+  {
+    "tweet_id": "1488573276775333889",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Industry leader's perspective could spark medium discussion."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Personal prediction about blockchain longevity without new data."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Balanced analysis of multiple projects."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "Long-term predictions remain relevant for years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1509626286884466693",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Government crypto adoption news spreads well in crypto circles."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Documents concrete municipal policy change with payment integration."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone about adoption progress."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Policy changes remain relevant for months as precedent."
+      }
+    }
+  },
+  {
+    "tweet_id": "1509081777058594816",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Large transaction alerts often attract crypto community attention."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Reports specific blockchain transaction data with amount and destination."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral transaction reporting."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Individual transactions typically have short-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1508973557207998464",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Large asset swap between major cryptos sparks discussion."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Personal investment decision without broader insights."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive excitement implied by large investment move."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Individual portfolio moves have ephemeral relevance."
+      }
+    }
+  }
+]

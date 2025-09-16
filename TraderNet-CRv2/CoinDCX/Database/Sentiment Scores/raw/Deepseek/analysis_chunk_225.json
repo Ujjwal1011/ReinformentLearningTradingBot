@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1758939338484732387",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet discusses a major regulatory development (Ethereum ETF approval) with sensational formatting and emojis, likely to generate significant excitement in crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "While impactful, the information is presented as an unconfirmed rumor rather than verified news, reducing its factual reliability."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Uses emphatic language (\"ETH ETF IS COMING BOYZ 🔥\") expressing strong excitement and optimism."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The March 2024 deadline creates sustained relevance until resolution, but impact diminishes post-decision."
+      }
+    }
+  },
+  {
+    "tweet_id": "1758232805882970562",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Technical analysis of blockchain security appeals to crypto enthusiasts, though niche compared to mainstream topics."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Links to peer-reviewed research paper providing concrete data about blockchain vulnerabilities."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of research findings without explicit emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Fundamental security research maintains relevance in blockchain discussions for years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1758193071047786551",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Novel platform feature (\"Mint to Earn\") with meme-friendly presentation attracts NFT community attention."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Clearly explains a new platform mechanism with Ethereum integration, though lacks technical details."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive framing with phrases like \"new hope\" and celebratory thread structure."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Feature relevance depends on sustained user adoption post-launch."
+      }
+    }
+  },
+  {
+    "tweet_id": "1758136030593728585",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Community-focused messaging resonates with existing Ethereum supporters but lacks viral hooks."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "General philosophical statement without new information or data."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Uplifting message about inclusivity with positive framing (\"heart of Ethereum\")."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Evergreen community values message but competes with more time-sensitive content."
+      }
+    }
+  },
+  {
+    "tweet_id": "1758070967870329180",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Price analysis appeals primarily to traders, with limited broader appeal beyond market hours."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Specific technical analysis provides actionable data for traders, though context-dependent."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of market data without explicit bullish/bearish bias."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Price levels become irrelevant once market moves significantly beyond $2,800."
+      }
+    }
+  },
+  {
+    "tweet_id": "1758061466446438840",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Controversial claims (\"95% of dapps are fake\") and meme numbers (69%, 420%) designed to provoke engagement."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Unsubstantiated opinions presented as facts without supporting evidence."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative tone toward Ethereum ecosystem with sarcastic promotion of Bitconnect."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Shock value diminishes quickly; references to Bitconnect date the content."
+      }
+    }
+  },
+  {
+    "tweet_id": "1757857494079066395",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High-stakes financial news ($1.6B asset sale) from verified source drives immediate engagement."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Concrete court-approved financial action with clear figures and asset types."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting style without editorializing."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "News cycle relevance until sale completion, with lasting impact only if market effects materialize."
+      }
+    }
+  },
+  {
+    "tweet_id": "1757776250037551442",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Self-aggrandizing content limited by niche appeal, though amplified by creator's existing following."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Personal branding statement without substantive information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive self-presentation focusing on philanthropic ideals."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Ephemeral personal update without lasting relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1757180273538572720",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Contrarian investment advice presented as educational content attracts crypto traders' attention."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific historical example (BTC/ETH ratio) to support risk warning about margin trading."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative assessment of margin trading risks with cautionary language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Evergreen financial advice remains relevant but competes with newer content."
+      }
+    }
+  },
+  {
+    "tweet_id": "1757168443084898465",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Major financial institution's ETF involvement signals market maturation, driving crypto community interest."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Reports concrete regulatory development in cryptocurrency institutionalization."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement style without explicit sentiment."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant until SEC decision, with potential long-term implications if approved."
+      }
+    }
+  }
+]

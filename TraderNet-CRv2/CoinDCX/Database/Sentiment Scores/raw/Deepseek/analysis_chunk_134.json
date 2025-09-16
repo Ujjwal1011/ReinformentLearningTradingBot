@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1569405980772913153",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Humorous comparison between crypto investments and local food culture could resonate strongly within Spanish-speaking communities."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Contains no factual information - purely a cultural joke with no educational content."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Playful and positive tone through humorous comparison using 'carnal' and 'bro' colloquialisms."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Meme-style content typically has short lifespan unless it sparks broader cultural trends."
+      }
+    }
+  },
+  {
+    "tweet_id": "1569326945447411714",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major financial institution commentary on crypto adoption has high share potential in fintech circles."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides specific institutional analysis about Ethereum's technological evolution from reputable source."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of institutional analysis without explicit positive/negative framing."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Institutional adoption discussions remain relevant through multiple market cycles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1569083013501165571",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Time-sensitive update about major blockchain event generates urgency within crypto community."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides concrete milestone data about network upgrade progress."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual countdown update without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Immediately obsolete once merge countdown completes."
+      }
+    }
+  },
+  {
+    "tweet_id": "1568470358340308992",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Similar to other merge countdown tweets but with earlier timing reduces urgency."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Accurate technical update about blockchain milestone."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of network statistics."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Time-bound relevance until merge completion."
+      }
+    }
+  },
+  {
+    "tweet_id": "1567941700311719936",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Philosophical take on crypto unity could spark debates within blockchain communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Presents opinionated perspective on crypto governance rather than factual data."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Analytical tone advocating cooperation without strong emotional valence."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Ongoing regulatory debates ensure continued relevance of core message."
+      }
+    }
+  },
+  {
+    "tweet_id": "1567591882208706563",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Clever product comparison with poll format drives high engagement potential."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Primarily opinion-based comparison without technical details."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Playful competitive framing generates light positive engagement."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Tied to specific product launch timelines with fading relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1567498603169554432",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Major exchange feature update important to crypto investors."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Concrete information about platform functionality changes."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement of service expansion."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant until next major platform update."
+      }
+    }
+  },
+  {
+    "tweet_id": "1567422312336736256",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Institutional banking integration news spreads widely in fintech circles."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific information about financial service expansion from regulated entity."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual presentation of business development."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Institutional adoption milestones have lasting sector impact."
+      }
+    }
+  },
+  {
+    "tweet_id": "1567220827757707264",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Environmental impact statistics appeal beyond crypto to general sustainability audiences."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Specific quantitative data about network emissions from official source."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive framing of environmental improvement."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Environmental metrics remain relevant in long-term climate discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1567114938992463873",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Technical update primarily relevant to Ethereum developers and validators."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Accurate timeline update about critical network upgrade from domain expert."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive anticipation conveyed through 'The Merge is coming' with emojis."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Immediate relevance expires post-upgrade completion."
+      }
+    }
+  }
+]

@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1732189458324451702",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet contains multiple updates on cryptocurrency, which might generate interest within specific communities, but lacks a strong hook for broader virality."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides several factual updates on cryptocurrency markets and a new stablecoin, making it a valuable source of information for those interested."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Expresses moderately positive sentiments through the use of emojis (🤩🤩) in response to Bitcoin's price increase."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a short period, as the information is tied to current market fluctuations and new product releases."
+}
+}
+},
+{
+"tweet_id": "1732189373062377900",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "A reply to a conversation about Ethereum gas fees, unlikely to be shared widely beyond the involved parties."
+},
+"informative_value": {
+"score": 4,
+"justification": "Contributes to a discussion about Ethereum but doesn't provide new, broadly useful information."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Expresses a moderately positive sentiment towards the potential for reduced gas fees."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short-term relevance, as it's part of a transient conversation."
+}
+}
+},
+{
+"tweet_id": "1732189363130282085",
+"analysis": {
+"virality_potential": {
+"score": 2,
+"justification": "Unlikely to be shared due to its niche, somewhat incoherent content."
+},
+"informative_value": {
+"score": 1,
+"justification": "Does not provide useful or factual information, appearing to be a personal, disjointed statement."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "Expresses a very negative sentiment towards the choice of an artist's name."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "Instantly irrelevant due to its highly personal and non-event nature."
+}
+}
+},
+{
+"tweet_id": "1732189360466895049",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Standard content with average engagement potential, comparing Ethereum and Cardano networks."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides a comparative point between two cryptocurrency networks, offering some useful insight."
+},
+"sentiment_polarity": {
+"score": 1,
+"justification": "Expresses a very negative sentiment towards Ethereum's gas fees."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevant for a standard period, as it discusses ongoing issues with cryptocurrency networks."
+}
+}
+},
+{
+"tweet_id": "1732189157424771274",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Has potential to be shared within communities interested in Ethereum and blockchain, due to its visionary tone."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides insightful information about Ethscriptions and their potential impact on Ethereum."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Expresses a very positive sentiment towards the potential of Ethscriptions."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Remains relevant for a long period, as it discusses foundational aspects of Ethereum's potential."
+}
+}
+},
+{
+"tweet_id": "1732189094317334639",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Standard news sharing with moderate engagement potential, due to the specificity of Ethereum NFT market news."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides a link to an informative article about the Ethereum NFT market resurgence."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, as it simply shares news without expressing a sentiment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for a medium period, as it's tied to a specific market trend."
+}
+}
+},
+{
+"tweet_id": "1732188930559139956",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Unlikely to go viral, as it's a technical analysis post with limited appeal beyond specific trading communities."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides technical analysis for OSMOUSDT, valuable for those interested in crypto trading."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, as it presents analysis without emotional tone."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short-term relevance, due to the fleeting nature of cryptocurrency market analysis."
+}
+}
+},
+{
+"tweet_id": "1732188922963464438",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Moderate engagement potential, primarily within NFT and Ethereum communities."
+},
+"informative_value": {
+"score": 5,
+"justification": "Informative about a specific NFT project but lacks broader educational value."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Expresses a very positive sentiment through the promotion of #LaidBackLizards."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Medium-term relevance, as interest in specific NFT projects can endure for a while."
+}
+}
+},
+{
+"tweet_id": "1732188906064621763",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Has potential within cryptocurrency and security communities due to its discussion of a secure wallet solution."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides valuable information about NGRAVE's 'Perfect Key' and its security certification."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, as it presents information without expressing a clear sentiment."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Remains relevant for a longer period, as it discusses a significant security solution in cryptocurrency."
+}
+}
+},
+{
+"tweet_id": "1732188831355637773",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Standard engagement potential, as it's a news update on a regulatory decision affecting Ethereum."
+},
+"informative_value": {
+"score": 9,
+"justification": "Highly informative about the SEC's decision on the Grayscale Ethereum ETF proposal."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, as it reports on a regulatory decision without emotional tone."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Relevant for a medium to long period, as it affects the broader cryptocurrency regulatory landscape."
+}
+}
+}
+]

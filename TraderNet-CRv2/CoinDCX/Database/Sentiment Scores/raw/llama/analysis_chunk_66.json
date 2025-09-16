@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1494858301095686149",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet announces a significant event related to a whitelist, incentivizes engagement with a tip, and includes a call to action (retweet and follow), increasing its potential for sharing within specific communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides some useful information about an upcoming event and a tip for preparation, but its primary focus is promotional rather than purely informative."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tone is moderately positive, expressing excitement for the upcoming event and offering helpful advice, but not overwhelmingly enthusiastic."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to the event on February 22, after which its impact will significantly diminish."
+}
+}
+},
+{
+"tweet_id": "1494842321048948737",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Meeting a high-profile figure like Vitalik and discussing a significant project (making Colorado the first digital state) has high potential for broad sharing and interest."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet informs about a meeting with a key figure in the Ethereum space and discusses a forward-looking project, providing newsworthy content."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The tone is very positive, expressing excitement and anticipation for a collaborative project with a renowned figure."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The relevance of this tweet will extend beyond the initial sharing, as the project's development will likely be followed up on, maintaining interest over time."
+}
+}
+},
+{
+"tweet_id": "1494652102685380619",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The anecdotal nature of becoming a billionaire through Ethereum, presented as a 'true story,' can generate interest and sharing within cryptocurrency communities."
+},
+"informative_value": {
+"score": 5,
+"justification": "While the tweet mentions a significant outcome from an Ethereum investment, its primary purpose is inspirational rather than providing detailed, actionable information."
+},
+"sentiment_polarity": {
+"score": 10,
+"justification": "The tone is extremely positive, highlighting a life-changing, beneficial outcome from an Ethereum investment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's inspirational value will keep it relevant for a period, but its impact is more aligned with the immediate motivational response rather than long-term discussion."
+}
+}
+},
+{
+"tweet_id": "1494292082688729096",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Comparing a well-known service to cryptocurrency in a provocative manner ('shitcoin') can spark engagement and sharing across crypto communities."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet is more about provoking a reaction with its comparison rather than providing informative content about cryptocurrencies or the service mentioned."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The tone is very negative towards the compared service, using derogatory language."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is relatively short-lived, as it's more of a commentary on a current event rather than a foundational or evergreen topic."
+}
+}
+},
+{
+"tweet_id": "1494288249849851912",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Announcing the addition of Bitcoin and Ethereum ETP trading on a stock exchange has moderate potential for sharing within cryptocurrency and finance communities."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides newsworthy, verifiable information about a significant development in cryptocurrency trading on a traditional stock exchange."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tone is very positive, indicating a significant and beneficial development for cryptocurrency adoption."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The relevance of this tweet will extend as the implications of this development unfold, but it's primarily a news item with a defined impact period."
+}
+}
+},
+{
+"tweet_id": "1494061144880959488",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "While price predictions can generate interest, this tweet's potential for viral sharing is moderate due to the specificity and niche nature of the content."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides specific, albeit speculative, information about cryptocurrency prices, which can be useful for followers interested in market predictions."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tone is very positive, reflecting a bullish outlook on the mentioned cryptocurrencies."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The relevance of these predictions will diminish as the predicted date (end of 2022) approaches and passes, unless followed up with new predictions or analysis."
+}
+}
+},
+{
+"tweet_id": "1494032182263914504",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Announcing Twitter's addition of Ethereum as a tipping option has high potential for broad sharing across both Twitter and cryptocurrency communities."
+},
+"informative_value": {
+"score": 10,
+"justification": "The tweet provides critical, newsworthy information about a significant development in the intersection of social media and cryptocurrency."
+},
+"sentiment_polarity": {
+"score": 10,
+"justification": "The tone is extremely positive, indicating a major and beneficial integration for Ethereum users on Twitter."
+},
+"duration_of_impact": {
+"score": 9,
+"justification": "This development's relevance will extend well beyond the initial announcement, as it represents a foundational shift in how Twitter interacts with cryptocurrency."
+}
+}
+},
+{
+"tweet_id": "1494031702154530822",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The comparative analysis, while insightful, may not strongly appeal to a broad audience beyond those already interested in Ethereum's performance."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet offers a comparative perspective on Ethereum's performance versus traditional markets, providing useful context for followers."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tone is moderately positive, highlighting Ethereum's relative performance in a favorable light."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The relevance of this comparison is tied to the current market conditions and will diminish as market dynamics change."
+}
+}
+},
+{
+"tweet_id": "1494030738463019008",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Similar to other tweets about this topic, announcing Twitter's addition of Ethereum for tipping has a high potential for sharing within relevant communities."
+},
+"informative_value": {
+"score": 9,
+"justification": "This tweet, like others, provides newsworthy information about a significant development in the cryptocurrency and social media space."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The tone is very positive, reflecting the beneficial nature of this integration for Ethereum and Twitter users."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The development's relevance will extend beyond the announcement, as it marks a significant point in the adoption of Ethereum on Twitter."
+}
+}
+},
+{
+"tweet_id": "1494030186404323334",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Announcing Twitter's addition of an Ethereum wallet for tipping, similar to other tweets, has a high potential for broad sharing and interest."
+},
+"informative_value": {
+"score": 10,
+"justification": "Provides critical, newsworthy information about a significant development in the intersection of cryptocurrency and social media."
+},
+"sentiment_polarity": {
+"score": 10,
+"justification": "The tone is extremely positive, indicating a major and beneficial development for Ethereum's usability on Twitter."
+},
+"duration_of_impact": {
+"score": 9,
+"justification": "This foundational development's relevance will extend well beyond the initial announcement, marking a shift in Twitter's cryptocurrency integration."
+}
+}
+}
+]

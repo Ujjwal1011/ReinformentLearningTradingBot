@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1508915954570436612",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Insightful technical content from Ethereum's founder likely to be shared within crypto communities, though not globally viral."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides historical context about Ethereum's development with supporting examples, though not breaking news."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral analysis of past decisions without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Historical reflections may remain relevant for weeks in developer discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1508904359651852293",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Product launch news from a major exchange likely to spread within crypto circles."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Concrete information about new blockchain infrastructure with specific technical details."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual announcement without emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for weeks as users explore the new bridge functionality."
+      }
+    }
+  },
+  {
+    "tweet_id": "1508828722085867521",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Critical security breach announcement likely to spread rapidly across crypto communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Urgent, verifiable information about a major exploit with financial implications."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative tone implied by reporting a security breach and service halt."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Immediate crisis focus, relevance decreases post-resolution."
+      }
+    }
+  },
+  {
+    "tweet_id": "1508782859296796672",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Routine market update without unique engagement hooks."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Contains specific price data and market movement information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of market statistics."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Price data becomes outdated quickly in volatile markets."
+      }
+    }
+  },
+  {
+    "tweet_id": "1508622214450405385",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Sensational political/financial commentary combining multiple hot topics."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Primarily opinion-based with speculative investment advice."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Strong negative language about world events and economic outlook."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Combination of geopolitical and financial themes maintains relevance for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1508529138625556480",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Notable adoption milestone likely shared in crypto/education circles."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Specific information about cryptocurrency adoption in education sector."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement of payment option expansion."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Landmark adoption case may be referenced for months in crypto discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1508174769446785024",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Generic bullish statement lacking specific content drivers."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No substantive information beyond opinion expression."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Strong positive sentiment through 'BULLISH' emphasis."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Minimal lasting value beyond immediate reaction."
+      }
+    }
+  },
+  {
+    "tweet_id": "1508161179906195458",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Price prediction from influencer may spread in crypto communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Speculative claim without supporting evidence or analysis."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Clear positive expectation through 'going pump' phrasing."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to short-term price movements."
+      }
+    }
+  },
+  {
+    "tweet_id": "1508115549741535234",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Engagement-driven format likely to generate replies and interaction."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "Pure engagement bait without informational content."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral shilling request without emotional valence."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Ephemeral engagement-focused content."
+      }
+    }
+  },
+  {
+    "tweet_id": "1508072407952760838",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Key technical critique from Ethereum's founder about persistent network issues."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Important statement about fundamental blockchain scalability challenges."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Negative framing of current network limitations."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Addresses long-term technical challenge central to Ethereum's roadmap."
+      }
+    }
+  }
+]

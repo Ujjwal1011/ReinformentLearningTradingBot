@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1462158305351012355",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet uses a call-to-action and hype language that can resonate with crypto enthusiasts, potentially leading to shares within that community, but it lacks a unique hook or breaking news to drive global virality."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet offers a speculative claim without supporting data or analysis, providing minimal factual information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses enthusiastic optimism about future crypto gains, reflecting a strongly positive tone."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The content is a forward-looking prediction that could be referenced for several months, but it is not tied to a specific event, so its relevance will gradually fade."
+}
+}
+},
+{
+"tweet_id": "1462116367239421956",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet provides a specific price forecast and includes a chart link, making it useful for traders and likely to be shared within the crypto trading community, though it lacks a broader hook for mass virality."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet contains concrete price targets and a chart reference, offering actionable information, but it remains speculative rather than definitive news."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet presents a factual forecast without overt emotional language, resulting in a neutral tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The price prediction and chart are relevant for the upcoming months, but the tweet will lose relevance as the market moves beyond the forecasted period."
+}
+}
+},
+{
+"tweet_id": "1462090579387559941",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet discusses technical details about Ethereum dilution and processing savings, which can resonate with the crypto developer community and may be shared within that niche, but it lacks a broader hook for widespread virality."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet explains a significant dilution factor and its implications for processing and gas, offering concrete technical insights."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is factual and does not express strong emotions, resulting in a neutral sentiment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The discussion of dilution and processing savings is relevant for the foreseeable future, especially as PulseChain develops, but it will eventually become less relevant as the ecosystem evolves."
+}
+}
+},
+{
+"tweet_id": "1461932035245707270",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet offers a critical perspective on market behavior that could resonate with crypto community members, encouraging shares, but it lacks a sensational hook for mass virality."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet expresses an opinion about traders' behavior without providing verifiable data or new information."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The tweet criticizes traders, reflecting a negative tone, but not extreme negativity."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The warning about reputation and L2 scaling is relevant as the ecosystem evolves, but it will gradually lose relevance as the situation changes."
+}
+}
+},
+{
+"tweet_id": "1461810019087880196",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet uses enthusiastic language and a call to action that can prompt shares within the crypto community, but it lacks a unique hook for broader virality."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet states a price target without providing supporting evidence or analysis, offering minimal factual content."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet conveys excitement about a price target, reflecting a strongly positive tone."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance will persist for some time as traders discuss the 70k target, but it will fade once the market moves beyond that level."
+}
+}
+}
+]

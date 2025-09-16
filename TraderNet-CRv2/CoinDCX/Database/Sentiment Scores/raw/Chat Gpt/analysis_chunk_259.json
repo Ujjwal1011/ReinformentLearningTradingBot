@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1570431939571597312",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Announces a historic event (the Ethereum merge) and a notable -10% price reaction, which triggers strong interest and sharing within the crypto community; high engagement metrics support high virality."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides a concrete data point about the market reaction (-10% price change) to a significant event, offering useful information to followers."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The language is neutral and factual; no explicit positive or negative sentiment is expressed."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "While the price reaction is immediate, the merge remains historically significant, giving the tweet relevance for days to weeks."
+}
+}
+},
+{
+"tweet_id": "1570431798210924544",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Positive tone and mention of high-profile accounts (@ethereum, @wef) increase shareability within niche communities, but the tweet lacks a strong hook for broader virality."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet does not convey factual information or analysis; it merely express congratulations."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Explicitly congratulates the merge, conveying strong positive sentiment."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The content is tied to a specific moment (the merge) and lacks evergreen value, giving it moderate short-term relevance."
+}
+}
+},
+{
+"tweet_id": "1570430783684321281",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Raises a provocative question about the merge's outcome, encouraging replies and shares within the crypto community."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet does not provide new data; it only expresses confusion and asks a question."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "Uses language indicating disappointment and frustration about Ethereum's performance."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Discussion about the merge's success may persist for weeks, giving the tweet medium-term relevance."
+}
+}
+},
+{
+"tweet_id": "1570416213548990468",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Provocative claim about wealth distribution in Ethereum and Bitcoin encourages sharing and debate among crypto enthusiasts."
+},
+"informative_value": {
+"score": 5,
+"justification": "Provides a perspective on token distribution but lacks concrete data; serves more as commentary than factual information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Tone is instructive and neutral without strong emotional language."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The underlying argument about decentralization and wealth distribution remains relevant over months to years."
+}
+}
+},
+{
+"tweet_id": "1570379858907365376",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Highlights an extreme gas fee (36.8 ETH) and a milestone (first PoS NFT), which are likely to attract attention and sharing."
+},
+"informative_value": {
+"score": 8,
+"justification": "Delivers a concrete, newsworthy fact about gas costs and the first PoS NFT minting on Ethereum."
+},
+"sentiment": {
+"score": 5,
+"justification": "Statement is factual without explicit emotional language."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Milestone and high fee data could be cited in future discussions about PoS NFT economics, giving it medium‑long relevance."
+}
+}
+}
+]

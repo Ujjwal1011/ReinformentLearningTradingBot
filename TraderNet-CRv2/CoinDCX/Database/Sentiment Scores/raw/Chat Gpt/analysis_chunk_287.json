@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1605532011136880643",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news about a major crypto exchange removing Ethereum, likely to spread widely within the crypto community."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides a factual update about Paxful's removal of Ethereum, offering clear news content."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone, simply reporting the event without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant for a period as users discuss the implications, but will eventually fade."
+      }
+    }
+  },
+  {
+    "tweet_id": "1605529289054527488",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Claims 11.6 million humans safer, a hook that may attract shares within the community."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "States a safety claim without evidence, offering limited factual content."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive sentiment expressed through 'Integrity over revenue' and a handshake emoji."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The claim may be discussed for a while but will likely lose relevance over time."
+      }
+    }
+  },
+  {
+    "tweet_id": "1605068397544235008",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Breaking news about Visa exploring crypto payments, likely to be widely shared."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Shares a factual update about Visa's exploration of automatic payments via Ethereum wallets."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone, simply reporting the development."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Significant development that could remain relevant for months or years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1605042810280939522",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Strong emotional language and profanity may drive shares, highlighting a potential mainstream shift."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides information about Visa's proposed blockchain account design, though not fully verified."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Very positive excitement expressed through exclamatory language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The proposal may stay relevant for months as the crypto ecosystem evolves."
+      }
+    }
+  },
+  {
+    "tweet_id": "1604627098299256833",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Claim about SHIB's popularity may attract shares within the crypto community."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "States a popularity claim without supporting evidence, offering limited factual content."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment expressed through excitement about SHIB's status."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Popularity claim may remain relevant for a while but will eventually fade."
+      }
+    }
+  }
+]

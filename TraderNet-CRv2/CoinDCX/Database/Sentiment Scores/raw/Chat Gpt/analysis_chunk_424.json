@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1732002613413953584",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet announces a new product feature for crypto traders, which may be shared within the niche community, but lacks a strong hook for broader virality."
+},
+"informative_value": {
+"score": 6,
+"justification": "It provides factual information about a live order book streaming feature, offering useful details to interested users."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tone is mildly positive, using an upbeat emoji and excitement about the new feature."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The feature announcement can remain relevant for weeks to months, as users discuss and use the service."
+}
+}
+},
+{
+"tweet_id": "1731997200446562446",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet addresses market FUD and a notable price move, topics that often spark discussion in the crypto community."
+},
+"informative_value": {
+"score": 5,
+"justification": "It mentions Pulsechain's 70% gain and compares chart structures, but lacks sources or detailed data."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone mixes concern about FUD with optimism about Pulsechain, resulting in a neutral overall sentiment."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Market commentary is typically relevant for a few days to weeks before attention shifts."
+}
+}
+},
+{
+"tweet_id": "1731995566215750020",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "A friendly greeting with many hashtags may get modest shares within the NFT community but lacks a strong hook."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet contains no factual information, only a greeting and promotional hashtags."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The use of emojis and upbeat language conveys a very positive emotional tone."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Such greeting posts are typically relevant only for a short period, often a day."
+}
+}
+},
+{
+"tweet_id": "1731977801673134537",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "A promotional claim about trading signals may attract interest among crypto traders but is unlikely to spread widely."
+},
+"informative_value": {
+"score": 4,
+"justification": "It asserts that MyAlgo gave timely signals and profits, but provides no verifiable data or context."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The language is enthusiastic and celebratory, indicating a strong positive sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Marketing tweets tend to have short-lived relevance, lasting a few days at most."
+}
+}
+},
+{
+"tweet_id": "1731977097457905767",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "A bullish prediction about Ethereum's rally can attract attention within crypto circles, though not guaranteed to go viral."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet offers speculative outlook without supporting data, limiting its informational value."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The message is highly optimistic about future price movements, reflecting strong positive sentiment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Predictions about a 2024 rally may be referenced for several months, giving it medium-term relevance."
+}
+}
+}
+]

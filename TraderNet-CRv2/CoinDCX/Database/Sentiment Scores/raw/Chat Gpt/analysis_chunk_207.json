@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1538053229870731265",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet announces a significant price drop below $1,000, a milestone that is likely to be shared widely within the crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "It provides a factual update about Ethereum's price falling below a key threshold for the first time since 2021."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, simply reporting a fact without emotional language."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The price drop remains relevant for days or weeks as markets react, keeping the tweet in circulation."
+}
+}
+},
+{
+"tweet_id": "1537861363233656832",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Highlighting a $57.9M Ethereum transfer with an almost zero fee underscores decentralization and is likely to be widely shared."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet gives specific transaction details and commentary on the lack of third‑party verification."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is largely neutral, with a slight critical edge toward central banks."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The fact remains interesting for a while but will eventually fade as new events emerge."
+}
+}
+},
+{
+"tweet_id": "1537421727625580545",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "A stablecoin launch is newsworthy but mainly appeals to the crypto community, so virality is moderate."
+},
+"informative_value": {
+"score": 7,
+"justification": "It details the launch date, minting, and redemption of a new fiat‑backed stablecoin."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply announcing facts."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The announcement remains relevant for weeks or months as the coin becomes available."
+}
+}
+},
+{
+"tweet_id": "1537410558089211904",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "A quote from Vitalik Buterin is high‑profile and likely to be shared widely."
+},
+"informative_value": {
+"score": 8,
+"justification": "It provides a direct statement about crypto’s role from a leading figure."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, reporting a statement."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The quote remains relevant for some time as discussions about crypto’s future continue."
+}
+}
+},
+{
+"tweet_id": "1537371918495625216",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "A personal investment question may get some engagement but is unlikely to go viral."
+},
+"informative_value": {
+"score": 3,
+"justification": "It is a personal anecdote with little factual or educational content."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "The tone is uncertain, slightly negative or questioning."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Personal tweets tend to fade quickly and lose relevance."
+}
+}
+}
+]

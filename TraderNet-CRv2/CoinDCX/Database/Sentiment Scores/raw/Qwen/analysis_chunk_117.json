@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1543240782433468418",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet provides a specific fact about Ethereum miners' revenue, which is likely to be shared within the crypto community but may not go viral beyond that."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet offers a factual and specific piece of information about Ethereum miners' revenue, which is valuable to those interested in blockchain economics."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, presenting a fact without any emotional language."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet is relevant for a short period, as it pertains to a specific month's revenue."
+}
+}
+},
+{
+"tweet_id": "1542949819223662592",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Breaking news about Facebook testing NFTs is likely to be widely shared within the crypto and tech communities."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides significant and newsworthy information about Facebook's NFT integration."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses excitement about the future of NFTs."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's impact will last as long as the feature is relevant, potentially for weeks or months."
+}
+}
+},
+{
+"tweet_id": "1542810351691087873",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet is an exciting announcement about Polygon, likely to be shared within the crypto community."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet is an announcement without detailed information."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The tweet expresses strong positive emotions with multiple exclamation marks."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's impact is short-term, tied to the specific event."
+}
+}
+},
+{
+"tweet_id": "1565098693904179205",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Breaking news about Binance US supporting Ethereum's merge is likely to be widely shared."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides critical information about Binance US's support for a major blockchain event."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, stating a fact."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's impact will last as long as the merge is relevant, potentially for weeks."
+}
+}
+},
+{
+"tweet_id": "1565031323894353920",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet is a meme about Vitalik, likely to be shared within the crypto community."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet is a joke with no factual information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet has a positive tone with humor."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's impact is short-term, as it's a joke."
+}
+}
+},
+{
+"tweet_id": "1565030915348303873",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet announces the completion of Nitro migration, likely to be shared within the Arbitrum community."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides important information about Arbitrum's migration."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses gratitude and positive emotions."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's impact will last as long as the migration is relevant, potentially for weeks."
+}
+}
+},
+{
+"tweet_id": "1564841463736782848",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Breaking news about Vitalik's book is likely to be widely shared within the crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides significant information about Vitalik's upcoming book."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, stating a fact."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's impact will last until the book is released, potentially for a month."
+}
+}
+},
+{
+"tweet_id": "1564607992548540422",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet is a personal thought about the Ethereum merge, likely to be shared within the crypto community."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet is a personal thought without detailed information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, stating a personal thought."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's impact is short-term, tied to the specific thought."
+}
+}
+},
+{
+"tweet_id": "1564458813616295937",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet is a reminder about the beacon chain hard fork, likely to be shared within the Ethereum community."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides important information about an upcoming blockchain event."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, stating a reminder."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's impact is short-term, tied to the specific date."
+}
+}
+},
+{
+"tweet_id": "1564339850735718406",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet is about Steve Aoki making a profit on an NFT, likely to be shared within the crypto community."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet is a news item without detailed information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses excitement about the news."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's impact is short-term, tied to the specific event."
+}
+}
+}
+]

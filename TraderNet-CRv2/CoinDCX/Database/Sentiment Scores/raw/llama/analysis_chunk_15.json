@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1443140175152902147",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet announces a new proposal, which might generate interest within the Ethereum community, but its technical nature limits broader virality."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides valuable information about a new account abstraction proposal, including a link to more details, making it informative for those interested in Ethereum development."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, focusing on sharing information about the proposal without expressing strong emotions."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The relevance of the tweet will last as long as the proposal is under discussion and development, potentially for several weeks or months."
+}
+}
+},
+{
+"tweet_id": "1443128662761492484",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The surprising statistic about Ethereum on exchanges could spark interest and sharing within cryptocurrency communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides a specific, interesting statistic, but lacks deeper analysis or context."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The use of 'Wow!' and 'ticking time bomb' conveys a sense of excitement and urgency, indicating a positive sentiment towards the potential market movement."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to current market conditions, making its impact relatively short-lived, likely spanning a few days."
+}
+}
+},
+{
+"tweet_id": "1443103968314413056",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The claim of China banning cryptocurrency again, coupled with a contrarian market view, could generate significant interest and sharing."
+},
+"informative_value": {
+"score": 5,
+"justification": "While the tweet mentions a significant event, it lacks detailed information or analysis, relying on the reader's prior knowledge."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The tweet expresses a very positive sentiment towards the potential market outcome, using phrases like 'EXTREMELY bullish' and 'Prepare for launch'."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The relevance of the tweet is tied to the aftermath of the announced ban, potentially remaining a topic of discussion for several days to a week."
+}
+}
+},
+{
+"tweet_id": "1442625005427232776",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The speculative question about Cardano replacing Ethereum might spark some engagement, but its impact is likely limited to specific communities."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet is speculative and does not provide any informative content, merely posing a question."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tone is moderately positive, suggesting a potential positive outcome for Cardano, but in a speculative, questioning manner."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is short-lived, as it does not contribute to a long-term discussion or provide lasting value."
+}
+}
+},
+{
+"tweet_id": "1442572359634935808",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The price targets might generate some interest, but the engagement is likely to be confined to specific cryptocurrency groups."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet provides specific price targets but lacks any analysis or justification, limiting its informative value."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, as the tweet simply presents price targets without expressing a clear emotional stance."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The relevance of the tweet will last until the end of the year, as it pertains to year-end price predictions."
+}
+}
+},
+{
+"tweet_id": "1442489062087086081",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The extraordinary transaction fee is likely to surprise and engage a wide audience, potentially leading to significant sharing."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet informs about a notable event (a high transaction fee) on the Ethereum network, providing interesting, though not deeply analytical, content."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The tone is moderately negative, highlighting an accidental and presumably undesirable event (the high transaction fee)."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is relatively short, as interest in the specific transaction will wane within a few days."
+}
+}
+},
+{
+"tweet_id": "1442308116121473030",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The comparison between dYdX and Coinbase might interest those in the cryptocurrency space, but its broader appeal is limited."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides a notable comparison, indicating dYdX's volume surpasses that of Coinbase, but lacks additional context or analysis."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tone is moderately positive, implying a favorable view of dYdX's performance, though the phrase 'It's probably nothing' tempers the sentiment."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The relevance of the tweet will last as long as the comparison remains noteworthy, potentially for several weeks."
+}
+}
+},
+{
+"tweet_id": "1442097698895716356",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The summary of the RIPPLE v. SEC case might interest those following the lawsuit, but its appeal is somewhat niche."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides a valuable resource (a summary) for those interested in the case, enhancing understanding of the lawsuit's developments."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, focusing on sharing informative content without expressing a clear emotional stance."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The relevance of the tweet will endure as long as the lawsuit remains a topic of interest, potentially for months or until the case's resolution."
+}
+}
+},
+{
+"tweet_id": "1441529690758418434",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The statement about Ethereum's potential might engage those interested in the platform, but its broader virality is limited."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet expresses an opinion about Ethereum's future without providing supporting information or analysis."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The tone is very positive, envisioning a promising future for Ethereum as an 'open social network'."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The relevance of the tweet will last as long as discussions about Ethereum's potential future developments remain active."
+}
+}
+},
+{
+"tweet_id": "1441389198208946179",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The update on seeking comments from Bill Hinman and others might interest a specific audience, but its broader appeal is limited."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet informs about the progress of an investigation or inquiry but lacks detailed insights or analysis."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, focusing on updating the status of information gathering without expressing strong emotions."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The relevance of the tweet will endure as long as the investigation or the anticipation for the 'mystery guest' remains a topic of interest."
+}
+}
+} 
+]

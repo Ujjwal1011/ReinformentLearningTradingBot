@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1741193419039404340",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet announces an updated roadmap for Ethereum from Vitalik Buterin, which is likely to generate significant interest and sharing within the crypto community."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides newsworthy information about Ethereum's updated roadmap, including a link to the source, making it highly informative for those interested in crypto."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet's sentiment is neutral, as it simply reports on the updated roadmap without expressing a personal opinion or emotion."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet's relevance will last for several days or weeks, as the updated roadmap will be a topic of discussion within the crypto community for some time."
+}
+}
+},
+{
+"tweet_id": "1741131924171809016",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet's community-focused approach and mention of onboarding collectors from Solana and Ethereum might generate some sharing within specific communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides some information about the CryptoUndeads brand's approach, but it's more of an update for existing followers rather than broadly informative content."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses moderately positive sentiments, highlighting the community's growth and the brand's approach in a favorable light."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is standard, generating discussion for a day or two before fading, as it's more of a community update than a groundbreaking announcement."
+}
+}
+},
+{
+"tweet_id": "1740800458384609361",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The significant amount of Bitcoin and Ethereum options expiring might generate interest and sharing within the crypto trading community."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides specific, newsworthy information about the expiration of a substantial amount of crypto options, making it informative for traders."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet's sentiment is neutral, as it simply reports on the expiration of crypto options without expressing a personal opinion or emotion."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is short-term, as the expiration event is time-sensitive and loses significance shortly after occurring."
+}
+}
+},
+{
+"tweet_id": "1740734416714916123",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The reflective, end-of-year tweet might generate some engagement within the zkSync community but is unlikely to go viral beyond that."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides some informative content about zkSync's progress and mission, though it's more of a reflective piece than a hard news update."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses very positive sentiments, reflecting on progress and looking forward to the future with optimism."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance will last for a few days, as the reflective nature and the transition to a new year keep it somewhat topical for a short period."
+}
+}
+},
+{
+"tweet_id": "1740664993367113860",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet's novelty of Solana flipping Ethereum in Google search interest might generate some sharing within the crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides interesting, data-driven information comparing Solana and Ethereum's Google search interest, making it informative for crypto enthusiasts."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet expresses moderately positive sentiments towards Solana, though the tone is more observational than promotional."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is somewhat short-lived, as the 'first time ever' aspect loses significance once the novelty wears off, usually within a few days."
+}
+}
+},
+{
+"tweet_id": "1740515567621345689",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Vitalik Buterin's provocative statement about making Ethereum 'cypherpunk again' is highly likely to generate significant interest and sharing across the crypto community."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet is more of a provocative statement than an informative piece, though it sparks discussion about Ethereum's direction."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet expresses moderately positive sentiments towards the idea of a 'cypherpunk' Ethereum, though the tone is more challenging than purely optimistic."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The tweet's relevance will last for several weeks, as the discussion around Ethereum's future direction and what 'cypherpunk' means in this context will continue."
+}
+}
+},
+{
+"tweet_id": "1740192312297455942",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet's announcement about bridging Solana and Ethereum for the CryptoUndeads brand might generate some sharing within specific communities."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides some informative content about the brand's approach to bridging two chains, though it's more targeted at existing or potential collectors."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses moderately positive sentiments, highlighting the inclusive approach of the brand in a favorable light."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is standard, generating discussion for a day or two before fading, as it's more of a community update than a groundbreaking announcement."
+}
+}
+},
+{
+"tweet_id": "1739318467734438111",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The significant amount of USDT minted might generate some interest within the crypto community, but it's unlikely to go viral."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides highly specific, newsworthy information about the minting of a substantial amount of USDT, making it very informative for crypto enthusiasts."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet's sentiment is neutral, as it simply reports on the minting of USDT without expressing a personal opinion or emotion."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is very short-term, as the event of minting loses significance shortly after it occurs."
+}
+}
+},
+{
+"tweet_id": "1738912202558431688",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet's breaking news about @frankdegods' agreement on making a project cross-chain might generate interest and sharing within the crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides newsworthy information about a development in the crypto space, making it informative for enthusiasts."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses moderately positive sentiments, as the agreement is presented in a favorable light for the community."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is standard, generating discussion for a day or two before fading, as the news, while interesting, is not foundational."
+}
+}
+},
+{
+"tweet_id": "1738775768799600844",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet's vague statement about what can save Ethereum might generate some curiosity-driven engagement but is unlikely to go viral."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet provides minimal information, as the statement is too vague to be informative without additional context."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet's sentiment is neutral, as the vague statement doesn't clearly express a positive, negative, or emotional tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is somewhat short-lived, as the curiosity it generates is quickly satisfied or loses interest without further context."
+}
+}
+} 
+]

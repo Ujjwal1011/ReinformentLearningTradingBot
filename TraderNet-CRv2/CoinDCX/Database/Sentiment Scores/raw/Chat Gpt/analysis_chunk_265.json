@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1570230728364810240",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet celebrates a major milestone in Ethereum's history, referencing the $400B economy and the transition to PoS, which is a trending topic likely to be shared widely among crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "It provides factual information about the Ethereum merge and the economic scale, giving context to the event."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tweet expresses excitement and optimism, using phrases like 'History being made' and 'just getting started'."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "While the merge is a one-time event, the tweet may remain relevant for a few days to weeks as people discuss the transition."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570204664636784641",
+    "analysis": {
+      "virality_potential": {
+        "score": 2,
+        "justification": "This is a personal, casual update with no broader news hook, making it unlikely to go viral."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "The tweet contains no factual or newsworthy content, just a personal hope."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is hopeful but not strongly positive or negative, making it neutral."
+      },
+      "duration_of_impact": {
+        "score": 1,
+        "justification": "The tweet is a fleeting personal note that will quickly lose relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570113580011327489",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet celebrates a significant upgrade, likely to resonate with the crypto audience and be shared within that community."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "It informs readers about the upcoming upgrade and the history of Ethereum as a protocol."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet expresses congratulations and positive sentiment toward Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The tweet will be relevant for a short period as people discuss the upgrade."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570104776297451520",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "This tweet provides real-time countdown to a major event, likely to be widely shared by the crypto community."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "It gives precise information about the remaining time until the merge, which is newsworthy."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is factual and neutral, with no strong emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The tweet will be relevant for a short period as people track the merge."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570098671798173697",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet uses humor to comment on Ethereum's multiple merges, which could resonate with crypto humor fans and be shared."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "The tweet is primarily a joke and does not provide factual information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet expresses a lighthearted, positive tone through humor."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The joke could be referenced for a few days as people share it."
+      }
+    }
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1759968692098457639",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Whale Alert is a well-known crypto news aggregator; the tweet announces a massive USDT mint, which is a significant event that tends to be widely shared within the crypto community. The use of emojis and a hashtag increases shareability."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet provides a factual update on the minting of 1,000,000,000 USDT (≈$999.7M) from the Tether Treasury, which is a verifiable, newsworthy event."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is purely informational with no emotional language, making it neutral."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The minting event is a one-time occurrence, but the record of a billion USDT minted remains relevant for some time as a historical data point."
+      }
+    }
+  },
+  {
+    "tweet_id": "1759942567225864648",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Breaking news that Ethereum has crossed the $3,000 threshold is a milestone likely to be shared widely across crypto and finance communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "The tweet delivers a verifiable, newsworthy fact about Ethereum's price surpassing $3,000."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is a neutral headline with no emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The milestone will be referenced for a while as a historical benchmark, though price will fluctuate."
+      }
+    }
+  },
+  {
+    "tweet_id": "1759917566691004595",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet comments on a large airdrop and the upcoming Bitcoin airdrop, which may resonate with crypto enthusiasts and spark discussion."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "It claims that the Ethereum ecosystem airdropped $25B to itself, a factual statement that provides insight into the ecosystem's economics, though it is not verified."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, presenting a statement without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The airdrop season is an ongoing topic; the tweet may remain relevant for weeks as the discussion continues."
+      }
+    }
+  },
+  {
+    "tweet_id": "1759477483882361022",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet speculates on Ethereum approaching $3,000 and comments on market sentiment, which can engage followers but is less likely to go viral beyond the crypto niche."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "It provides a price observation and commentary on market sentiment, offering some insight but not a major news event."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, with no strong emotional words."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The price approaching 3k is a short-term event; the tweet will likely lose relevance within a few days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1759369749887332577",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Vitalik Buterin is a highly influential figure; his tweet about AI-assisted formal verification is likely to be widely shared across crypto and AI communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet explains a promising application of AI for formal verification and bug finding in Ethereum, providing valuable technical insight."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tweet expresses excitement and optimism about AI's potential, indicating a positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The topic of AI-assisted formal verification is a long-term technical challenge; the tweet will remain relevant for an extended period."
+      }
+    }
+  }
+]

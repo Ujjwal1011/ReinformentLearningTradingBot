@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1496150724694130709",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Relatable content for crypto investors facing losses, likely to be shared within financial communities but lacks universal appeal."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Personal investment anecdote without verifiable data or actionable information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Shows optimistic resilience despite losses ('not a loss until you sell')."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to current crypto prices that change daily."
+      }
+    }
+  },
+  {
+    "tweet_id": "1496149061761900554",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Engagement-driven format with price predictions and question prompt encourages community interaction."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific price targets but lacks supporting analysis or sources."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of speculative price targets."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Price predictions remain relevant until targets are hit or invalidated."
+      }
+    }
+  },
+  {
+    "tweet_id": "1496087239037698048",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Breaking news about a major crypto mystery with exclusive claims from an author."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Substantial investigative claim about a historic blockchain event."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual announcement without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Historic revelation likely to be referenced in crypto literature long-term."
+      }
+    }
+  },
+  {
+    "tweet_id": "1495886440131084296",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Notable crypto adoption news from a mainstream platform."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Concrete information about payment method expansion."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement format."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant until next major payment provider makes similar announcement."
+      }
+    }
+  },
+  {
+    "tweet_id": "1495811341520625666",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Niche in-joke specific to EthDenver attendees."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Personal anecdote without substantive content."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral recollection with implied humor."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Tied to a specific event moment."
+      }
+    }
+  },
+  {
+    "tweet_id": "1495758298527719433",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Provocative statement likely to spark limited crypto community debate."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Opinion presented as challenge without supporting data."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Implied criticism of Ethereum's monetary policy."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Standard crypto debate with 1-2 day relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1495720617907212294",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Significant institutional adoption news for European markets."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Verifiable milestone in traditional finance integration."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual announcement style."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant until next major exchange follows suit."
+      }
+    }
+  },
+  {
+    "tweet_id": "1495719006610808836",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Official confirmation of institutional crypto adoption from verified account."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Primary source confirmation of market development."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral professional announcement."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Historic milestone with months-long relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1495682969750720516",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Controversial opinion in crypto community debates."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Personal investment consideration without analysis."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Expresses doubt/uncertainty about asset choice."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevant until market conditions change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1495640443924660226",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Notable milestone for NFT/gaming sector with multiple hashtags."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Reports verifiable industry milestone with source link."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of achievement."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant as a market benchmark until surpassed."
+      }
+    }
+  }
+]

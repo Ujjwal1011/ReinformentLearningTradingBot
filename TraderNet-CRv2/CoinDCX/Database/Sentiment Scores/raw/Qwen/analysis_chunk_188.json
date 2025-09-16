@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1732188685326541012",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet provides a crypto market prediction, which could be shared within crypto communities but is unlikely to go viral beyond that."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "It offers a market prediction but lacks detailed analysis or sources."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral prediction without strong emotion."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevant for a short period as crypto markets change quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732188669061091471",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "High-value transaction, but niche interest."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific transaction details for crypto enthusiasts."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral report."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732188555890319603",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Niche crypto discussion."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Personal crypto position update."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732188428949713311",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Crypto news, but not breaking."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Lists cryptos to accumulate."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732188353511014492",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Market data, niche interest."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides price changes."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732188341406248989",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Similar to above."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Same as above."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732188339896304118",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Promotes a product, may attract crypto users."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Introduces a hardware wallet."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive promotion."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a few weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732188334334562605",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Exciting crypto update, likely shared."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Announces a season with some info."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Very positive."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732188262024781969",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Gas price info, niche."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides gas price data."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732188115517792652",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Crypto news in Spanish."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Discusses Ethereum's value."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term."
+      }
+    }
+  }
+]

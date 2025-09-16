@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1732147170793455953",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet promotes a niche NFT on OpenSea, generating moderate interest within the crypto/NFT community but lacks broader appeal."
+},
+"informative_value": {
+"score": 4,
+"justification": "It provides details about a specific digital collectible and its in-game benefit, but offers little factual or newsworthy information beyond promotion."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tone is upbeat and enthusiastic, using emojis and excitement about the piece."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevance is tied to the NFT release and its utility, likely lasting only while the item remains relevant, i.e., a few weeks."
+}
+}
+},
+{
+"tweet_id": "1732145658495414385",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "A brief market update about Bitcoin and Ethereum dominance, appealing mainly to crypto followers without a strong hook."
+},
+"informative_value": {
+"score": 6,
+"justification": "It shares a factual data point about YTD dominance levels, providing useful market information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply stating a market observation."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Market dominance figures are time-sensitive and typically relevant only for a short period."
+}
+}
+},
+{
+"tweet_id": "1732144328506736807",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "A promotional call-to-retweet for an OpenSea offer, which may spread within the meme-NFT community but lacks wider resonance."
+},
+"informative_value": {
+"score": 2,
+"justification": "The content offers no substantive information beyond a vague offer and a retweet request."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Playful emojis and a friendly request convey a positive, upbeat tone."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet’s relevance is tied to a specific offer and is likely short-lived."
+}
+}
+},
+{
+"tweet_id": "1732143975165723005",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "A thoughtful comment on Ethereum’s DEX dominance that could spark discussion among crypto enthusiasts."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides insight into DEX volume dynamics and proposes a nuanced analysis, offering useful information."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tone is curious and mildly optimistic, expressing interest in deeper data."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Discussion about DEX volumes is ongoing, keeping the tweet relevant for weeks or months."
+}
+}
+},
+{
+"tweet_id": "1732143254513058104",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "An insightful analogy about Eigenlayer and BuildOnBase that may be widely shared within blockchain developer circles."
+},
+"informative_value": {
+"score": 8,
+"justification": "Explains complex blockchain concepts clearly, providing educational value."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tone is positive and constructive, highlighting usefulness."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Educational content about blockchain infrastructure can remain relevant for months or years."
+}
+}
+}
+]

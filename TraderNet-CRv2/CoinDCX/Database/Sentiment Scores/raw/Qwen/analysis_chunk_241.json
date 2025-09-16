@@ -1,0 +1,128 @@
+[
+  {
+    "tweet_id": "1764439614448869747",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet makes bold claims about Bitcoin and Ethereum, likely to be shared in crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides a significant claim about wealth transfer, which is informative."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Expresses a positive sentiment about the wealth transfer."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The topic is relevant for some time due to its significance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1764379331290436018",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "A technical update, likely shared among developers but not the general public."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Informs about a software update, somewhat informative."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment regarding the update."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Impact is short-term as it's a specific update."
+      }
+    }
+  },
+  {
+    "tweet_id": "1764237667309326461",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Significant financial event, likely shared in crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Informs about a major financial event."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment about the minting."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Impact is medium-term as it's a notable event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1763602745720775005",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Promotional tweet, may attract users but not necessarily go viral."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Informative about fee changes, somewhat useful."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive sentiment about the offer."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Impact is short-term due to the limited-time offer."
+      }
+    }
+  },
+  {
+    "tweet_id": "1763585856189702325",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Notable statement from Jim Cramer, likely to be shared."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides a significant news item."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive sentiment about the ETF possibility."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Impact is medium-term as it's a significant news item."
+      }
+    }
+  },
+  {
+    "tweet_id": "1763576465428521076",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Technical suggestion, likely shared among Pepecoin holders."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Informs about fee reduction options."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive sentiment about the solution."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Impact is short-term due to current network conditions."
+      }
+    }
+  }
+]

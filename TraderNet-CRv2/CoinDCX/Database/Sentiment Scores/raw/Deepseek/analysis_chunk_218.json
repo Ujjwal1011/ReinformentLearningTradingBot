@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1747938854131359750",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Cryptocurrency price updates with hashtags like #Ethereum often generate medium engagement within crypto communities."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Mentions 'new highs' but lacks specific data or context beyond links."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone implied by celebrating price milestones."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Price-related tweets typically have short-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1747715395614867735",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Credible institutional analysis of Ethereum with specific technical references attracts crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides structured analysis of Ethereum's roadmap and development priorities."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong positive sentiment with phrases like 'excited' and 'bright future'."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Technical roadmap discussions remain relevant for weeks in crypto circles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1747616260073107592",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Sensational personal claim about Ethereum's creator has high shareability in crypto communities."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No factual information - appears to be gossip or humor."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of unverified personal information."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Fleeting interest in celebrity-style rumors."
+      }
+    }
+  },
+  {
+    "tweet_id": "1747588499304313009",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Niche technical data point primarily relevant to blockchain developers."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Records specific blockchain metadata without broader context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Purely factual statement with no emotional content."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Block timestamps have immediate but ephemeral relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1747460769787138198",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Controversial conspiracy claim with 'leaked documents' drives high engagement."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Makes specific allegations but credibility of sources is unverified."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative implications about regulatory collusion."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Regulatory controversies can spark sustained discussion in crypto markets."
+      }
+    }
+  },
+  {
+    "tweet_id": "1747246914104680785",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Price performance claims with cryptocurrency hashtags attract trader attention."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Provides price change percentages but lacks context or source verification."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone celebrating investment gains."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Price performance tweets have short-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1747185269688709488",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Localized viral interest in Ethereum founder's personal life within Turkish communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Reports on social media trends without substantive information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of a trending topic."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Celebrity-style viral moments typically fade quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1747019861476434006",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Call-to-action targeting crypto data platform could rally community engagement."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Highlights listing discrepancies but lacks technical details."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Frustration evident in phrases like 'bad look' and 'gatekeeping'."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Platform-specific complaints typically have limited lifespan."
+      }
+    }
+  },
+  {
+    "tweet_id": "1746966264969380089",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Price prediction from account with large following drives engagement."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Simple price forecast without supporting analysis."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Optimistic prediction implies positive outlook."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Price predictions remain relevant until target is reached or invalidated."
+      }
+    }
+  },
+  {
+    "tweet_id": "1746805417576112287",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Institutional analyst prediction attracts both crypto and traditional finance audiences."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Reports substantive market analysis from known financial figure."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive outlook on Ethereum's potential."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Market predictions remain relevant through the speculated bull run timeframe."
+      }
+    }
+  }
+]

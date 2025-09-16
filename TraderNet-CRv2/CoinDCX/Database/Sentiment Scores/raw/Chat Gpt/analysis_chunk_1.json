@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1261359936983855105",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet references a major financial institution (Visa) planning to use Ethereum, which is newsworthy and likely to resonate within both finance and crypto communities. The user has a large following, and the tweet has moderate engagement, indicating potential for broader sharing."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It cites a patent that signifies a concrete development in digital currency infrastructure, providing factual, verifiable information. The link likely leads to a reputable source, enhancing its informational depth."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral and factual, with no overt emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The announcement of Visa's use of Ethereum is significant but will gradually be eclipsed by newer developments; it remains relevant for several months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1260796719526100992",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "A breaking claim that Reddit introduced 20M new users to cryptocurrency in seconds is a headline-worthy event. The tweet is from Binance CEO CZ, who has a massive following, and the use of 'BREAKING' and a strong hook increases shareability."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "The tweet presents a factual claim about Reddit's token launch, but it lacks verification or a primary source, so its informational depth is moderate."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet expresses optimism about inevitable adoption, reflecting a positive tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The event will remain relevant for months as the token ecosystem evolves, but it is not timeless."
+      }
+    }
+  },
+  {
+    "tweet_id": "1256061426050965509",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "A simple price comparison between Bitcoin and Ethereum is informative but lacks a hook or breaking news element, limiting its viral potential."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "It provides factual price data from two distinct time points, offering a basic historical perspective."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, presenting facts without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The relevance of the price comparison will fade as prices change, making it moderately short-lived."
+      }
+    }
+  },
+  {
+    "tweet_id": "1273105449131401219",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet offers a meme-like classification of crypto categories with a playful emoji, appealing to the crypto community and likely to be shared within that niche."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "It presents a personal viewpoint on crypto categories rather than verifiable facts, providing limited informational depth."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The tone is mildly positive and humorous, encouraging caution but not expressing strong emotions."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The classification remains relevant for a while within the crypto discourse, though it may not be referenced long-term."
+      }
+    }
+  },
+  {
+    "tweet_id": "1272532591674089472",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "A viewpoint on DeFi's impact on Ethereum is relevant to the crypto community but lacks a sensational hook, giving it moderate viral potential."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "It offers an opinion on DeFi's role, providing some insight but not new factual data."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The tweet conveys a moderately positive stance toward DeFi's potential, encouraging attention."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The discussion about DeFi's impact will remain relevant for months as the ecosystem evolves."
+      }
+    }
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1345981563394162689",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Engaging and relevant to the crypto community, likely to be shared within specific groups."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Provides price information but lacks detailed context."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Excited and positive tone with emojis."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevant for a short period due to price volatility."
+      }
+    }
+  },
+  {
+    "tweet_id": "1345947942964899840",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Attractive title but lacks context, may drive traffic."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Minimal information without context."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone with excitement."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-lived relevance without detailed info."
+      }
+    }
+  },
+  {
+    "tweet_id": "1345878123599065089",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Timely and relevant to crypto investors."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific price information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive and factual tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term relevance due to price changes."
+      }
+    }
+  },
+  {
+    "tweet_id": "1345863986676432896",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Strong language but limited to crypto community."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Minimal information, opinion-based."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Very positive and confident tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1345740713678557185",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Relevant to crypto community with a link."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides price update with a link."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1345628331190849536",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Opinion-based but relevant to tech enthusiasts."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Predictive and informative."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive and optimistic tone."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Medium relevance as it's a long-term prediction."
+      }
+    }
+  },
+  {
+    "tweet_id": "1366110453571538945",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Bold prediction with a call to action."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Predictive but speculative."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive and confident tone."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Medium relevance as it's a long-term prediction."
+      }
+    }
+  },
+  {
+    "tweet_id": "1366005364404142080",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Educational guide, relevant to crypto users."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides actionable steps and insights."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive and encouraging tone."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Medium relevance as it's a guide."
+      }
+    }
+  },
+  {
+    "tweet_id": "1365763392464642048",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Price predictions for multiple cryptocurrencies."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides price targets for several coins."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive and confident tone."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Medium relevance as it's a long-term prediction."
+      }
+    }
+  },
+  {
+    "tweet_id": "1365602586217373697",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Comparison of cryptocurrencies."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides a comparison and context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral and factual tone."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Medium relevance as it's a comparison."
+      }
+    }
+  }
+]

@@ -1,0 +1,107 @@
+[
+{
+"tweet_id":"1460020344274792448",
+"analysis":{
+"virality_potential":{
+"score":6,
+"justification":"The surprising comparison between Ethereum and Bitcoin node sizes can spark interest within the crypto community, but it lacks a broader hook for mass virality."
+},
+"informative_value":{
+"score":8,
+"justification":"Provides concrete, verifiable data about node sizes, offering valuable insight into the infrastructure demands of Ethereum versus Bitcoin."
+},
+"sentiment_polarity":{
+"score":5,
+"justification":"The tweet presents facts without emotional language, maintaining a neutral tone."
+},
+"duration_of_impact":{
+"score":6,
+"justification":"The information about node sizes remains relevant for the foreseeable future as the networks evolve, but it may not be evergreen."
+}
+}
+},
+{
+"tweet_id":"1459906508867653632",
+"analysis":{
+"virality_potential":{
+"score":8,
+"justification":"The blend of personal hardship and significant crypto milestones creates an emotional hook that can resonate widely, encouraging shares across both personal and crypto audiences."
+},
+"informative_value":{
+"score":6,
+"justification":"Provides several factual updates about the crypto market, though interwoven with personal anecdotes that reduce overall informational focus."
+},
+"sentiment_polarity":{
+"score":2,
+"justification":"The tweet recounts job loss and family leaving, expressing a negative emotional tone."
+},
+"duration_of_impact":{
+"score":4,
+"justification":"While the crypto milestones remain relevant, the personal narrative is tied to a specific time, limiting long-term engagement."
+}
+}
+},
+{
+"tweet_id":"1459810147107282948",
+"analysis":{
+"virality_potential":{
+"score":6,
+"justification":"The narrative of early crypto purchases can inspire and resonate with a niche audience, but it lacks a broader hook for mass virality."
+},
+"informative_value":{
+"score":3,
+"justification":"The tweet shares personal purchase history rather than providing new factual information or analysis."
+},
+"sentiment_polarity":{
+"score":7,
+"justification":"The tweet expresses excitement and optimism about future gains."
+},
+"duration_of_impact":{
+"score":5,
+"justification":"The anecdote remains relevant as a personal milestone, but its impact may wane over time."
+}
+}
+},
+{
+"tweet_id":"1459762532567203848",
+"analysis":{
+"virality_potential":{
+"score":6,
+"justification":"The comparison highlights a notable difference in upgrade timelines, appealing to crypto enthusiasts, but it may not capture a broader audience."
+},
+"informative_value":{
+"score":8,
+"justification":"Provides a factual comparison of upgrade speeds between Bitcoin and Ethereum, offering insight into network development."
+},
+"sentiment_polarity":{
+"score":5,
+"justification":"The tweet states a fact without emotional language."
+},
+"duration_of_impact":{
+"score":6,
+"justification":"The information about upgrade timelines remains relevant for the foreseeable future as the networks evolve."
+}
+}
+},
+{
+"tweet_id":"1459606238996615178",
+"analysis":{
+"virality_potential":{
+"score":8,
+"justification":"The question invites debate and speculation, encouraging engagement from both casual and serious crypto participants."
+},
+"informative_value":{
+"score":3,
+"justification":"The tweet poses a speculative question rather than providing factual information."
+},
+"sentiment_polarity":{
+"score":5,
+"justification":"The tweet is a neutral inquiry without emotional language."
+},
+"duration_of_impact":{
+"score":4,
+"justification":"The relevance of the question is tied to the current bull run, limiting long-term engagement."
+}
+}
+}
+]

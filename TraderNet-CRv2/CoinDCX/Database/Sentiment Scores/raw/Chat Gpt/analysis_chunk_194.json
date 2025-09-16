@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1522430106920275968",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet shares a surprising fact about Ethereum's transaction volume compared to Visa, which is likely to resonate within the crypto community and may be shared among enthusiasts, but it lacks a broader hook for global virality."
+},
+"informative_value": {
+"score": 8,
+"justification": "It provides a specific, verifiable statistic comparing Ethereum and Visa transaction volumes, offering clear factual information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, presenting a fact without emotional language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The comparison remains relevant for a while, though transaction volumes will change yearly, keeping the tweet useful for several months."
+}
+}
+},
+{
+"tweet_id": "1522341627062554625",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "A standard 24‑hour crypto market snapshot is useful for traders but is unlikely to spread beyond the crypto community."
+},
+"informative_value": {
+"score": 7,
+"justification": "It lists precise percentage changes for several major cryptocurrencies, providing clear market data."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is purely factual with no emotional tone."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The data is only relevant for a day or so, after which it becomes outdated."
+}
+}
+},
+{
+"tweet_id": "1522284534598967300",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The announcement of HopDAO becoming core Ethereum infrastructure may be shared within the community and among Ethereum developers, but it is niche."
+},
+"informative_value": {
+"score": 7,
+"justification": "It informs about a new project’s mission and governance model, offering useful context."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet uses welcoming language and a positive tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The project’s development will keep the tweet relevant for weeks or months."
+}
+}
+},
+{
+"tweet_id": "1522229736415674369",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet contains a provocative insult and profanity, which can trigger controversy and rapid sharing."
+},
+"informative_value": {
+"score": 1,
+"justification": "It is an opinionated insult with no factual content."
+},
+"sentiment_polarity": {
+"score": 0,
+"justification": "The tweet expresses extreme negativity and profanity."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The controversy may spark discussion for a few days but is unlikely to remain relevant long-term."
+}
+}
+},
+{
+"tweet_id": "1522172309003726850",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Market news with multiple hashtags can spread widely among finance and crypto audiences."
+},
+"informative_value": {
+"score": 7,
+"justification": "It provides context on S&P 500, Bitcoin, and Gold following a rate hike, offering actionable information."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet conveys a positive outlook on market rise."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The market update is relevant for a short period before new data supersedes it."
+}
+}
+}
+]

@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1529173745021116416",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Announcing a significant blockchain bridge between ElrondNetwork and Ethereum is likely to be shared within the blockchain and crypto communities, but may not reach beyond niche audiences."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides technical details about a new bridge, which is valuable for developers and blockchain enthusiasts."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Positive sentiment with words like 'LIVE', 'fully decentralized', and 'battle tested' indicating excitement and confidence."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The bridge launch is a significant event that will remain relevant for weeks as developers integrate it into their projects."
+}
+}
+},
+{
+"tweet_id": "1529130859814600705",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Discussion of Soulbound tokens by Vitalik Buterin is likely to be shared within Ethereum and blockchain communities but may not go viral beyond niche audiences."
+},
+"informative_value": {
+"score": 8,
+"justification": "Summarizes a detailed paper on Soulbound tokens, providing valuable insights for Ethereum enthusiasts."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment with the use of 'the future' and 'TLDR' indicating enthusiasm."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The topic will remain relevant for weeks as the community discusses and implements Soulbound tokens."
+}
+}
+},
+{
+"tweet_id": "1529045488435343360",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Announcing a sales milestone for MutantApeYachtClub is likely to be shared within the NFT community but may not go viral beyond niche audiences."
+},
+"informative_value": {
+"score": 5,
+"justification": "Provides a sales figure without additional context or details."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment with the use of 'Reaches $1.5 Billion' indicating celebration."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet is relevant for a short period as it's a specific milestone announcement."
+}
+}
+},
+{
+"tweet_id": "1528848671890186240",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Announcing a live debate is likely to be shared within Ethereum and Bitcoin communities but may not go viral beyond niche audiences."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides information about an upcoming event involving Ethereum and Bitcoin."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive sentiment with the use of 'fun' and 'documentary' indicating excitement."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet is relevant for a short period as it's an event announcement."
+}
+}
+},
+{
+"tweet_id": "1528727831039119360",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Announcing a non-custodial Ethereum wallet by GameStop is likely to be widely shared within the crypto community and beyond."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides significant news about a major company entering the crypto space."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Positive sentiment with the use of 'BREAKING' and '🚀' indicating excitement."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet will remain relevant for weeks as the wallet is adopted and discussed."
+}
+}
+},
+{
+"tweet_id": "1528696695793524737",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Announcing that Balenciaga accepts Bitcoin and Ethereum is likely to be shared within the crypto and luxury communities."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides business news about a major brand accepting cryptocurrencies."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment with the use of 'JUST IN' indicating excitement."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet will remain relevant for weeks as the payment method is adopted and discussed."
+}
+}
+},
+{
+"tweet_id": "1528197519498711040",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Announcing Bitcoin's price jump is likely to be shared within the crypto community but may not go viral beyond niche audiences."
+},
+"informative_value": {
+"score": 5,
+"justification": "Provides a news link about Bitcoin's price movement without additional context."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment with the use of 'Jumps above $30,000' indicating factual information."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet is relevant for a short period as it's a specific price movement announcement."
+}
+}
+},
+{
+"tweet_id": "1528105981804220417",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Announcing that Vitalik Buterin is no longer a billionaire is likely to be widely shared within the crypto community and beyond."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides personal news about a well-known figure in the crypto space."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment with the use of 'NO LONGER A BILLIONAIRE' indicating factual information."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet is relevant for a short period as it's a personal update."
+}
+}
+},
+{
+"tweet_id": "1528042554679238664",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Announcing that Lavu and Verifone accept crypto is likely to be shared within the crypto and payment communities."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides business news about payment companies accepting cryptocurrencies."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment with the use of 'JUST IN' indicating excitement."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet will remain relevant for weeks as the payment method is adopted and discussed."
+}
+}
+},
+{
+"tweet_id": "1527952469245976577",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Announcing Ethereum's transition to proof-of-stake is likely to be widely shared within the crypto community and beyond."
+},
+"informative_value": {
+"score": 10,
+"justification": "Provides critical information about a major change in Ethereum's consensus mechanism."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Positive sentiment with the use of 'confirmed' indicating confidence."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The tweet will remain relevant for months as the transition is implemented and discussed."
+}
+}
+}
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1545985708858302464",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Discusses the Ethereum Merge, a major crypto event likely to generate broad interest and sharing within blockchain communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides structured analysis about a pivotal technical transition in Ethereum, offering educational content."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone focused on factual analysis without overt emotional language."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The Merge represents a fundamental protocol change with long-term implications for Ethereum's ecosystem."
+      }
+    }
+  },
+  {
+    "tweet_id": "1545900968600129541",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Comparative financial statistic may interest crypto enthusiasts but lacks broader viral hooks."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides verifiable market cap data with institutional comparisons."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of factual information."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Snapshot market data with relevance tied to current valuations."
+      }
+    }
+  },
+  {
+    "tweet_id": "1545891360993075200",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "High-value NFT transaction likely to circulate in crypto communities."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Reports specific bid details but lacks broader context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of market activity."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Single transaction update with ephemeral relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1545839937853050881",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Controversial regulatory claim about Ethereum from a prominent CEO likely to spark debates."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Captures a notable opinion with regulatory implications."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative framing through the security classification assertion."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Regulatory discussions may persist for weeks in crypto circles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1545751305687293954",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Routine network metric update with limited viral appeal beyond core enthusiasts."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides concrete on-chain data point about network growth."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral statistical reporting."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Metric will be superseded by future network growth updates."
+      }
+    }
+  },
+  {
+    "tweet_id": "1545568324276391938",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Meme format has moderate shareability but targets niche crypto humor."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No substantive information beyond humorous anecdote."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Implies negative outcome through 'buying the top' reference."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Meme relevance tied to momentary market conditions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1545264376994844672",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Standard market update with moderate crypto community interest."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides current market capitalization figure."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral price metric reporting."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance limited to current market cycle."
+      }
+    }
+  },
+  {
+    "tweet_id": "1545173135367888896",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Technical product launch likely to interest DeFi enthusiasts."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Details new privacy-focused infrastructure with practical use case."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone highlighting cost savings and functionality."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Product adoption could sustain relevance for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1544709397858947073",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Critical milestone in Ethereum's transition to Proof-of-Stake."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Reports successful testnet implementation with mainnet implications."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive framing of technical progress."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Historic protocol change with permanent network impact."
+      }
+    }
+  },
+  {
+    "tweet_id": "1544346244876754945",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Cultural NFT initiative combining regional identity with blockchain tech has broad viral potential."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Announces specific NFT project details with cultural context."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive promotion of free mint event and cultural celebration."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Project longevity depends on ongoing community engagement."
+      }
+    }
+  }
+]

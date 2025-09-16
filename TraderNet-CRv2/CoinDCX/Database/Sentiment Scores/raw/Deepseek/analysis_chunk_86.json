@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1512958772326633478",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Surprising comparative statistic about cryptocurrency adoption could drive shares within crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides a specific numerical claim about cryptocurrency holders, though requires external verification."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of factual information without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant until new holder data emerges, likely short-to-medium term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1512755808869695489",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Abstract philosophical statement about blockchain lacks clear engagement hooks."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Conceptual discussion without concrete information or data."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral technical discussion without emotional valence."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Theoretical content unlikely to sustain prolonged discussion."
+      }
+    }
+  },
+  {
+    "tweet_id": "1512739346515963907",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Bold price prediction and confrontation of critics creates shareable controversy."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Mentions specific technical upgrade (Ethereum 2.0) but presents opinion as fact."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong positive conviction shown through price prediction and 'sorry haters' remark."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant until Ethereum 2.0 implementation, with potential for ongoing price discussion."
+      }
+    }
+  },
+  {
+    "tweet_id": "1512645810336546819",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Minimal-content tweet relying solely on link click-through for engagement."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Only announces Ethereum 2.0 without context or details."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement without positive/negative framing."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Dependent on linked content's longevity, likely short-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1512076569631633411",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Dramatic regulatory confrontation narrative with strong emotional appeal."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "First-hand account of regulatory engagement with specific details about concessions offered."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Strong negative language ('evil, despicable monsters') shows intense frustration."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Regulatory discussions have medium-term relevance for crypto industry."
+      }
+    }
+  },
+  {
+    "tweet_id": "1511896028730957825",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Structured technical breakdown appeals to crypto enthusiasts for sharing."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Detailed, numerical breakdown of Ethereum's Merge impacts with specific metrics."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual presentation with final opinion statement about ownership."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Technical details about major network upgrade will remain relevant long-term."
+      }
+    }
+  },
+  {
+    "tweet_id": "1511424635690270727",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Complaint about common pain point (gas fees) could resonate within crypto community."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Highlights an issue but provides no new information or solution details."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative frustration expressed through plea for help."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant until fee structure changes, which is ongoing but not time-bound."
+      }
+    }
+  },
+  {
+    "tweet_id": "1511390560095019008",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Humorous take on crypto complexity has broad meme potential."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Personal anecdote without informational content."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Playful tone with 'see y'all in jail' shows amused frustration."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Joke tied to momentary situation, short-lived relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1511267400708243464",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Corporate endorsement angle interesting to business and crypto audiences."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Highlights institutional perspective but lacks specific insights."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of executive commentary."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Standard news cycle lifespan unless interview contains major revelations."
+      }
+    }
+  },
+  {
+    "tweet_id": "1511010206020509703",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Sensational government adoption claim with patriotic emojis drives engagement."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "If verified, would be significant news. Lacks sourcing details."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Enthusiastic tone with rocket and moon emojis shows strong positivity."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Depends on verification - could have medium-term impact if confirmed."
+      }
+    }
+  }
+]

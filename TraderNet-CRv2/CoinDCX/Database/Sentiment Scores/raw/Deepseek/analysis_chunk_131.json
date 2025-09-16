@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1570309693314310144",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Announcement of Ethereum's Proof of Stake transition has high community interest and historical significance, likely to be broadly shared."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Direct announcement of a major blockchain protocol upgrade with industry-wide implications."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Celebratory tone with congratulatory message and positive emoji usage."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "Historic milestone in blockchain technology that will be referenced for years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570309632962473987",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High engagement potential through mentions of key figures and the Ethereum foundation."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Celebrates achievement while contextualizing its importance for scaling efforts."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Strong positive emotions expressed through celebratory language and emojis."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Marks a foundational moment in Ethereum's growth trajectory."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570308371995328512",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Analytical perspective on cryptocurrency ecosystems may resonate within crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides strategic commentary on blockchain consensus mechanisms."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral analysis without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Contribution to ongoing technical debates with medium-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570306185391378434",
+    "analysis": {
+      "virality_potential": {
+        "score": 10,
+        "justification": "Authoritative announcement from Ethereum's co-founder with massive engagement metrics."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Official confirmation of protocol finalization from primary source."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Strong positive sentiment celebrating community achievement."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "Landmark event in blockchain history with permanent significance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570306068932358144",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Breaking news format with concise announcement optimized for sharing."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Clear factual update about major cryptocurrency event."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting style without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Immediate news value with lasting significance as historical marker."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570305825574379522",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Contains striking environmental impact statistics likely to drive shares."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Quantitative data about energy consumption changes with source reference."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive framing of environmental benefits with celebratory tone."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Environmental metrics will remain relevant in sustainability discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570305605352697856",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Incorrect attribution reduces shareability despite Ethereum relevance."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Contains factual error (wrong attribution to Jeff Bezos)."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral congratulatory message despite factual inaccuracy."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Error limits long-term relevance beyond initial correction period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570304046883291136",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Celebratory message from industry influencer with emoji engagement."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Confirms event occurrence without additional details."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive emotional tone with celebratory clap emoji."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Standard celebratory message with moderate staying power."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570302943349604353",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Minimal-content tweet with limited engagement drivers."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Simple expression of gratitude without substantive information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment expressed through gratitude and emoji."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Personal reaction with limited long-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570302526297354242",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Official announcement from crypto data platform with hashtags for discoverability."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Accurate confirmation of protocol transition from reputable source."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting style despite positive event context."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Official timestamp of historic event with lasting reference value."
+      }
+    }
+  }
+]

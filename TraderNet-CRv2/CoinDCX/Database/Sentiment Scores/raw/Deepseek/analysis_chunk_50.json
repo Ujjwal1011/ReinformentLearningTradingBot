@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1471140756312268816",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Personal claim about Ethereum cofoundership could spark discussion in crypto communities but lacks universal appeal."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Contains a personal assertion without verifiable evidence or context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral statement of confirmation without clear emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to immediate discussion about Ethereum's founding, likely fading within days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1471102865892687875",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Reputable source reporting institutional analysis of blockchain competition has medium sharing potential."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides credible market analysis from Bank of America via professional journalism."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual reporting without explicit emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant through ongoing discussions about Ethereum competitors."
+      }
+    }
+  },
+  {
+    "tweet_id": "1471018000304074754",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Controversial take on Ethereum's utility could spark debates in crypto circles."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Personal opinion about protocol usage without supporting data."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative assessment using terms like 'broken protocol' with criticism of utility."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance limited to current debates about blockchain preferences."
+      }
+    }
+  },
+  {
+    "tweet_id": "1470868954159534082",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Technical update about NFT migration has strong appeal within Web3 communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific details about platform migration timeline and process."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone with celebratory emoji and 'exciting news' framing."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant through migration period and subsequent platform usage."
+      }
+    }
+  },
+  {
+    "tweet_id": "1470717382662500354",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Provocative anti-bank sentiment combined with crypto advocacy could resonate in fintech circles."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Emotional statement without substantive information or context."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Strong negative sentiment towards traditional finance institutions."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Tied to momentary reaction against traditional banking systems."
+      }
+    }
+  },
+  {
+    "tweet_id": "1470589832959299587",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Highlighting major corporate Ethereum adoption has strong sharing potential in crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Documents real corporate NFT acquisitions but lacks deeper analysis."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive framing of Ethereum's corporate adoption with optimistic emoji."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant through ongoing corporate blockchain adoption trends."
+      }
+    }
+  },
+  {
+    "tweet_id": "1470561612474032128",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Mirror structure of anti-Ethereum tweet might generate limited debate."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Personal investment decision presented as generalized critique."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative assessment of Bitcoin's utility with 'digital pet rock' comparison."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to current crypto market debates."
+      }
+    }
+  },
+  {
+    "tweet_id": "1470397114169630726",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Comprehensive historical thread has high sharing potential in NFT communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides organized historical documentation of Ethereum NFT development."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of historical information."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Evergreen reference material likely to be cited long-term in NFT discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1470031228682256391",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Specific price predictions generate engagement in trading communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Speculative predictions without methodology or sources."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of numbers with speculative question."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance expires with passage of prediction timeframe."
+      }
+    }
+  },
+  {
+    "tweet_id": "1469812742408359940",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Bold price prediction format optimized for social media sharing."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Lacks analysis or evidence to support prediction."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong optimistic sentiment with exclamation point."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance tied to 2022 timeframe with limited lasting value."
+      }
+    }
+  }
+]

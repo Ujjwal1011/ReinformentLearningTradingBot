@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1732173563145093260",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet explains a technical concept with a link, which may attract specific communities but not go viral widely."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides information about ENS and blockchain, though it's a promotional link."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive tone encouraging users to stake their claim."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for a few weeks as it's about a specific tech topic."
+}
+}
+},
+{
+"tweet_id": "1732173556333662262",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Excited message in Spanish, likely shared within a small community."
+},
+"informative_value": {
+"score": 3,
+"justification": "Minimal information, just an excited call to action."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "Very positive with emojis and excitement."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short-term impact, relevant only to the moment."
+}
+}
+},
+{
+"tweet_id": "1732173394685436105",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Predicting a price point, a hot topic that could trend."
+},
+"informative_value": {
+"score": 6,
+"justification": "Opinion on price, not a formal report."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive, suggesting future potential."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Relevant for weeks as it's a prediction."
+}
+}
+},
+{
+"tweet_id": "1732172426048307681",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Criticism of Ethereum, sparking debate in crypto circles."
+},
+"informative_value": {
+"score": 6,
+"justification": "Opinion on Ethereum's market position."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "Negative, comparing to Yahoo's decline."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for days as it's a market opinion."
+}
+}
+},
+{
+"tweet_id": "1732172120375906794",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Selling an NFT, likely shared in crypto communities."
+},
+"informative_value": {
+"score": 4,
+"justification": "Provides sale details but no in-depth info."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive, announcing a successful sale."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Short-term as it's a specific sale event."
+}
+}
+},
+{
+"tweet_id": "1732171811255930937",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Discusses blockchain tech, relevant to a niche audience."
+},
+"informative_value": {
+"score": 6,
+"justification": "Explains tech concepts and future expectations."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, factual discussion."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Long-term as it's about foundational tech."
+}
+}
+},
+{
+"tweet_id": "1732170760301531627",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Compares Ethereum and Bitcoin, a popular topic."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides a price comparison and link."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral observation of market trends."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for days as it's a market update."
+}
+}
+},
+{
+"tweet_id": "1732170634057162804",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Compares node counts, relevant to crypto enthusiasts."
+},
+"informative_value": {
+"score": 8,
+"justification": "Factual data on network decentralization."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive, highlighting Ethereum's decentralization."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for weeks as it's a technical discussion."
+}
+}
+},
+{
+"tweet_id": "1732170336592941304",
+"analysis": {
+"virality_potential": {
+"score": 2,
+"justification": "Short message in unknown language, limited reach."
+},
+"informative_value": {
+"score": 2,
+"justification": "Minimal info, likely spam."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, no strong emotion."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "Immediately irrelevant."
+}
+}
+},
+{
+"tweet_id": "1732170303118422033",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Promotes an NFT with many hashtags."
+},
+"informative_value": {
+"score": 3,
+"justification": "Minimal info, mostly promotional."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive, encouraging engagement."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days as it's an NFT promotion."
+}
+}
+}
+]

@@ -1,0 +1,1052 @@
+[
+  {
+    "tweet_id": "1443140175152902147",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "From Vitalik Buterin, a key figure in Ethereum, announcing a significant technical proposal. Highly shareable within the crypto and tech communities, with strong engagement."
+      },
+      "informative_value": {
+        "score": 10,
+        "justification": "Direct announcement from a primary source about a critical technical development for Ethereum, complete with a link to the proposal."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tone is primarily informative but subtly positive, highlighting a new development that avoids complex protocol changes, generally seen as a good outcome."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "A technical proposal for a foundational blockchain like Ethereum has the potential to influence its development and ecosystem for years, making its impact long-lasting."
+      }
+    }
+  },
+  {
+    "tweet_id": "1443128662761492484",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Strong, attention-grabbing claim ('ticking time bomb') related to crypto market dynamics, likely to be shared widely within the crypto community."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides a specific data point ('3 million less #ethereum on exchanges') and draws a market conclusion, though the conclusion is interpretive and not purely factual."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The 'ticking time bomb' phrase, in the context of reduced supply on exchanges, is interpreted as bullish for price, thus positive for holders."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Market analysis tweets are typically relevant for a few days to a week, tied to current market conditions, and then fade."
+      }
+    }
+  },
+  {
+    "tweet_id": "1443103968314413056",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Discusses 'China ban' and market impact, a recurring and highly engaging topic in crypto. The bullish prediction further fuels sharing."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Reports on a major news event (China ban) but adds significant personal interpretation and market prediction rather than pure verifiable facts. A link provides context."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Despite the 'China ban' news, the tweet's conclusion is 'EXTREMELY bullish' and encourages preparation for a 'launch,' indicating strong positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "While the 'China ban' is significant, the market reaction and the prediction will be relevant for days to weeks, depending on how the market moves."
+      }
+    }
+  },
+  {
+    "tweet_id": "1442625005427232776",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Provocative 'what if' question targeting a major rivalry in crypto (Cardano vs. Ethereum), likely to generate strong debate and sharing within specific communities."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "Purely speculative, opinion-based, and designed to elicit a reaction rather than provide factual, verifiable information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The question itself is neutral. While it sparks debate, it doesn't express a strong positive or negative sentiment from the author."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Questions about crypto rivalries can generate discussion for a few days but rarely have long-term relevance without new developments."
+      }
+    }
+  },
+  {
+    "tweet_id": "1442572359634935808",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Price predictions for popular cryptocurrencies are highly engaging and shareable, especially when accompanied by an open question inviting debate."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "While it lists specific numbers, these are speculative price targets, not factual or verifiable information. It's an opinion."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The implied sentiment is positive, as these are high price targets, suggesting optimism for the crypto market."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Price predictions are relevant until the end of the specified period (end of the year) or until market movements make them obviously outdated."
+      }
+    }
+  },
+  {
+    "tweet_id": "1442489062087086081",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Sensational news about a massive, accidental transaction fee is highly unusual and will generate shock and widespread sharing within and outside the crypto community."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Reports a specific, newsworthy, and verifiable event (a factual data point that can be checked on the blockchain)."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "The event itself is negative (a huge loss for someone), even if the tweet is factual. It evokes concern or disbelief."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "While sensational, the immediate impact of this specific event fades within a few days once the news cycle moves on."
+      }
+    }
+  },
+  {
+    "tweet_id": "1442308116121473030",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Presents an interesting, significant comparison ('more volume than Coinbase') with a sarcastic, attention-grabbing phrase ('It's probably nothing'), likely to be shared among crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides a specific data point about dYdX's volume relative to Coinbase, which is verifiable and newsworthy within the crypto space."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The sarcastic tone 'It's probably nothing' implies that it IS something big and positive for dYdX/Ethereum L2."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The comparison holds relevance for a few days to a week, but its impact will fade as trading volumes fluctuate and new data emerges."
+      }
+    }
+  },
+  {
+    "tweet_id": "1442097698895716356",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Highlights a major, ongoing legal case (Ripple vs. SEC) with a 'MUST READ' summary from reputable sources, ensuring high sharing within the affected communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Directs users to an 'AMAAAZING SUMMARY' of a complex, important legal case, providing in-depth educational content from named, reputable sources."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Enthusiastically promotes a valuable resource ('MUST READ', 'AMAAAZING SUMMARY') related to an important legal battle, conveying positive value."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The Ripple v. SEC case is a long-running legal battle with significant implications for the crypto industry, so a comprehensive summary remains relevant for an extended period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1441529690758418434",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "A visionary statement about Ethereum's future potential from a notable figure (Fred Ehrsam, co-founder of Coinbase) is thought-provoking and shareable within the crypto community, but not universally."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "A strong opinion and vision for the future, but it's not factual news or verifiable data. It's a conceptual idea."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Expresses a clear, optimistic vision for Ethereum's future, indicating positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Philosophical statements about the future of major technologies can remain relevant for weeks or months, sparking ongoing discussions about development directions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1441389198208946179",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Relates to ongoing legal/regulatory issues in crypto, mentions influential figures (Bill Hinman, Jay Clayton, Ethereum), and promises a 'mystery guest,' generating significant interest within the crypto and financial news communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides updates on journalistic inquiries into significant regulatory issues, confirming a declined comment and ongoing efforts."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is a factual update on journalistic efforts, with no strong emotional bias from the author, though the underlying topic can be controversial."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "News updates on ongoing investigations and interviews typically remain relevant for days to weeks, especially with a 'stay tuned' promise."
+      }
+    }
+  },
+  {
+    "tweet_id": "1441370938675589123",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Relatable sentiment for crypto traders hoping for dips, using humor/sarcasm around a recurring 'government ban' FUD, likely to resonate and be shared in trading communities."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "Expresses a personal desire/opinion; does not provide factual or verifiable information."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Humorous and expresses a bullish anticipation (wants lower prices to buy, implying belief in future rise)."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "A humorous take on market conditions is relevant for a day or two, but its humor or relevance quickly fades."
+      }
+    }
+  },
+  {
+    "tweet_id": "1441120804637270017",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Highly alarmist, connecting major global economic and political events to a dire prediction ('biggest crash in history') and giving direct financial advice. This type of content from a well-known figure (Robert Kiyosaki) is extremely viral."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Mentions several factual geopolitical/economic events, but links them with a highly speculative and alarmist personal prediction, which is not verifiable fact."
+      },
+      "sentiment_polarity": {
+        "score": 1,
+        "justification": "Expresses strong negative emotions like fear and impending doom ('biggest crash in history')."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "While specific events like a shutdown looming are short-term, the overarching theme of global economic collapse and advice to buy specific assets has a longer shelf life."
+      }
+    }
+  },
+  {
+    "tweet_id": "1441080057603235841",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Highlights past performance of Ethereum and gives simple, actionable advice ('Buy crypto, HODL'), resonating with existing and potential crypto investors."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides a specific historical price point for Ethereum which is verifiable, then offers general investment advice."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Uses past price data to implicitly convey a positive outlook for crypto and encourages accumulation."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Historical price points are always true, but the investment advice is evergreen, yet the specific context of 'one year ago' has limited active discussion lifespan."
+      }
+    }
+  },
+  {
+    "tweet_id": "1440551464129101831",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "A personal trading update, while from a well-known crypto personality, is not inherently designed for broad virality beyond immediate followers interested in their trades."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Purely a personal action/opinion, not verifiable news or generalizable information."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Expresses a positive sentiment towards Ethereum by buying more, implying confidence."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "A personal trading update loses relevance quickly as market prices change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1439950651241476100",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "A provocative and humorous comparison between Bitcoin and Ethereum, likely to generate strong reactions and sharing among crypto enthusiasts, especially those with strong biases."
+      },
+      "informative_value": {
+        "score": 0,
+        "justification": "A metaphorical, opinion-based statement, not providing any factual or verifiable information."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "The comparison of Ethereum to 'Chinese real estate' in the context of China's economic issues is a subtle but clear negative jab."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Humor and provocative comparisons can have a moderate lifespan, sparking debate for a few days, but typically fade."
+      }
+    }
+  },
+  {
+    "tweet_id": "1439396776054767617",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Humorous observation on a common debate within the crypto community, making it relatable and shareable to that specific audience."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "A humorous observation, not a factual statement or new information."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Light-hearted humor that subtly praises Ethereum's decentralization by highlighting a quirky side effect."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The humor is generally evergreen for the crypto community, but active discussion on this specific tweet will fade in a few days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1439340434719916033",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "A strong, controversial statement ('Ethereum has no competitors') from an influential crypto analyst, explicitly inviting debate, ensures high engagement and sharing within the crypto community."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "A strong, opinionated statement and market analysis, not verifiable facts."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Expresses extremely strong bullish sentiment for Ethereum, dismissing all competitors."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "A strong, opinionated stance on a major rivalry can remain a topic of discussion for weeks, especially among the followers of the analyst."
+      }
+    }
+  },
+  {
+    "tweet_id": "1439221165785030663",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "A direct question about buying a popular crypto asset from a well-known personality encourages high engagement (replies) and sharing among crypto investors."
+      },
+      "informative_value": {
+        "score": 0,
+        "justification": "A direct question seeking opinion/advice, not providing any factual information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The question is neutral, seeking input rather than expressing a strong emotion."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "A simple question about a current investment decision quickly becomes irrelevant as market conditions change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1439091781547687937",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Highly controversial and critical statement against a major crypto asset (Ethereum) from a well-known figure, designed to provoke strong reactions and debate, especially by calling it 'Fool's coin.'"
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "A strong, highly opinionated, and critical personal view, not providing verifiable facts."
+      },
+      "sentiment_polarity": {
+        "score": 1,
+        "justification": "Expresses strong negative emotions and dismissive criticism towards Ethereum using phrases like 'unproductive' and 'Fool’s coin.'"
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Strong, controversial takes on major assets can remain relevant for weeks, fueling ongoing debates and being referenced."
+      }
+    }
+  },
+  {
+    "tweet_id": "1439063583405522946",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "This tweet directly mirrors a controversial one for Bitcoin, making it highly shareable as a counter-narrative and for its provocative, critical stance against a major crypto asset."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "A strong, highly opinionated, and critical personal view, not providing verifiable facts."
+      },
+      "sentiment_polarity": {
+        "score": 1,
+        "justification": "Expresses strong negative emotions and dismissive criticism towards Bitcoin, using phrases like 'unproductive' and 'Fool’s gold.'"
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "As a direct counter to a common narrative and a strong opinion, it will fuel debate and remain relevant for weeks, similar to its inverse counterpart."
+      }
+    }
+  },
+  {
+    "tweet_id": "1438786804300255236",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "'BREAKING' news about a major financial platform (PayPal) enabling crypto access in a large market (UK) is highly significant and will be widely shared across financial and crypto news."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides critical, newsworthy, and verifiable information about a major company's adoption of cryptocurrencies."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The news of a major platform adopting crypto is overwhelmingly positive for the crypto community."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "While immediate breaking news, the policy change from PayPal has lasting implications for crypto adoption, remaining relevant for weeks/months as people react and use the service."
+      }
+    }
+  },
+  {
+    "tweet_id": "1438746959364308995",
+    "analysis": {
+      "virality_potential": {
+        "score": 10,
+        "justification": "Direct announcement from the primary source (PayPal UK) about a major product/service launch affecting a large user base. This is critical breaking news from the source itself."
+      },
+      "informative_value": {
+        "score": 10,
+        "justification": "Direct, verifiable, and critical information from the primary source (PayPal UK) about a significant service launch."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Expresses strong positive emotion ('delighted to share') and announces a highly positive development for crypto users and adoption."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "A major financial institution's integration of crypto has long-term implications for the crypto market and mainstream adoption, remaining relevant for years as a landmark event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1438544567947640843",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "A highly ambitious price target question for a major cryptocurrency, designed to spark significant debate and engagement among crypto investors."
+      },
+      "informative_value": {
+        "score": 0,
+        "justification": "A speculative question, not providing any factual or verifiable information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The question is neutral, inviting speculation, but implicitly the extremely high target suggests an underlying bullish outlook for the asset."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "High-target price speculation can remain a talking point for months, but active discussion for this specific tweet will fade in days/weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1438541006123716611",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Announcement of a significant product launch ('Overledger Network') that connects major blockchains (Bitcoin, Ethereum, Ripple). This is important news for the blockchain community."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Direct announcement of a new product launch from the company, detailing its capabilities and relevance to major blockchains, including a link to more info."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Announces a new product launch, indicating progress and innovation, which is highly positive for the company and its users."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "A new network connecting major blockchains could have a lasting impact on interoperability, making the announcement relevant for months and potentially years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1438478740032524289",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Discusses the ongoing, high-stakes Ripple vs. SEC lawsuit, involving key figures and potential implications for Ethereum, using a dramatic call to action ('Get popcorn ready'). Highly engaging for the crypto/legal community."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides context and analysis on an ongoing legal case, raising important questions about regulatory decisions concerning major cryptocurrencies."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual analysis of a legal situation, though it alludes to the contentious nature of 'regulation by enforcement.' The 'get popcorn ready' is lighthearted and neutral."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The Ripple vs. SEC lawsuit and its implications for broader crypto regulation are long-term issues that will continue to be discussed for years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1438298684266098688",
+    "analysis": {
+      "virality_potential": {
+        "score": 10,
+        "justification": "Direct confirmation from a CEO (AMC) of a major, mainstream company's expanded adoption of multiple cryptocurrencies for payments. This is huge news for crypto adoption and retail use, with high potential to go viral."
+      },
+      "informative_value": {
+        "score": 10,
+        "justification": "Primary-source, verifiable, and critical information from a company CEO about a significant business decision regarding crypto payments."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Overwhelmingly positive news for the crypto community, indicating further mainstream adoption, expressed with confidence."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "A major cinema chain accepting multiple cryptocurrencies sets a precedent and represents a significant milestone in mainstream adoption, with long-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1438262656377425925",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "A highly relatable and passionate statement against perceived ignorance in government regulation of complex tech, resonating strongly with the tech/crypto community and broader public distrust of politicians."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "While it expresses a valid concern, it is an opinion/argument rather than new, verifiable information."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Expresses clear frustration and anger at political incompetence regarding cryptocurrency regulation."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The underlying issue of informed regulation of complex technologies like crypto is an ongoing and evergreen debate, making the tweet relevant for weeks/months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1438124072395812868",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Presents a significant, large number ('Over $1 Billion') related to a major Ethereum event (London hard fork), highly engaging for the crypto community, especially from a major exchange (Binance)."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides specific, verifiable data about the amount of ETH burnt since a major protocol upgrade, with a link for further context."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The burning of ETH is generally viewed positively by the community as it reduces supply and can support price."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The impact of a hard fork and its economic effects (like burning ETH) are topics that remain relevant and discussed for weeks or months after the event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1438111196801024007",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Highly controversial and significant for the crypto community, raising concerns about potential SEC classification of Ethereum as a security, directly involving key figures and the Ripple case."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Reports on journalistic findings regarding past statements of a key regulator (Gary Gensler) concerning Ethereum's potential classification, providing newsworthy context to an ongoing regulatory debate."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Expresses strong concern and alarm about the implications of Gensler's past statements, framing them as 'draconian' and a major threat to Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "The regulatory status of major cryptocurrencies like Ethereum is a foundational and long-term issue for the entire industry, making this analysis highly relevant for years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1437870430770053121",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Highlights a significant achievement and technical resilience of Ethereum, likely to be shared within the tech and crypto communities as a point of pride and reliability."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides a specific, verifiable fact about Ethereum's operational uptime, which is informative about its stability and resilience."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Expresses strong admiration ('absolutely remarkable') for Ethereum's consistent operation and reliability."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The long-term operational stability of a major blockchain is an evergreen topic, and this specific achievement (6 years) remains relevant for a considerable period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1437862296827613188",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Directly addresses a major rivalry ('Ethereum killer') with strong, declarative statements and capital letters, especially after a 'crash' event, which is highly engaging and shareable within the crypto community."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Reports a verifiable event (Solana crash) and then draws a strong, opinionated conclusion based on that event."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Expresses strong negative sentiment towards the 'Ethereum killer' narrative and Solana's crash, and aggressive dismissal ('Get that into your heads')."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The 'Ethereum killer' narrative is an ongoing debate, and a significant event like a crash provides talking points that remain relevant for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1437847825572892672",
+    "analysis": {
+      "virality_potential": {
+        "score": 10,
+        "justification": "Perfectly timed, culturally relevant content (Apple Event) combined with a highly engaging, relatable comparison (iPhone vs. Ethereum) and a direct question. This taps into mainstream interest and crypto debates."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "It presents a factual comparison of costs, but its primary purpose is engagement and debate rather than deep information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The question is designed to elicit debate, not express a strong sentiment, though it implicitly validates both options as valuable."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The initial viral spike will be high due to the Apple event, but the underlying 'crypto vs. consumer goods' debate has a longer shelf life, making it relevant for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1437774633969885189",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Clear, ambitious price predictions for multiple popular cryptocurrencies from a well-known analyst are highly engaging and shareable within crypto trading communities."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "These are speculative price targets and opinions, not factual or verifiable information."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Expresses extremely strong bullish sentiment across multiple major cryptocurrencies, indicating high optimism."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Price predictions, especially for a 'bull cycle,' remain relevant for months, or until the market significantly deviates, prompting updates."
+      }
+    }
+  },
+  {
+    "tweet_id": "1437445755472601090",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "A direct offer of a significant amount of Ethereum for a specific item (likely a rare NFT/collectible). This has potential to go viral within niche communities but less so broadly."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "While it makes a specific offer, the context (what 'a box' is) is somewhat missing without the image, and it's a personal transaction, not general information. (Translation: 'I give 60 ethereum to whoever gets me a box')"
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "An offer of a large sum of money implies a positive desire to acquire something."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "A personal offer for a specific item is time-sensitive until the item is found or the offer is rescinded."
+      }
+    }
+  },
+  {
+    "tweet_id": "1437411853961936896",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "A humorous, satirical take on a major retailer potentially adopting crypto, playing on unexpected choices. This is highly shareable for its humor and relevance within the crypto community."
+      },
+      "informative_value": {
+        "score": 0,
+        "justification": "Pure satire and humor; not factual information."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The humor is generally lighthearted and acknowledges mainstream interest in crypto, even if satirizing corporate decision-making."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Satirical jokes about current events have a moderate lifespan until the news cycle moves on or the humor becomes stale."
+      }
+    }
+  },
+  {
+    "tweet_id": "1437281199731449856",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "A nuanced take on tribalism within crypto communities, particularly between Ethereum and its challengers, which resonates with many and encourages reflection/sharing."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "An observational opinion and social commentary rather than new, verifiable facts."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "A critical observation of community behavior but without strong emotional bias; aims for a balanced, analytical perspective despite personal disclosure."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Commentary on community dynamics and rivalries is a recurring topic in crypto and can remain relevant for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1437271588429258755",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "A very simple, direct, and polarizing question from a major celebrity (Jason Derulo) about a hot topic ('Solana or Ethereum?') guarantees massive engagement and widespread sharing."
+      },
+      "informative_value": {
+        "score": 0,
+        "justification": "A direct question, not providing any factual information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The question is neutral, designed to spark debate rather than express emotion."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Questions about major crypto rivalries from influential figures can sustain debate for weeks, but the specific tweet's active relevance will eventually fade."
+      }
+    }
+  },
+  {
+    "tweet_id": "1437135725611393029",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Raises critical, highly controversial questions about perceived regulatory favoritism and inconsistency in the crypto space, especially involving major players. Very likely to be widely shared."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "While posing questions, it highlights significant regulatory actions (Ripple lawsuit, Coinbase Wells notice) and contrasting treatments, prompting informed discussion."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Expresses concern and implicitly criticizes perceived unfairness or inconsistency in regulatory actions."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Questions about regulatory consistency and fairness for major crypto assets are fundamental and long-lasting issues, ensuring the tweet's relevance for an extended period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1436949520835911683",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Presents a strong, somewhat pessimistic argument about the scalability limitations of multiple major blockchains. This kind of critical, technical commentary is highly engaging for developers and informed crypto users."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Raises a critical technical challenge (scalability/throughput) for major blockchains, providing a specific argument about their limitations relative to global needs."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Expresses a critical, somewhat pessimistic view on the current state of blockchain scalability, highlighting a significant problem."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Scalability remains a core, long-term challenge for blockchain technology, making discussions about throughput limitations relevant for many months or years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1436742655724167181",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "A prominent early tech/crypto investor (Bobby Goodlatte) publicly expressing profound skepticism about NFTs ('emperor has no clothes') is a highly relatable and controversial take that will be widely shared."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "A personal opinion, albeit an informed one, providing insight into a significant figure's perspective rather than new factual information."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Expresses strong skepticism and criticism of NFTs, comparing them to 'the emperor has no clothes,' indicating a very negative view."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The fundamental debate about the value and future of NFTs (speculative bubble vs. new paradigm) is a long-term topic, making this high-profile skepticism relevant for years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1436342951295193089",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "A direct call to action ('❤️ this tweet') combined with a relatable price point for a popular asset (Ethereum under $4k) fosters engagement and can go moderately viral within the crypto community."
+      },
+      "informative_value": {
+        "score": 0,
+        "justification": "Pure engagement bait, providing no factual information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Implicitly celebrates successful past investments and suggests a positive outlook for Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Its relevance is tied to current price levels and the immediate satisfaction of past gains, quickly fading as prices change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1436320035774124034",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Strong, optimistic advice ('Accumulate') for popular cryptocurrencies, tapping into FOMO and long-term bullish sentiment, making it highly shareable among investors."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Purely speculative advice and opinion, not factual information."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Expresses strong, long-term bullish sentiment and confidence in the future value of major crypto assets."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Long-term investment advice related to foundational crypto assets has a very long shelf life and can be referenced for years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1436121394509660164",
+    "analysis": {
+      "virality_potential": {
+        "score": 10,
+        "justification": "A major celebrity/influencer (KSI) announcing a shift from Ethereum to Solana due to fees, showcasing a popular NFT, and using 'GOML' is a highly viral combination of celebrity, trending tech, and a controversial opinion."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Reports a personal decision (moving to Solana) based on a verifiable problem (Ethereum fees), offering insight into user behavior and highlighting a competitive issue."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive about the new NFT and Solana, but also contains a moderate negative sentiment towards Ethereum's high fees. Overall, a mix but leans positive on his new choice."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The impact of a celebrity's endorsement of a platform over another due to a specific issue can drive conversation for weeks, but the 'new profile pic' aspect is short-lived."
+      }
+    }
+  },
+  {
+    "tweet_id": "1435974498906349569",
+    "analysis": {
+      "virality_potential": {
+        "score": 10,
+        "justification": "A very simple, direct, and polarizing question from a global celebrity (Mike Tyson) about a major crypto rivalry ('Solana or Ethereum?') guarantees explosive engagement and widespread sharing."
+      },
+      "informative_value": {
+        "score": 0,
+        "justification": "A direct question, not providing any factual information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The question is neutral, designed to spark debate rather than express emotion."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Questions about major crypto rivalries from global figures can sustain debate for weeks, but the specific tweet's active relevance will eventually fade."
+      }
+    }
+  },
+  {
+    "tweet_id": "1435532158932865027",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "A major financial institution (Standard Chartered) providing a very high valuation for Ethereum is extremely newsworthy and will be widely shared across financial and crypto media."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Reports a specific, significant valuation from a reputable financial institution, which is newsworthy and provides expert opinion/analysis."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "A high valuation from a major bank is overwhelmingly positive news for Ethereum holders and enthusiasts, generating strong excitement."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "High-profile institutional valuations for major assets remain a significant talking point and reference for months, influencing sentiment and long-term outlook."
+      }
+    }
+  },
+  {
+    "tweet_id": "1435456963572273153",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Humorous and satirical response to SEC regulation, showcasing the complexity and workarounds in DeFi, with a provocative punchline. Highly shareable within crypto communities that feel targeted by regulators."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "While satirical, it highlights common DeFi actions and the frustration with regulation. It's not factual news but illustrates a point."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The humor and defiance are positive for those who share the anti-regulation sentiment, despite the underlying negative regulatory context."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Satirical takes on ongoing regulatory battles can remain relevant for weeks, especially when they resonate strongly with a community's frustrations."
+      }
+    }
+  },
+  {
+    "tweet_id": "1435421954337427457",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Highlights a perceived shift in talent/focus from Ethereum to Solana, drawing a historical parallel that is thought-provoking and shareable within crypto tech/investment communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific historical observations about talent migration within the crypto industry, offering a narrative about evolving trends."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual observation of talent movement, though the implied message could be seen as slightly negative for Ethereum and positive for Solana. It's presented as an observation."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Observations about shifts in industry trends and talent migration can remain relevant for months, fueling discussions about the future of different blockchains."
+      }
+    }
+  },
+  {
+    "tweet_id": "1435284575190724611",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Aggressive, blunt language from a crypto personality, directly addressing 'panicking' investors and offering dismissive advice, will resonate with many and provoke strong reactions."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides a specific, verifiable data point about Ethereum's recent performance (2.5x off lows) and uses it to frame a critique of market sentiment."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Contains strong negative emotions (frustration, anger) directed at 'panicking' investors, using expletives."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "While the sentiment is strong, the specific context of a 'tiny correction' and recent price performance makes its active relevance fairly short-lived."
+      }
+    }
+  },
+  {
+    "tweet_id": "1435250087270174727",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "A very bearish price prediction ($80 for Ethereum) is provocative, but the low engagement numbers suggest it didn't go widely viral, perhaps due to being seen as too extreme or unrealistic by most."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Purely a speculative price prediction, not factual information."
+      },
+      "sentiment_polarity": {
+        "score": 0,
+        "justification": "Predicts an extremely drastic price drop, which is overwhelmingly negative for holders of Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Price predictions are highly time-sensitive and quickly proven right or wrong, losing relevance within days or a week."
+      }
+    }
+  },
+  {
+    "tweet_id": "1435198983195009024",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "'OFFICIAL' news about a country (Panama) recognizing major cryptocurrencies as payment methods is highly significant and will be widely shared across crypto and financial news."
+      },
+      "informative_value": {
+        "score": 10,
+        "justification": "Critical, verifiable, and newsworthy information from a reputable source (Blockworks) about a country's legislative action regarding crypto."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "News of a country officially adopting cryptocurrencies is overwhelmingly positive for the crypto community and overall adoption."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "A country's recognition of cryptocurrencies has long-term implications for adoption and policy, making it a significant and relevant event for years."
+      }
+    }
+  }
+]

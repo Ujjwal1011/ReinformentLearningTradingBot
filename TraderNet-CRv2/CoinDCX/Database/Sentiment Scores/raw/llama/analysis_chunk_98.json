@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1521556649294585857",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Announcements about major institutions accepting cryptocurrencies can generate significant interest and sharing within the crypto community and beyond."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides newsworthy information about a university's acceptance of cryptocurrencies as payment, offering specific details."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tone is moderately positive, indicating a significant and positive development in cryptocurrency adoption."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for days to weeks, as the news will generate interest in the short term but may not sustain long-term conversation."
+}
+}
+},
+{
+"tweet_id": "1521471900836372481",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "A somewhat generic statement about Ethereum, potentially engaging for enthusiasts but lacking broad viral appeal."
+},
+"informative_value": {
+"score": 3,
+"justification": "Minimal information provided; the tweet's value lies in the linked content rather than the tweet itself."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Moderately positive sentiment, though the tone is more matter-of-fact than enthusiastically positive."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Short-term relevance, as the linked content's novelty will wear off quickly."
+}
+}
+},
+{
+"tweet_id": "1521336041629941760",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Unlikely to go viral; it discusses a niche topic (cryptocurrency profitability) without a strong hook."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides some useful information about BTC and ETH holders, though the context is somewhat specialized."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral; the tweet reports on a situation without expressing a clear emotional tone."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Standard lifespan; relevant for a day or two, then fades as new crypto news emerges."
+}
+}
+},
+{
+"tweet_id": "1521199689403715588",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Similar to the first tweet, announcements about major banks supporting cryptocurrencies can generate significant interest."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides newsworthy, specific information about a bank's support for various cryptocurrencies."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Moderately positive, indicating a positive development in crypto adoption without expressing overt enthusiasm."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for days to weeks, as the news will generate short-term interest but may not sustain long-term conversation."
+}
+}
+},
+{
+"tweet_id": "1521193787309056004",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "A giveaway, especially of a desirable item, can generate significant engagement and sharing."
+},
+"informative_value": {
+"score": 2,
+"justification": "Minimal informative value; the focus is on the giveaway rather than providing information."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "Very positive, as giveaways typically elicit strong positive responses and excitement."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short-term relevance, as interest is primarily in the giveaway's duration."
+}
+}
+},
+{
+"tweet_id": "1521107439722151936",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Comparing cryptocurrencies can generate community engagement, especially if one is favored over others."
+},
+"informative_value": {
+"score": 5,
+"justification": "Provides a subjective comparison without deep analysis, offering some but limited insight."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Very positive towards Cardano, expressing admiration for its performance."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Standard relevance; the comparison might spark short-term discussion but lacks long-term impact."
+}
+}
+},
+{
+"tweet_id": "1520966876016541696",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "News about significant NFT sales can interest the crypto and NFT communities, though it may not go viral broadly."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides specific, newsworthy information about a historic NFT sale, including figures."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral; the tweet reports on an event without expressing a clear emotional tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for days to weeks, as the news of a record sale will generate short-term interest."
+}
+}
+},
+{
+"tweet_id": "1520871182593327104",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "Unlikely to go viral; the tweet's advice, though helpful, is niche and lacks a strong hook."
+},
+"informative_value": {
+"score": 6,
+"justification": "Offers some useful advice on Ethereum usage, though it's more of a community service announcement."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Moderately positive, encouraging good practice without expressing strong emotions."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Standard lifespan; relevant for a day or two, then fades as new advice or news emerges."
+}
+}
+},
+{
+"tweet_id": "1520871166851878916",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Comparing cryptocurrencies in a challenging moment for one (Solana) can generate significant engagement and sharing."
+},
+"informative_value": {
+"score": 5,
+"justification": "Provides a subjective comparison highlighting a current issue, offering some insight but no in-depth analysis."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Moderately positive towards Bitcoin, expressing a favorable view in comparison."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Short-term relevance, as the comparison's impact is tied to Solana's current issues."
+}
+}
+},
+{
+"tweet_id": "1520862928395722760",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "A generic statement about two major cryptocurrencies; unlikely to generate significant sharing."
+},
+"informative_value": {
+"score": 2,
+"justification": "Minimal information; the statement is too broad and lacks specific insights."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral; the tweet states an opinion without expressing strong emotions."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Standard relevance; the statement might spark some short-term discussion but lacks long-term impact."
+}
+}
+} 
+]

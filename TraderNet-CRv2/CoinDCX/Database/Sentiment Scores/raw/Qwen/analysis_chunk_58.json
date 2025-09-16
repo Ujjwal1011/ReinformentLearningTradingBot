@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1483548554874564613",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet uses a meme-like structure and critique of the economy, which can resonate within specific communities and has potential for viral sharing."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet is more of a critique than providing factual information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment, presenting a critique without strong emotion."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days as a meme."
+}
+}
+},
+{
+"tweet_id": "1483444379943841795",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Well-structured niche content about Ethereum and gaming trends."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides a timeline of significant events, informative."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment about technological progress."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Remains relevant for weeks as part of ongoing trends."
+}
+}
+},
+{
+"tweet_id": "1483301615323033601",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Limited reach due to language and brevity."
+},
+"informative_value": {
+"score": 2,
+"justification": "Minimal information, just mentions crypto."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short-lived relevance."
+}
+}
+},
+{
+"tweet_id": "1483173552828391426",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Relatable personal story about crypto investments."
+},
+"informative_value": {
+"score": 3,
+"justification": "Personal anecdote, not factual."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "Negative sentiment about losses."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant for a few days."
+}
+}
+},
+{
+"tweet_id": "1482946173413597186",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Personal journey, niche audience."
+},
+"informative_value": {
+"score": 6,
+"justification": "Educational about NFTs and Ethereum."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment about learning."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a week."
+}
+}
+},
+{
+"tweet_id": "1482921534180425728",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Discusses Web3 transition with hashtags."
+},
+"informative_value": {
+"score": 5,
+"justification": "General info on Web2 to Web3."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for weeks."
+}
+}
+},
+{
+"tweet_id": "1482792931140546562",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Factual comparison sparking debate."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides data on transaction volumes."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral presentation of facts."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Relevant for months."
+}
+}
+},
+{
+"tweet_id": "1482630338975178752",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Promotional giveaway, attracts attention."
+},
+"informative_value": {
+"score": 3,
+"justification": "Promotional content."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Positive sentiment about giveaway."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant until giveaway ends."
+}
+}
+},
+{
+"tweet_id": "1482404866232401921",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Significant cultural moment with museum and Ethereum."
+},
+"informative_value": {
+"score": 9,
+"justification": "Important announcement from a reputable institution."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Positive about cultural integration."
+},
+"duration_of_impact": {
+"score": 9,
+"justification": "Long-term relevance."
+}
+}
+},
+{
+"tweet_id": "1482295872947769346",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Specific crypto update."
+},
+"informative_value": {
+"score": 6,
+"justification": "Update on stablecoins."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days."
+}
+}
+}
+]

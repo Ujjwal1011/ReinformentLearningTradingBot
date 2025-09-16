@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1460537319186997250",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Giveaway incentives with crypto rewards and engagement mechanics (likes/retweets/follows) create strong sharing motivation across crypto communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Primarily promotional content without substantive information beyond the giveaway mechanics."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Celebratory tone with emojis and enthusiastic language about the giveaway opportunity."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance limited to the duration of the giveaway campaign and immediate follower growth period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1460492220646113284",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Humorous comparison between Ethereum/Solana could spread within crypto communities but lacks broader appeal."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Joke format provides no factual content about blockchain technology or engineering practices."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Sarcastic tone implies mild criticism of Solana through engineering convention mockery."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Meme-style content typically remains relevant for days within niche communities."
+      }
+    }
+  },
+  {
+    "tweet_id": "1460385414196432896",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Price prediction lists generate engagement in crypto communities through speculative discussion."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific market predictions that traders might reference, though unverified."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of price targets without explicit bullish/bearish language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Predictions may be referenced until price milestones are reached or disproven."
+      }
+    }
+  },
+  {
+    "tweet_id": "1460289097004728326",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Holiday-themed price wishlist combines meme culture with crypto speculation for moderate sharing potential."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Similar to other prediction tweets but framed as a humorous holiday request."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Playful tone using Santa imagery conveys optimistic market expectations."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Seasonal theme extends relevance through holiday period alongside price watch discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1460085031901224967",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "High-value NFT offer to artists could spread through both crypto and digital art communities."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Details a specific business proposal but lacks broader educational content about NFTs."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral transactional language offering payment for services."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Could spark ongoing discussions about artist compensation in NFT spaces for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1460020344274792448",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Technical comparison appeals to blockchain enthusiasts but lacks mass appeal elements."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides verifiable node size data comparing two major blockchain networks."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual presentation with implied support for Bitcoin's decentralization principles."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Node size comparisons remain relevant in ongoing decentralization debates for months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1459906508867653632",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Juxtaposition of personal drama with crypto milestones creates emotionally engaging contrast."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Mixes verifiable market data (ATHs) with unverifiable personal claims."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Strong negative personal experiences contrasted with positive market news creates emotional tension."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Personal narrative relevance diminishes quickly after initial engagement wave."
+      }
+    }
+  },
+  {
+    "tweet_id": "1459810147107282948",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Success story format common in crypto communities encourages sharing as motivational content."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Personal investment history without actionable insights or verifiable data."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone emphasizing early adoption benefits and future optimism."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Standard motivational content with typical 1-2 day engagement window."
+      }
+    }
+  },
+  {
+    "tweet_id": "1459762532567203848",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Tribal Bitcoin vs Ethereum debate common in crypto circles but lacks novel engagement hooks."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Makes comparative claim about development speed without supporting evidence."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Implied criticism of Ethereum's development progress through comparison."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant until next major network upgrade announcements from either chain."
+      }
+    }
+  },
+  {
+    "tweet_id": "1459606238996615178",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Direct price speculation question likely to generate debate in crypto communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Poses speculative question without providing analysis or data."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral inquiry about market potential without explicit bullish/bearish stance."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to current market conditions and Ethereum price movements."
+      }
+    }
+  }
+]

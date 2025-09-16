@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1768318142466658497",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Announcement of a major Ethereum upgrade (EIP-4844) from a prominent figure likely to generate significant crypto community engagement."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Directly references a concrete technical achievement in blockchain development."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Strong positive language ('huge shout out', 'massive win') conveys admiration."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Protocol upgrades typically influence ecosystem development for weeks/months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1768313648982753629",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Historic Layer 2 milestone likely to circulate within Ethereum communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Announces concrete mainnet upgrade details with specific next steps."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Celebratory tone with emojis and focus on technological progress."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Decentralized sequencer implementation will remain relevant for ongoing L2 discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1768292467739414582",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Controversial take on L2 security could spark debates in crypto circles."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Primarily opinion-based criticism without supporting data."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Strong negative language ('cry very hard', 'kind of joke') shows disdain."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Criticism tied to current L2 implementations may lose relevance as tech evolves."
+      }
+    }
+  },
+  {
+    "tweet_id": "1768290377382138001",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Speculative upgrade rumor has limited viral potential beyond niche communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Suggests technical roadmap alignment between chains but lacks concrete details."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Mildly optimistic tone about potential price implications."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant until PulseChain's actual upgrade implementation occurs."
+      }
+    }
+  },
+  {
+    "tweet_id": "1768283768048193744",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Comparative metrics between chains could interest crypto traders."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific liquidity and fee comparisons with verifiable data points."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Enthusiastic language ('living the dream') celebrating migration benefits."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Liquidity metrics remain relevant until significant network changes occur."
+      }
+    }
+  },
+  {
+    "tweet_id": "1768123207700066455",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Celebration of tangible Ethereum scaling progress from Uniswap's creator."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Quantifies real-world impact of Dencun upgrade on transaction costs."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Exuberant language ('Let's fucking go') shows strong excitement."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Fee reductions will remain relevant until next major network upgrade."
+      }
+    }
+  },
+  {
+    "tweet_id": "1768032567230394433",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Sensational market cap comparison between meme coin and L2 likely to spread quickly."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Reports verifiable market data but lacks deeper analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting style despite provocative content."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Market cap rankings can change rapidly in crypto markets."
+      }
+    }
+  },
+  {
+    "tweet_id": "1767983026443579448",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Technical milestone (first 4844 blob) notable for Ethereum developers."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific timeline and technical context for upgrade impacts."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone with celebratory emojis and forward-looking statements."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Blob implementation will influence L2 economics for weeks/months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1767978094143418864",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Price prediction tweets often gain traction in crypto communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Pure speculation without supporting analysis or data."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Extremely bullish language projecting massive growth."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Price predictions typically have short-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1767974564514910362",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "NFT reward program announcement with retroactive claims could drive engagement."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Details specific platform initiative but lacks technical specifics."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Upbeat tone encouraging user participation with emojis."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Reward programs typically maintain relevance through campaign duration."
+      }
+    }
+  }
+]

@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1732092703910002939",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet promotes a cryptocurrency ($bone) and compares it to well-known cryptocurrencies (Bitcoin, Ethereum), which might generate interest within specific communities."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet provides some information about the goal for $bone, but it's more promotional than informative, with a link to external content."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The user expresses a positive, ambitious sentiment about making $bone widely known."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is tied to the ongoing promotion of $bone, but its impact is not particularly time-sensitive."
+}
+}
+},
+{
+"tweet_id": "1732092629205012539",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet shares significant, positive news about the protocol's revenue ranking, which could generate broad interest within the crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides specific, newsworthy information about the protocol's performance and revenue share, including rankings."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "Expresses strong positive emotions due to the achievement and future commitments."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet's impact will last for days or weeks, as the news of the protocol's success and future plans remains relevant."
+}
+}
+},
+{
+"tweet_id": "1732092210261201270",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet might generate interest within the Ethereum development community, but it's unlikely to go viral broadly."
+},
+"informative_value": {
+"score": 7,
+"justification": "Presents a new project (Ethereum crawler) with a brief overview and a link for more information."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The user is proud to present their project, expressing a positive sentiment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The relevance of the tweet will last for days to weeks, as interest in the new project unfolds."
+}
+}
+},
+{
+"tweet_id": "1732091277376737444",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet's analysis of Ethereum's performance could generate discussion within the crypto trading community."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides technical analysis with specific data points (weekly RSI) and a prediction for Ethereum's price movement."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Expresses a cautiously optimistic sentiment towards Ethereum's potential price explosion."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The tweet's relevance could last for weeks, given the weekly time frame mentioned for the potential price movement."
+}
+}
+},
+{
+"tweet_id": "1732090832969183450",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet is promotional but might not resonate widely beyond the RetroPGF and Ethereum communities."
+},
+"informative_value": {
+"score": 5,
+"justification": "Informs about RetroPGF and its relation to the Ethereum community, but the information is somewhat generic."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Expresses a moderately positive sentiment, encouraging engagement with RetroPGF."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's impact is relatively short-term, tied to the immediate promotion of RetroPGF."
+}
+}
+},
+{
+"tweet_id": "1732090397181067641",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet challenges a bearish view on Ethereum, which might spark discussion within the crypto community."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides specific data (volume and market cap) to counter a bearish stance on Ethereum and Cosmos."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Expresses a moderately positive, somewhat confrontational sentiment towards bearish views."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is tied to the current market sentiment, with impact lasting for a few days."
+}
+}
+},
+{
+"tweet_id": "1732086219222233155",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The excitement about Bitcoin's price might generate some engagement, but it's not highly unique or impactful."
+},
+"informative_value": {
+"score": 3,
+"justification": "Only provides a brief, real-time update on Bitcoin's price without additional context or analysis."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "Expresses strong excitement and optimism about Bitcoin's price movement."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "The tweet's relevance is extremely short-lived, as the price update becomes outdated quickly."
+}
+}
+},
+{
+"tweet_id": "1732084237233422788",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "The tweet is promotional for a personal project (tacosaurus) and unlikely to go viral."
+},
+"informative_value": {
+"score": 2,
+"justification": "Provides minimal information, primarily serving as a promotional announcement."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Expresses a positive, inviting sentiment towards supporting the project."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "The tweet's impact is very short-term, tied to the immediate auction timeframe."
+}
+}
+},
+{
+"tweet_id": "1732082825644347636",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet informs about a significant upcoming event (SEC's ETF decision) but might not resonate widely beyond crypto enthusiasts."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides specific, newsworthy information about an upcoming regulatory decision affecting Bitcoin ETFs."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Expresses a cautiously optimistic sentiment, advising attention to the upcoming decision."
+},
+"duration_of_impact": {
+"score": 9,
+"justification": "The tweet's relevance will last for months, leading up to the decision date and potentially beyond."
+}
+}
+},
+{
+"tweet_id": "1732082712528216438",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet is informative but more of a newsletter update, unlikely to generate viral engagement."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides a concise summary of multiple significant news items in the crypto and blockchain space."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Presents information in a neutral, factual manner without expressing a clear sentiment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance will last for days to weeks, as the news items remain topical."
+}
+}
+}
+]

@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1570051148177874944",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet discusses a significant event in crypto history, expresses awe, and is likely to generate interest within the crypto community, potentially leading to shares and discussions."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides context about the Ethereum merge, its timing, and its significance in crypto history, offering some informative value to readers."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The user expresses strong positive emotions like 'awe' and 'gratitude', indicating a very positive sentiment towards the event and the individuals involved."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance is tied to the Ethereum merge event, which, while significant, will see its peak interest during and immediately after the event, with discussions fading over time."
+}
+}
+},
+{
+"tweet_id": "1570046417619779587",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet's empathetic yet cautionary tone about the Ethereum team's high-stakes situation could resonate within the crypto community, leading to shares and discussions."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet provides a perspective on the pressure faced by the Ethereum team but doesn't offer new, factual information about the merge itself."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The user expresses sympathy but also highlights the dire consequences of failure, leading to a moderately negative overall sentiment."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is short-term, tied to the immediate pre-merge period, with its impact diminishing once the merge is completed."
+}
+}
+},
+{
+"tweet_id": "1570042834182459394",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet's vague speculation about ETH's price movement is unlikely to generate significant shares or discussions beyond a small circle."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet mentions the Ethereum Merge but doesn't provide any informative content beyond acknowledging the event's potential impact on ETH's price."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, expressing neither positive nor negative sentiments, merely stating a possible outcome without emotional tone."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "The tweet's relevance is extremely short-lived, applicable only to the immediate speculation around the merge's impact on ETH's price."
+}
+}
+},
+{
+"tweet_id": "1569978701584138240",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The update on the Ethereum merge's progress could be shared within crypto-focused communities, but its virality is limited by its factual, update-style nature."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides a clear, timely update on the Ethereum merge's progress, offering specific, verifiable information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, presenting information without expressing any emotional tone or sentiment."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is short-term, diminishing as the merge progresses and this specific milestone is surpassed."
+}
+}
+},
+{
+"tweet_id": "1569914082240897024",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Similar to other updates, this tweet about the merge's countdown could see shares within the crypto community due to its informative nature and timing."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet clearly informs about the impending merge, providing a direct link for more information, thus offering high informative value."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet maintains a neutral tone, focusing on delivering information without expressing sentiment."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The relevance of this tweet is tied to the 24-hour countdown, making it less impactful once the merge occurs."
+}
+}
+},
+{
+"tweet_id": "1569750046106873857",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The unique, creative content (procedurally generated roses) might attract some shares within art or tech circles, but its broader appeal is limited."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides some informative content about the project's technical aspects and its current status, though it's more about showcasing than educating."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The user seems enthusiastic about the project, indicated by the presentation of its features and the invitation to 'browse', showing a positive sentiment."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet's relevance extends beyond the immediate moment, as the project's uniqueness could lead to sustained interest over days or weeks."
+}
+}
+},
+{
+"tweet_id": "1569739402913644544",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet's congratulatory message to a significant figure in crypto, combined with its positive tone, could lead to shares and goodwill within the community."
+},
+"informative_value": {
+"score": 5,
+"justification": "While the tweet mentions The Merge, it primarily focuses on expressing admiration rather than providing new information about the event."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The user expresses strong positive sentiments through congratulations and admiration for the Ethereum community and its leader."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance peaks around the time of the merge but, due to its nature, might see some lingering engagement as a gesture of goodwill."
+}
+}
+},
+{
+"tweet_id": "1569683674643275777",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Updates on the Ethereum merge's progress, like this one, have a moderate potential for being shared within the crypto community due to their informative value."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides a clear, specific update on the merge's progress, contributing to the community's knowledge with verifiable information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet maintains a neutral stance, focusing solely on delivering an update without expressing any sentiment."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Similar to other countdown updates, its relevance diminishes rapidly as the merge progresses past this milestone."
+}
+}
+},
+{
+"tweet_id": "1569553088981389313",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The informative nature of the tweet, updating followers on the merge's timeline, could lead to moderate sharing within the crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet clearly communicates the estimated time remaining until the Ethereum merge, providing followers with useful, up-to-date information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is presented in a neutral manner, focusing on the factual update without any emotional tone."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The relevance of this specific update decreases once the estimated time to the merge is surpassed."
+}
+}
+},
+{
+"tweet_id": "1569414063075086338",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet's humorous admission of ignorance might see some shares, especially if resonating with others who are also unsure, but its broader appeal is limited."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet does not provide any informative content about the Ethereum merge, instead, highlighting the user's lack of knowledge."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The user expresses a moderately positive sentiment through the humorous approach to admitting ignorance, rather than expressing frustration or negativity."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance could extend slightly beyond the immediate moment, as the humor and relatability might lead to some sustained engagement."
+}
+}
+}
+]

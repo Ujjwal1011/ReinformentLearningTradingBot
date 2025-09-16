@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1623189534757498886",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "High potential due to mention of high-profile figure @VitalikButerin, link to new podcast, and large follower base of Balaji, likely to spread within crypto community."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides factual announcement of new podcast episode and topics, but not deep."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive, enthusiastic tone."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Standard lifespan; may generate discussion for a day or two, then fade."
+}
+}
+},
+{
+"tweet_id": "1622734006323216384",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Niche content about a CryptoPunk sale; limited to crypto collectors, moderate engagement."
+},
+"informative_value": {
+"score": 7,
+"justification": "Factual update on sale price and addresses, credible source."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral tone."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short-lived relevance; specific sale event."
+}
+}
+},
+{
+"tweet_id": "1622616941822091266",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Major company Visa and Ethereum; news likely to spread widely."
+},
+"informative_value": {
+"score": 8,
+"justification": "Credible news about Visa testing USDC on Ethereum."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Medium relevance; may remain relevant for weeks as testing continues."
+}
+}
+},
+{
+"tweet_id": "1622571025127948288",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Similar news but smaller follower base; still high potential due to Visa mention."
+},
+"informative_value": {
+"score": 7,
+"justification": "Factual news about Visa testing USDC on Ethereum."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Medium relevance; similar to tweet 3."
+}
+}
+},
+{
+"tweet_id": "1622553298308935685",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Humanitarian call to action with hashtags #Bitcoin #Ethereum; likely to spread within Turkish and crypto communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "Factual statement about truck availability for aid."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive, supportive tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Short to medium relevance; call to action may be relevant for a few days."
+}
+}
+}
+]

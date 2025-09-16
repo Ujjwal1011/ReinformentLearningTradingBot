@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1461472758353870860",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Significant milestone in cryptocurrency adoption with Sotheby's integration likely to generate excitement in crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific information about Ethereum's integration with a major auction house and NFT art sales."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Expresses positive surprise ('Pretty wild to see') without extreme emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Historic first adoption event will remain relevant in crypto discussions for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1461372358497689609",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Controversial data dump could spread quickly in tech/crypto circles but limited mainstream appeal."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Shares existence of NFT image archive but lacks context or verification."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral statement of fact without clear emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance depends on immediate community reaction to the data dump."
+      }
+    }
+  },
+  {
+    "tweet_id": "1461367798890778629",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Personal investment story with moderate engagement potential in crypto communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Shares personal experience without providing new information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Expresses optimistic readiness for future developments."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Personal anecdote with limited long-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1461065987218980865",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major brand adoption news likely to spread quickly in crypto and business circles."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Specific announcement about Adidas' blockchain strategy."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral statement of fact without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Corporate adoption news will remain relevant for weeks in industry discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1461004812737146887",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Relatable critique of Ethereum fees with humorous comparison could spread in crypto communities."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Highlights fee issue but uses anecdotal evidence without broader data."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Expresses frustration through sarcastic comparison ('Airbnb product manager')."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Fee complaints have short relevance cycle due to Ethereum's fluctuating gas prices."
+      }
+    }
+  },
+  {
+    "tweet_id": "1460981125610881025",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Significant market data about popular cryptocurrency likely to spread rapidly in trading communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific, verifiable data about ERC-20 token holdings."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of factual information."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Wallet balance statistics have short-term relevance in fast-moving crypto markets."
+      }
+    }
+  },
+  {
+    "tweet_id": "1460814652665778180",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Technical comparison between blockchain platforms could spread in developer communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Makes specific technical claim about platform design."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive assessment ('Really impressive achievement')."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Platform comparisons remain relevant for weeks in tech discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1460793034367328257",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Bullish price prediction likely to be shared widely in investment communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Personal opinion without supporting analysis or data."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Strong positive sentiment with gift emoji and price optimism."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Market predictions typically have short-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1460656944893636613",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Controversial claim about platform competition could spark debates in crypto communities."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Reports announced feature but lacks technical details or verification."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative towards Ethereum ('finally kill Ethereum')."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Platform competition claims remain relevant until feature launch verification."
+      }
+    }
+  },
+  {
+    "tweet_id": "1460642014840737792",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Important ecosystem funding initiative from Ethereum's founder will spread widely in crypto communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Detailed information about a significant funding mechanism for public goods."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive framing ('exciting new mechanism-design experiment')."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Funding mechanisms for ecosystem development have long-term implications."
+      }
+    }
+  }
+]

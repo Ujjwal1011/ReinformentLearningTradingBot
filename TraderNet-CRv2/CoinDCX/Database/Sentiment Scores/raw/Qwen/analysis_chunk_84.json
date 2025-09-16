@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1516522731126378503",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet suggests a shift from volatile Ethereum to stable stocks, which could resonate with a specific community but may not go viral globally."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Provides advice on investment but lacks detailed analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral advice without strong emotion."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a short period as crypto trends change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1516444927680561167",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Notable business adopting crypto, likely to be shared widely."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Factual update on a significant business decision."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive news about crypto adoption."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for a few weeks as adoption news."
+      }
+    }
+  },
+  {
+    "tweet_id": "1516086433538269191",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Playful meme likely to spread within crypto communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Low informative content, mostly a joke."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive and humorous tone."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Meme relevance fades quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1515721999737360388",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Bold prediction from a notable figure, likely to be shared."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Credible source predicting crypto trends."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative outlook on crypto."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for Q2 2022."
+      }
+    }
+  },
+  {
+    "tweet_id": "1515099444198494217",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Niche joke, unlikely to go viral."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Low informative content."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral metaphor."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-lived relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1514725585309761536",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Personal preference, limited reach."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Minimal information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral statement."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1514522562482556933",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Technical update for crypto community."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Detailed update on Ethereum transition."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral technical information."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for a few months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1514281767905112065",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Significant update on Ethereum, likely widely shared."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Important news for crypto community."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral breaking news."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for a few weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1514272446186233857",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High-value crypto transaction, likely viral in crypto circles."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Update on a specific crypto collectible."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive news on a sale."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1514256013800751113",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Major update on Ethereum's transition, likely widely shared."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Critical information for crypto community."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral factual update."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Relevant for several months."
+      }
+    }
+  }
+]

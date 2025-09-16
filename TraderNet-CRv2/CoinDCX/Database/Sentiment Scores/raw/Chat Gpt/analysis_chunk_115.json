@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1484344761016147969",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "The tweet is a rhetorical question with generic crypto hashtags, lacking a strong hook or breaking news. It may get some engagement from followers but is unlikely to spread widely beyond the user’s network."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "The tweet offers no factual information or news; it is purely a self‑promotion asking for appreciation."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The tone is mildly positive, expressing a desire for appreciation, but it is not strongly enthusiastic."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The tweet is not tied to a specific event and will likely fade after a few days, giving it a neutral lifespan."
+      }
+    }
+  },
+  {
+    "tweet_id": "1484213577737244675",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "The provocative challenge may attract some retweets, but it is not a news event or emotional hook that would drive widespread sharing."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "The tweet contains no factual content; it is a demand for payment and a false claim."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "The tone is somewhat negative or confrontational, presenting a threat rather than positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The challenge is time‑bound and unlikely to remain relevant beyond the immediate reaction."
+      }
+    }
+  },
+  {
+    "tweet_id": "1484186504087932928",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news about a mayor converting his paycheck to crypto is a strong hook that can spread quickly across communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet reports a factual, verifiable event with a link to a source, providing high informational value."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, simply reporting the event without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The news remains relevant for a few days to a week, after which it may fade."
+      }
+    }
+  },
+  {
+    "tweet_id": "1484156410409947136",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "The update on Ethereum gas fees is informative but not a major headline; it may get some retweets within crypto circles."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "The tweet provides specific data about fee drops and includes a link to a source, offering solid informational content."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral, presenting facts without emotional emphasis."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The fee drop is a short‑term event; relevance will diminish after a few days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1483738188636119047",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The surprising comparison of payment volumes is a hook that can attract shares, though it is not a breaking news story."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet cites specific, verifiable figures for VISA and Ethereum, providing high informational value."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral, with a question emoji adding mild curiosity but no strong emotion."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The data comparison is evergreen and can be referenced for months, giving it a long lifespan."
+      }
+    }
+  }
+]

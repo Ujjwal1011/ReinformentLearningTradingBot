@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1361462058005397507",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Bold prediction about Bitcoin and Ethereum reaching 6 and 5 digits respectively, likely to resonate within crypto communities and generate shares, but not a breaking news event."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet offers a speculative claim without supporting data or sources, providing little factual information."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The tone is optimistic and confident, expressing belief that nothing can stop the predicted rise."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The prediction is relevant for the remainder of 2021, but its significance diminishes after the year ends."
+      }
+    }
+  },
+  {
+    "tweet_id": "1361183385046061066",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "A standard daily market update that may be shared by followers but lacks a hook for broader virality."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides concrete percentage changes for several cryptocurrencies, offering factual market information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet presents neutral data without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The data is only relevant for a short period, typically a day or two, before it becomes outdated."
+      }
+    }
+  },
+  {
+    "tweet_id": "1360941400607633413",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "A simple poll asking followers to react, encouraging engagement but unlikely to spread widely beyond the immediate audience."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "The tweet merely poses a question and does not deliver new information."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The use of a heart emoji and hopeful wording conveys a positive tone."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The relevance of the price target question fades quickly as market conditions change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1360576535099363328",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "A factual snapshot of market caps that may be shared by crypto enthusiasts but lacks a compelling hook."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Lists current market values for major cryptocurrencies, providing useful data to readers."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, simply stating figures without emotional commentary."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Market cap figures remain useful for weeks, but will eventually become outdated as values shift."
+      }
+    }
+  },
+  {
+    "tweet_id": "1360519835453689857",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "A personal anecdote from a well-known figure that garners many retweets due to the user's fame, though the content itself is not broadly shareable."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Shares a personal investment detail but offers no new factual insight to the broader audience."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral, sharing a personal experience without strong emotion."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The anecdote is time‑specific and unlikely to remain relevant beyond the immediate context."
+      }
+    }
+  }
+]

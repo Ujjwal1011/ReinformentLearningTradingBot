@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1732190298120331710",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Contains hype elements like emojis, hashtags, and a call-to-action for early adoption, likely resonating within crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Announces a new cryptocurrency launch but lacks technical details or verifiable data about the project."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Strong positive tone with celebratory emojis (🚀🌈) and enthusiastic language like 'digital fortune'."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to the initial launch phase of a speculative crypto asset, likely short-term unless sustained marketing occurs."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732190168587894903",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Speculative financial prediction about a major ETF approval could gain traction in investment circles."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides actionable market analysis but lacks source citations for the 10x projection claim."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Optimistic tone about Ethereum's growth potential without extreme emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevance depends on SEC's decision timeline, could remain topical for weeks around regulatory updates."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732190150476574964",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Technical details about Layer 2 solutions and funding announcements may interest blockchain developers."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific details about project funding, technical architecture, and partnership with Kucoin Labs."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral explanatory tone discussing technical comparisons between rollup types."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Information about Layer 2 infrastructure remains relevant as Ethereum scaling solutions evolve."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732190121540374918",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Technical explanation of blockchain infrastructure projects unlikely to spread beyond niche developer audiences."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Contains verifiable TVL statistics and clear explanations of protocol relationships in the ecosystem."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual presentation of project capabilities without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Information about fundamental blockchain infrastructure maintains relevance as these protocols operate."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732190048487952723",
+    "analysis": {
+      "virality_potential": {
+        "score": 2,
+        "justification": "Minimal-content reply tweet with unclear context due to 'qme' language tag and no original text."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "Contains only a mention and link without any explanatory content."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "No discernible emotional tone in the content."
+      },
+      "duration_of_impact": {
+        "score": 1,
+        "justification": "Immediately irrelevant without context for the link or conversation."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732189792589484051",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Niche proposal about token economics unlikely to spread beyond dedicated $ATOM community members."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Suggests a protocol change but lacks implementation details or authoritative support."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Mildly positive suggestion about token utility improvement."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance limited to current governance discussions around $ATOM."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732189748796457215",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Large transaction alerts primarily interest blockchain analysts rather than general audiences."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific transaction details with verifiable on-chain data references."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of blockchain transaction activity."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Immediately outdated once transaction completes confirmation."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732189744497356813",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Seasonal campaign announcement with multiple hype elements (emojis, hashtags) common in crypto communities."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Announces a campaign without details about participation mechanics or project updates."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Strong bullish sentiment expressed through rocket emojis and repeated 'Bullish' hashtags."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to specific campaign season duration unless sustained engagement occurs."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732189626620649859",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Provocative comparison between major blockchain platforms could spark debates in crypto communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Presents personal opinion about user experience without supporting data or methodology."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Moderately negative toward Ethereum's usability compared to Solana."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Standard lifespan for platform comparison discussions in fast-moving crypto space."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732189497423708407",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Specific transaction alert in Vietnamese limits potential audience reach."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Reports verifiable on-chain activity (large ETH transfer to exchange) with specific value."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of transaction activity with 'thú vị' (interesting) as mild commentary."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance limited to immediate market reactions to large exchange movements."
+      }
+    }
+  }
+]

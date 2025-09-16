@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1732194835027685770",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet discusses Ethereum's price target and mentions a potential pump, which could attract attention within the crypto community."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Provides some information about Ethereum's price but lacks detailed analysis."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Expresses a positive sentiment with excitement about potential price movement."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a short period as crypto prices can change rapidly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732194812793672045",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet suggests a scenario that could spark discussion among crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Contains speculative information about Shopify integrating Ethereum."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment about potential future developments."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Impact is short-term as it's tied to a specific event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732194359146123489",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Informative but in French, limiting its reach."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides factual information about Ethereum's value and deflation."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment, presenting information factually."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Standard lifespan for a tweet with a factual update."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732194161388929206",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High engagement and discussion about a significant price drop."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides information about Ethereum's price decline."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative sentiment due to the price drop."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Impact is short-term as price changes are fleeting."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732194159421772023",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "A brief greeting with hashtags, unlikely to go viral."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Minimal information, primarily a social greeting."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevant for a short period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732194091444699211",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Mentions several crypto projects without context."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Minimal information, primarily mentions."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732194046192267659",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Discusses an NFT trade with losses, niche audience."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides details about an NFT trade."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative sentiment due to losses."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a short period in the NFT community."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732193881360330891",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Promotional content about crypto coins."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Promotional but provides some info about crypto coins."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment, promotional."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term impact as it's promotional."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732193297609986385",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Discusses Ethereum's bullish outlook, could attract attention."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Provides a brief update on Ethereum's price."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment about Ethereum's price."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a short period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732193186783666354",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Asks why people faded $WEN on Sol, could spark discussion."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Discusses crypto trends and sentiment."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment, seeking opinions."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Impact is short-term as it's tied to a specific event."
+      }
+    }
+  }
+]

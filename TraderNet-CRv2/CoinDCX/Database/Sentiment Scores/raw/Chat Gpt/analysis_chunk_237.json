@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1563366682697281536",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Beeple’s tweets routinely attract massive attention, and the link likely showcases a high‑profile NFT piece, making it highly shareable across both art and crypto communities."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "The tweet offers no factual content beyond a link; it simply announces a new piece of art."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The text is neutral, lacking overt positive or negative language."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The artwork may be discussed for weeks, but its relevance will eventually wane as new pieces are released."
+      }
+    }
+  },
+  {
+    "tweet_id": "1562873091234996224",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Mark Cuban’s endorsement of the Ethereum merge is newsworthy and likely to be shared within crypto and mainstream audiences."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "It conveys a factual statement about a public figure’s opinion, but lacks depth or source verification."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, simply reporting a fact without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The relevance will persist until the merge is complete, after which the tweet’s significance diminishes."
+      }
+    }
+  },
+  {
+    "tweet_id": "1562627394820722689",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "A concise fact about the merge’s upgrade schedule is useful to the crypto community and may be shared as a quick update."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It provides a verifiable date for a major network upgrade, offering clear factual information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, presenting information without emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The upgrade date remains relevant until the merge, after which the information becomes historical."
+      }
+    }
+  },
+  {
+    "tweet_id": "1561666150991335431",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Comparing Nike and Adidas NFT revenue on Ethereum is a compelling data point that can attract both crypto enthusiasts and business readers."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "The tweet cites specific revenue figures and references a source, providing substantial factual content."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral, simply presenting data."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The revenue comparison remains relevant for some time, though it may become outdated as new data emerges."
+      }
+    }
+  },
+  {
+    "tweet_id": "1561115106703921152",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "A reminder that the merge won’t lower gas fees addresses a common concern and can be widely shared among users worried about costs."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "It conveys a factual claim about the merge’s impact on gas fees, though it lacks supporting evidence."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "The sad emoticon indicates mild negative sentiment, but the overall tone is informational."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The relevance is short‑term, tied to the period immediately before the merge."
+      }
+    }
+  }
+]

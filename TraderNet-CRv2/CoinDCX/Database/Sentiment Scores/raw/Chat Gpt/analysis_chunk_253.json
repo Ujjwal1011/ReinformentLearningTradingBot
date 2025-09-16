@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1574399626190508032",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet announces onboarding 350 users to an Ethereum wallet, which is a notable milestone for the crypto community but lacks a broader hook or breaking news, so it may be shared within niche circles."
+},
+"informative_value": {
+"score": 4,
+"justification": "It is a personal update with minimal factual detail beyond the number of users being onboarded, offering little educational content."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The salute emoji and enthusiastic wording convey a positive, hopeful tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The relevance is tied to the onboarding event and will likely fade after the onboarding period, making its impact short-term."
+}
+}
+},
+{
+"tweet_id": "1574251562263662594",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Authored by Charles Hoskinson, a high‑profile figure, and contains a provocative critique of the Ethereum community, which can spark debate and be widely shared within crypto circles."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet mainly expresses personal opinion and historical reflection without providing new factual data or sources."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The language conveys mild frustration and criticism toward the community, indicating a moderately negative tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "As part of a 9‑tweet thread discussing community behavior, it may stay in conversation for several days to weeks but is unlikely to remain relevant long‑term."
+}
+}
+},
+{
+"tweet_id": "1573727505491673088",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Discusses billions lost to crypto theft and introduces a novel research prototype for reversible transactions, topics that can attract significant attention in the crypto and security communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides concrete information about ongoing research, mentions Stanford collaborators, and includes a link to a detailed post, offering high informational value."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is serious and concerned about theft but also constructive about a solution, resulting in a neutral overall sentiment."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The concept of reversible transactions addresses a fundamental blockchain issue and could influence future designs, giving the tweet long‑term relevance."
+}
+}
+},
+{
+"tweet_id": "1573472350951145472",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "From a well‑known influencer, the tweet proposes a speculative new L1 combining programmability and privacy, which may intrigue enthusiasts but lacks a viral hook."
+},
+"informative_value": {
+"score": 5,
+"justification": "It offers a conceptual idea without concrete data or sources, providing moderate informational content."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The language is optimistic about the potential of a “Zethereum,” reflecting a moderately positive sentiment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Speculative ideas can be discussed for weeks or months as the community evaluates them, giving the tweet medium‑term relevance."
+}
+}
+},
+{
+"tweet_id": "1572710635044995074",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "A brief price prediction about Ethereum that may be shared among traders but lacks a strong hook, resulting in moderate virality."
+},
+"informative_value": {
+"score": 3,
+"justification": "The statement is an opinion without supporting data, offering low informational value."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The wording expresses excitement about a price range, indicating a moderately positive sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Price predictions are typically relevant only until market conditions change, making the impact short‑term."
+}
+}
+}
+]

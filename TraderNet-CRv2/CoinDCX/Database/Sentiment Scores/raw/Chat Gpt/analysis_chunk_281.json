@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1593294567503265794",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet references high-profile crypto failures and uses multiple popular hashtags, making it likely to be shared within the crypto community, though it lacks a breaking news hook, giving it medium-high virality."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet expresses an opinion about blockchain accountability without providing new data or sources, resulting in low informative value."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The language is supportive of blockchain and condemns hidden shenanigans, reflecting a moderately positive tone."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The discussion of blockchain transparency is an evergreen topic that can remain relevant for months or years, giving the tweet a long duration of impact."
+}
+}
+},
+{
+"tweet_id": "1592914258136010752",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Announcing a new project from a high-profile Ethereum co‑founder creates buzz within the crypto community, giving the tweet a medium‑high potential for shares."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet conveys a newsworthy event—a forthcoming project—but lacks specifics, resulting in moderate informative value."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The wording conveys excitement and anticipation, reflecting a moderately positive sentiment."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "As a teaser, its relevance is strongest before the project launch and likely fades afterward, leading to a neutral duration impact."
+}
+}
+},
+{
+"tweet_id": "1592713804215103488",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet poses a provocative question with a meme tone, which may attract shares within niche crypto circles but lacks a broader hook."
+},
+"informative_value": {
+"score": 2,
+"justification": "It offers no factual details, only speculation and a link, resulting in very low informative content."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The combination of a laughing emoji and the phrase 'next level rug' conveys mild skepticism, placing it in a moderately negative sentiment range."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The relevance is tied to the specific platform or event mentioned, likely fading within a few days, indicating a short duration of impact."
+}
+}
+},
+{
+"tweet_id": "1592704134163357696",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "By highlighting a high‑stakes scenario involving $280 million of ETH and potential government interference, the tweet is likely to spark debate and be widely shared among Ethereum supporters."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet raises a speculative scenario without providing concrete data or sources, offering limited factual information."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "The tone expresses concern about possible censorship and misuse of funds, reflecting a moderately negative sentiment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The discussion around governance and large ETH holdings can persist for days to weeks, giving the tweet a medium‑long duration of impact."
+}
+}
+},
+{
+"tweet_id": "1592580135978344448",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "A headline‑style claim that Ethereum has halted withdrawals is a high‑impact, panic‑inducing statement that can spread rapidly across the crypto community, resulting in very high virality."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet offers a sensational claim without context or supporting details, providing only minimal factual information."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The language conveys alarm and panic, reflecting a very negative sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Such a claim is tied to a specific moment; its relevance diminishes quickly once the situation is clarified, leading to a short to medium duration of impact."
+}
+}
+}
+]

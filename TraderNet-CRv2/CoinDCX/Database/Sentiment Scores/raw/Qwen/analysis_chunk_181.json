@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1732198166999580989",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet includes several relevant hashtags and a link, which could attract specific crypto communities, but it's not likely to go viral beyond that."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "The tweet provides some information about a special force unit's mission but lacks detailed context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The sentiment is neutral, presenting information without strong emotion."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The tweet's relevance is tied to a specific event and will likely fade quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732198073932357748",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "The content is technical and niche, likely only shared within specific communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides information on a specific CTF event and its implications."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment, discussing a technical topic."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevant for a short period tied to the event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732198070144717250",
+    "analysis": {
+      "virality_potential": {
+        "score": 2,
+        "justification": "Only a link with no context, unlikely to be shared widely."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No information provided, just a link."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Irrelevant quickly without context."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732198047298302377",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Promotional content about an NFT game, likely shared within crypto communities."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Provides info on a specific promotion."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment about the promotion."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevant until the promotion ends."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732197914099810700",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Significant news about a major bank entering crypto, likely widely shared."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides detailed info on a notable event."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment about the bank's move."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant for some time as it's a significant development."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732197644536311976",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Discusses capital flows in crypto, likely shared within communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific data on investments."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment about crypto's growth."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for a few weeks as it's a current trend."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732197206164377834",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Announcement about wallet integration, likely shared within crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides info on a specific technical update."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment, factual announcement."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant for some time as it's a technical update."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732197191987716116",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Discusses Elon Musk's potential crypto integration, likely widely shared."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides speculative but relevant info."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive sentiment about future possibilities."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant as it's a future development."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732196905697128745",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Promotional content about NFTs, likely shared within communities."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Provides info on a specific transaction."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment about the transaction."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevant until the transaction's context fades."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732196776851976233",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Promotional content with hashtags, but too niche for wide sharing."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Minimal information, mostly promotional."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment about the coin."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Irrelevant quickly as it's a promotional link."
+      }
+    }
+  }
+]

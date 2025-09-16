@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1732191100524171353",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet is a personal update about listing an NFT, which may generate interest within a niche community but lacks broad appeal."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides some useful information about the NFT, including its listing and price, but it's primarily a sales announcement."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The user expresses positive emotions, thanking another user and expressing excitement about listing their NFT."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "The tweet's relevance is short-lived, tied to the immediate listing of the NFT."
+}
+}
+},
+{
+"tweet_id": "1732190739948544470",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet's use of hashtags like #pikamoon and #Crypto might generate interest within specific communities, but it lacks a strong hook for broader virality."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet provides minimal information, primarily serving as a promotional announcement with a link."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The user expresses excitement and enthusiasm, indicated by the phrase 'It's time to show the world!'"
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance might last for a few days, tied to the promotional event or announcement."
+}
+}
+},
+{
+"tweet_id": "1732190722500002011",
+"analysis": {
+"virality_potential": {
+"score": 2,
+"justification": "The tweet is a simple list of hashtags with a link, unlikely to generate significant engagement or sharing."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet contains no useful information, merely a set of hashtags and a link without context."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet's sentiment is neutral, as it doesn't express any emotions."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is short-term, tied to the fleeting nature of hashtag trends."
+}
+}
+},
+{
+"tweet_id": "1732190695316652256",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet might generate interest within the crypto community due to its informative nature, but it lacks a strong viral hook."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides useful information about crypto asset projects, including a link to an in-depth resource."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet's sentiment is neutral, focusing on providing information without expressing emotions."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet's relevance might last for days or weeks, given the evergreen nature of the topic."
+}
+}
+},
+{
+"tweet_id": "1732190681110655184",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "The tweet's use of hashtags and a link might generate some engagement within trading communities, but it's unlikely to go viral."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet provides some information about a stock adjustment, but it's primarily a personal update."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet's sentiment is neutral, as it doesn't express strong emotions, merely stating an action."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "The tweet's relevance is short-lived, tied to the immediate stock market action."
+}
+}
+},
+{
+"tweet_id": "1732190576764764519",
+"analysis": {
+"virality_potential": {
+"score": 1,
+"justification": "The tweet is a personal question to another user, unlikely to generate broader engagement or sharing."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet provides some context about a question regarding mining and payouts, but it's a personal inquiry."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet's sentiment is neutral, as it's a question without emotional tone."
+},
+"duration_of_impact": {
+"score": 1,
+"justification": "The tweet's relevance is extremely short-lived, tied to the immediate response from the questioned user."
+}
+}
+},
+{
+"tweet_id": "1732190434221490594",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet might generate interest within the Bitcoin community due to its informative nature, but it lacks a strong viral hook."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides useful information about a book review, including a link to the content."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet's sentiment is neutral, focusing on providing information without expressing emotions."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance might last for days, given the nature of the book review."
+}
+}
+},
+{
+"tweet_id": "1732190345968955744",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet's breaking news about the SEC's decision might generate significant interest and sharing within the crypto community."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides critical, newsworthy information about a significant event in the crypto space."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet's sentiment is neutral, focusing on reporting news without expressing emotions."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The tweet's relevance will last for months, given the significance of the SEC's decision."
+}
+}
+},
+{
+"tweet_id": "1732190340835070372",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The tweet's giveaway and emphasis on decentralized AI might generate strong interest and sharing across relevant communities."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides some useful information about the AI platform, but it's primarily a promotional giveaway."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The user expresses strong positive emotions, excitement about the giveaway, and the benefits of the AI platform."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance might last for a few days, tied to the giveaway event."
+}
+}
+},
+{
+"tweet_id": "1732190302616641582",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet's announcement of a highly-anticipated 3D collection might generate significant interest and sharing within the Ethereum community."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides useful information about the upcoming launch, including essential details for the event."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The user expresses strong positive emotions, excitement about the imminent launch."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet's relevance will last for days or weeks, given the anticipation for the launch event."
+}
+}
+}
+]

@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1570302362241347584",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Announcing a major blockchain upgrade, likely to be widely shared among crypto communities."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides critical information about Ethereum's transition to PoS."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Positive tone with excitement about the successful merge."
+},
+"duration_of_impact": {
+"score": 9,
+"justification": "Significant event with long-term implications for blockchain technology."
+}
+}
+},
+{
+"tweet_id": "1570302235145273344",
+"analysis": {
+"virality_potential": {
+"score": 10,
+"justification": "Breaking news alert about a major event, likely to trend globally."
+},
+"informative_value": {
+"score": 9,
+"justification": "Critical update on Ethereum's transition, valuable for the crypto community."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Positive and urgent tone."
+},
+"duration_of_impact": {
+"score": 9,
+"justification": "Long-term impact as PoS is a foundational change."
+}
+}
+},
+{
+"tweet_id": "1570299877703225345",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Celebration of success, likely shared within crypto circles."
+},
+"informative_value": {
+"score": 8,
+"justification": "Confirms the success of the merge, informative for followers."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "Strong positive sentiment with celebration."
+},
+"duration_of_impact": {
+"score": 9,
+"justification": "Significant event with lasting effects."
+}
+}
+},
+{
+"tweet_id": "1570236759266697216",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Critique of PoS, may be shared within specific communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "Warns about potential issues, provides some insight."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Negative sentiment towards PoS implementation."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Ongoing discussions about PoS, medium-term relevance."
+}
+}
+},
+{
+"tweet_id": "1570236019865260034",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Time-sensitive update, likely shared widely."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides a countdown to a major event."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive and anticipatory tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant only until the merge occurs."
+}
+}
+},
+{
+"tweet_id": "1570230728364810240",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Celebrates a major milestone, likely shared."
+},
+"informative_value": {
+"score": 8,
+"justification": "Highlights Ethereum's transition, informative."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Positive and hopeful tone."
+},
+"duration_of_impact": {
+"score": 9,
+"justification": "Long-term impact as PoS is a foundational change."
+}
+}
+},
+{
+"tweet_id": "1570204664636784641",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Personal and humorous, limited virality."
+},
+"informative_value": {
+"score": 3,
+"justification": "Minimal information, more of a joke."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral with a hint of concern."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Fleeting relevance, joke about uncertainty."
+}
+}
+},
+{
+"tweet_id": "1570113580011327489",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Congratulatory tweet, may be shared within crypto circles."
+},
+"informative_value": {
+"score": 7,
+"justification": "Congratulates Ethereum on an upgrade, provides context."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive and congratulatory tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevance until the upgrade is complete."
+}
+}
+},
+{
+"tweet_id": "1570104776297451520",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Time-sensitive update, likely widely shared."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides a countdown to a major event."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive and anticipatory tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant only until the merge occurs."
+}
+}
+},
+{
+"tweet_id": "1570098671798173697",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Humorous take, may be shared within crypto communities."
+},
+"informative_value": {
+"score": 4,
+"justification": "Minimal information, more of a joke."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive and humorous tone."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short-term relevance as a meme."
+}
+}
+}
+]

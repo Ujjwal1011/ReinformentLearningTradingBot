@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1760666731859833048",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The announcement of significant funding from a reputable firm could attract attention within the crypto community, though it may not go viral beyond niche circles."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides factual information about a funding round and its implications for EigenLayer."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment with excitement about the funding announcement."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevant for a few days as it pertains to a specific event but may fade as news cycles change."
+}
+}
+},
+{
+"tweet_id": "1760353219740672439",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Targets a specific crypto audience, likely to generate some discussion but not go viral."
+},
+"informative_value": {
+"score": 7,
+"justification": "Explains the impact of an upgrade and provides altcoin picks, offering useful information."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive sentiment with excitement about potential benefits."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevant for a few days as it's tied to a specific event."
+}
+}
+},
+{
+"tweet_id": "1760269845642498392",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Minimal engagement drivers beyond a niche audience."
+},
+"informative_value": {
+"score": 3,
+"justification": "Minimal information provided, mainly a link with a hashtag."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment with no strong emotional tone."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short-term relevance as it's a brief mention."
+}
+}
+},
+{
+"tweet_id": "1760167113702924662",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Emojis and a link may attract attention within the crypto community."
+},
+"informative_value": {
+"score": 4,
+"justification": "Minimal information, mainly a link with a catchy phrase."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment with excitement about Ethereum's price."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short-term relevance as it's tied to a specific price point."
+}
+}
+},
+{
+"tweet_id": "1759971295943385464",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Compares Bitcoin and Ethereum, which may generate some discussion."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides a report comparison, useful for those interested in both assets."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment with a hint of interest."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days as it's tied to a specific report."
+}
+}
+},
+{
+"tweet_id": "1759968692098457639",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Significant news about USDT minting, likely to attract attention in crypto circles."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides critical information about a large USDT minting event."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive sentiment with excitement about the event."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for a few days as it's tied to a specific event but may have longer implications."
+}
+}
+},
+{
+"tweet_id": "1759942567225864648",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Announces a significant price milestone, likely to generate widespread attention."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides important price information for Ethereum."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment with excitement about the price increase."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevant for a few days as it's tied to a specific price point."
+}
+}
+},
+{
+"tweet_id": "1759917566691004595",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Discusses airdrops and Bitcoin's turn, which may generate some interest."
+},
+"informative_value": {
+"score": 5,
+"justification": "Provides speculative information about airdrops."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive sentiment with excitement about potential airdrops."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevant for a few days as it's tied to a specific event."
+}
+}
+},
+{
+"tweet_id": "1759477483882361022",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Discusses Ethereum's price and challenges Bitcoin dominance, likely to generate some discussion."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides analysis on Ethereum's price movement and market sentiment."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive sentiment with optimism about Ethereum's potential."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevant for a few days as it's tied to a specific price point."
+}
+}
+},
+{
+"tweet_id": "1759369749887332577",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Insight from a prominent figure like Vitalik Buterin is likely to generate significant attention."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides expert insight on AI's role in code verification, a critical area for Ethereum."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment with excitement about potential advancements."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Relevant for weeks as it's a foundational discussion on Ethereum's future."
+}
+}
+}
+]

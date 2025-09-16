@@ -1,0 +1,107 @@
+[
+{
+  "tweet_id": "1732128586080104845",
+  "analysis": {
+    "virality_potential": {
+      "score": 6,
+      "justification": "The tweet announces a high-value NFT purchase, which may interest the NFT community and the account's large following, but it lacks a broader hook for mass virality."
+    },
+    "informative_value": {
+      "score": 6,
+      "justification": "The tweet gives concrete transaction details, offering useful information for collectors and market watchers."
+    },
+    "sentiment_polarity": {
+      "score": 5,
+      "justification": "The tweet states facts without expressing positive or negative feelings."
+    },
+    "duration_of_impact": {
+      "score": 3,
+      "justification": "The information is relevant mainly to collectors at the time of purchase and will likely lose interest after the market moves."
+    }
+  }
+},
+{
+  "tweet_id": "1732128461622276131",
+  "analysis": {
+    "virality_potential": {
+      "score": 9,
+      "justification": "The tweet reports a significant regulatory development that can affect the entire crypto market, making it highly shareable."
+    },
+    "informative_value": {
+      "score": 9,
+      "justification": "It provides a clear, verifiable statement about a regulatory action."
+    },
+    "sentiment_polarity": {
+      "score": 5,
+      "justification": "The tweet simply reports the event without emotional language."
+    },
+    "duration_of_impact": {
+      "score": 7,
+      "justification": "The regulatory decision will remain a point of discussion for the foreseeable future."
+    }
+  }
+},
+{
+  "tweet_id": "1732128390897877088",
+  "analysis": {
+    "virality_potential": {
+      "score": 7,
+      "justification": "The tweet provides additional context to a known event, likely to be shared among those following the ETF saga."
+    },
+    "informative_value": {
+      "score": 8,
+      "justification": "It offers specific information about the filing timeline and context."
+    },
+    "sentiment_polarity": {
+      "score": 5,
+      "justification": "The tweet states facts and expresses normalcy without strong emotion."
+    },
+    "duration_of_impact": {
+      "score": 6,
+      "justification": "The update will be referenced as part of the ongoing ETF discussion."
+    }
+  }
+},
+{
+  "tweet_id": "1732127828504609026",
+  "analysis": {
+    "virality_potential": {
+      "score": 8,
+      "justification": "The tweet highlights a high-profile investment by a major financial institution, which is newsworthy and likely to attract broad attention."
+    },
+    "informative_value": {
+      "score": 8,
+      "justification": "It provides verifiable information about institutional holdings and links to an article for details."
+    },
+    "sentiment_polarity": {
+      "score": 5,
+      "justification": "The tweet reports facts without emotional language."
+    },
+    "duration_of_impact": {
+      "score": 7,
+      "justification": "The news will continue to be referenced as a milestone in crypto adoption."
+    }
+  }
+},
+{
+  "tweet_id": "1732127160565891180",
+  "analysis": {
+    "virality_potential": {
+      "score": 6,
+      "justification": "The tweet promotes a security product and uses many hashtags, which can attract attention within the crypto community but lacks a broader hook."
+    },
+    "informative_value": {
+      "score": 5,
+      "justification": "It provides a product recommendation and a link, but not deep informational content."
+    },
+    "sentiment_polarity": {
+      "score": 7,
+      "justification": "The tweet encourages users to secure their assets, expressing a positive tone."
+    },
+    "duration_of_impact": {
+      "score": 5,
+      "justification": "The promotion will be relevant until the product's marketing cycle ends, likely a few months."
+    }
+  }
+}
+]

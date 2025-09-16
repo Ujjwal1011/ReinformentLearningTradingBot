@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1472298805643071488",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet references the creator of Ethereum and a tiny Bitcoin amount, a meme likely to be shared within crypto communities but lacks broader appeal, giving it medium virality potential."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet does not provide factual information or news; it is a short comment with a link, resulting in very low informative value."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral/mocking without strong positive or negative language, leading to a neutral sentiment."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The content is tied to a meme that may be relevant for a few hours to a day, resulting in short duration of impact."
+}
+}
+},
+{
+"tweet_id": "1472293274413064192",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "A short, cryptic statement about being indebted in Ethereum may attract some attention in the niche crypto circles but lacks a hook for wider sharing."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet offers no verifiable data or news, only a statement, resulting in very low informative value."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The phrase 'we are indebted' conveys a negative connotation about Ethereum, giving a moderately negative sentiment."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet is tied to a specific sentiment without broader context, likely to be relevant only briefly."
+}
+}
+},
+{
+"tweet_id": "1472269145840386057",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "A meeting between former Argentine President Mauricio Macri and Ethereum founder Vitalik Buterin is a high-profile event that can attract significant attention across political and crypto audiences, leading to high virality potential."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet shares details about the meeting, discusses blockchain opportunities for states, and includes a link, providing substantial informational content."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The language is enthusiastic and praising ('fascinating', 'most innovative'), indicating a very positive sentiment."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Political endorsement of blockchain can remain relevant for months as it may influence policy discussions, giving it a medium to long duration."
+}
+}
+},
+{
+"tweet_id": "1472231452058267655",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet makes a provocative comparison between fiat currencies and the Turkish Lira, which may be shared among users discussing economics or Turkish affairs, giving it moderate virality."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet presents an opinion without supporting data, offering minimal factual information."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "The tweet criticizes fiat currencies (negative) while praising the Turkish Lira (positive), resulting in a mixed but overall slightly negative tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The relevance is tied to ongoing discussions about the Turkish Lira; it is likely to stay relevant for a few days to weeks, giving it short to medium duration."
+}
+}
+},
+{
+"tweet_id": "1472203747644346372",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "A simple historical price reference for Ethereum may be of interest to crypto enthusiasts but lacks a strong hook for viral spread."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides a specific historical price point, which is factual and useful for context, giving it high informative value."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is a neutral statement of fact without emotional language."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Historical price data can be referenced for weeks or months when discussing market trends, giving it medium duration."
+}
+}
+}
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1541952241409658880",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet announces a significant development in crypto adoption by a major Brazilian bank, which can resonate with both crypto enthusiasts and mainstream audiences, leading to moderate sharing within relevant communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "It delivers a clear, factual update about Nubank's new crypto purchase capability, providing useful information to followers."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet states a fact without expressing any strong emotion."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The policy change is likely to remain relevant for an extended period, as it represents a structural shift in the bank's offerings."
+      }
+    }
+  },
+  {
+    "tweet_id": "1541496690003304448",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet presents a timely, authoritative report that challenges a widely discussed Ethereum upgrade, likely to spark widespread discussion and sharing."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It provides a clear, evidence-based claim from a reputable financial institution, offering valuable insight into Ethereum's scaling prospects."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet conveys information without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Ethereum's scaling challenges are an ongoing concern, so the tweet will continue to be relevant for an extended period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1541384246140538880",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet shares a credible report but lacks the urgency of a 'just in', so it may attract moderate attention within the crypto community."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "It provides a concise summary of a reputable report, offering useful information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is purely informational."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Ethereum scaling remains a long-term issue, so the tweet will stay relevant for a while."
+      }
+    }
+  },
+  {
+    "tweet_id": "1541109541567434752",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet announces a significant milestone in Ethereum 2.0, likely to attract attention from crypto enthusiasts and investors."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It provides a precise, verifiable figure about Ethereum's deposit contract, delivering valuable data."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet reports a fact without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The milestone remains relevant for a while, but the specific figure may become less relevant as the deposit contract matures."
+      }
+    }
+  },
+  {
+    "tweet_id": "1540788868428926982",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet features a personal moment involving a prominent figure, which can resonate emotionally and be widely shared across communities."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "The tweet offers minimal factual information beyond the identity of the subjects; it is primarily a personal image."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet does not express strong emotions; it simply shares a photo."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "While the photo may remain of interest for some time, it is likely to fade as new content emerges."
+      }
+    }
+  }
+]

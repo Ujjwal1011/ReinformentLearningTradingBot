@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1533983956537856000",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The poetic, stylized tweet may resonate within the crypto community but lacks a clear hook for mass sharing, resulting in moderate virality potential."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet is largely poetic and does not provide factual or actionable information."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses strong positive admiration for Ethereum, praising its glory."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "While it may remain relevant among crypto enthusiasts, the poetic nature limits long-term engagement beyond the immediate community."
+}
+}
+},
+{
+"tweet_id": "1533932735420579840",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The motivational hook could spread within the crypto community, but it is not a meme or breaking news, so virality is moderate."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet offers a strategic perspective on opportunities and information asymmetry, providing useful insight for readers."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tone is encouraging and positive, highlighting opportunities even in bear markets."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The advice about Ethereum opportunities is ongoing, likely to remain relevant for some time."
+}
+}
+},
+{
+"tweet_id": "1533467689741651969",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "A personal trade update is unlikely to go viral beyond the user's followers, though it received some engagement."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet merely states a personal action without providing broader context or analysis."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply reporting a trade without expressing strong emotion."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The personal trade is a one-time event and will likely fade quickly after the initial discussion."
+}
+}
+},
+{
+"tweet_id": "1533168086467100673",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "A statement from Vitalik Buterin about government regulation is high-profile and likely to be widely shared."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet conveys a factual claim from a key figure in the Ethereum ecosystem, providing significant informational value."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet presents a neutral statement; it does not express overt positive or negative sentiment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The regulatory stance is a relevant topic that may continue to be discussed for weeks or months."
+}
+}
+},
+{
+"tweet_id": "1533104417314066432",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The burn figure is a notable metric for Ethereum, likely to attract attention and sharing among crypto audiences."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides a concrete statistic about Ethereum's burn since EIP-1559, offering valuable data."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is a neutral factual statement without emotional tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The burn statistic remains relevant for ongoing discussions about Ethereum's monetary policy."
+}
+}
+}
+]

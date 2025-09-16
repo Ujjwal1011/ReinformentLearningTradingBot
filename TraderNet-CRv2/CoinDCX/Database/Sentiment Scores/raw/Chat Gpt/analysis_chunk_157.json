@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1503248493527252992",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet mentions Elon Musk, a globally recognized figure, and a popular cryptocurrency (Ethereum). The sensational claim that Musk owns Ethereum is likely to spark curiosity and sharing within crypto circles, though it lacks broader mainstream hooks, resulting in high but not explosive virality."
+},
+"informative_value": {
+"score": 2,
+"justification": "The statement is an unsubstantiated claim with no evidence or source, providing no factual information; it functions more as rumor than informative content."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The use of the alarm emoji (🚨) and the claim creates excitement and a sense of urgency, reflecting a moderately positive/enthusiastic tone rather than negativity."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The claim is tied to a specific rumor and will likely lose relevance once clarified, limiting its relevance to a short time frame."
+}
+}
+},
+{
+"tweet_id": "1503222294277197829",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Authored by Elon Musk, who has over 224 million followers, the tweet combines personal crypto holdings with macro‑economic advice, making it highly shareable across both crypto and mainstream audiences, leading to near‑viral spread."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet offers personal investment advice and reveals Musk’s holdings in Bitcoin, Ethereum, and Doge, providing newsworthy information, though it remains opinion‑based rather than data‑driven."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is largely neutral, presenting advice and factual statements without strong emotional language."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Musk’s statements about asset allocation and his crypto holdings are likely to be referenced in discussions for weeks or months, giving the tweet medium‑term relevance."
+}
+}
+},
+{
+"tweet_id": "1503215507931115525",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "A concise fun fact about Vitalik Buterin appeals to crypto enthusiasts and may be shared within that niche, but lacks broader hooks for mass virality."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet conveys a specific factual claim about Vitalik being the youngest crypto billionaire, offering useful information to readers."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The phrase 'FUN FACT' and the celebratory tone indicate a moderately positive sentiment."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The fact about Vitalik’s status is evergreen and can be referenced for years, giving the tweet long‑term relevance."
+}
+}
+},
+{
+"tweet_id": "1502870586753957888",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet promotes an article on high‑cost Ethereum and NFT floor prices; while relevant to NFT enthusiasts, its niche focus and the author’s small follower base limit broader viral potential."
+},
+"informative_value": {
+"score": 7,
+"justification": "It links to a detailed analysis of top NFT floor prices, providing concrete data and insights valuable to the crypto/NFT community."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The language is factual and promotional without emotive wording, resulting in a neutral tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "NFT floor price rankings change frequently, so the content’s relevance is likely to fade within days to weeks."
+}
+}
+},
+{
+"tweet_id": "1502446923747262466",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The witty analogy comparing Solana to buying Ethereum may resonate with crypto fans and be shared as a meme, giving it moderate virality within the community."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet is a metaphorical statement without factual content, offering little informational value."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The playful tone suggests a moderately positive sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "As a meme‑style comment, its relevance is tied to current discussions about Solana and Ethereum and will likely diminish after a short period."
+}
+}
+}
+]

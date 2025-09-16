@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1508529138625556480",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet announces a first-of-its-kind event, likely to be shared widely among crypto and education communities, and the user has a large following."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It provides a verifiable fact about a new payment method in education, which is newsworthy."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is factual and neutral."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The milestone is likely to be referenced for months as a notable event in crypto adoption in education."
+      }
+    }
+  },
+  {
+    "tweet_id": "1508174769446785024",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "A generic bullish statement with limited shareability beyond the crypto community."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "It is an opinion with no factual content."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The tweet expresses optimism about Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The tweet is only relevant until the sentiment changes."
+      }
+    }
+  },
+  {
+    "tweet_id": "1508161179906195458",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "A short bullish statement that may get some retweets but is not a major event."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "It is a prediction with no factual basis."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The tweet expresses optimism."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The tweet is relevant until the year ends."
+      }
+    }
+  },
+  {
+    "tweet_id": "1508115549741535234",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "A generic promotional tweet with no unique hook."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "It is a promotional request with no factual content."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The tweet expresses positive sentiment encouraging buying."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "The tweet is only relevant for a short period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1508072407952760838",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet announces a statement from Vitalik Buterin, likely to be shared widely."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It provides a credible statement about a technical issue."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is a factual report, neutral in tone."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The issue of fees is a long-term concern, likely to be referenced for months or years."
+      }
+    }
+  }
+]

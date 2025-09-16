@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1550930748760154113",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Strong call-to-action with investment advice and time-bound prediction could drive shares within crypto communities, but lacks universal appeal."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Contains no verifiable data or sources - purely speculative financial advice without supporting evidence."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Expresses strong optimism and confidence about Ethereum's future price trajectory."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The 2-year prediction timeframe creates potential for recurring discussion until the target date."
+      }
+    }
+  },
+  {
+    "tweet_id": "1550724821377437696",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Technical roadmap details appeal primarily to Ethereum developers and enthusiasts, limiting broader virality."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Summarizes key technical developments from a primary source (Vitalik Buterin) but lacks detailed explanations."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of factual roadmap information without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Roadmap details will remain relevant until implementation phases are completed."
+      }
+    }
+  },
+  {
+    "tweet_id": "1550315295402668032",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Specific performance claim (100k TPS) combined with visual thread format drives high shareability in crypto circles."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides concrete technical targets and breaks down development phases with expert attribution."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Moderately positive tone focused on technical achievements rather than emotional appeal."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Transaction speed claims will remain benchmark references until either achieved or disproven."
+      }
+    }
+  },
+  {
+    "tweet_id": "1550298063314501632",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Niche crypto community debate with limited appeal beyond Bitcoin/Ethereum maximalists."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Primarily expresses personal opinions about crypto projects without new information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Balanced stance acknowledging value in multiple projects while criticizing 'nonsense'."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Opinion-based commentary likely to be overshadowed by concrete developments."
+      }
+    }
+  },
+  {
+    "tweet_id": "1550261551218794498",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Meme format combined with price speculation has high share potential in crypto communities."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Contains no substantive information - purely humorous price speculation."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Playful bullish sentiment through meme imagery and price rise implication."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Meme-based content typically has short relevance cycle."
+      }
+    }
+  },
+  {
+    "tweet_id": "1550205498921828352",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Concise technical claim from authoritative source drives high retweet potential."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Reports specific technical target from primary source but lacks contextual details."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of technical claim without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Transaction speed benchmark will remain relevant until achieved or disproven."
+      }
+    }
+  },
+  {
+    "tweet_id": "1550136708389281793",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Event summary thread has moderate share potential within developer communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides first-hand event insights but requires following thread for full value."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of event information without overt emotion."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Roadmap summaries remain relevant until next major update."
+      }
+    }
+  },
+  {
+    "tweet_id": "1550132267229626368",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Concise technical claim from authoritative source in easily shareable format."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Clear reporting of specific technical target from primary source."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual reporting without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Technical benchmark remains relevant until implementation."
+      }
+    }
+  },
+  {
+    "tweet_id": "1549811355221258241",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "NFT criticism has moderate share potential in crypto circles but limited broader appeal."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Draws historical parallel but provides no new information about Ethereum or NFTs."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Implied criticism of corporate NFT approaches through comparison."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Tied to ongoing NFT debates but lacks unique perspective for lasting impact."
+      }
+    }
+  },
+  {
+    "tweet_id": "1549716947847479302",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Major technical announcement from official account with high engagement metrics."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Details significant technical breakthrough in Ethereum scaling with implementation status."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong positive sentiment through words like 'proud' and 'giant leap forward'."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Core infrastructure development will influence Ethereum ecosystem for years."
+      }
+    }
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1594744015433367552",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Technical analysis of a major crypto event with ongoing updates has strong sharing potential within blockchain communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides detailed tracking of fund movements related to a high-profile hack with verifiable address links."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral investigative reporting tone without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Will remain relevant through ongoing investigations and fund tracing efforts."
+      }
+    }
+  },
+  {
+    "tweet_id": "1594680142416199681",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Controversial stance on Bitcoin maximalism could spark debates in crypto communities."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Personal opinion about technology evolution rather than factual information."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Strong negative conclusion about DeFi's trajectory ('used AGAINST us')."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Philosophical debates about crypto directions maintain relevance for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1594656058693197825",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Substantial institutional crypto holdings data likely shared by investors."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Specific quantitative data from recognized institutions with clear sourcing."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Pure data presentation without emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Benchmark figures will be referenced in financial analyses for months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1594508410497949697",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Price speculation humor has moderate meme potential but limited reach."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Jocular price prediction without supporting analysis or data."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Playful optimism about price recovery ('skyrocket')."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Tied to specific holiday timeframe with ephemeral relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1594490756466900992",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Sensational Satoshi conspiracy theory has high meme/shock value potential."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Unverified rumors presented as humorous speculation."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Sarcastic tone without clear positive/negative emotional payload."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Joke relies on immediate context of FTX collapse news cycle."
+      }
+    }
+  },
+  {
+    "tweet_id": "1594295304110895104",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Real-time tracking of hacked fund movements attracts crypto community attention."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides actionable blockchain data but lacks contextual analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of on-chain activity."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant until funds are fully moved or frozen."
+      }
+    }
+  },
+  {
+    "tweet_id": "1593984331092963328",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Provocative comparisons of high-profile failures have strong sharing potential."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Opinionated critique without supporting evidence or data."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Cynical tone highlighting perceived failures ('no advertisers', 'no future')."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Commentary on industry trends remains relevant for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1593932360378187778",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Engagement-driving price prediction poll with broad crypto community appeal."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Pure speculation without analysis or data."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Enthusiastic tone with rocket emoji and optimistic price targets."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to volatile crypto prices that change daily."
+      }
+    }
+  },
+  {
+    "tweet_id": "1593783292251189248",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Dramatic Ethereum collapse prediction designed to provoke strong reactions."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Unsubstantiated prediction presented as certainty."
+      },
+      "sentiment_polarity": {
+        "score": 1,
+        "justification": "Extremely negative language ('lives destroyed', 'anger')."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Warnings about systemic risks maintain relevance through market cycles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1593672364520361985",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Controversial 'shitcoin' accusation against Ethereum sparks debates."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Opinionated critique lacking technical or legal evidence."
+      },
+      "sentiment_polarity": {
+        "score": 1,
+        "justification": "Highly negative language ('ponzi scheme', 'securities fraud')."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Contributes to ongoing debates about crypto decentralization."
+      }
+    }
+  }
+]

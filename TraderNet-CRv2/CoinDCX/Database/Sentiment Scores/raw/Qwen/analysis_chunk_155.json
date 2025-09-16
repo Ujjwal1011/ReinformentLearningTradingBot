@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1685690844672557056",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet is a nostalgic birthday message from a prominent figure in the crypto space, which is likely to be shared widely within the Ethereum community."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides a historical perspective on Ethereum's origins and mentions Vitalik Buterin, offering some educational value."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The tweet has a positive and nostalgic tone, celebrating Ethereum's anniversary."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is tied to Ethereum's anniversary, which will generate discussion for a few days."
+}
+}
+},
+{
+"tweet_id": "1685684907106881536",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet is a birthday message from a well-known figure, which may be shared within the crypto community."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet mentions Ethereum's role in enabling ICOs and Binance, but it's a brief statement without detailed information."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses gratitude and positivity towards Ethereum's impact."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to the specific event (Ethereum's birthday) and will lose impact after a day or two."
+}
+}
+},
+{
+"tweet_id": "1685577856502382592",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet discusses Ethereum's journey and future, which may be shared among Ethereum enthusiasts."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides information about Ethereum's growth, switch to PoS, and the emergence of other networks."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet has a positive tone, expressing excitement for Ethereum's future."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance will last for a few days as it pertains to Ethereum's anniversary and future developments."
+}
+}
+},
+{
+"tweet_id": "1685439864899047424",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet criticizes Ethereum's gas fees and suggests an alternative, which may be shared within the crypto community."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides information about an alternative solution to Ethereum's gas fee issues."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "The tweet has a moderately negative tone, criticizing Ethereum's gas fees."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance will last for a few weeks as it addresses ongoing issues with Ethereum's gas fees."
+}
+}
+},
+{
+"tweet_id": "1684885679388471296",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet is a strong statement about Ethereum's shortcomings, which may be shared among crypto enthusiasts."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides a personal perspective on Ethereum's usability and scalability issues."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The tweet has a moderately negative tone, expressing frustration with Ethereum."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance will last for a few days as it pertains to a personal decision to stop using Ethereum."
+}
+}
+},
+{
+"tweet_id": "1683588166194806785",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet compares Ethereum with another network, which may be shared among crypto enthusiasts."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides technical information about an alternative network with improved features."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet has a positive tone, highlighting the benefits of the alternative network."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance will last for a few weeks as it addresses ongoing network improvements."
+}
+}
+},
+{
+"tweet_id": "1681654377059319808",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet announces a new compiler for Solana, which may be shared among developers and crypto enthusiasts."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides detailed information about a new tool for developers building on Solana."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet has a positive tone, announcing a significant development for Solana."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance will last for a few weeks as it pertains to a new tool for developers."
+}
+}
+},
+{
+"tweet_id": "1680970793331613697",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet announces the launch of a new protocol, which may be shared among crypto enthusiasts."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides information about the launch of a cross-chain interoperability protocol on multiple networks."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet has a positive tone, announcing a significant development in blockchain interoperability."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance will last for a few weeks as it pertains to a new protocol launch."
+}
+}
+},
+{
+"tweet_id": "1679935879152844801",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet discusses using Ethereum for transactions, which may be shared among crypto enthusiasts."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides a personal perspective on using Ethereum for transactions."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet has a neutral tone, presenting a factual account of a transaction."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance will last for a few days as it pertains to a specific transaction."
+}
+}
+},
+{
+"tweet_id": "1679838076435156992",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet highlights cheaper gas fees on Ethereum, which may be shared among crypto enthusiasts."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides information about current gas fees on Ethereum."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet has a positive tone, noting the improvement in gas fees."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance will last for a few days as it pertains to current gas fee conditions."
+}
+}
+}
+]

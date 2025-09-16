@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1732035257380319427",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Promotional content with community hashtags and emojis can generate moderate sharing within the Web3 community, but it's unlikely to go global."
+},
+"informative_value": {
+"score": 5,
+"justification": "Provides basic event details but not deep informational content."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Enthusiastic tone with positive emojis."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant only until the tournament deadline; after that, it loses relevance."
+}
+}
+},
+{
+"tweet_id": "1732033817668419636",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Job posting may get shared within the Ethereum community but unlikely to go viral globally."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides details about a job opportunity and contact instructions."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive tone encouraging job seekers."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevant for the duration of the hiring process; after that, it becomes irrelevant."
+}
+}
+},
+{
+"tweet_id": "1732026089424167184",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "News about a new Layer 2 integration can generate interest within the Ethereum community and beyond, especially from PancakeSwap's large following."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides credible news about a new Layer 2 integration, relevant to Ethereum users."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive excitement about the upcoming integration."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for the period following the integration announcement; discussion may continue for weeks."
+}
+}
+},
+{
+"tweet_id": "1732025880023535939",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Promotional content with crypto hashtags can generate moderate sharing within the crypto community but unlikely to go global."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides some technical details about Kaspa but not deep news."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive promotional tone."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevant for a few weeks as people discuss the coin; after that, it may fade."
+}
+}
+},
+{
+"tweet_id": "1732022554670288915",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Large giveaway can attract shares within the community, but limited follower base reduces global reach."
+},
+"informative_value": {
+"score": 5,
+"justification": "Provides details about the giveaway but not deep informational content."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Positive tone encouraging participation."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant only until the giveaway is completed; after that, it becomes irrelevant."
+}
+}
+}
+]

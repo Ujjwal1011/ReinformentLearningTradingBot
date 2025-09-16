@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1514725585309761536",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Short personal statement with no hook or trending topic; unlikely to spread beyond niche crypto followers."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "No factual information provided; just a personal opinion about switching from Ethereum to Cardano."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive tone indicated by smiley and welcoming Cardano; mild optimism."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Personal preference statement; relevance fades quickly as it's not tied to an ongoing event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1514522562482556933",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Discusses major Ethereum upgrade and airdrop; likely to attract attention from crypto community and beyond."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific details about PoS transition, gas fee impact, and airdrop announcement; factual content."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone; factual reporting without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Information about PoS transition and airdrop remains relevant for months as Ethereum evolves."
+      }
+    }
+  },
+  {
+    "tweet_id": "1514281767905112065",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news about Ethereum Merge delay; high potential for widespread sharing among crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Directly reports a significant change in Ethereum's roadmap; credible news."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting; no emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Delay remains relevant until the Merge occurs, which is months away."
+      }
+    }
+  },
+  {
+    "tweet_id": "1514272446186233857",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "CryptoPunk sale details may interest collectors; moderate shareability within niche community."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides concrete transaction data: price, addresses, token ID; factual content."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone; purely informational."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Sale event is one-time; relevance limited to collectors and market watchers."
+      }
+    }
+  },
+  {
+    "tweet_id": "1514256013800751113",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news about Ethereum PoS transition delay; high shareability among crypto audience."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Reports a significant change in Ethereum's timeline; factual news."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone; no emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Delay remains relevant until the transition occurs, months away."
+      }
+    }
+  }
+]

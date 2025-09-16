@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1466143346490064898",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Bold price prediction with definitive language likely to generate excitement/sharing in crypto communities."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Contains no factual information - purely speculative price claim without supporting data."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strongly positive/confident tone with imperative 'Deal with it'."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Price predictions remain relevant until either achieved or disproven."
+      }
+    }
+  },
+  {
+    "tweet_id": "1466105326483218444",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Cryptic meme-style language could drive engagement within crypto circles."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Link provides context but tweet itself offers no clear information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of hypothetical domestic situation."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Joke/meme likely to lose relevance quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1466098367986077698",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Relatable investment story format encourages sharing among crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Personal anecdote about investment timing with limited general applicability."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone celebrating investment success and patience."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Standard lifespan for motivational investment content."
+      }
+    }
+  },
+  {
+    "tweet_id": "1465998423887269888",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Provocative question about major crypto hierarchy drives engagement."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Raises discussion topic but provides no analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral framing of hypothetical scenario."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Ongoing 'flippening' debate ensures continued relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1488289419849207808",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Platform comparison with emoji-driven sentiment encourages community engagement."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Pure opinion statement without supporting arguments."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive endorsement of Solana with heart emoji."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Platform preferences change rapidly in crypto markets."
+      }
+    }
+  },
+  {
+    "tweet_id": "1487849709121191937",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "High-value NFT transaction notable within crypto art community."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Specific transaction details with verifiable price data."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of factual transaction."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Individual NFT sales typically have short news cycle."
+      }
+    }
+  },
+  {
+    "tweet_id": "1487829389223940100",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Technical thread from Ethereum founder drives engagement among developers."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Explanation of core blockchain concept from primary source."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral educational content."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Fundamental technical concepts remain relevant long-term."
+      }
+    }
+  },
+  {
+    "tweet_id": "1487795237162561536",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Poll format about major crypto debate encourages participation."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Stimulates discussion without providing information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of poll options."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Flippening debate remains ongoing in crypto space."
+      }
+    }
+  },
+  {
+    "tweet_id": "1487753688546435073",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Controversial comparison between major cryptocurrencies."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Unsupported opinion statement without evidence."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative implication about established projects."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Tribal debates persist but individual tweets fade."
+      }
+    }
+  },
+  {
+    "tweet_id": "1487312805040726020",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Extreme price prediction citing famous investor drives engagement."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "References external prediction without analysis."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive outlook on investment potential."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Long-term predictions remain discussable until target date."
+      }
+    }
+  }
+]

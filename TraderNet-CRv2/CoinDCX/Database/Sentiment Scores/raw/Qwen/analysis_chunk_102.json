@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1538804424478445568",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet announces a significant shift in stablecoin transactions, which is a notable event in the crypto space, likely to be shared widely."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides factual information about a key development in the Ethereum network."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral statement of fact."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The impact is medium as it's a specific event with potential lasting effects on the crypto market."
+}
+}
+},
+{
+"tweet_id": "1538706290553327618",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "An interesting story about Ethereum's creator, likely to be shared within crypto communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "Offers historical context about Ethereum's origins."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive tone with an engaging fact."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Short-term impact as it's a trivia point."
+}
+}
+},
+{
+"tweet_id": "1538627103339565060",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Price updates are common but can attract attention in crypto communities."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides current price data on several cryptocurrencies."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment with price increases."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Short-term as price changes are fleeting."
+}
+}
+},
+{
+"tweet_id": "1538536940269490178",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Detailed analysis of Ethereum's fundamentals, likely shared among crypto enthusiasts."
+},
+"informative_value": {
+"score": 8,
+"justification": "Discusses key developments like DeFi, NFTs, and the Ethereum merge."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment highlighting strong fundamentals."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Medium-long as it addresses ongoing developments."
+}
+}
+},
+{
+"tweet_id": "1538432374643609600",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Announces a significant milestone in Ethereum 2.0, likely widely shared."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides critical information about Ethereum's progress."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment about a major achievement."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Medium impact as it's a notable event with lasting relevance."
+}
+}
+},
+{
+"tweet_id": "1538348857825828864",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Critical analysis of market trends, likely shared among crypto traders."
+},
+"informative_value": {
+"score": 7,
+"justification": "Discusses market dynamics and potential manipulation."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Negative sentiment regarding market conditions."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Medium impact as it's about a specific market trend."
+}
+}
+},
+{
+"tweet_id": "1538336919033094144",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Controversial critique of crypto experts, likely to spark debate."
+},
+"informative_value": {
+"score": 7,
+"justification": "Raises important points about expert credibility."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Negative sentiment towards crypto industry experts."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Medium impact as it's a critique that may spark ongoing discussion."
+}
+}
+},
+{
+"tweet_id": "1538316619717353472",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Discusses market fear and long-term strategies, likely shared among investors."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides advice on market conditions."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment about long-term gains."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Medium-long impact as it's about long-term strategies."
+}
+}
+},
+{
+"tweet_id": "1538302000202391552",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Joke about crypto prices, limited virality."
+},
+"informative_value": {
+"score": 3,
+"justification": "Low informative value, more of a joke."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Negative sentiment towards crypto prices."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short-term impact as it's a joke."
+}
+}
+},
+{
+"tweet_id": "1538253890906247173",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Announces a significant price drop, likely widely shared."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides critical information about Ethereum's price."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Negative sentiment about the price drop."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Short-term impact as it's a specific price event."
+}
+}
+}
+]

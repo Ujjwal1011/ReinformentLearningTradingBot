@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1772684084436713720",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Breaking news about a major regulatory statement from the CFTC is likely to be widely shared across crypto communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides a factual, primary-source statement that is newsworthy and credible."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply reporting information without emotional language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The regulatory decision will remain relevant for weeks as the lawsuit proceeds."
+}
+}
+},
+{
+"tweet_id": "1772521834228981842",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "A promotional message that may resonate within the NFT community but is unlikely to go viral beyond that niche."
+},
+"informative_value": {
+"score": 3,
+"justification": "Provides some project details but is mainly marketing content rather than factual news."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tone is enthusiastic and positive, typical of promotional posts."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet will remain relevant for a short period as the project launches, but not long-term."
+}
+}
+},
+{
+"tweet_id": "1772302304571425000",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Major exchange launching new products is a high-impact news event likely to be widely shared."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides a credible, factual update about a significant market development."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply stating the news."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The launch will remain relevant for months as the new ETNs become available."
+}
+}
+},
+{
+"tweet_id": "1772298085500113151",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Breaking news about a major exchange accepting listings is likely to spread widely."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet delivers a factual, newsworthy update about the LSE's new ETN listings."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The use of 'BULLISH' indicates a positive sentiment toward the news."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The announcement will remain relevant for weeks as the application period unfolds."
+}
+}
+},
+{
+"tweet_id": "1772296480511959258",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Breaking news about a major exchange launching ETN trading is likely to be shared, though the user has fewer followers."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides a factual update about a significant market development."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply announcing the news."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The launch will remain relevant for months as the new ETNs become available."
+}
+}
+}
+]

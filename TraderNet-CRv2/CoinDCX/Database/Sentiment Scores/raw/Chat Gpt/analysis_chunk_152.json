@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1505010510235844608",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet references a controversial legal action against the Ethereum Foundation and mentions the high-profile Ripple v. SEC case, which can spark discussion within the crypto community, but its appeal is largely niche, leading to a medium-high potential."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet is a rhetorical call to sue and does not provide factual data or new information, offering only an opinionated stance."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The language expresses frustration and warning towards the Ethereum Foundation and DAI, indicating a moderately negative tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Regulatory debates around Ethereum may persist for weeks or months, so the tweet could remain relevant as the discussion continues, giving it a medium duration."
+}
+}
+},
+{
+"tweet_id": "1504978961746472960",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Mentioning Elon Musk combined with popular crypto hashtags creates a high shareability factor, especially among crypto enthusiasts, resulting in a high virality potential."
+},
+"informative_value": {
+"score": 2,
+"justification": "The claim about Musk owning only three coins is unsubstantiated and lacks supporting evidence, providing very low informational content."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is a neutral statement without emotive language, resulting in a neutral sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The relevance of the claim is tied to current hype around Musk and crypto and is likely to fade within a few days, giving it a short duration."
+}
+}
+},
+{
+"tweet_id": "1504977056592916482",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Sharing a link from a leading Ethereum engineer can attract attention within the Ethereum community, but its reach is limited to a niche audience, resulting in medium virality."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet points to external content that likely contains substantive insights, providing moderate informational value despite lacking details in the tweet itself."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is a straightforward content share without emotional language, indicating a neutral sentiment."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Technical reflections from a reputable engineer can remain relevant for months as they address foundational topics, giving the tweet a long duration."
+}
+}
+},
+{
+"tweet_id": "1504919821753876486",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Announcing an upcoming triple halving and a 90% issuance reduction is a significant event for Ethereum supporters, leading to high shareability within the crypto niche."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet conveys news about a future event but lacks source verification, offering moderate informational value."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The use of 'HUGE' conveys excitement and optimism, reflecting a moderately positive sentiment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The halving is three months away, so the tweet will stay relevant for several weeks leading up to the event, resulting in a medium duration."
+}
+}
+},
+{
+"tweet_id": "1504912294295265290",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "A bold claim that Ethereum will become deflationary and that most people are unaware is likely to attract widespread attention and sharing among crypto audiences, giving it high virality."
+},
+"informative_value": {
+"score": 3,
+"justification": "The statement is speculative and lacks supporting evidence, providing low informational content."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is largely factual with a neutral tone, not expressing strong emotions."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Since the claim concerns a change expected in three months, the tweet will stay relevant until the event occurs, giving it a medium duration."
+}
+}
+}
+]

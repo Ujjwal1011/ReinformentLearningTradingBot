@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1741675379780194740",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High virality potential due to major cryptocurrency announcements from influential entities like BlackRock, which are highly relevant to crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides multiple verifiable, newsworthy updates about significant regulatory and financial developments in the crypto space."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone; presents factual updates without overt emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "These announcements will remain relevant for months as they impact regulatory and financial landscapes."
+      }
+    }
+  },
+  {
+    "tweet_id": "1763341468691759583",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Provocative statement about Ethereum's usability could spark debates within crypto communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Opinion-based with no factual data or context to support the claim."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Moderately negative tone, criticizing Ethereum's accessibility."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term relevance unless it triggers broader discussions about Ethereum's design."
+      }
+    }
+  },
+  {
+    "tweet_id": "1763215419433759187",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "High-value CryptoPunk transactions attract niche crypto audiences but lack mass appeal."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Specific transactional data with monetary context, relevant to NFT collectors."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of a bid event."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance diminishes once the bid is resolved or outdated."
+      }
+    }
+  },
+  {
+    "tweet_id": "1763187443379913003",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Warning about imposters may engage followers, but limited to the author's audience."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Personal statement with no factual or educational content."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone despite the defensive context."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term relevance tied to immediate impersonation risks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1763021289999266035",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Urgent call-to-action for a time-sensitive airdrop drives rapid sharing within crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Promotes an event with practical instructions but lacks broader educational value."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Playful tone with moderate positivity (e.g., 'gamified' emphasis)."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Immediately irrelevant after the airdrop deadline passes."
+      }
+    }
+  },
+  {
+    "tweet_id": "1762884103718748371",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Prediction about Ethereum ETF from a high-profile financial commentator likely to be widely discussed."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Plausible speculation based on Bitcoin ETF precedent, but not yet verified."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral observation without explicit endorsement or criticism."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant until regulatory decisions about Ethereum ETFs are finalized."
+      }
+    }
+  },
+  {
+    "tweet_id": "1762856905716768809",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Minimal content with no clear hook for engagement beyond a single word and link."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No context or explanation provided for the link."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Ambiguous tone; could be neutral or context-dependent."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Immediately forgettable without additional context."
+      }
+    }
+  },
+  {
+    "tweet_id": "1762800060184826069",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Controversial disclosure about a politician's crypto sales attracts broad attention."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific financial data with public accountability implications."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Implied criticism of potential conflicts of interest."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant as long as political crypto regulations are debated."
+      }
+    }
+  },
+  {
+    "tweet_id": "1762652123206939059",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Humorous meta-commentary may resonate with existing followers but lacks broader appeal."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No substantive information beyond a joke about content creation."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Lighthearted tone with mild positivity."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term relevance tied to the immediate product launch context."
+      }
+    }
+  },
+  {
+    "tweet_id": "1762515560900780066",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Product launch announcement from a major NFT platform will engage crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Clear update about a marketplace launch with collaboration details."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone celebrating a partnership and launch."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant for weeks as users explore the new platform."
+      }
+    }
+  }
+]

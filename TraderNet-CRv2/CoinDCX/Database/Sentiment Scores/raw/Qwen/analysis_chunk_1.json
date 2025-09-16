@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1271910397356974082",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Humorous content about a niche topic (crypto) may get shared within specific communities but unlikely to go viral globally."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Contains a joke rather than factual information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment, neither positive nor negative."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevant for a short period, tied to a specific event or joke."
+      }
+    }
+  },
+  {
+    "tweet_id": "1267464298919534593",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Technical update from a credible source (Vitalik) likely to be shared among Ethereum enthusiasts."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides detailed information on Ethereum's scaling strategy from a key figure."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment about the success of Ethereum's layer 2 scaling."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Remains relevant for weeks as it discusses ongoing developments."
+      }
+    }
+  },
+  {
+    "tweet_id": "1288890420316053504",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Celebratory tweet with links may be shared within the Ethereum community."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Celebrates Ethereum's anniversary but doesn't provide new information."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strongly positive sentiment celebrating Ethereum's milestone."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a few days around the anniversary."
+      }
+    }
+  },
+  {
+    "tweet_id": "1288847095055646720",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Investment performance data may be shared among financial communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific investment returns, useful for investors."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment highlighting significant returns."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant for weeks as it reflects past performance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1299892964160749570",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Visualization of Ethereum may be shared among enthusiasts but not widely."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Shares a visualization tool, useful for understanding Ethereum."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment about the visualization and metaphor."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant for weeks as it's a specific tool."
+      }
+    }
+  },
+  {
+    "tweet_id": "1294183084640759815",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Advice on DeFi participation may be shared within crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides useful advice for participants in the Ethereum ecosystem."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Neutral to slightly positive sentiment, encouraging cautious participation."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant for weeks as DeFi is an ongoing trend."
+      }
+    }
+  },
+  {
+    "tweet_id": "1291223375667326976",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Critique of maximalism from a key figure may spark broader discussions."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Discusses Ethereum's progress and future direction."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment about Ethereum's advancements."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Long-term relevance as it touches on foundational aspects of Ethereum."
+      }
+    }
+  },
+  {
+    "tweet_id": "1289785091346989056",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Significant financial event likely to be shared among crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Announces a major financial event with clear figures."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment about the liquidation event."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a few days as it's a specific event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1309013763861946368",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Promotional tag game may get some shares but lacks a strong hook."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Minimal information, primarily promotional."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive sentiment encouraging participation."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevant for a short period as it's a promotional game."
+      }
+    }
+  },
+  {
+    "tweet_id": "1306385710434451461",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Announcement of a major token launch likely to be widely shared."
+      },
+      "informative_value": {
+        "score": 10,
+        "justification": "Critical announcement from a reputable project (Uniswap) with direct links."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strongly positive sentiment about the token launch."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Remains relevant for weeks as it's a significant event."
+      }
+    }
+  }
+]

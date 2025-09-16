@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1451153392697495555",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "A humorous meme that could resonate with Spanish-speaking crypto enthusiasts, likely to be shared within that community but not expected to go globally viral."
+},
+"informative_value": {
+"score": 1,
+"justification": "The tweet is purely a joke with no factual information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses a lighthearted, positive tone."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The meme may remain relevant for a few days before losing traction."
+}
+}
+},
+{
+"tweet_id": "1450983679619059713",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "A simple rhetorical statement that may be shared by crypto followers but lacks a hook for widespread virality."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet offers a minimal statement about owning Ethereum, providing little new information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply stating a hypothetical scenario."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The statement may stay relevant for a short period, typical of a neutral tweet."
+}
+}
+},
+{
+"tweet_id": "1450960184814325763",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "A prediction about ETFs that could interest crypto investors, potentially shared within that niche but not expected to go viral."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet presents a speculative claim, not a factual report."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, stating a prediction without emotional language."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The prediction may remain relevant for a while as market discussions continue."
+}
+}
+},
+{
+"tweet_id": "1450902092479033344",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "A hype statement that could be shared by enthusiasts, but its brevity limits widespread virality."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet offers a minimal claim with no additional context or data."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet conveys a positive, enthusiastic tone."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The hype may keep the tweet relevant for a moderate period."
+}
+}
+},
+{
+"tweet_id": "1450752044516605965",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "A claim about major platforms using Ethereum that could spark discussion and be widely shared."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet makes a factual claim that could be verified, providing some informational value."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The tweet expresses frustration and negative sentiment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The claim about platform adoption may remain relevant for weeks or months as the trend continues."
+}
+}
+}
+]

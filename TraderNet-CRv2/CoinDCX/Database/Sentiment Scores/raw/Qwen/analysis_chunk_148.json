@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1621893796723134464",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Announcing a significant milestone for Ethereum, likely to be shared among crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides a factual update on Ethereum's market cap, relevant to crypto investors."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive news about Ethereum's growth."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for a few days as market trends evolve."
+      }
+    }
+  },
+  {
+    "tweet_id": "1621643990448627713",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Opinionated take on Ethereum's rise, likely to spark discussions in crypto circles."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Shares an opinion on Ethereum's position in the crypto market."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive sentiment about Ethereum's future."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for a week as the crypto community debates the topic."
+      }
+    }
+  },
+  {
+    "tweet_id": "1621512870038233094",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Major news about a leading bank adopting Ethereum, likely to trend."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Significant announcement about Sberbank launching a DeFi platform."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive news about Ethereum's adoption."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Remains relevant for weeks as the platform develops."
+      }
+    }
+  },
+  {
+    "tweet_id": "1641890861637324801",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Introduces a niche tool for Ethereum developers, likely shared in tech communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Explains a new tool for Ethereum contracts, useful for developers."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement of a new tool."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for a few weeks as the tool is adopted."
+      }
+    }
+  },
+  {
+    "tweet_id": "1641532055195643904",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Announces a migration event, likely shared among NFT communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides a specific update about DeGods migration."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive news about the migration."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for a week around the migration date."
+      }
+    }
+  },
+  {
+    "tweet_id": "1640843277883539456",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Technical update about Ethereum's reward factor, niche audience."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Detailed explanation of a technical adjustment."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral technical discussion."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for a few weeks as the adjustment is implemented."
+      }
+    }
+  },
+  {
+    "tweet_id": "1640775976710750209",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Discusses Ethereum fees, relevant to specific users."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides data and analysis on transaction costs."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral analysis of fees."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for a few weeks as fee structures evolve."
+      }
+    }
+  },
+  {
+    "tweet_id": "1640722906744487936",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Announces a major Ethereum upgrade, likely to trend."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides details on the Shapella upgrade."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive announcement of an important update."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Remains relevant for months as the upgrade is implemented."
+      }
+    }
+  },
+  {
+    "tweet_id": "1639584307994927104",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Discusses gas limit solutions, relevant to Ethereum users."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides a solution to a common issue."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral technical advice."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for a few weeks as users adopt the solution."
+      }
+    }
+  },
+  {
+    "tweet_id": "1639417034411855873",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Promotes a new tool, relevant to specific users."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Introduces a new PRC20 scanner."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral promotion of a tool."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for a few weeks as the tool is adopted."
+      }
+    }
+  }
+]

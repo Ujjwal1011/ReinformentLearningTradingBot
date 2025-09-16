@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1732035257380319427",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Engages Web3 gaming community with event promotion and incentives. Includes multiple hashtags and visual elements that encourage sharing."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides clear instructions for tournament participation and links to resources, though focused on promotional content."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone with celebratory emojis (🌟🔥) and emphasis on prize/honor."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Time-bound event ending Dec 13th limits long-term relevance, though may generate activity until deadline."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732033817668419636",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Job posting has limited viral appeal despite RT request. Targets specific professional audience rather than general crypto community."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Clearly communicates employment opportunity at notable Ethereum scaling solution provider."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Neutral/professional tone with positive emojis (🙌🤝) expressing opportunity."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance limited to active hiring period, likely days/weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732026089424167184",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High engagement metrics and announcement of major platform integration likely to drive shares across Ethereum/PancakeSwap communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Announces specific technical development with implied significance ('Layer 2 for 𝕏')."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Excited tone with attention-grabbing emojis (🟢👀) and implied anticipation."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Platform integration could remain relevant for weeks as users explore new features."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732025880023535939",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Technical claims about blockchain trilemma solution may generate discussion in crypto circles, though niche focus limits broader appeal."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides detailed technical specifications and project history with multiple hashtags for context."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strongly positive framing of project achievements using emphatic language ('First Ever', '100%')."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Fundamental technical claims could remain reference points in blockchain discussions long-term."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732022554670288915",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Giveaway incentive could drive limited sharing, but small ETH requirement creates participation barrier."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Clear instructions for token giveaway participation, though primarily promotional."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive framing of opportunity with gift emoji (🎁), though transactional nature limits emotional depth."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance ends with giveaway completion or form submission deadline."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732020881579282556",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Spanish-language educational resource has limited reach beyond specific learner groups, despite enthusiastic presentation."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Promotes structured learning path for Ethereum development with clear value proposition."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Enthusiastic tone with multiple positive emojis (🚀🤝💻) encouraging skill development."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Educational resource could remain relevant for months to developers entering the space."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732019183775359153",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Italian-language crypto investment news has niche appeal, though teaser format ('Ha però...') may drive some clicks."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Reports on notable investment activity with implied analysis in linked article."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting tone without clear positive/negative framing beyond factual statement."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to news cycle around specific investment portfolio disclosure."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732010903942598972",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Technical chart analysis clarification has limited appeal beyond crypto analytics enthusiasts."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Clarifies data interpretation method but doesn't provide new information or analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral explanatory tone without emotional valence."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Immediate clarification need with no lasting relevance beyond current discussion context."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732009566039138792",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Philosophical discussion about blockchain governance has very niche appeal and abstract premise."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Raises theoretical governance question but doesn't provide concrete information or analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone presenting hypothetical scenario without endorsement or criticism."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Conversation tied to specific hypothetical, unlikely to sustain discussion."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732008606277484825",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Technical announcement about Ethereum-compatible rollup could drive interest in developer communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides detailed technical specifications and rationale for platform migration with concrete benefits."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive framing of technical advantages using emphatic language ('very low fees', 'very secure')."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Platform launch could influence developer decisions and ecosystem growth for months/years."
+      }
+    }
+  }
+]

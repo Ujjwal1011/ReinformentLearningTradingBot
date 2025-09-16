@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1732199869668786543",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "The tweet is a niche NFT sale announcement from a bot, likely to be shared within the DeGods community but not beyond. Its content is specific and not broadly relatable, so virality potential is low."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "It provides concrete details about the sale price, rank, and links to the listing, giving collectors actionable information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is factual and neutral, with no emotional language."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The relevance ends once the sale is complete; the tweet is tied to a single transaction."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732199202892165569",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "A short critique aimed at Ethereum users; it may spark discussion within a niche group but lacks a hook for wider sharing."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "It offers a viewpoint but no new data or facts."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "The tone is critical and negative."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The statement may be referenced for a few days as people debate the issue."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732199197825261918",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "A meme referencing two users; it could spread within their follower circles but is unlikely to go viral beyond that."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "The tweet is primarily humorous and does not convey factual information."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The language is lighthearted and positive."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Memes can circulate for a while but typically fade after a few days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732198994208571583",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Promoting a new YouTube series with hashtags and a preview link; it can attract crypto enthusiasts and potentially spread within that community."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "It informs viewers about the series launch, schedule, and content focus."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tweet is enthusiastic and positive."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The series will continue over time, keeping the tweet relevant for weeks or months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732198918178451754",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "A market update on major coins and altcoins; it may be shared by traders and crypto enthusiasts, but its timeliness limits long-term spread."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "It provides specific market insights and highlights coin performance."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral with a slight positive outlook."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Market conditions change quickly, so the tweet's relevance is short-lived."
+      }
+    }
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1457060324939423745",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Provocative argument about token valuation that can spark debate within crypto communities, but not a global meme or breaking news."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Opinion-based commentary with no verifiable data or actionable information."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Criticizes common practice, expressing mild negative sentiment."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Conceptual argument may be referenced for months as discussions about token valuation continue."
+      }
+    }
+  },
+  {
+    "tweet_id": "1457056521645350912",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Bold price prediction may generate discussion within crypto community, but not a global meme."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Opinion-based price prediction with no supporting data."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Expresses optimism about Ethereum price."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Prediction may be referenced for a few weeks or months, but loses relevance as market moves."
+      }
+    }
+  },
+  {
+    "tweet_id": "1456987697382313987",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Factual comparison may be shared among crypto enthusiasts, but not a global meme."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides concrete download numbers for two wallets, offering useful context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone, shrug emoji indicates mild indifference."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Information may be referenced for a few months as wallet adoption continues to evolve."
+      }
+    }
+  },
+  {
+    "tweet_id": "1456982061403750404",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Detailed return list for many assets, likely to be shared widely by crypto community and beyond."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides concrete return figures for a range of assets, offering valuable data."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral factual statement."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Historical return data may be referenced for a few months to a year, but loses relevance as new data emerges."
+      }
+    }
+  },
+  {
+    "tweet_id": "1456736860596736010",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "High-profile influencer asks about a trending Layer 2 solution, likely to be shared widely."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Question invites further reading; limited info in tweet."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral question."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Question may be referenced for months as people learn about Immutable X."
+      }
+    }
+  }
+]

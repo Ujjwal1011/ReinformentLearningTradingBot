@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1747938854131359750",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet's use of 'New highs' with Ethereum-related hashtags and links could generate interest within the crypto community, potentially leading to shares and discussions."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet is brief and lacks detailed information, relying on linked content for substance, which may not be immediately clear to all readers."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tone is very positive, indicated by 'New highs', suggesting excitement or optimism about Ethereum's performance."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevance is tied to the immediate performance of Ethereum, making the tweet's impact relatively short-lived, likely spanning a few days."
+}
+}
+},
+{
+"tweet_id": "1747715395614867735",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet's positive outlook on Ethereum's future, backed by specific points, might encourage shares within interested communities, though it lacks a viral hook."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides specific, useful information about Ethereum's ecosystem, including EIP 4844, Alt DA, Community Revitalization, and Restaking."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The overall sentiment is very positive, expressing excitement and optimism for Ethereum's future despite acknowledging past challenges."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The relevance of the tweet extends beyond immediate events, as it discusses future prospects and developments in the Ethereum ecosystem."
+}
+}
+},
+{
+"tweet_id": "1747616260073107592",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The tweet's sensational and personal nature (Vitalik Buterin searching for love) has high potential for widespread sharing and discussion across various communities."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet's primary purpose is not to inform but to entertain or provoke interest, with minimal factual content."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The sentiment is moderately positive, with a playful tone, but primarily neutral as it reports on a personal aspect without clear emotional stance."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is standard, likely to generate interest for a day or two before fading from general discussion."
+}
+}
+},
+{
+"tweet_id": "1747588499304313009",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet, with its image and reference to a specific Ethereum block number, may interest the crypto community but lacks broad viral potential."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet provides some information (an image taken at a specific Ethereum block number) but is somewhat niche and lacks broader context."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The sentiment is neutral, as the tweet primarily shares an image without expressing a clear emotional tone."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is short-term, tied to the immediate context of the Ethereum block number mentioned."
+}
+}
+},
+{
+"tweet_id": "1747460769787138198",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The sensational claim of coordination between Vitalik and the SEC could generate significant shares and discussions within crypto and possibly broader communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet claims to reveal significant information with 'LEAKED DOCUMENTS', but the credibility and detail are not immediately verifiable from the tweet alone."
+},
+"sentiment_polarity": {
+"score": 1,
+"justification": "The sentiment is very negative, implying a serious allegation against Vitalik and the SEC, which could provoke strong reactions."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The relevance of the tweet could extend for days or weeks, depending on the development of the alleged story and responses from involved parties."
+}
+}
+},
+{
+"tweet_id": "1747246914104680785",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet's mention of significant price increases ($PLSX, $PLS, $HEX) could generate interest and shares within the crypto community."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet provides some useful information about price movements but lacks detailed analysis or broader market context."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The tone is very positive, celebrating significant price increases with 'Epic'."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevance is tied to the immediate performance of the mentioned cryptocurrencies, making the tweet's impact relatively short-lived."
+}
+}
+},
+{
+"tweet_id": "1747185269688709488",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet, being in Turkish and about Vitalik Buterin's walk, may have limited viral potential outside of specific language or interest groups."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet informs about a specific, somewhat niche topic (Vitalik Buterin's walk being a social media trend) with minimal broader relevance."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The sentiment is neutral, as the tweet reports on a topic without expressing a clear emotional stance."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is short-term, tied to the immediate context of the social media trend."
+}
+}
+},
+{
+"tweet_id": "1747019861476434006",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet's direct challenge to CoinMarketCap and its call for support might generate shares within the crypto community, especially among HEX supporters."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides specific information about HEX's rankings on PulseChain and Ethereum, serving a particular interest group."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The sentiment is moderately positive, with a determined tone, as the user advocates for a change in HEX's listing."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The relevance could extend for days or weeks, depending on the response from CoinMarketCap and the ongoing discussion about HEX's listing."
+}
+}
+},
+{
+"tweet_id": "1746966264969380089",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The prediction of '$12k' for Ethereum might interest the crypto community but lacks a strong viral hook."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet provides minimal information, essentially a brief, unsubstantiated price prediction."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tone is very positive, indicating optimism about Ethereum's future price."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to the immediate context of Ethereum's price movements, making its impact relatively short-lived."
+}
+}
+},
+{
+"tweet_id": "1746805417576112287",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Cathie Wood's expectation might interest the crypto and investment communities but lacks broad viral appeal."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides useful information about a notable figure's (Cathie Wood) market expectations, though the detail is brief."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The sentiment is very positive, as it reports on an optimistic outlook for Ethereum's performance relative to Bitcoin."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The relevance extends beyond immediate events, as it discusses future market performance expectations."
+}
+}
+}
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1495182605519630338",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet is a 'just in' headline quoting a prominent figure, likely to be shared within the crypto community, but not a global breaking news."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "The tweet quotes a statement from a key figure, providing factual information about a topic."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet presents a factual quote without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The tweet will generate discussion for a day or two before fading."
+      }
+    }
+  },
+  {
+    "tweet_id": "1495165600687140869",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Humorous content about a prominent figure is likely to be widely shared within the crypto community, generating high engagement."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "The tweet is a humorous anecdote with no factual information."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tweet conveys a lighthearted, positive tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tweet may remain relevant for days or weeks as a humorous anecdote."
+      }
+    }
+  },
+  {
+    "tweet_id": "1495089875913256962",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Personal reflection likely to get some engagement but not widespread."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet expresses a personal opinion, not providing factual information."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "The tweet expresses uncertainty and mild negative sentiment about investment."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The tweet will generate discussion for a day or two before fading."
+      }
+    }
+  },
+  {
+    "tweet_id": "1494940219463782400",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "The tweet provides a brief market update that may be shared within the crypto community but is not a major breaking news."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "The tweet provides a factual market update with a price spike."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet presents factual information without emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The tweet will generate discussion for a day or two before fading."
+      }
+    }
+  },
+  {
+    "tweet_id": "1494921128023769090",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Personal observation likely to get limited engagement."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet expresses a personal observation, not providing factual information."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "The tweet expresses a mild negative sentiment about Charles."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The tweet will generate discussion for a few hours to a day."
+      }
+    }
+  }
+]

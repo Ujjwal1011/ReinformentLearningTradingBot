@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1445788346677018631",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet predicts future scarcity of Ethereum, a topic that resonates within the crypto community and can spark discussion, but it lacks a breaking news hook or meme element."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "It offers a speculative statement rather than verifiable data or a news source."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral, presenting a future outlook without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The speculation about Ethereum scarcity may remain relevant for weeks as the market evolves."
+      }
+    }
+  },
+  {
+    "tweet_id": "1445525651872632836",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "A light‑hearted list of crypto prices and a personal anecdote can be shared for humor, but it lacks a strong hook for widespread viral spread."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "It provides a snapshot of prices and a personal note, but no verified source or deeper insight."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet conveys optimism and a positive vibe with the phrase \"All is good in the world.\""
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Price information becomes quickly outdated, so relevance fades within hours or a day."
+      }
+    }
+  },
+  {
+    "tweet_id": "1445507710326231046",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Commentary on OG rappers embracing Ethereum and NFTs can attract both crypto and hip‑hop audiences, giving it a moderate chance to spread."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "It is largely opinionated and does not provide concrete data or sources."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tone is supportive and positive toward the rappers’ forward‑thinking attitude."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The trend of artists adopting NFTs remains relevant for weeks or months, sustaining discussion."
+      }
+    }
+  },
+  {
+    "tweet_id": "1445505226576781314",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "A claim of an imminent 51% attack on Ethereum Classic is a serious security threat that can quickly spread among the crypto community."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "The tweet references a potential attack, which is a significant piece of information if verified."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "The content conveys fear and concern about a security breach."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Security threats remain relevant until resolved, keeping the tweet in discussion for days or weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1445463549740941320",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Buying a car with Ethereum is a novel personal story that can intrigue crypto enthusiasts, but it is not a breaking news event."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "It is a personal anecdote with no broader informational content."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tweet expresses excitement and positive sentiment about the purchase."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The story may remain of interest for a while within the crypto community, but it is not time‑sensitive."
+      }
+    }
+  }
+]

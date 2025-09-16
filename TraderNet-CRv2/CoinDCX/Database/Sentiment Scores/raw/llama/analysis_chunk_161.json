@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1727394965385576706",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Mentions a significant event ($4B Binance news) but frames it as a question, sparking curiosity within the crypto community, though unlikely to go globally viral."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides context about Bitcoin and Ethereum prices in relation to a major news event, offering some informative value to crypto enthusiasts."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Expresses mild surprise or skepticism about investors' reactions to the Binance news, but the tone is more inquiring than strongly negative."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevance is short-term, tied to immediate market reactions to the Binance news."
+}
+}
+},
+{
+"tweet_id": "1726770143458664764",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Standard content with a link, not designed to go viral but might generate some engagement within specific communities interested in Ethereum scaling solutions."
+},
+"informative_value": {
+"score": 6,
+"justification": "Offers some useful information about an Ethereum scaling solution, though the detail is brief and relies on the linked content."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Expresses a moderately positive sentiment by framing the solution in a favorable light ('it's not a pyramid scheme')."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Standard lifespan for a tweet about a specific solution, generating discussion for a day or two."
+}
+}
+},
+{
+"tweet_id": "1726747087906464024",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Introduces a new Ethereum L2 solution with native yield, backed by significant funding, which could generate substantial interest and sharing within the crypto community."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides detailed, newsworthy information about the launch of Blast, including funding from notable investors, offering high informative value."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "Clearly expresses strong positive emotions, excitement, and optimism about the launch and its potential."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Remains relevant for days or weeks, given the significance of the launch and the ongoing interest in Ethereum solutions."
+}
+}
+},
+{
+"tweet_id": "1726699445176410116",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Announces a convenient cross-chain swapping feature, which could generate interest and sharing within the crypto and Solana communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides useful, newsworthy information about enhancing user experience with cross-chain swapping between Ethereum and Solana."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Expresses a very positive sentiment, highlighting the simplicity and benefit of the new feature."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Remains relevant for days, tied to the immediate utility and interest in the new swapping feature."
+}
+}
+},
+{
+"tweet_id": "1726651782850388235",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Introduces a unique NFT collection with exclusive perks, which could generate significant interest and sharing within gaming and NFT communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides detailed information about the NFT collection, its unique aspects, and the benefits, offering high informative value to potential buyers."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "Clearly expresses strong positive emotions, highlighting the exclusive and timeless nature of the NFTs."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Remains relevant for weeks or months, given the ongoing interest in NFTs and the upcoming mint mentioned."
+}
+}
+},
+{
+"tweet_id": "1725903544660705728",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Exposes a significant figure's lack of knowledge on a key aspect of their advocated technology, likely to generate substantial discussion and sharing."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides some useful information about payment channels, though the primary focus is on the figure's ignorance rather than in-depth education."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "Expresses strong negative emotions towards the figure's perceived hypocrisy or lack of understanding."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Remains relevant for days, tied to the immediate reaction to the figure's admission."
+}
+}
+},
+{
+"tweet_id": "1725818416060059651",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Expresses a personal preference that might generate some discussion within the crypto community, especially given the influencer's profile."
+},
+"informative_value": {
+"score": 3,
+"justification": "Minimal informative value, as the tweet is primarily a personal statement of preference."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Clearly expresses a very positive sentiment towards Solana in comparison to Ethereum."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a short period, as personal preferences, without additional context, tend to have a brief discussion lifespan."
+}
+}
+},
+{
+"tweet_id": "1725646552180592741",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Breaking news about a significant financial institution filing for an Ethereum ETF could generate substantial interest and sharing."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides critical, newsworthy information about Fidelity's Ethereum ETF filing, offering high informative value."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Expresses a very positive sentiment, implying optimism about the development's implications."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Remains relevant for days or weeks, given the significance of the filing for the crypto market."
+}
+}
+},
+{
+"tweet_id": "1725643971630608602",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Breaking news from a significant asset manager about a Spot Ethereum ETF could lead to explosive sharing and discussion."
+},
+"informative_value": {
+"score": 10,
+"justification": "Provides extremely high-value, breaking news about a major development in the crypto space, directly from a primary source."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "Clearly expresses strong positive emotions, indicating excitement and optimism about the ETF filing."
+},
+"duration_of_impact": {
+"score": 9,
+"justification": "Remains highly relevant for an extended period, given the significance of the news for the crypto market's future."
+}
+}
+},
+{
+"tweet_id": "1725641601077174439",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Breaking news about Fidelity's Ethereum ETF filing, though briefly stated, could generate significant interest and sharing."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides useful, newsworthy information, albeit briefly, about the ETF filing."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Expresses a moderately positive sentiment, implying optimism without strong emotional language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Remains relevant for days, tied to the immediate reaction to the news."
+}
+}
+}
+]

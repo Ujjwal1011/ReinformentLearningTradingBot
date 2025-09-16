@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1570051148177874944",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet discusses a significant event in the crypto space, which is likely to be shared among enthusiasts."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides context about the Ethereum merge and its significance."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Expresses positive emotions like awe and gratitude."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The merge is a major event, so it will remain relevant for some time."
+}
+}
+},
+{
+"tweet_id": "1570046417619779587",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Discusses the high stakes of the merge, attracting attention."
+},
+"informative_value": {
+"score": 6,
+"justification": "Explains the impact of the merge on the crypto market."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "Expresses negative emotions like concern and frustration."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant until the merge occurs."
+}
+}
+},
+{
+"tweet_id": "1570042834182459394",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Predicts price movement, attracting traders."
+},
+"informative_value": {
+"score": 5,
+"justification": "Provides a simple prediction without detailed analysis."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Price speculation is short-lived."
+}
+}
+},
+{
+"tweet_id": "1569978701584138240",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Real-time update, likely shared."
+},
+"informative_value": {
+"score": 6,
+"justification": "Gives a specific update on the merge progress."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant until the merge."
+}
+}
+},
+{
+"tweet_id": "1569914082240897024",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Time-sensitive update, likely shared."
+},
+"informative_value": {
+"score": 6,
+"justification": "Clear update on the timeline."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for the next 24 hours."
+}
+}
+},
+{
+"tweet_id": "1569750046106873857",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Niche content about NFTs, shared among enthusiasts."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides details about an NFT project."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevant until the project is launched."
+}
+}
+},
+{
+"tweet_id": "1569739402913644544",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Positive sentiment about a major event, likely shared."
+},
+"informative_value": {
+"score": 6,
+"justification": "Acknowledges the significance of the merge."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Very positive sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for the current event."
+}
+}
+},
+{
+"tweet_id": "1569683674643275777",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Real-time update, likely shared."
+},
+"informative_value": {
+"score": 6,
+"justification": "Specific update on the merge progress."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant until the merge."
+}
+}
+},
+{
+"tweet_id": "1569553088981389313",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Time-sensitive update, likely shared."
+},
+"informative_value": {
+"score": 6,
+"justification": "Clear update on the timeline."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for the next 48 hours."
+}
+}
+},
+{
+"tweet_id": "1569414063075086338",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Relatable humor about a complex topic."
+},
+"informative_value": {
+"score": 3,
+"justification": "Minimal information, expresses confusion."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "Negative sentiment, shows fear."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short-term relevance."
+}
+}
+}
+]

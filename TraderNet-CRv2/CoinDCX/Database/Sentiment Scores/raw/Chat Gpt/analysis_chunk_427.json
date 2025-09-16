@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1731946706365808829",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Provides a concise historical overview that can resonate within the crypto community, but lacks a hook for mass virality."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Offers credible, detailed information about Starknet's launch and technical aspects, making it highly informative."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is factual and neutral, with no overt emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Historical content remains relevant for a long time, providing lasting value."
+      }
+    }
+  },
+  {
+    "tweet_id": "1731945042363736318",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "A simple question with emojis may attract some replies but unlikely to go viral beyond the immediate audience."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Provides a link to price data but offers minimal context or analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Emojis add mild positivity but overall tone is neutral."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Price data is time-sensitive and will become irrelevant quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1731942815515410589",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "The claim may spark discussion within the crypto community but is unlikely to spread widely beyond niche audiences."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides factual data comparing block times across major cryptocurrencies, which is informative."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet expresses confidence and pride in Kaspa's performance, reflecting a positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The information remains relevant for some time but may become outdated as block times evolve."
+      }
+    }
+  },
+  {
+    "tweet_id": "1731939459418267824",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "A single NFT sale is unlikely to generate widespread sharing beyond collectors."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Provides basic transaction details but lacks broader context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is factual with no emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The sale is a one-time event; relevance fades quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1731927717627539537",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Major institutional news can attract broad attention within finance and crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides verifiable information about a significant development in the banking sector."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The tweet conveys optimism about the bank's expansion into crypto."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Institutional adoption news stays relevant for a considerable period."
+      }
+    }
+  }
+]

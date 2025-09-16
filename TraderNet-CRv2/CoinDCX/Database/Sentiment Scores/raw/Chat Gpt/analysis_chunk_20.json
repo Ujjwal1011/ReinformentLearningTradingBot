@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1365494212305711106",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet references ADA reaching the top‑3 market cap and uses a provocative tone, which can attract shares within crypto communities, though its appeal remains niche."
+},
+"informative_value": {
+"score": 4,
+"justification": "It mentions ADA’s ranking and Cardano’s lack of smart contracts but provides no new data or sources, offering only minimal factual content."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The language calls Cardano supporters “gullible normies” and expresses disappointment about delayed smart‑contract implementation, reflecting strong negative sentiment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The critique of Cardano’s development may stay relevant for weeks as the community debates progress, while the specific market ranking is time‑sensitive."
+}
+}
+},
+{
+"tweet_id": "1365288863044833283",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet makes a bold claim about Cardano’s $35 billion valuation and its 25 % share of Ethereum’s market cap, likely sparking debate and wide sharing within crypto circles."
+},
+"informative_value": {
+"score": 6,
+"justification": "It provides specific market‑cap figures and a comparative valuation, offering some factual content despite lacking citations."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The tweet harshly criticizes Cardano’s fundamentals, using  using negative language such as “purely based on narrative,” indicating very negative sentiment."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Discussions about Cardano’s valuation and narrative‑driven market are likely to persist for weeks or months, giving the tweet medium‑long relevance."
+}
+}
+},
+{
+"tweet_id": "1365175330432946176",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Bold price targets for Bitcoin and Ethereum can attract attention among crypto enthusiasts, though the content lacks a unique hook for broader virality."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet offers speculative price predictions without supporting data or analysis, providing limited factual information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The author frames the market correction as a “gift” and expresses optimism about future price gains, reflecting moderately positive sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The relevance is tied to the immediate market correction and price speculation, likely fading after the market moves."
+}
+}
+},
+{
+"tweet": "1365034820187918340",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "A bold adoption claim from high‑profile figure Michael Saylor predicts a billion Bitcoin owners in five years, a statement likely to be widely shared across crypto and mainstream audiences."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet presents a speculative forecast without evidence or data, offering minimal informational value beyond the claim."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The language conveys strong optimism about Bitcoin’s future, indicating very positive sentiment."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "A long‑term adoption prediction can be referenced for months or years in ongoing Bitcoin discussions, giving it long relevance."
+}
+}
+},
+{
+"tweet_id": "1364970734288842756",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The whimsical, meme‑style narrative featuring a unicorn and references to Ethereum and #shitcoins can attract shares within the crypto community, though its appeal is niche."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet uses fantasy imagery and does not convey concrete information or data, serving primarily as entertainment."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The playful tone and adventurous language convey a moderately positive sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The content is tied to a specific, likely promotional moment, and its relevance is expected to fade after a short period."
+}
+}
+}
+]

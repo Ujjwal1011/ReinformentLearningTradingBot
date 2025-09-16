@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1627638092009033728",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Significant regulatory update in cryptocurrency markets likely to be widely shared in financial and crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides concrete information about policy changes affecting retail investors."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Policy changes could influence markets for weeks/months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1627173520198311943",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Interesting trivia about a prominent figure but lacks viral hooks."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides factual historical context about Ethereum's creation."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of biographical fact."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Trivia item with limited long-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1624369414467452930",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Combines charity news with crypto relevance, likely to inspire shares."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific donation amount and purpose documented."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive humanitarian action with clear altruistic intent."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Tied to specific disaster response but demonstrates crypto philanthropy potential."
+      }
+    }
+  },
+  {
+    "tweet_id": "1623858705963057153",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Technical staking discussion with limited broad appeal."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Explains a specific staking service alternative."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral technical explanation with implied criticism of alternatives."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Service-related information remains relevant while platform exists."
+      }
+    }
+  },
+  {
+    "tweet_id": "1623305129729351682",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Major fintech platform update relevant to 25M users."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Concrete product launch information with user statistics."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral service announcement."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Platform changes could influence staking adoption long-term."
+      }
+    }
+  },
+  {
+    "tweet_id": "1623189534757498886",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High-profile interview combining crypto and governance topics."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Announces podcast content with specific discussion topics."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone about innovation and self-improvement."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Podcast content remains accessible long-term."
+      }
+    }
+  },
+  {
+    "tweet_id": "1622734006323216384",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Niche NFT transaction update for specialized audience."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Documents specific asset sale without broader context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral transaction reporting."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Single transaction relevance expires quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1622616941822091266",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major payment processor adopting crypto settlements - significant industry news."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Concrete information about payment infrastructure testing."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral corporate announcement."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Could influence payment industry trends long-term."
+      }
+    }
+  },
+  {
+    "tweet_id": "1622571025127948288",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Duplicate of major Visa news with similar viral potential."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Reiterates important payment infrastructure development."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral corporate update."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Same long-term relevance as duplicate announcement."
+      }
+    }
+  },
+  {
+    "tweet_id": "1622553298308935685",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Local disaster response offer could spread in Turkish networks."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides actionable logistics information for crisis response."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive intent to help disaster victims."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Time-sensitive to immediate relief efforts."
+      }
+    }
+  }
+]

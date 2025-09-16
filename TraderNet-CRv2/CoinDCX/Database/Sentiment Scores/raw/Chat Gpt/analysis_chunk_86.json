@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1475478842777030662",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "The tweet is a challenge that may resonate within the Ethereum community but lacks a broader hook, so it has neutral virality potential."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "The tweet is a challenge with no factual or informational content."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is a neutral challenge without strong emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The tweet's relevance is limited to the immediate conversation and likely fades within a day or two."
+      }
+    }
+  },
+  {
+    "tweet_id": "1475270753469841416",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet poses a question about a potential event that could spark discussion within the crypto community, giving it medium virality potential."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet only asks a question and does not provide factual information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral with a lighthearted tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tweet remains relevant for days as the community discusses the potential drop."
+      }
+    }
+  },
+  {
+    "tweet_id": "1474977413591441408",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet presents a controversial claim that could spark debate within the crypto community, giving it medium-high virality potential."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "The tweet references a link that may contain supporting information, but the tweet itself only states a claim."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, simply stating a claim without strong emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tweet remains relevant for weeks as the community discusses the claim."
+      }
+    }
+  },
+  {
+    "tweet_id": "1474749047831412737",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "The tweet expresses frustration that may resonate with some but lacks a broader hook."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "The tweet is purely opinion with no factual information."
+      },
+      "sentiment_polarity": {
+        "score": 1,
+        "justification": "The tweet expresses strong negative emotions about Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The tweet's relevance is limited to the immediate conversation and likely fades within a day or two."
+      }
+    }
+  },
+  {
+    "tweet_id": "1474738515271421952",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet provides a factual list that could be shared by users interested in crypto price history, giving it medium virality potential."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "The tweet provides a comprehensive list of crypto prices, which is factual and informative."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, providing factual information."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The tweet remains relevant for months as people refer to historical price data."
+      }
+    }
+  }
+]

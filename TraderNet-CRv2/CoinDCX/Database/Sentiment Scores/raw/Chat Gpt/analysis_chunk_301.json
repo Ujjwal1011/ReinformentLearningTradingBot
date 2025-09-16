@@ -1,0 +1,107 @@
+[
+{
+  "tweet_id": "1633940076634808323",
+  "analysis": {
+    "virality_potential": {
+      "score": 4,
+      "justification": "The tweet contains only a keyword and a link, lacking a hook or context, so its potential for widespread sharing is limited."
+    },
+    "informative_value": {
+      "score": 2,
+      "justification": "The tweet offers no additional context or information beyond the link, so its informative value is minimal."
+    },
+    "sentiment_polarity": {
+      "score": 5,
+      "justification": "The tweet is neutral, simply stating a topic."
+    },
+    "duration_of_impact": {
+      "score": 3,
+      "justification": "The tweet's relevance is tied to the linked content, which may become outdated quickly, so its impact is short."
+    }
+  }
+},
+{
+  "tweet_id": "1633932628662407171",
+  "analysis": {
+    "virality_potential": {
+      "score": 8,
+      "justification": "Breaking legal news about a major cryptocurrency lawsuit is likely to attract widespread attention and sharing."
+    },
+    "informative_value": {
+      "score": 8,
+      "justification": "The tweet conveys a factual update about a significant legal decision, providing valuable information."
+    },
+    "sentiment_polarity": {
+      "score": 5,
+      "justification": "The tweet is neutral, reporting facts."
+    },
+    "duration_of_impact": {
+      "score": 6,
+      "justification": "Legal rulings remain relevant for months, so the tweet will continue to be referenced."
+    }
+  }
+},
+{
+  "tweet_id": "1632878186089291776",
+  "analysis": {
+    "virality_potential": {
+      "score": 7,
+      "justification": "The tweet highlights a significant improvement in Ethereum's transaction costs, which is likely to resonate with the crypto community and encourage sharing."
+    },
+    "informative_value": {
+      "score": 6,
+      "justification": "It provides specific information about expected gas fee reduction and links to further details."
+    },
+    "sentiment_polarity": {
+      "score": 7,
+      "justification": "The tweet expresses positive excitement about lower gas fees."
+    },
+    "duration_of_impact": {
+      "score": 5,
+      "justification": "The relevance of lower gas fees will persist for some time, but may diminish as network conditions change."
+    }
+  }
+},
+{
+  "tweet_id": "1632861957828014080",
+  "analysis": {
+    "virality_potential": {
+      "score": 7,
+      "justification": "Free coin giveaways generate buzz and are often shared widely within crypto communities."
+    },
+    "informative_value": {
+      "score": 5,
+      "justification": "It informs about test net v3 and free coins, but does not provide deep technical details."
+    },
+    "sentiment_polarity": {
+      "score": 7,
+      "justification": "The tweet conveys a positive tone about free coins."
+    },
+    "duration_of_impact": {
+      "score": 4,
+      "justification": "Free coin events are typically short-lived; relevance fades quickly."
+    }
+  }
+},
+{
+  "tweet_id": "1632411798740582402",
+  "analysis": {
+    "virality_potential": {
+      "score": 7,
+      "justification": "The tweet presents dramatic market swings and a narrative that could spark discussion and sharing."
+    },
+    "informative_value": {
+      "score": 8,
+      "justification": "It provides specific percentage changes and a narrative about market behavior."
+    },
+    "sentiment_polarity": {
+      "score": 6,
+      "justification": "The tweet mixes hype with factual data, leaning slightly positive."
+    },
+    "duration_of_impact": {
+      "score": 5,
+      "justification": "Market updates remain relevant for a few days to weeks."
+    }
+  }
+}
+]

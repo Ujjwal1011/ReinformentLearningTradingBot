@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1480150496950239233",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet addresses a debate between Ethereum and Solana communities, which could generate discussion within blockchain circles but may not go viral beyond that."
+},
+"informative_value": {
+"score": 4,
+"justification": "It provides a critique of Ethereum but lacks detailed information or sources."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The tweet expresses criticism, indicating negative sentiment."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is tied to current blockchain discussions, likely fading in a few days."
+}
+}
+},
+{
+"tweet_id": "1479911497639743490",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Peter Brandt's critique may be shared among crypto enthusiasts, especially his followers."
+},
+"informative_value": {
+"score": 6,
+"justification": "It offers a critique with some technical terms, providing some information."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "Negative sentiment towards Ethereum's complexity."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days as it's tied to current market trends."
+}
+}
+},
+{
+"tweet_id": "1479817912106074119",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "A niche observation, likely shared within blockchain and language enthusiast communities."
+},
+"informative_value": {
+"score": 5,
+"justification": "It's an interesting observation but not particularly informative."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment, more of an observation."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short-term relevance as it's a passing comment."
+}
+}
+},
+{
+"tweet_id": "1479565002516402176",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Bold prediction that could attract attention and shares."
+},
+"informative_value": {
+"score": 4,
+"justification": "Speculative without detailed analysis."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment with enthusiasm."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short-term as price predictions are timely."
+}
+}
+},
+{
+"tweet_id": "1479520962592665605",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "List format and call for opinions can encourage engagement."
+},
+"informative_value": {
+"score": 5,
+"justification": "Provides a list but lacks detailed analysis."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, inviting opinions."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant for a few days as rankings change."
+}
+}
+},
+{
+"tweet_id": "1479501366192132099",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Technical discussion from a prominent figure, likely shared among blockchain enthusiasts."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides a detailed argument on blockchain architecture."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, presenting an argument."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Long-term relevance as it's a foundational concept."
+}
+}
+},
+{
+"tweet_id": "1479479690389774339",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Meme with humor, likely to be shared within crypto communities."
+},
+"informative_value": {
+"score": 3,
+"justification": "Low informative value, primarily a joke."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Positive and humorous sentiment."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "Very short-term as memes fade quickly."
+}
+}
+},
+{
+"tweet_id": "1479364122785423360",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "News from a reputable source, likely shared among crypto investors."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides a credible prediction with context."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive sentiment about Bitcoin and Ethereum."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days as news evolves."
+}
+}
+},
+{
+"tweet_id": "1479239962289651713",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Niche but significant within the crypto community."
+},
+"informative_value": {
+"score": 5,
+"justification": "Reports a sale but lacks broader context."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive sentiment around the sale."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant until the next major sale."
+}
+}
+},
+{
+"tweet_id": "1479214945745129472",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Predictions from a known figure, likely shared among crypto followers."
+},
+"informative_value": {
+"score": 5,
+"justification": "Offers opinions without detailed analysis."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment about the chains mentioned."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant for a short period as predictions are timely."
+}
+}
+}
+]

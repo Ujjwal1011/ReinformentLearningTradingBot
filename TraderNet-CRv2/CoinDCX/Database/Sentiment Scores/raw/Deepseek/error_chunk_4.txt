@@ -1,0 +1,203 @@
+--- RAW RESPONSE FROM MODEL ---
+[
+    {
+      "tweet_id": "1342239570172194816",
+      "analysis": {
+        "virality_potential": {
+          "score": 6,
+          "justification": "Customer complaints about a brand can often get traction within specific communities, but it's unlikely to go globally viral."
+        },
+        "informative_value": {
+          "score": 4,
+          "justification": "The tweet informs others about a potential issue with a software update, but it's a personal anecdote, not a formal bug report."
+        },
+        "sentiment_polarity": {
+          "score": 2,
+          "justification": "The user expresses strong negative emotions using words like 'incredibly disappointed' and 'full of bugs'."
+        },
+        "duration_of_impact": {
+          "score": 3,
+          "justification": "The tweet is only relevant until the company releases a patch for the bugs mentioned. Its impact is short-term."
+        }
+      }
+    },
+    {
+      "tweet_id": "1341388981334908930",
+      "analysis": {
+        "virality_potential": {
+          "score": 7,
+          "justification": "The purchase of a significant amount of Ethereum by Cobie Capital is a notable event in the crypto community, which could lead to widespread sharing and discussion."
+        },
+        "informative_value": {
+          "score": 8,
+          "justification": "The tweet provides specific information about a substantial investment in Ethereum, which is valuable to those interested in the cryptocurrency market."
+        },
+        "sentiment_polarity": {
+          "score": 5,
+          "justification": "The tweet is neutral to slightly positive, as it announces a significant investment in Ethereum, which could be seen as a bullish signal."
+        },
+        "duration_of_impact": {
+          "score": 7,
+          "justification": "The investment details are likely to remain relevant for a considerable time, as they provide insight into market trends and investor confidence."
+        }
+      }
+    },
+    {
+      "tweet_id": "1341219519545556992",
+      "analysis": {
+        "virality_potential": {
+          "score": 8,
+          "justification": "The tweet's humorous take on the Ripple/XRP team's claims is likely to resonate with a wide audience, potentially leading to high engagement and sharing."
+        },
+        "informative_value": {
+          "score": 3,
+          "justification": "While the tweet provides some context about Ripple/XRP's stance, it is primarily a satirical commentary rather than a source of factual information."
+        },
+        "sentiment_polarity": {
+          "score": 7,
+          "justification": "The tweet conveys a strong negative sentiment through humor, as it mocks Ripple/XRP's unusual defense strategy."
+        },
+        "duration_of_impact": {
+          "score": 4,
+          "justification": "The tweet's relevance may be somewhat limited to the crypto community and those following Ripple/XRP, with a moderate lifespan."
+        }
+      }
+    },
+    {
+      "tweet_id": "1339519495094771713",
+      "analysis": {
+        "virality_potential": {
+          "score": 3,
+          "justification": "The tweet about selling gold to invest in Ethereum is a personal financial decision that is unlikely to resonate widely beyond the crypto community."
+        },
+        "informative_value": {
+          "score": 4,
+          "justification": "The tweet provides information about an investment strategy, which could be of interest to those considering similar moves."
+        },
+        "sentiment_polarity": {
+          "score": 5,
+          "justification": "The sentiment of the tweet is neutral, as it simply states a financial transaction without expressing any particular emotion."
+        },
+        "duration_of_impact": {
+          "score": 3,
+          "justification": "The tweet's relevance is likely to be short-lived, as it pertains to a specific investment decision that may not be of ongoing interest."
+        }
+      }
+    },
+    {
+      "tweet_id": "1338387446690549760",
+      "analysis": {
+        "virality_potential": {
+          "score": 4,
+          "justification": "The tweet's warning against taking out a personal loan for Ethereum investments is a cautionary message that may resonate with a moderate audience."
+        },
+        "informative_value": {
+          "score": 5,
+          "justification": "The tweet provides a clear warning about the risks of certain investment strategies, which could be informative for potential investors."
+        },
+        "sentiment_polarity": {
+          "score": 4,
+          "justification": "The sentiment of the tweet is moderately negative, as it advises against a potentially risky financial decision."
+        },
+        "duration_of_impact": {
+          "score": 5,
+          "justification": "The tweet's relevance is likely to extend beyond a short period, as it addresses a common concern among investors."
+        }
+      }
+    },
+    {
+      "tweet_id": "1336379524628492288",
+      "analysis": {
+        "virality_potential": {
+          "score": 4,
+          "justification": "The tweet's warning against taking out a personal loan for Ethereum investments is a cautionary message that may resonate with a moderate audience."
+        },
+        "informative_value": {
+          "score": 5,
+          "justification": "The tweet provides a clear warning about the risks of certain investment strategies, which could be informative for potential investors."
+        },
+        "sentiment_polarity": {
+          "score": 4,
+          "justification": "The sentiment of the tweet is moderately negative, as it advises against a potentially risky financial decision."
+        },
+        "duration_of_impact": {
+          "score": 5,
+          "justification": "The tweet's relevance is likely to extend beyond a short period, as it addresses a common concern among investors."
+        }
+      }
+    },
+    {
+      "tweet_id": "1335030261810147333",
+      "analysis": {
+        "virality_potential": {
+          "score": 5,
+          "justification": "The tweet's comparison of AirPods Max and Ethereum is a personal preference that may interest a moderate audience but is unlikely to go viral."
+        },
+        "informative_value": {
+          "score": 3,
+          "justification": "The tweet provides a comparison between two products, but it does not offer substantial information or insights."
+        },
+        "sentiment_polarity": {
+          "score": 5,
+          "justification": "The sentiment of the tweet is neutral, as it presents a personal preference without expressing any strong emotions."
+        },
+        "duration_of_impact": {
+          "score": 3,
+          "justification": "The tweet's relevance is likely to be short-lived, as it pertains to a specific comparison that may not be of ongoing interest."
+        }
+      }
+    },
+    {
+      "tweet_id": "1334150764655226887",
+      "analysis": {
+        "virality_potential": {
+          "score": 8,
+          "justification": "The tweet's announcement of Visa integrating USDC is a significant development in the crypto space that is likely to generate widespread discussion and sharing."
+        },
+        "informative_value": {
+          "score": 9,
+          "justification": "The tweet provides detailed information about Visa's integration of USDC, which is highly valuable to those interested in the intersection of finance and cryptocurrency."
+        },
+        "sentiment_polarity": {
+          "score": 8,
+          "justification": "The sentiment of the tweet is very positive, as it announces a major milestone in the adoption of cryptocurrencies by mainstream financial institutions."
+        },
+        "duration_of_impact": {
+          "score": 8,
+          "justification": "The tweet's relevance is likely to extend for a considerable time, as it addresses a significant and ongoing trend in the financial industry."
+        }
+      }
+    },
+    {
+      "tweet_id": "1333744735735795712",
+      "analysis": {
+        "virality_potential": {
+          "score": 7,
+          "justification": "The tweet's announcement of Ethereum reaching the threshold for ETH 2.0 beacon mainnet is a significant event in the crypto space that is likely to generate widespread discussion and sharing."
+        },
+        "informative_value": {
+          "score": 8,
+          "justification": "The tweet provides specific information about the four criteria scores and justification for each of the four criteria. The tweet_id": "score": 8,
+          "justification": "The tweet provides detailed information about Ethereum's progress towards ETH 2.0, which is highly valuable to those interested in the future of the cryptocurrency."
+        },
+        "sentiment_polarity": {
+          "score": 8,
+          "justification": "The sentiment of the tweet is very positive, as it announces a major milestone in the development of Ethereum."
+        },
+        "duration_of_impact": {
+          "score": 7,
+          "justification": "The tweet's relevance is likely to extend for a considerable time, as it addresses a significant and ongoing trend in the crypto space."
+        }
+      }
+    },
+    {
+      "tweet_id": "1338387446690549760",
+      "analysis": {
+        "virality_potential": {
+          "score": 4,
+          "justification": "The tweet's warning against taking out a personal loan for Ethereum investments is a cautionary message that may resonate with a moderate audience."
+        },
+        "informative_value": {
+          "score": 5
+
+--- FULL PROMPT SENT TO MODEL ---

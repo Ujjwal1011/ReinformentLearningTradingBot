@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1475478842777030662",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet's provocative language and reference to a popular topic (Ethereum Killer) could generate engagement within specific crypto communities."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet is more of a challenge/statement rather than providing informative content."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tone is playful and daring, expressing a strong, positive emotional stance in a lighthearted manner."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevance is short-term, tied to the immediate reaction to the 'Ethereum Killer' phrase within a limited timeframe."
+}
+}
+},
+{
+"tweet_id": "1475270753469841416",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The use of a popular meme (WEN) and a question about a potential token release could spark engagement within the crypto community."
+},
+"informative_value": {
+"score": 3,
+"justification": "Provides minimal information, mainly speculative, about a potential $GAS token release."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Expresses moderate positive sentiment through the use of a smiling face emoji, indicating anticipation or excitement."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Standard lifespan for a tweet, generating discussion for a day or two before fading."
+}
+}
+},
+{
+"tweet_id": "1474977413591441408",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet's engaging question and linked content (presumably a meme or relevant information) could be widely shared within crypto communities."
+},
+"informative_value": {
+"score": 5,
+"justification": "Neutral, as the informative value depends on the linked content, which isn't described here."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, as the sentiment isn't clearly positive or negative without the context of the linked content."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Remains relevant for days or weeks, depending on the ongoing interest in Solana vs. Ethereum discussions."
+}
+}
+},
+{
+"tweet_id": "1474749047831412737",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "A personal, negative experience with Ethereum might generate some engagement but is unlikely to go viral."
+},
+"informative_value": {
+"score": 2,
+"justification": "Provides a personal opinion rather than informative content about Ethereum's usability or issues."
+},
+"sentiment_polarity": {
+"score": 1,
+"justification": "Expresses strong negative emotions towards using Ethereum, highlighted by 'I hate it so much'."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short-term relevance, as personal anecdotes typically don't sustain long-term engagement."
+}
+}
+},
+{
+"tweet_id": "1474738515271421952",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "While informative, the list of crypto prices from last Christmas is less likely to be widely shared."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides historical, comparative data on top cryptocurrencies, offering valuable information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, as the tweet presents factual information without emotional tone."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Remains relevant for months, as year-over-year comparisons are valuable for long-term investors and analysts."
+}
+}
+},
+{
+"tweet_id": "1474580983596912641",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The humorous, provocative scenario described could be widely shared across different audiences."
+},
+"informative_value": {
+"score": 1,
+"justification": "Minimal informative value, as the content is primarily humorous and anecdotal."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Expresses a very positive sentiment through humor, despite the negative context of criticism."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Could remain relevant for weeks due to its entertaining value, encouraging shares and quotes."
+}
+}
+},
+{
+"tweet_id": "1474568678242934792",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The localized, humorous anecdote about Ethereum could be shared widely within and beyond the immediate community."
+},
+"informative_value": {
+"score": 1,
+"justification": "Provides no informative content, focusing instead on a humorous, personal story."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "Expresses a very positive sentiment, highlighted by the description of someone 'matando de risa' (dying of laughter)."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Remains relevant for days to a week, primarily within the local community or those who appreciate the joke."
+}
+}
+},
+{
+"tweet_id": "1474530617165504514",
+"analysis": {
+"virality_potential": {
+"score": 10,
+"justification": "The offer of 5 Ethereum as a giveaway incentivizes massive sharing and engagement."
+},
+"informative_value": {
+"score": 2,
+"justification": "Minimal informative content, primarily focused on the giveaway."
+},
+"sentiment_polarity": {
+"score": 10,
+"justification": "Expresses an extremely positive sentiment through the generous giveaway, spreading joy and gratitude."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Standard lifespan, with relevance peaking immediately after posting and fading as the giveaway concludes."
+}
+}
+},
+{
+"tweet_id": "1474468752381075459",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Comparative investment returns can spark engagement, especially with significant disparities shown."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides valuable, comparative investment return data for different assets, including Ethereum."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, as the tweet presents factual, comparative data without an emotional tone."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Remains relevant for months, as comparative investment analyses are valuable for long-term financial planning."
+}
+}
+},
+{
+"tweet_id": "1474440094861901826",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The giveaway could generate engagement, but its reach might be limited to the followers of the mentioned accounts."
+},
+"informative_value": {
+"score": 2,
+"justification": "Provides minimal information, mainly about the process to enter the giveaway."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, as the primary focus is on the giveaway process without expressing a clear sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Short-term relevance, with engagement peaking until the giveaway's deadline (January 1st, 21:00)."
+}
+}
+} 
+]

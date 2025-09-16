@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1473887809211711491",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet's critique of Ethereum's structure and mention of several users could attract attention within the crypto community, but it's unlikely to go viral beyond that."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet provides a personal critique of Ethereum's structure, which is somewhat informative but not a formal analysis."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The user expresses strong negative emotions towards Ethereum's centralized aspects."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's impact is likely short-term, as it's a critique that may spark immediate discussion but fade quickly."
+}
+}
+},
+{
+"tweet_id": "1473873779231272965",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "A confident statement about Ethereum winning, likely shared among supporters but not beyond."
+},
+"informative_value": {
+"score": 4,
+"justification": "Minimal information; a brief statement without context."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Strong positive sentiment about Ethereum."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short-term impact as it's a brief statement without depth."
+}
+}
+},
+{
+"tweet_id": "1473835928334618627",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Specific growth metrics about Avalanche attract attention within the crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides detailed, credible information about Avalanche's growth."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Positive sentiment about Avalanche's success."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Impact lasts a few weeks as people discuss the growth metrics."
+}
+}
+},
+{
+"tweet_id": "1473805837869064195",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Personal story about Ethereum success, resonating within crypto circles."
+},
+"informative_value": {
+"score": 5,
+"justification": "Shares a personal perspective on Ethereum's potential."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive sentiment about understanding Ethereum's value."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short-term impact as it's a personal anecdote."
+}
+}
+},
+{
+"tweet_id": "1473754055600009216",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Announcement of Uniswap on Polygon is significant for the crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides specific details about a major event in the Ethereum ecosystem."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Positive sentiment about the milestone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Impact lasts a few weeks as people discuss the implications."
+}
+}
+},
+{
+"tweet_id": "1473551615286071296",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Catchy headline about Ethereum and Shibtoken may attract clicks."
+},
+"informative_value": {
+"score": 5,
+"justification": "Link to an article with a brief summary, somewhat informative."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment as it's a news snippet."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short-term impact as it's a news item."
+}
+}
+},
+{
+"tweet_id": "1473545333191806977",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Expresses confusion about Bitcoin and Ethereum stances, sparking discussions."
+},
+"informative_value": {
+"score": 4,
+"justification": "Opinion-based without much depth."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment as it's a personal opinion."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short-term impact as it's a personal critique."
+}
+}
+},
+{
+"tweet_id": "1473542846049181700",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Bold statement about Ethereum raising $0 from VCs attracts attention."
+},
+"informative_value": {
+"score": 5,
+"justification": "Brief but informative fact about Ethereum's funding."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment towards Ethereum's independence."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short-term impact as it's a single fact."
+}
+}
+},
+{
+"tweet_id": "1473403477049188363",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Critique of Jack's views on crypto, shared among enthusiasts."
+},
+"informative_value": {
+"score": 4,
+"justification": "Opinion-based critique without much depth."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "Negative sentiment towards Jack's views."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short-term impact as it's a critique."
+}
+}
+},
+{
+"tweet_id": "1473335309890957319",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Mentions Ethereum creator in a game context, shared among Spanish-speaking communities."
+},
+"informative_value": {
+"score": 3,
+"justification": "Gossip-like information about the creator."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive sentiment about the creator's involvement."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short-term impact as it's a specific event."
+}
+}
+}
+]

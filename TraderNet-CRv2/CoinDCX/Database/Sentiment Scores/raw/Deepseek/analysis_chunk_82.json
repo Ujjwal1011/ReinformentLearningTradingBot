@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1519754312712429568",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Controversial takes about major crypto protocols like Ethereum often spark debates within crypto communities, though broader viral potential is limited."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Presents an opinion without supporting data or actionable information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of a subjective viewpoint without overt emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Proof-of-work debates remain relevant in crypto circles for weeks/months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1519667776847335424",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Revealing corporate partnerships with explosive emojis and dramatic phrasing creates high shareability in financial/crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific details about corporate collaborations and legal representation with verifiable entities."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Extremely positive tone conveyed through emojis like 💥 and celebratory language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Corporate blockchain partnerships typically remain relevant for weeks in industry discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1519513208503078912",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Survey data about institutional adoption has moderate share potential in crypto circles."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Reports specific statistical data from a survey with relevant cryptocurrency context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of survey results without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Institutional adoption trends remain relevant for weeks in financial news cycles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1519442802073124870",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Large whale transactions often generate immediate attention and speculation in crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Specific transaction details provide actionable market data, though lacks broader context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of a transaction without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Individual whale transactions typically have short-term market impact (hours/days)."
+      }
+    }
+  },
+  {
+    "tweet_id": "1519326733161447424",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Real-world crypto adoption by major companies often generates widespread sharing."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Concrete information about payment method adoption with specific company details."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Payment method adoptions remain relevant for weeks as industry benchmarks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1519166370197667845",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Industry conflict over Web3 has moderate share potential in gaming/crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Highlights an ongoing industry debate but lacks specific details or sources."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of industry tensions without taking sides."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Web3 integration debates remain relevant for weeks in tech circles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1518730242504159232",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "NFT market updates have consistent shareability in crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific percentage growth and dollar figures for NFT sales."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of market statistics without emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Weekly sales figures become outdated quickly with new data cycles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1518577744635904001",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Regulatory preference between major cryptocurrencies generates high engagement in crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Reports on policy documents from a major governing body with market implications."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of policy preferences without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Regulatory decisions can influence markets for months/years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1517999573247172608",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Humor about Ethereum gas fees has strong meme potential in crypto communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Primarily a joke about transaction costs without substantive information."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Moderately negative critique of Ethereum's fee structure through sarcasm."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Meme-style content typically has short lifespan (days)."
+      }
+    }
+  },
+  {
+    "tweet_id": "1517966379147837442",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Cryptocurrency adoption commentary has moderate share potential, but vague phrasing limits reach."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Lacks specific details about how Ethereum is going mainstream."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Implied negative sentiment about unexpected adoption methods."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Vague commentary loses relevance quickly without concrete details."
+      }
+    }
+  }
+]

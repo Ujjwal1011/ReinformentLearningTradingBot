@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1765321693503832471",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet uses a humorous meme format and a popular hashtag (#ethereum), which can resonate within the crypto community and encourage sharing, but it lacks a strong hook for global virality."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "It merely states that Alex the Uber driver reports from EthDenver, providing no new factual information or context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is light-hearted and neutral, with no strong emotional words."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The meme references a specific event (EthDenver) and may remain relevant for a few days to a week."
+      }
+    }
+  },
+  {
+    "tweet_id": "1764782662495989951",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news about a major financial regulator delaying a high-profile ETF is likely to be widely shared, especially with the added humor."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It delivers a factual update about SEC's action on BlackRock's Spot Ethereum ETF."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "The tweet expresses disappointment about the delay, but includes a laughing emoji, making it moderately negative."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "This regulatory update will stay relevant for weeks as the market reacts."
+      }
+    }
+  },
+  {
+    "tweet_id": "1764778172761923634",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Same breaking news but posted by a high-follower account, increasing reach; likely to go viral."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Same factual content."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative tone about delay."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Same as above."
+      }
+    }
+  },
+  {
+    "tweet_id": "1764673182600929551",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "High-value CryptoPunk sale is newsworthy and can attract attention from collectors and traders."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific details: item, price, addresses."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral factual tone."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The transaction remains relevant for collectors, but not long-term."
+      }
+    }
+  },
+  {
+    "tweet_id": "1764619361250075093",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking claim that Solana outperformed Ethereum in DEX volume is a headline-worthy statement."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides a factual claim about market volumes."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Market volume comparisons remain relevant for a few days to weeks."
+      }
+    }
+  }
+]

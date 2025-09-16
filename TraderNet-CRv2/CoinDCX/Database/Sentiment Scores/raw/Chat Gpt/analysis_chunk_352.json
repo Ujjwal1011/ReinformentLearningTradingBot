@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1732360546672844928",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet uses emojis and a call-to-action, but it is a promotional message aimed at HEXscout users, likely to spread within that community but not globally viral."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides step-by-step instructions for using HEXscout features, offering useful guidance to users."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tone is enthusiastic and positive, encouraging users to explore hidden secrets."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The content remains relevant as long as HEXscout continues to offer these features, likely for weeks or months."
+}
+}
+},
+{
+"tweet_id": "1732359417482362975",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The all-caps hype and market prediction language can spark interest among crypto communities, potentially leading to shares within that niche."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet offers speculative predictions without data or sources, providing minimal factual information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tone is upbeat and anticipatory, encouraging excitement about potential market moves."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The relevance is tied to short-term market movements, likely fading within days or weeks."
+}
+}
+},
+{
+"tweet_id": "1732357739240718462",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The announcement of a major e-commerce platform adopting Ethereum could attract attention within the crypto and tech communities, leading to moderate sharing."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides a clear, factual update about a new authentication method being introduced to Shopify."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply informing readers about the upcoming feature."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The relevance will persist as the feature rolls out and is used, potentially lasting several months."
+}
+}
+},
+{
+"tweet_id": "1732347256094040166",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Airdrop announcements often generate buzz within crypto circles, especially with the use of emojis and a thread format, leading to moderate sharing."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet outlines the airdrop details, tokenomics, and upcoming launch, offering useful information to potential participants."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tone is enthusiastic and promotional, aiming to excite users about the airdrop."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The relevance is tied to the airdrop event, which will likely fade after the distribution is complete."
+}
+}
+},
+{
+"tweet_id": "1732339145073164631",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The educational nature and clear bullet points can attract shares among those interested in Starknet, but it is unlikely to go viral beyond that niche."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet offers a concise overview of Starknet’s core components, providing valuable knowledge to readers."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral and factual, focusing on information rather than emotion."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The fundamentals of Starknet are long-lasting, making the tweet relevant for months or even years."
+}
+}
+}
+]

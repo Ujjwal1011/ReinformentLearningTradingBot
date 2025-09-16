@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1769742064630018497",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet compares the price surge of Solana and Ethereum, which might spark interest within the crypto community, but its reach is limited."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides specific, comparable data on cryptocurrency prices, making it somewhat informative for those interested in crypto markets."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet expresses moderate surprise or astonishment (indicated by '🤯') at the price changes, leaning towards a positive sentiment due to the upward trend mentioned."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is short-term, as the price comparisons will quickly become outdated."
+}
+}
+},
+{
+"tweet_id": "1769704086117499046",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The 'BREAKING' tag and the announcement of a significant market flip could generate substantial interest and sharing within crypto and financial communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet informs about a specific, newsworthy event in the cryptocurrency market, providing a link for further information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tone is moderately positive, implying excitement or interest in the market development, though the language remains fairly neutral."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance extends beyond the immediate moment but is still tied to a relatively short-lived market event."
+}
+}
+},
+{
+"tweet_id": "1769568156182323261",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Similar to the previous tweet, the 'BREAKING' tag and the announcement of Solana flipping Ethereum in Google search interest could generate significant sharing."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides newsworthy information about a shift in search interest, with a link for more details, making it informative for those interested in market trends."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tone is moderately positive, suggesting excitement or interest in the market development without expressing a strong emotional stance."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Similar to the previous, its relevance is somewhat longer than a fleeting moment but still tied to a relatively short-lived market observation."
+}
+}
+},
+{
+"tweet_id": "1769388497192833168",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet's content, while engaging for a specific audience with its thematic approach, lacks a broad, universally appealing hook."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet is more about community engagement and less about providing new, factual information, though it hints at the diversity within the crypto space."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The sentiment is moderately positive, encouraging and inclusive, with a tone of shared future prospects."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Its relevance is standard, generating discussion for a day or two before fading, as it's more about community spirit than breaking news."
+}
+}
+},
+{
+"tweet_id": "1769368200846745935",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The comparison between Ethereum/Solana and Bitcoin, highlighting the contrast in how wealth is distributed, could spark sharing within crypto communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "Informs about a contrast in approaches to wealth distribution in crypto platforms, though the information is presented in a somewhat biased or opinionated manner."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The sentiment is moderately negative towards Ethereum and Solana, criticizing their presale methods, while being positive towards Bitcoin's airdrop approach."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The relevance of the tweet is standard, as it discusses a topic of ongoing interest but doesn't introduce new, time-sensitive information."
+}
+}
+},
+{
+"tweet_id": "1769126971294851141",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The advice on buying meme coins might interest a specific audience but lacks broad appeal to go viral beyond crypto enthusiasts."
+},
+"informative_value": {
+"score": 5,
+"justification": "Provides a strategy for investing in meme coins across different platforms, though the advice is general and not based on new, breaking information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tone is moderately positive, suggesting a hopeful or optimistic outlook on the strategy's potential for success."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet remains relevant for days or weeks, as the strategy discussed is not time-sensitive and can be applied over a period."
+}
+}
+},
+{
+"tweet_id": "1768920062981750810",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Similar to a previous tweet, the comparison between Ethereum/Solana and Bitcoin's approaches to memecoins could generate interest and sharing within the crypto community."
+},
+"informative_value": {
+"score": 6,
+"justification": "Informs about the contrast in memecoin distribution methods, though presented in a somewhat opinionated or biased light."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The sentiment is moderately negative towards Ethereum and Solana, while being positive towards Bitcoin's method, similar to the previous analysis."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The relevance is standard, discussing an ongoing topic without introducing new, time-sensitive information."
+}
+}
+},
+{
+"tweet_id": "1768700841316192699",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The announcement of exclusive in-game content (Vexa skin) for 'Box Holders' has high potential for sharing among gamers and the KIRAVERSE community."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides newsworthy information about exclusive content, with links for accessing it, making it highly informative for the target audience."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The tone is extremely positive, announcing a desirable exclusive content update, likely to generate excitement."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet remains relevant for days or weeks, as the announcement of new content is of interest to the community over a period."
+}
+}
+},
+{
+"tweet_id": "1768622817631772910",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The 'BREAKING' tag and the announcement of significant Bitcoin and Ethereum options expiring could generate substantial interest and sharing in financial and crypto communities."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides timely, newsworthy information about a significant financial event with potential high volatility, making it highly informative."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, simply reporting on a financial event without expressing a sentiment."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "The tweet's relevance is very short, as the event (options expiring) is time-sensitive and loses all context shortly after the expiration."
+}
+}
+},
+{
+"tweet_id": "1768592268745667036",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The announcement of significant Bitcoin and Ethereum options expiring might generate interest, though it's somewhat less engaging without the 'BREAKING' tag."
+},
+"informative_value": {
+"score": 8,
+"justification": "Similar to the previous, it provides timely, newsworthy information, though the detail about expected high volatility is missing here."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, reporting on a financial event without expressing a sentiment, similar to the previous analysis."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "The relevance is very short, as the event's significance is highly time-sensitive."
+}
+}
+} 
+]

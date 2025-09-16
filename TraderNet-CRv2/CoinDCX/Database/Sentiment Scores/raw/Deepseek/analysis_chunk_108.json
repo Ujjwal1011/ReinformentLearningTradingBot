@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1533983956537856000",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Cryptic artistic language and strong visual style may resonate within niche crypto-art communities, but lacks broad appeal elements."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Poetic/metaphorical content provides no verifiable information or educational value."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Ambiguous tone with ceremonial language that doesn't clearly express positive or negative emotions."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Abstract message tied to no specific event or timeframe, likely fading quickly from public attention."
+      }
+    }
+  },
+  {
+    "tweet_id": "1533932735420579840",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Actionable bear market advice with thread hook ('1/x') encourages sharing within crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides strategic concept (information asymmetry) with promise of practical guidance in thread."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Optimistic tone about market opportunities despite challenging conditions."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Bear market strategies remain relevant for weeks/months during market cycles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1533467689741651969",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Personal portfolio move might spark brief debate but lacks unique value proposition for widespread sharing."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "States a personal action without context or analysis behind the asset swap decision."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral statement of action without emotional language or commentary."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Relevance expires immediately after reading as a singular personal decision."
+      }
+    }
+  },
+  {
+    "tweet_id": "1533168086467100673",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Newsworthy statement from Ethereum's founder about government regulation likely to spark widespread debate."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Reports verifiable statement from primary source (Vitalik) on policy matter."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Implied criticism of government intervention through 'bad idea' framing."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Regulation discussions remain relevant for weeks in crypto policy debates."
+      }
+    }
+  },
+  {
+    "tweet_id": "1533104417314066432",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Large monetary figure ($4.26B) and Ethereum mechanics update create strong sharing incentives."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific, quantifiable data point about blockchain economics from known tracking account."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of network statistics without positive/negative framing."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Burn metrics remain reference points for months in Ethereum's economic discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1533090805082365952",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "High-stakes governance vote (91% result) attracts attention across crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Reports definitive DAO voting outcome with ecosystem implications."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of voting results without editorializing."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "DAO decisions set long-term project directions, remaining relevant for months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1533019579555147778",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Price analysis tweet with multiple hashtags targets crypto traders but lacks unique insight."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides market analysis context through linked article, though surface-level in tweet itself."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral comparison without clear bullish/bearish positioning."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Price level analyses become obsolete within hours in volatile markets."
+      }
+    }
+  },
+  {
+    "tweet_id": "1532983314394808320",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Image-based comparison meme between blockchains could spread within crypto communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Lacks substantive comparison details without viewing attached media."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral comparative post dependent on unviewed image content."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Meme content typically has short lifespan unless becoming iconic."
+      }
+    }
+  },
+  {
+    "tweet_id": "1532966703423954944",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Ranked list format with quantifiable metrics encourages broad sharing as reference material."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides verifiable social media metrics snapshot with timestamped relevance."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of factual follower counts without commentary."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Social metrics become outdated quickly but serve as historical reference."
+      }
+    }
+  },
+  {
+    "tweet_id": "1532694074976780289",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Major DAO proposal announcement attracts attention from multiple crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Reports critical governance action with ecosystem-wide implications."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of proposal submission without endorsement."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "DAO proposals influence long-term project trajectories, remaining relevant for weeks."
+      }
+    }
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1531989440469471234",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet shares a surprising statistic about Ethereum transaction failures, which can attract interest within the crypto community. It has a clear hook but lacks a strong emotional or meme element, so it is likely to spread moderately."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "It cites a specific source (Blockchair) and provides a concrete number, offering factual, newsworthy information about Ethereum’s performance."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral and factual, with no overt positive or negative language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The statistic is tied to a specific month (May), so relevance will fade after a few weeks, making it short‑term."
+      }
+    }
+  },
+  {
+    "tweet_id": "1553533882703773696",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "A direct quote from Vitalik Buterin on the metaverse is likely to be shared widely by crypto and tech audiences, especially given the high profile of the source."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "The tweet contains a primary‑source statement that is newsworthy and provides insight into a major industry trend."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "The sentiment is mildly negative, criticizing corporate attempts to create the metaverse."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The topic of the metaverse remains relevant for months, so the tweet will continue to generate discussion for a while."
+      }
+    }
+  },
+  {
+    "tweet_id": "1553414402136834049",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "A personal anecdote about crypto acceptance at a farmers market is niche and unlikely to go viral beyond a small community."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet offers a personal observation rather than verifiable data or a broader insight."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "The tone is mildly negative, expressing disappointment that no stand accepted crypto."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "The observation is tied to a specific event and will quickly lose relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1553331229285548044",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "A celebratory tweet about Ethereum’s 7th anniversary can resonate with many crypto users and is likely to be shared within the community."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "The tweet is mainly a congratulatory message with no new factual data."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tone is very positive, expressing joy and celebration."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The anniversary is a one‑time event, so relevance will last a few weeks to a month."
+      }
+    }
+  },
+  {
+    "tweet_id": "1553329802467229696",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet combines historical context, growth metrics, and a celebratory tone, making it appealing for sharing among crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "It provides specific launch details, location, and a valuation figure, offering factual information."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The sentiment is very positive, celebrating Ethereum’s success."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "While the anniversary is a one‑time event, the historical and growth details give the tweet a medium‑term relevance."
+      }
+    }
+  }
+]

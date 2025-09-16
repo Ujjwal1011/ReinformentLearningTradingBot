@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1453078932513869832",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Personal success story with specific data may resonate within crypto communities, but lacks broader appeal for global virality."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific price points and return figures, giving readers factual information about crypto performance, but it's anecdotal and not from a primary source."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tweet expresses excitement and congratulations, reflecting a strong positive tone."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The historical price data and return figures can be referenced for months, but the specific context of the 2020 crash may become less relevant over time."
+      }
+    }
+  },
+  {
+    "tweet_id": "1452998375025127427",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "A simple question likely to generate replies within a niche community but unlikely to spread widely."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "The tweet is a personal query with no factual content, providing no new information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is a neutral inquiry without strong emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The question is time-sensitive and likely to be answered quickly, with relevance fading within a day."
+      }
+    }
+  },
+  {
+    "tweet_id": "1452907974821761024",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The statement may provoke discussion among crypto enthusiasts, but it's not a breaking news or meme."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet offers a speculative claim without supporting evidence or data."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "The tweet expresses a cautious negative outlook about future accessibility."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The prediction may be discussed for a few months but will likely fade as market conditions change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1452788485916610562",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The record high is a notable event that may attract attention within the crypto community, but it may not go viral globally."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet reports a verifiable market milestone, providing valuable information to followers."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet presents a factual update without emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The record high is a significant milestone that can be referenced for months as a benchmark."
+      }
+    }
+  },
+  {
+    "tweet_id": "1452595897032798208",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The question may generate discussion within the crypto community, but it's unlikely to go viral beyond that niche."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet poses a speculative question without providing new information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is a neutral inquiry without strong emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The question may be discussed for a few months but will likely fade as market conditions evolve."
+      }
+    }
+  }
+]

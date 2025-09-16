@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1740515567621345689",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "High-profile author, meme-like phrasing, strong emotional hook, high engagement metrics, likely to be widely shared within crypto community and beyond."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet mainly expresses a slogan without factual content; the link may contain info but the tweet itself lacks informative value."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Expresses enthusiasm and optimism about Ethereum's direction."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Meme may persist for weeks to months within crypto discourse, but not likely to remain relevant for years."
+}
+}
+},
+{
+"tweet_id": "1740192312297455942",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Promotional content with hype, targeting specific crypto/NFT audience; moderate shareability within those communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "Contains details about the project's mint supply and cross-chain bridging, offering some factual info about the upcoming launch."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Uses upbeat language like \"once and for all\" and \"our story\", indicating optimism."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant primarily until the mint occurs; after that, interest wanes."
+}
+}
+},
+{
+"tweet_id": "1739318467734438111",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Large-scale financial event reported by a high-followed account; likely to be widely shared."
+},
+"informative_value": {
+"score": 9,
+"justification": "Reports a concrete, verifiable financial transaction with specific figures, linking to source."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Presents factual information without overt emotional language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Significant transaction may be cited in analyses for weeks to months, but not likely to remain a focal point for years."
+}
+}
+},
+{
+"tweet_id": "1738912202558431688",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Breaking news style tweet from a crypto news account, referencing cross-chain functionality; likely to be shared among enthusiasts."
+},
+"informative_value": {
+"score": 6,
+"justification": "Conveys a specific development regarding cross-chain plans, offering new information to followers."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive framing of the development, indicating optimism."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevant while the cross-chain implementation is being discussed; interest may fade after launch."
+}
+}
+},
+{
+"tweet_id": "1738775768799600844",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Provocative statement with a hook, likely to attract shares within crypto community."
+},
+"informative_value": {
+"score": 3,
+"justification": "Provides no factual content; just a teaser without details."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Expresses optimism about Ethereum's future."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "May be discussed while the linked solution is relevant, but likely fades after the conversation."
+}
+}
+}
+]

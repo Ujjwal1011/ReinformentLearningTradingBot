@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1477087250680791047",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet makes a bold prediction about Ethereum, which could attract attention within the crypto community but may not go viral beyond that."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet provides a prediction, which is somewhat informative but lacks detailed analysis or sources."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses optimism about Ethereum's future, indicating a positive sentiment."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Predictions are typically relevant for a short period, as they depend on future events."
+}
+}
+},
+{
+"tweet_id": "1498172221054988290",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet reports on a significant event in the crypto space, likely to be shared among enthusiasts."
+},
+"informative_value": {
+"score": 7,
+"justification": "It provides news about Sotheby’s withdrawing an auction, which is factual and newsworthy."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply reporting the event without strong emotion."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The impact is tied to the event, which is relevant for a short period."
+}
+}
+},
+{
+"tweet_id": "1498033996562931715",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet is in Russian and praises Vitalik, likely to be shared within the Russian-speaking crypto community."
+},
+"informative_value": {
+"score": 6,
+"justification": "It informs about Vitalik's response, though the content is brief."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses gratitude and admiration, indicating a positive sentiment."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is tied to a specific interaction, making its impact short-term."
+}
+}
+},
+{
+"tweet_id": "1498033741465210884",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet asks a question, encouraging engagement within the crypto community."
+},
+"informative_value": {
+"score": 4,
+"justification": "It's a simple question without additional information or context."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, seeking opinions without expressing emotion."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is limited to the time people engage with the question."
+}
+}
+},
+{
+"tweet_id": "1498032229938708480",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet is in Russian and mentions Vitalik's response, likely to be shared within a specific community."
+},
+"informative_value": {
+"score": 6,
+"justification": "It informs about Vitalik's response, though the context is brief."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses approval, indicating a positive sentiment."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is tied to a specific event, making its impact short-term."
+}
+}
+},
+{
+"tweet_id": "1498031424083054599",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet is in Russian and mentions Vitalik's response, likely to be shared within a specific community."
+},
+"informative_value": {
+"score": 6,
+"justification": "It informs about Vitalik's response, though the context is brief."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses approval, indicating a positive sentiment."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is tied to a specific event, making its impact short-term."
+}
+}
+},
+{
+"tweet_id": "1498029533345243148",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet reports on Vitalik's response, which could attract attention within the crypto community."
+},
+"informative_value": {
+"score": 7,
+"justification": "It provides information about a significant response, which is factual and newsworthy."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses approval, indicating a positive sentiment."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is tied to a specific event, making its impact short-term."
+}
+}
+},
+{
+"tweet_id": "1497718332002295813",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet reports on a significant donation to Ukraine, likely to be widely shared."
+},
+"informative_value": {
+"score": 8,
+"justification": "It provides factual information about a substantial donation, which is newsworthy."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses positive sentiment about the donation."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance extends beyond a short period due to the ongoing situation in Ukraine."
+}
+}
+},
+{
+"tweet_id": "1497688902685048837",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet reports on significant cryptocurrency donations, likely to be widely shared."
+},
+"informative_value": {
+"score": 8,
+"justification": "It provides detailed information about the donations, which is factual and newsworthy."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses positive sentiment about the donations."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance extends beyond a short period due to the ongoing situation in Ukraine."
+}
+}
+},
+{
+"tweet_id": "1497679755327553537",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet compares Ethereum to Kickstarter, which could attract attention within the fundraising community."
+},
+"informative_value": {
+"score": 7,
+"justification": "It provides a comparison of fundraising tools, which is informative."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses positive sentiment about Ethereum."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The comparison could remain relevant for a moderate period as it addresses a ongoing topic."
+}
+}
+}
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1354820049031188481",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "A niche question about Ethereum's price history, likely to engage only crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Provides a specific price point but lacks context or detailed information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral question without strong emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevant only to those interested in past price data."
+      }
+    }
+  },
+  {
+    "tweet_id": "1354811175574245383",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Strong statement against centralized finance with hashtags, likely shared within crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Discusses a significant shift in finance, providing valuable insight."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Very positive sentiment promoting crypto."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Addresses a trend with lasting implications."
+      }
+    }
+  },
+  {
+    "tweet_id": "1354528254674268163",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Breaking news about a partnership, likely widely shared."
+      },
+      "informative_value": {
+        "score": 10,
+        "justification": "Announces a significant partnership with detailed information."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive sentiment about the partnership."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "Long-term impact due to partnership effects."
+      }
+    }
+  },
+  {
+    "tweet_id": "1354461551160340480",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Meme-like comparisons, likely shared within crypto communities."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Informative but more of a meme than detailed analysis."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment through meme comparisons."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Short-term impact as a trend."
+      }
+    }
+  },
+  {
+    "tweet_id": "1354192810958843904",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Specific event involving a capital firm, likely shared among traders."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides information on a financial event."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment suggesting spreading the word."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Short-term impact related to the event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1353944299994566656",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Generic investment advice, unlikely to go viral."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Provides a suggestion but lacks depth."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment in the suggestion."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term impact as a specific suggestion."
+      }
+    }
+  },
+  {
+    "tweet_id": "1353498984124452867",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Announcement of a price milestone, likely shared among crypto followers."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Factual statement about a price point."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive sentiment about reaching a high."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term impact as a specific moment."
+      }
+    }
+  },
+  {
+    "tweet_id": "1353480607234367488",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Discusses market phases, likely shared within crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides analysis on market trends."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive sentiment about upcoming phases."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Medium-term impact as a trend discussion."
+      }
+    }
+  },
+  {
+    "tweet_id": "1351906017802596353",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Comparison of market caps, likely shared among investors."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides market data for comparison."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment about potential growth."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term impact as a specific comparison."
+      }
+    }
+  },
+  {
+    "tweet_id": "1351499648683417607",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Excited announcement of a price milestone, likely widely shared."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Factual announcement of a significant event."
+      },
+      "sentiment_polarity": {
+        "score": 10,
+        "justification": "Extremely positive sentiment with excitement."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term impact as a specific moment."
+      }
+    }
+  }
+]

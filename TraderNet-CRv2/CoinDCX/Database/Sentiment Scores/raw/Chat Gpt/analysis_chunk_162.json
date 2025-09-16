@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1499414900355047427",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Breaking news about a major wallet blocking Ethereum transactions in Venezuela, likely to be widely shared across crypto communities and beyond."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides factual information about a significant event affecting Ethereum transactions in Venezuela."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral factual tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Event-specific, relevance may last weeks but not years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1498811336335056897",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "News about a major upcoming change in Ethereum, likely to be shared within the crypto community."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides a brief update about Ethereum's upcoming transition to proof of stake."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Neutral to mildly positive tone."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Short-term relevance until the event occurs."
+      }
+    }
+  },
+  {
+    "tweet_id": "1498709915455705088",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Informational but not a hook; moderate shareability within niche."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides useful clarification about terminology."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Evergreen educational content."
+      }
+    }
+  },
+  {
+    "tweet_id": "1498683066289635328",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Negative claim but not a strong hook; limited shareability."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Opinion-based, no verifiable info."
+      },
+      "sentiment_polarity": {
+        "score": 1,
+        "justification": "Strong negative sentiment."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term relevance; may fade."
+      }
+    }
+  },
+  {
+    "tweet_id": "1498680829077250051",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Meme-like content likely to spread within altcoin community."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Minimal informational content."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Short-term relevance within altcoin community."
+      }
+    }
+  }
+]

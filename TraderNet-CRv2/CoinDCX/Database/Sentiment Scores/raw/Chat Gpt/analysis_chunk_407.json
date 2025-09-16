@@ -1,0 +1,107 @@
+[
+{
+"tweet_id":"1732111541531554057",
+"analysis":{
+"virality_potential":{
+"score":3,
+"justification":"The tweet is a short, niche call to action with a single hashtag (#PicassoPioneers) and no link, limiting its appeal to a specific community. It lacks a broader hook or trending topic, so it is unlikely to spread widely."
+},
+"informative_value":{
+"score":2,
+"justification":"The tweet contains no factual information or context beyond a hype statement; it does not provide new knowledge."
+},
+"sentiment_polarity":{
+"score":6,
+"justification":"The tone is upbeat and encouraging, expressing enthusiasm but not intense emotion."
+},
+"duration_of_impact":{
+"score":3,
+"justification":"The hype is tied to a single event or campaign and will likely fade quickly once the call to action is fulfilled."
+}
+}
+},
+{
+"tweet_id":"1732111520006328633",
+"analysis":{
+"virality_potential":{
+"score":5,
+"justification":"The tweet offers a technical comparison of Ethereum Classic as a clearinghouse, which may interest a niche audience of blockchain developers, but it lacks a hook for mass sharing."
+},
+"informative_value":{
+"score":6,
+"justification":"It explains key differences and counterparty risk management, providing useful context for those familiar with clearinghouses."
+},
+"sentiment_polarity":{
+"score":5,
+"justification":"The tone is neutral, presenting facts without strong emotional language."
+},
+"duration_of_impact":{
+"score":5,
+"justification":"The content remains relevant for the duration of discussions around Ethereum Classic's role, but it is not evergreen."
+}
+}
+},
+{
+"tweet_id":"1732110958192099652",
+"analysis":{
+"virality_potential":{
+"score":7,
+"justification":"The tweet uses popular crypto hashtags (#Bitcoin, #Ethereum) and promotes $Bone, which can resonate across the crypto community and encourage retweets."
+},
+"informative_value":{
+"score":4,
+"justification":"It makes a claim about $Bone's potential but offers no data or evidence, so the informational value is limited."
+},
+"sentiment_polarity":{
+"score":8,
+"justification":"The language is enthusiastic and celebratory, expressing strong positive emotion."
+},
+"duration_of_impact":{
+"score":5,
+"justification":"The hype may sustain interest for a few weeks as the community discusses $Bone, but it is not a long-term evergreen topic."
+}
+}
+},
+{
+"tweet_id":"1732110451461234991",
+"analysis":{
+"virality_potential":{
+"score":8,
+"justification":"The tweet is a multi-step promotional thread with links and mentions of several protocols, designed to engage users in a token swap, which can spread quickly within the crypto community."
+},
+"informative_value":{
+"score":7,
+"justification":"It provides actionable steps to earn $PICA, including specific protocol references, offering moderate informational content."
+},
+"sentiment_polarity":{
+"score":8,
+"justification":"The tone is highly positive and encouraging, aiming to motivate participation."
+},
+"duration_of_impact":{
+"score":6,
+"justification":"The mission may last for weeks, and the thread remains relevant while the promotion is active."
+}
+}
+},
+{
+"tweet_id":"1732110330938171673",
+"analysis":{
+"virality_potential":{
+"score":6,
+"justification":"The tweet critiques a cross-chain pipeline, which may attract attention from Solana and Ethereum enthusiasts, but it is unlikely to go viral beyond that niche."
+},
+"informative_value":{
+"score":6,
+"justification":"It explains why launching on Ethereum could limit use cases, providing a reasoned opinion that adds some informational value."
+},
+"sentiment_polarity":{
+"score":3,
+"justification":"The tone is negative, expressing disappointment and criticism."
+},
+"duration_of_impact":{
+"score":5,
+"justification":"The critique remains relevant as long as the pipeline discussion continues, but it is not a timeless topic."
+}
+}
+}
+]

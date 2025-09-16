@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1737634168937517274",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet is a catchy and concise comparison of three major cryptocurrencies, which is likely to be shared within crypto communities but may not go viral beyond that."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "The tweet provides a brief comparison of Bitcoin, Ethereum, and Solana but lacks detailed information or context."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tweet expresses strong positive sentiment towards Solana, using the phrase 'Solana is life.'"
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The tweet's impact is likely to be short-term, as it is a meme-like statement that may lose relevance quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1737601874847478142",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet includes a positive quote about Ethereum and a link, which may encourage sharing within Ethereum communities."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "The tweet contains a quote about Ethereum but lacks detailed information or context."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet expresses a positive sentiment about Ethereum, with the phrase 'I think your Ethereum portfolio is amazing.'"
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The tweet's impact is likely to be short-term, as it is a quote without significant depth."
+      }
+    }
+  },
+  {
+    "tweet_id": "1737529035906064428",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet includes strong language, emojis, and specific claims about Solana's performance, which are likely to be shared widely within crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet provides detailed information about Solana's performance and Ethereum's struggles, including specific metrics and references to Layer 2 solutions."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "The tweet expresses strong positive sentiment towards Solana and negative sentiment towards Ethereum, using phrases like 'Solana absolutely ripping' and 'Ethereum community rocking back and forth in the mental asylum.'"
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The tweet's impact is likely to be medium-term, as it discusses significant developments in the crypto space that may remain relevant for days or weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1737499299192217775",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet includes a meme about Solana visiting Ethereum friends, which may be shared within crypto communities."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "The tweet contains a meme with a link but lacks detailed information or context."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet expresses positive sentiment towards Solana, using the phrase 'Solana maxis visiting their Ethereum friends.'"
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The tweet's impact is likely to be short-term, as it is a meme that may lose relevance quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1737155968868524187",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet promotes a quiz with prizes, which may encourage sharing among Ethereum enthusiasts."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "The tweet provides information about Ethereum Rollups and includes a link to a quiz."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet expresses positive sentiment about Ethereum Rollups and the opportunity to win prizes."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tweet's impact is likely to be medium-term, as it is tied to a specific event (the quiz) that may generate discussion for a week or more."
+      }
+    }
+  },
+  {
+    "tweet_id": "1736755903246799081",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "The tweet announces a significant milestone for Solana, which is likely to be widely shared within crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet provides breaking news about Solana overtaking Ethereum in NFT sales volume, which is a significant development in the crypto space."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tweet expresses positive sentiment towards Solana, using the phrase 'BREAKING' to emphasize the importance of the news."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The tweet's impact is likely to be long-term, as it announces a historic milestone that may be referenced for months or years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1736089522822148579",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet discusses high fees on Bitcoin and Ethereum and promotes a solution, which may be shared among crypto users concerned about transaction costs."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "The tweet provides information about high fees on Bitcoin and Ethereum and includes a link to a solution."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet expresses frustration with high fees but also provides a positive solution, using the phrase 'Why overpay 100,000x?'"
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tweet's impact is likely to be medium-term, as it addresses an ongoing issue in the crypto space that may remain relevant for weeks or months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1735945871605264821",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet includes detailed stats about Solana overtaking Ethereum, which is likely to be shared widely within crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet provides specific data points about Solana's performance, including DEX volume, TVL, and NFT volume."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "The tweet expresses strong positive sentiment towards Solana, using the phrase 'It's over.'"
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The tweet's impact is likely to be medium-term, as it discusses significant developments in the crypto space that may remain relevant for weeks or months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1735858544291832174",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet announces Solana overtaking Ethereum in DEX volumes, which is likely to be shared within crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "The tweet provides information about Solana overtaking Ethereum in DEX volumes, which is a significant development."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet expresses positive sentiment towards Solana, using the phrase 'they said there was no activity on solana and we just flipped ethereum for 24 hour total dex volumes.'"
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tweet's impact is likely to be medium-term, as it addresses a significant but time-specific event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1735842380257869974",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "The tweet announces a significant milestone for Solana, which is likely to be widely shared within crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet provides breaking news about Solana overtaking Ethereum in 24H DEX volume, which is a significant development in the crypto space."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tweet expresses positive sentiment towards Solana, using the phrase 'BREAKING' to emphasize the importance of the news."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The tweet's impact is likely to be long-term, as it announces a historic milestone that may be referenced for months or years."
+      }
+    }
+  }
+]

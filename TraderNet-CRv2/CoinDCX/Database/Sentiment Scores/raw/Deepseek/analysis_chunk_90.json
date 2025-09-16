@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1529173745021116416",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Announcement of a major blockchain bridge launch with technical claims ('decentralized', 'battle-tested') likely to generate interest in crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides concrete information about a new infrastructure product with ecosystem implications."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone emphasizing opportunities and technical strengths without extreme emotion."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Infrastructure developments typically remain relevant for weeks/months as projects adopt the bridge."
+      }
+    }
+  },
+  {
+    "tweet_id": "1529130859814600705",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Vitalik's endorsement and technical TLDR format appeal to Ethereum enthusiasts, but niche academic focus limits broader appeal."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Summarizes a substantive technical paper about foundational Ethereum concepts."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of information without explicit positive/negative framing."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Soulbound tokens could influence Ethereum's long-term development, keeping this relevant for months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1529045488435343360",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "NFT sales milestones attract crypto Twitter attention but lack emotional hooks for broader sharing."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Reports verifiable sales data but lacks deeper analysis or context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of financial figures without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "NFT floor prices fluctuate rapidly - this specific milestone becomes outdated quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1528848671890186240",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Controversial figures in crypto debating creates community interest, but limited to local event."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Primarily an event announcement without substantive information about debate topics."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral event promotion with 'should be fun' implying mild positivity."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance ends after the event occurs, though documentary mention adds minor longevity."
+      }
+    }
+  },
+  {
+    "tweet_id": "1528727831039119360",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "BREAKING format + GameStop's meme stock reputation creates high sharing potential across crypto and retail investor communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Announces a significant product launch with clear implications for Ethereum ecosystem."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Rocket emoji and concise announcement convey strong positive excitement."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Wallet adoption metrics will keep this relevant for weeks as usage develops."
+      }
+    }
+  },
+  {
+    "tweet_id": "1528696695793524737",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Luxury brand adopting crypto payments is newsworthy but targets a specific audience."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Clear information about payment policy change with specific crypto mentions."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement style without overt positivity beyond the rocket emoji."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Merchant adoption stories remain relevant for weeks as other brands potentially follow."
+      }
+    }
+  },
+  {
+    "tweet_id": "1528197519498711040",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Routine price movement reporting common in crypto Twitter, unlikely to stand out."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "States verifiable price data but lacks original analysis or context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting without bullish/bearish language."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Price predictions become irrelevant within days as markets fluctuate."
+      }
+    }
+  },
+  {
+    "tweet_id": "1528105981804220417",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Sensational billionaire status change involving Ethereum's founder drives clicks and shares."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Reports factual statement from Buterin but lacks context about net worth calculations."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of a financial status change without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term interest as crypto markets frequently see wealth fluctuations."
+      }
+    }
+  },
+  {
+    "tweet_id": "1528042554679238664",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Massive real-world crypto adoption across 65 countries has strong sharing potential."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific details about payment processors and supported cryptocurrencies."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Implied positivity through the announcement of expanded crypto utility."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Payment infrastructure changes remain relevant for months as adoption progresses."
+      }
+    }
+  },
+  {
+    "tweet_id": "1527952469245976577",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Ethereum's Proof-of-Stake transition is a landmark event with massive community interest."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Primary-source confirmation of critical network upgrade timeline from official account."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive framing of anticipated upgrade ('likely happen') with implied optimism."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Ethereum's consensus change will remain a focal point for years in blockchain discussions."
+      }
+    }
+  }
+]

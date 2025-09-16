@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1467656540706553859",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet presents a counterargument to Bitcoin's claims, which could spark debates within crypto communities."
+},
+"informative_value": {
+"score": 7,
+"justification": "Compares Bitcoin and Ethereum as stores of value, providing a nuanced perspective."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral discussion without strong emotions."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days as crypto prices fluctuate."
+}
+}
+},
+{
+"tweet_id": "1467387511743954950",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Bold prediction could attract investor attention."
+},
+"informative_value": {
+"score": 3,
+"justification": "Lacks sources, making it a speculative claim."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Positive outlook on Ethereum's future."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Short-lived due to crypto volatility."
+}
+}
+},
+{
+"tweet_id": "1467188362167480322",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Motivational statement resonating with the crypto community."
+},
+"informative_value": {
+"score": 4,
+"justification": "Philosophical statement without detailed info."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive and empowering message."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Neutral lifespan, popular for a few days."
+}
+}
+},
+{
+"tweet_id": "1467169412256083979",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Detailed report for traders, likely shared within crypto circles."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides specific data on liquidations."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral presentation of facts."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a day as data is time-sensitive."
+}
+}
+},
+{
+"tweet_id": "1467080981387558918",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Observation with humor, may attract attention."
+},
+"informative_value": {
+"score": 4,
+"justification": "Specific but lacks broader context."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive and humorous tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Short relevance due to crypto volatility."
+}
+}
+},
+{
+"tweet_id": "1466839369323626507",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Bold prediction could go viral among crypto investors."
+},
+"informative_value": {
+"score": 3,
+"justification": "Speculative without supporting data."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive and confident tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Short-lived due to market changes."
+}
+}
+},
+{
+"tweet_id": "1466837417709772808",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Meme with a humorous warning, likely to spread quickly."
+},
+"informative_value": {
+"score": 2,
+"justification": "Entertainment without substantial info."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive and playful tone."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "Very short relevance as a fleeting meme."
+}
+}
+},
+{
+"tweet_id": "1466548501106479105",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Positive about a brand partnership, may attract niche attention."
+},
+"informative_value": {
+"score": 4,
+"justification": "Brief mention of a partnership."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment towards Ethereum."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Neutral lifespan, relevant for a few days."
+}
+}
+},
+{
+"tweet_id": "1466411377107558402",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Roadmap from a key figure, likely widely shared."
+},
+"informative_value": {
+"score": 9,
+"justification": "Credible and detailed roadmap from Vitalik."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Positive and optimistic tone."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Long-term relevance as a foundational update."
+}
+}
+},
+{
+"tweet_id": "1466316010953318401",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Addresses a critical issue in DeFi, likely shared widely."
+},
+"informative_value": {
+"score": 9,
+"justification": "Links to a report on high fees affecting accessibility."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "Critical and negative about current state."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Long-term relevance as a systemic issue."
+}
+}
+}
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1678952026372284416",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Reveals significant government blockchain adoption with controversial features likely to spark widespread discussion in crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides concrete technical details about Brazil's CBDC implementation and its modified Ethereum protocol features."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting tone focused on factual technical details without explicit emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Central bank digital currency developments typically remain relevant for weeks/months as implementations progress."
+      }
+    }
+  },
+  {
+    "tweet_id": "1677919715375677441",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Highlighting significant price discrepancies appeals to crypto traders' communities and may drive engagement."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides real-time market data comparisons across exchanges with specific price points."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Surprise emoji indicates reaction but no clear positive/negative stance on the price differences."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Exchange price discrepancies typically resolve quickly, making this time-sensitive information."
+      }
+    }
+  },
+  {
+    "tweet_id": "1697298361110417841",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "'BREAKING' format and product scarcity narrative drives urgency for tech/crypto audiences."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Reports concrete product launch success with specific timeframe (sold out in 24 hours)."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Implied positive sentiment through emphasis on rapid sales success."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Hardware product launches maintain relevance through subsequent reviews and user experiences."
+      }
+    }
+  },
+  {
+    "tweet_id": "1697247082208448904",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major regulatory development combining crypto classification and legal precedent."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides critical legal clarification from authoritative source (US court) with market-wide implications."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of court decision without explicit commentary."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Legal classifications establish precedents affecting future regulations and market structures."
+      }
+    }
+  },
+  {
+    "tweet_id": "1696936577925091493",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Mainstream platform integration news appeals to both crypto natives and traditional investors."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Specific details about new asset support on a major trading platform."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual announcement without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Platform feature updates remain relevant until next major product iteration."
+      }
+    }
+  },
+  {
+    "tweet_id": "1696567510324178954",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Large whale activity combined with regulatory news creates compelling market narrative."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Specific transaction details (10k ETH) tied to regulatory development context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of market activity without sentiment indicators."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Single transaction's relevance diminishes as market absorbs information."
+      }
+    }
+  },
+  {
+    "tweet_id": "1708095471292764297",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Philosophical question from Ethereum's creator about core protocol design sparks developer community debate."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Prompts technical discussion rather than conveying new information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral inquiry format seeking community input."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Protocol design decisions have long-term implications for Ethereum's evolution."
+      }
+    }
+  },
+  {
+    "tweet_id": "1707888396171977036",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Corporate commitment to ecosystem funding combines financial and community appeal."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific donation terms (10% for 10 years) to recognized development collective."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive recognition of community contributions with financial commitment."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Long-term funding commitments maintain relevance through annual reporting cycles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1707474363589509327",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "ETF approval represents major institutional adoption milestone for Ethereum."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Time-sensitive regulatory approval news from official source with trading start date."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive development for institutional crypto adoption implied through approval announcement."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "ETF launches create sustained market structure changes and investment flows."
+      }
+    }
+  },
+  {
+    "tweet_id": "1707455768578945362",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Technical comparison debate engages blockchain scalability communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific node count comparisons and cost/capacity metrics between networks."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Mildly positive toward Solana's tradeoffs while acknowledging criticism."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Ongoing technical debates persist through network upgrade cycles."
+      }
+    }
+  }
+]

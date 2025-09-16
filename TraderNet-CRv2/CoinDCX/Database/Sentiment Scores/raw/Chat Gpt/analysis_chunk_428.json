@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1731926159489679804",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Niche technical content about an MEV solution; likely to be shared within the DeFi community but not expected to go viral globally."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides factual information about a new MEV solution and a bridge between VRSC and ETH, offering technical details relevant to DeFi developers."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone with no strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The solution may remain relevant for months as DeFi evolves, but its impact is limited to a specific niche."
+      }
+    }
+  },
+  {
+    "tweet_id": "1731898704813056304",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Positive hype about $PAW with multiple crypto hashtags; could spread within the crypto community but unlikely to reach mainstream."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Primarily hype with no factual data or analysis; minimal informative content."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Very positive, enthusiastic tone with excitement for 2024."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The hype may last a few weeks to months; not a long-term evergreen topic."
+      }
+    }
+  },
+  {
+    "tweet_id": "1731896037395091955",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Announcement of a new rollup project; niche interest, likely to circulate within specific crypto circles."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides basic info about a new project and its focus on rollups, offering some educational value."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone, no strong emotional content."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The project may remain relevant for months as it develops, but not a timeless topic."
+      }
+    }
+  },
+  {
+    "tweet_id": "1731895629977440707",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Motivational crypto advice; could be shared widely within the crypto community, but not a breaking news event."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Offers general investment advice; not detailed data or new information."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive, encouraging tone."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The concept of delayed gratification is evergreen and may remain relevant for a long time."
+      }
+    }
+  },
+  {
+    "tweet_id": "1731891842529058920",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Tweet from high-profile influencer Gary Vaynerchuk about VeeFriends; likely to reach a broad audience and be shared within the NFT community."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Brief mention of a VeeFriends item; limited factual or educational content."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone with slight positivity."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The mention may stay relevant for a few weeks to months; not a long-term evergreen."
+      }
+    }
+  }
+]

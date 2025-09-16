@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1576074428869484544",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Giveaway with large rewards and a clear call to action, combined with high engagement metrics, makes it highly likely to spread widely."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Primarily a promotional announcement with no factual or news content."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive excitement conveyed through emojis and enthusiastic language."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance is limited to the duration of the giveaway, after which the tweet will quickly lose interest."
+      }
+    }
+  },
+  {
+    "tweet_id": "1598010864258666496",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "High-profile author and technical content may attract interest, but the niche nature limits widespread sharing."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides factual information about EIP‑1559 and wallet UX improvements."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive tone about improved user experience."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "EIP‑1559 is a permanent change, keeping the information relevant for a long time."
+      }
+    }
+  },
+  {
+    "tweet_id": "1597597365774749697",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Product announcement from a well-followed account, likely to spread within its community."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Shares useful information about new wallet support for Ethereum and Polygon."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive excitement about upcoming features."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for weeks or months as the new support is adopted."
+      }
+    }
+  },
+  {
+    "tweet_id": "1597327780240556032",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Provocative claim from a controversial figure, likely to spread within niche communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Opinion-based content with no verifiable facts."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Mixed negative tone toward others and self-praise."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Short-term relevance; may fade after a few days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1597102394676240384",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "News about government regulation can attract moderate attention."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides factual information about Belgium's regulatory stance."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral factual statement."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Regulatory stance remains relevant for months."
+      }
+    }
+  }
+]

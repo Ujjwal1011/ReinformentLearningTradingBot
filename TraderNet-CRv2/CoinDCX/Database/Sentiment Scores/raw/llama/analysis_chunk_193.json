@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1732178144180732217",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet is about a specific NFT sale, which may generate interest within the Ethereum community but is unlikely to go viral beyond."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides specific, verifiable information about an NFT sale, including the sale price in ETH and USD, making it somewhat informative."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet's sentiment is neutral, simply reporting on a transaction without expressing emotion."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is short-term, as the interest in a specific NFT sale will wane quickly."
+}
+}
+},
+{
+"tweet_id": "1732178032331223463",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet's use of catchy phrases, hashtags, and the announcement of a forthcoming film could generate significant interest and sharing within the Bitcoin and broader crypto community."
+},
+"informative_value": {
+"score": 4,
+"justification": "While the tweet mentions several technologies and concepts, it lacks specific, actionable information, making it somewhat low in informative value."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The tweet expresses strong positive emotions, using superlatives like 'FABULOUS' to describe Bitcoin."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's announcement of a forthcoming film gives it a medium duration of impact, as interest will build up to the release and possibly diminish thereafter."
+}
+}
+},
+{
+"tweet_id": "1732177723672465839",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The announcement of a Chrome Extension update might generate interest within the specific communities of PulseChain, Ethereum, BSC, and Polygon, but is unlikely to spread widely beyond."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides direct, actionable information (a download link) for a specific product update, making it fairly informative."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet's sentiment is neutral, focusing on providing information about the update."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's impact is standard, as the update will generate interest for a couple of days before fading into routine usage."
+}
+}
+},
+{
+"tweet_id": "1732176862124642540",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet's promotional nature and use of multiple hashtags might generate some interest, but its potential for broad virality is low due to its specificity to certain crypto projects."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet provides minimal informative content, primarily serving as a promotional message for a specific crypto asset."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses positive emotions, encouraging action with phrases like 'gonna be HUGE!!'"
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to a short-term event (buying before December 7th), making its impact short-lived."
+}
+}
+},
+{
+"tweet_id": "1732175823841767763",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "The tweet's language barrier (being in Vietnamese) and specificity to Ethereum and ETF limit its potential for broad virality."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet discusses a notable event (capital flow into Ethereum due to ETF) but lacks detailed, actionable information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet's sentiment appears neutral, focusing on reporting an event without clear emotional tone due to language barriers in analysis."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet's discussion of ETF and its impact on Ethereum gives it a medium to long duration of impact, as the effects of such financial movements can be discussed over weeks."
+}
+}
+},
+{
+"tweet_id": "1732174682701640154",
+"analysis": {
+"virality_potential": {
+"score": 2,
+"justification": "The reflective, personal nature of the tweet makes it unlikely to be shared widely, appealing mainly to those who know the author."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet offers general insights into the crypto market's niche status and personal advice, but lacks specific, new information."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet expresses moderately positive sentiments, encouraging balance and self-care."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's reflective nature gives it a standard duration of impact, relevant for a short period as a personal update."
+}
+}
+},
+{
+"tweet_id": "1732174598177767772",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The comparison of transaction costs and the praise for a scaling solution could resonate within the crypto community, potentially leading to shares."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides a specific example comparing transaction costs, making it somewhat informative for those interested in Ethereum scaling solutions."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses strong positive emotions towards Arbitrum, using phrases like 'God bless'."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's discussion of a scaling solution gives it a medium duration of impact, as the topic remains relevant for discussions on Ethereum's development."
+}
+}
+},
+{
+"tweet_id": "1732174553588085104",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The giveaway might attract shares within the NFT and Web3 gaming communities due to the incentive, but its broader virality is limited."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet informs about a giveaway but lacks substantial content beyond the promotional aspect."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The tweet expresses strong positive emotions, using enthusiastic language to promote the giveaway."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is short-term, tied to the giveaway's deadline."
+}
+}
+},
+{
+"tweet_id": "1732174209109901570",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The technical analysis might interest a specific audience but is unlikely to spread widely due to its specialized nature."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides specific, technical information about Ethereum's price movements relative to Bitcoin, making it informative for traders."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet's sentiment is neutral, focusing on technical analysis without emotional tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's impact is medium, as technical analyses remain relevant for a period but are often superseded by new market developments."
+}
+}
+},
+{
+"tweet_id": "1732174177166135566",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The response to another user might generate some interest within the crypto community, especially regarding the comparison of Ethereum with another L1, but its broader virality is limited."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides a comparative analysis of transaction costs between Ethereum and Algo, making it somewhat informative."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The tweet expresses moderately negative sentiments towards Ethereum's gas fees, though in a comparative context."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's impact is standard, as the discussion of transaction costs remains relevant but is not a breaking topic."
+}
+}
+} 
+]

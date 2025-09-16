@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1732193044143714507",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "News about Ethereum NFT resurgence could generate interest in crypto communities, but lacks strong emotional hooks for broader virality."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides market update with source reference, though lacks original analysis or data."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting style without clear positive/negative language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Market trends typically have week-long relevance unless sustained."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732193014380929260",
+    "analysis": {
+      "virality_potential": {
+        "score": 2,
+        "justification": "Personal complaint about content creators has limited sharing potential."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Expresses subjective opinion without factual content."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Clear negative emotions ('cocky', 'arrogant', 'bummer')."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Personal grievances typically have short relevance window."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732192703025467898",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Educational content about blockchain gaming could spread in niche communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides clear explanation of Sorare's NFT implementation."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral explanatory tone without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Platform explanations remain relevant as long as service exists."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732192402251612378",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Influencer meetup might interest specific followers but lacks broad appeal."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Personal experience report without substantive information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive excitement expressed through 'awesome' and exclamation marks."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Event-based tweet loses relevance after immediate reaction."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732191669863297126",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Promotional content with generic hashtags shows low engagement drivers."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Vague reference without context or explanation."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral promotional language without emotional valence."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Generic promotions have short engagement windows."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732191633393758444",
+    "analysis": {
+      "virality_potential": {
+        "score": 2,
+        "justification": "Niche NFT character story with unclear appeal beyond specific community."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "Fantastical narrative without real-world information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Mixed emojis and humorous tone create neutral overall sentiment."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Whimsical content typically has very short engagement period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732191626792169826",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Blockchain technical debate could spark discussion in crypto circles."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Makes comparative claim without supporting arguments."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral technical statement despite implied preference."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Ongoing blockchain debates maintain moderate relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732191552359874730",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "NFT sale announcement might interest collectors but lacks unique elements."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Provides transaction details but without market context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual reporting of sale without emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Single transaction updates become obsolete quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732191287007461682",
+    "analysis": {
+      "virality_potential": {
+        "score": 1,
+        "justification": "Short reply without substantive content for sharing."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "No factual information or meaningful content."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Mildly positive support message ('good doggo')."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Ephemeral conversation fragment."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732191210549162402",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Personal security complaint has limited sharing appeal."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Vague reference to hacking without details."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Implied frustration through hypothetical comparison."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Personal account issues have short relevance window."
+      }
+    }
+  }
+]

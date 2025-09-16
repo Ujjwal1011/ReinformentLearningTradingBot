@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1758939338484732387",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet announces a rumor about a major financial event (Ethereum Spot ETF approval), uses hype emojis, and is likely to attract widespread attention and sharing among crypto and finance communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet presents an unverified rumor without supporting evidence or data, providing minimal factual information."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tweet uses enthusiastic language and emojis, expressing excitement about the rumored ETF approval."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The tweet's relevance will likely last until the ETF approval date or until the rumor is confirmed or refuted, giving it a moderate lifespan."
+      }
+    }
+  },
+  {
+    "tweet_id": "1758232805882970562",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet promotes a technical research paper on a security topic, likely to be shared within the crypto and academic communities but not expected to go mainstream viral."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet links to a published research paper detailing the cost of a 51% attack, providing substantive technical information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet presents factual information about a research study without strong emotional language, resulting in a neutral sentiment."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The findings about 51% attack costs are foundational and will be referenced by researchers and practitioners for an extended period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1758193071047786551",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet announces a new program on Magic Eden, likely to be shared among its user base but not expected to reach a broader audience."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "The tweet explains the concept of 'Mint to Earn' and how users can earn Diamonds, offering useful information to potential participants."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet uses optimistic language and emojis, conveying excitement about the new program."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The tweet's relevance is tied to the launch and promotion of the program, which may last a few weeks to months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1758136030593728585",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "The tweet contains a generic statement about community values, unlikely to spark widespread sharing beyond the existing audience."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet offers a broad statement without new facts or actionable information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet expresses optimism and inclusivity, reflecting a positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The tweet's relevance is moderate, as it may be referenced occasionally but will not sustain long-term engagement."
+      }
+    }
+  },
+  {
+    "tweet_id": "1758070967870329180",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "The tweet highlights a specific price level, likely to be shared within trading circles but not expected to go viral."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "The tweet informs readers about a key resistance level for Ethereum, offering actionable information for traders."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet presents factual information without emotional language, resulting in a neutral tone."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The tweet's relevance will last until the price surpasses the resistance or the analysis becomes outdated."
+      }
+    }
+  }
+]

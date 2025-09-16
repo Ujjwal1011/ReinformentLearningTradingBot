@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1544064502269988865",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High virality potential due to event-specific announcement (Eid-Al-Adha), large group involvement (5,555 Saudis), and crypto/NFT community appeal. Includes audio and hashtag for engagement."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Announces a blockchain event but lacks technical details or verifiable sources beyond a user mention."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive tone celebrating a milestone, with enthusiastic language like 'coming to the Ethereum blockchain'."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevance tied to a specific date (July 9th) but could sustain interest if the project gains traction post-event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1544016872445820928",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Medium virality from a giveaway incentivizing retweets and tags, targeting NFT communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Primarily promotional; lacks substantive information beyond the giveaway mechanics."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive and celebratory tone with emojis and exclamation points."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term relevance limited to the 24-hour giveaway window."
+      }
+    }
+  },
+  {
+    "tweet_id": "1543900052703219712",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Historical price data may interest crypto enthusiasts but lacks a viral hook."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides factual historical context about Ethereum's price, though not actionable news."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of historical data without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term relevance as a nostalgic fact, unlikely to drive prolonged discussion."
+      }
+    }
+  },
+  {
+    "tweet_id": "1543684139697819648",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Controversial tone targeting failed crypto projects may spark debate within the community."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Opinion-driven with no verifiable claims; primarily a boastful comparison."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Moderately negative, criticizing other founders ('gone into hiding')."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Standard lifespan unless the mentioned projects respond publicly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1543634759716200448",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Niche comparison of NFT volumes; relevant to crypto analysts but not broadly shareable."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Presents data visualization but lacks context or analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral comparison without explicit opinion."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term relevance as NFT market data fluctuates rapidly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1543605088916324354",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Humorous reaction to Ethereum's price drop could resonate with crypto traders."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "No factual content; purely a meme-style reaction."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Moderately negative, reflecting disappointment in price decline."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Tied to a fleeting market moment; loses relevance quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1543591384602533888",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High potential due to humor, meme format, and critique of a viral crypto video."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Satirical commentary without actionable or verifiable information."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative undertone mocking investors who didn't sell during highs."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Medium duration as memes can resurface in crypto circles during similar market conditions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1543493578927656960",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Notable data point for Ethereum users, likely shared in crypto forums."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific, verifiable metric (19-month low fee) relevant to blockchain users."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of a factual development."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term relevance until fee levels change significantly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1543432135989727234",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Alarming statistic about investor losses likely to generate shares in crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Credible data point (80% loss) with implications for Ethereum stakeholders."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Very negative, highlighting financial losses."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Medium duration as losses may influence long-term staking behavior."
+      }
+    }
+  },
+  {
+    "tweet_id": "1543269443341623296",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Rankings often attract engagement, but lacks a unique angle for broader virality."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides a structured list of cryptocurrency follower counts with a timestamp."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of statistical data."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Standard lifespan; rankings become outdated as follower counts change."
+      }
+    }
+  }
+]

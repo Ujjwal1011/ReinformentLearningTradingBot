@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1732189458324451702",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet provides updates on Bitcoin, PayPal's Stablecoin, and Ethereum, which are hot topics in the crypto community. It's likely to be shared among crypto enthusiasts."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet offers factual updates on significant crypto developments, making it informative for the target audience."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tone is positive, highlighting increases and new launches, which is encouraging for crypto followers."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The impact will last a few days as the news is discussed and analyzed within the crypto community."
+}
+}
+},
+{
+"tweet_id": "1732189373062377900",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "A complaint about gas fees, relevant only to Ethereum users, limiting its virality."
+},
+"informative_value": {
+"score": 5,
+"justification": "Provides information on gas fees but lacks detailed analysis."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "Expresses frustration with high gas fees, indicating negative sentiment."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Impact is short-term as gas fees can change rapidly."
+}
+}
+},
+{
+"tweet_id": "1732189363130282085",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "A joke about an artist's name, unlikely to go viral beyond a small audience."
+},
+"informative_value": {
+"score": 2,
+"justification": "Minimal information provided; more of a personal opinion."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Criticism of the artist's name, indicating moderate negative sentiment."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevance is short-term unless it becomes a meme."
+}
+}
+},
+{
+"tweet_id": "1732189360466895049",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Complaint about Ethereum gas fees, relevant to a specific community."
+},
+"informative_value": {
+"score": 5,
+"justification": "Provides info on gas fees and suggests another platform."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "Negative sentiment due to frustration with high fees."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Impact is short-term as fees can change quickly."
+}
+}
+},
+{
+"tweet_id": "1732189157424771274",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Discusses Ethscriptions, a potential game-changer, likely to be shared in NFT communities."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides info on a new project with a link for more details."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment, suggesting optimism about the project."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Impact could last weeks as the project gains traction."
+}
+}
+},
+{
+"tweet_id": "1732189094317334639",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Shares news about NFT market resurgence, relevant to crypto and NFT communities."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides a news link and context about the market boom."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment, presenting factual information."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Impact lasts a few days as the news is discussed."
+}
+}
+},
+{
+"tweet_id": "1732188930559139956",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Discusses trading, relevant to crypto traders but not widely viral."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides trading info with hashtags, useful for traders."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment, focusing on trading analysis."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Impact is short-term as trading trends change."
+}
+}
+},
+{
+"tweet_id": "1732188922963464438",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Promotes an NFT project, likely shared within NFT communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides info on an NFT project with a link."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment, encouraging others to check out the project."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Impact lasts a few days as projects gain traction."
+}
+}
+},
+{
+"tweet_id": "1732188906064621763",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Discusses a secure key for wallets, relevant to crypto users."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides info on a secure product with a link."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment, highlighting security benefits."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Impact lasts as security is a持续 concern."
+}
+}
+},
+{
+"tweet_id": "1732188831355637773",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Shares regulatory news, relevant to crypto investors."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides info on SEC's decision with links."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment, presenting regulatory news."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Impact lasts a few days as the news is analyzed."
+}
+}
+}
+]

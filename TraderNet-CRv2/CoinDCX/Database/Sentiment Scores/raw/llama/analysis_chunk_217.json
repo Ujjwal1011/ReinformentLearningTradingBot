@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1750163387932119062",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet contains a link and an Ethereum hashtag, but lacks a strong hook to drive widespread sharing."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet provides minimal information, only sharing links without context."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet's sentiment is neutral, as it simply shares links without expressing emotion."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is short-term, as the shared content's importance will likely diminish quickly."
+}
+}
+},
+{
+"tweet_id": "1750123523819876372",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The 'Big Reveal' and introduction of a new meme coin on Ethereum could elicit strong engagement and sharing within specific communities."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides useful information about the Snowman Meme Coin, including its launch on Uniswap and contract address."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses excitement and enthusiasm with the use of emojis and celebratory language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance will last for days or weeks, as the new coin generates discussion and interest."
+}
+}
+},
+{
+"tweet_id": "1749642584610443640",
+"analysis": {
+"virality_potential": {
+"score": 2,
+"justification": "The tweet's content, a personal plea for prayer, is unlikely to be widely shared beyond the user's immediate followers."
+},
+"informative_value": {
+"score": 1,
+"justification": "The tweet contains no informative or educational content, only a personal request."
+},
+"sentiment_polarity": {
+"score": 1,
+"justification": "The user expresses strong negative emotions, seeking help and prayer during a hard time."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "The tweet's relevance is extremely short-term, as it's a personal, fleeting moment."
+}
+}
+},
+{
+"tweet_id": "1749594016042127791",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet's criticism of a speech could generate engagement and sharing within specific communities interested in Ethereum."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides some useful context and opinion about the speech, although it's not entirely objective."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The user expresses strong negative sentiments towards the speech, calling it a 'pure money grab'."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance will last for a short period, as the speech's importance diminishes over time."
+}
+}
+},
+{
+"tweet_id": "1749303412708061577",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The integration announcement might generate some interest, but it's unlikely to go viral."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides useful information about the integration with Eigenlayer and its goals."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The user expresses enthusiasm and optimism about the integration."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance will last for days or weeks, as the integration generates discussion and interest."
+}
+}
+},
+{
+"tweet_id": "1748705901798678871",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet might generate some engagement within specific communities interested in Ethereum and politics."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides some useful information about Vitalik Buterin's endorsement of Argentine president Javier Milei's policies."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses a positive sentiment towards Buterin's endorsement."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is standard, lasting for a day or two before fading."
+}
+}
+},
+{
+"tweet_id": "1748361109155791172",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The announcement of $ICE trading on Uniswap could generate significant engagement and sharing within the Ethereum community."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides detailed, useful information about the $ICE contract address and bridging process."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The user expresses excitement and enthusiasm about the listing on Uniswap."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet's relevance will last for days or weeks, as the listing generates discussion and interest."
+}
+}
+},
+{
+"tweet_id": "1748198932889702519",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "The tweet's content, a comparison between silver and Ethereum, might generate some engagement but is unlikely to go viral."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet contains minimal informative content, only a subjective comparison."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The user expresses a negative sentiment towards Ethereum, calling it the 'stupid man's Bitcoin'."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is short-term, as the comparison's importance diminishes quickly."
+}
+}
+},
+{
+"tweet_id": "1748197900558139669",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "The tweet's content, a statement about Tether and MicroStrategy, might generate some engagement but is unlikely to go viral."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet provides some minimal information about the companies' Ethereum holdings."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet's sentiment is neutral, as it simply states facts without expressing emotion."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is short-term, as the information's importance diminishes over time."
+}
+}
+},
+{
+"tweet_id": "1748104886640676924",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The news about the SEC's decision on Fidelity's Ethereum ETF could generate engagement and sharing within the Ethereum community."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides timely and relevant information about the SEC's decision."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet's sentiment is neutral, as it simply reports on the news without expressing emotion."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance will last for days or weeks, as the decision generates discussion and interest."
+}
+}
+}
+]

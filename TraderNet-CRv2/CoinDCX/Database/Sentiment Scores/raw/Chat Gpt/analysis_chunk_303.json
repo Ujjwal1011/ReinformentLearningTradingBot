@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1650454294049505283",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet highlights a dramatic growth of an Ethereum ICO participant, which is a strong hook for the crypto community, but its niche focus limits global virality."
+},
+"informative_value": {
+"score": 7,
+"justification": "It provides specific financial figures and a timeline, offering factual insight into the ICO’s performance."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet presents facts without emotional language, maintaining a neutral tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The historical growth data may be referenced for several months by those tracking Ethereum’s early history."
+}
+}
+},
+{
+"tweet_id": "1649056938062118913",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The strong negative critique and use of terms like \"worst code\" and \"laughingstock\" create a hook that can spread within crypto circles and beyond."
+},
+"informative_value": {
+"score": 6,
+"justification": "It shares details about France’s stablecoin launch and its technical shortcomings, providing useful information to readers."
+},
+"sentiment_polarity": {
+"score": 1,
+"justification": "The tweet expresses strong negative emotions, labeling the code as the worst and calling it a laughingstock."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The issue may remain relevant for a few weeks to months as discussions about the stablecoin continue."
+}
+}
+},
+{
+"tweet_id": "1648376479892357120",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Breaking news about SEC Chair Gensler’s refusal to classify Ethereum is a major regulatory event likely to be widely shared."
+},
+"informative_value": {
+"score": 8,
+"justification": "It reports a primary source statement from a key regulatory figure, offering high-value factual content."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is a neutral report of an event, lacking emotional language."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The regulatory classification debate will continue for months, keeping the tweet relevant."
+}
+}
+},
+{
+"tweet_id": "1646454509244129281",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The hype around the Shapella upgrade and the call to claim Web3 history can resonate strongly within the crypto community."
+},
+"informative_value": {
+"score": 6,
+"justification": "It announces the live status of staked ETH withdrawals and the upgrade, providing factual updates."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet uses enthusiastic emojis and positive language, reflecting strong excitement."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The upgrade remains relevant for weeks to months as users engage with the new features."
+}
+}
+},
+{
+"tweet_id": "1646280167667519492",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Breaking news about the Shanghai upgrade enabling massive withdrawals is a high-interest event likely to spread widely."
+},
+"informative_value": {
+"score": 7,
+"justification": "It provides concrete details about the upgrade and the amount of staked ETH affected."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is a neutral announcement without emotional tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The upgrade’s impact will be discussed for weeks to months, maintaining relevance."
+}
+}
+}
+]

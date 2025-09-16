@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1748705901798678871",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet covers a notable endorsement that could resonate within crypto and political communities, but it's not a globally viral meme or breaking news."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "It shares a specific endorsement, but it's not a deep analysis or primary source."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet presents information without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The tweet will generate discussion for a few days to a week, then fade."
+      }
+    }
+  },
+  {
+    "tweet_id": "1748361109155791172",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet announces a significant listing on a major DEX, likely to be widely shared among crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It gives actionable details for traders."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tweet expresses excitement about the listing."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tweet will generate discussion for a few weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1748198932889702519",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "The tweet is a simple opinion that may resonate with some but not widely viral."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "The tweet expresses an opinion without providing factual info."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "The tweet expresses negative sentiment."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The tweet will be relevant for a few hours to a day."
+      }
+    }
+  },
+  {
+    "tweet_id": "1748197900558139669",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "It's a simple claim that may resonate with some but not widely viral."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "The tweet provides a claim but no source."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative sentiment."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The tweet will be relevant for a few hours to a day."
+      }
+    }
+  },
+  {
+    "tweet_id": "1748104886640676924",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet covers a significant regulatory event that could be widely shared among investors."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It provides a factual update about a regulatory decision."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is factual."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tweet will generate discussion for weeks."
+      }
+    }
+  }
+]

@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1498031424083054599",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Mentions a high‑profile political figure (Simonyan) and the Ethereum founder, which can attract attention within Russian‑speaking political and crypto circles, but its appeal is limited to those communities."
+},
+"informative_value": {
+"score": 4,
+"justification": "Provides a claim that the Ethereum creator joined a list targeting Simonyan, but lacks detailed facts, sources, or broader context."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The wording is critical of Simonyan, conveying a moderately negative tone without strong profanity or intense emotion."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet refers to a specific political incident, likely to lose relevance after the immediate news cycle."
+}
+}
+},
+{
+"tweet_id": "1498029533345243148",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Combines the notoriety of Vitalik Buterin with a political figure (Simonyan), making it shareable among both crypto enthusiasts and political observers, though still niche."
+},
+"informative_value": {
+"score": 5,
+"justification": "States that Vitalik responded nicely to Simonyan and mentions an award, but offers no substantive details or external verification."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Uses positive language ('very nicely') to describe the response, indicating a moderately positive sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The relevance is tied to a single interaction, which will likely fade after the conversation ends."
+}
+}
+},
+{
+"tweet_id": "1497718332002295813",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Announces a large cryptocurrency donation to the Ukrainian government during an ongoing conflict, a topic likely to be widely shared across political and crypto communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides a concrete, newsworthy figure ($1.86 million) and the donation method (#Ethereum), offering verifiable information."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet conveys positive news about aid, using a neutral reporting style but with an uplifting implication."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "While the specific donation is a momentary event, discussions about crypto aid to Ukraine may persist for weeks."
+}
+}
+},
+{
+"tweet_id": "1497688902685048837",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Highlights a multi‑million‑dollar crypto donation with detailed breakdown, using emojis and hashtags, making it highly shareable in both news and crypto circles."
+},
+"informative_value": {
+"score": 9,
+"justification": "Delivers precise amounts for Bitcoin and Ethereum contributions, offering detailed, verifiable data about the donation."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Expresses a strongly positive tone about the support for Ukraine, reinforced by the exclamation mark and celebratory language."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The sizable donation and its breakdown may be referenced in ongoing discussions about crypto fundraising for months."
+}
+}
+},
+{
+"tweet_id": "1497679755327553537",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "A niche opinion comparing Ethereum to Kickstarter may attract some attention within crypto communities but lacks broader appeal."
+},
+"informative_value": {
+"score": 3,
+"justification": "Makes an unsubstantiated claim about a Kickstarter failure without providing evidence or sources."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Shows mixed sentiment: negative toward the Kickstarter founder and positive toward Ethereum, resulting in an overall neutral tone."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet is tied to a specific anecdote and is unlikely to remain relevant beyond the immediate conversation."
+}
+}
+}
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1565236518637031425",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Significant industry news about Ethereum's protocol change likely to be shared within crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides verifiable information about a major blockchain network's technical upgrade from a credible source."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Relevant for weeks/months as the Ethereum merge represents a fundamental network change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1585935412694028291",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Controversial suggestion from a prominent figure likely to spark debate across tech/crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Reports a newsworthy statement but lacks contextual details about feasibility or rationale."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of a statement without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for days/weeks as part of ongoing discussions about tech company governance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1585629954901176322",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Major tech company's blockchain infrastructure support will interest developer communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Concrete information about a new enterprise-grade developer tool."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual announcement without emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Relevant for months as developers adopt the new service."
+      }
+    }
+  },
+  {
+    "tweet_id": "1585629145354342401",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High engagement numbers indicate strong interest in major tech/blockchain collaboration."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific technical service announcement with clear use case details."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of product launch."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Will remain relevant through service adoption cycle (months)."
+      }
+    }
+  },
+  {
+    "tweet_id": "1585282991957282816",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Provocative claim about medical applications creates strong sharing incentive."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Makes an attention-grabbing claim but requires thread context for verification."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone emphasizing innovation and importance."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Depends on thread content validity; could sustain interest for weeks if verified."
+      }
+    }
+  },
+  {
+    "tweet_id": "1585145691311329280",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Founder's praise for community values resonates with existing supporters."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Opinion about community culture rather than factual information."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Strong positive sentiment ('so happy', 'strong culture')."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for ongoing community discussions about Ethereum's values."
+      }
+    }
+  },
+  {
+    "tweet_id": "1582806632425062401",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Institutional crypto adoption news interests specific investor communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Specific timeline for new investment product availability."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement of service expansion."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Time-bound relevance until product launch occurs."
+      }
+    }
+  },
+  {
+    "tweet_id": "1582057921516474368",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "High engagement indicates strong interest in novel NFT/blockchain standard."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Detailed technical standard announcement with open source implementation."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone around innovation ('Introducing', 'open source')."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Technical standards can influence development practices for years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1582010099228635136",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Significant interoperability development between major blockchain projects."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific technical milestone in blockchain integration."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of technical development."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Relevant through testing/implementation phases (months)."
+      }
+    }
+  },
+  {
+    "tweet_id": "1581612257121013761",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Critical technical commentary likely limited to niche crypto discussions."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Hypothetical suggestions without concrete proposals or data."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Moderately negative tone critiquing Ethereum's current state."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term relevance unless specific proposals gain traction."
+      }
+    }
+  }
+]

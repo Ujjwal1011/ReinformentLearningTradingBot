@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1517888527215644673",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Bold prediction about Ethereum vs Bitcoin could spark debates in crypto communities, but lacks concrete hooks for mass virality."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Pure speculative statement without supporting data or context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral declarative statement without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Ongoing crypto debates give this tweet relevance for weeks/months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1517754701177307136",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Metaverse/NFT event announcement with multiple hashtags could attract crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific event details and link, though lacks original analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral promotional content without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Time-bound event limits relevance to pre-sale period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1517571792466022400",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major brand NFT announcement likely to be widely shared across crypto/fashion communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Clear instructions for NFT holders with specific dates and cost details."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive tone through phrases like 'get ready' and emoji-free enthusiasm."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "NFT claims create ongoing engagement through preparation and post-claim discussion."
+      }
+    }
+  },
+  {
+    "tweet_id": "1517554960384282625",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Celebrity involvement in crypto project combines pop culture with blockchain interest."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Newsworthy announcement about major media production related to Ethereum."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual reporting without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Film production timeline ensures relevance through development stages."
+      }
+    }
+  },
+  {
+    "tweet_id": "1517368835246260224",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Tesla/Bitcoin combination attracts both crypto and mainstream audiences."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Reports specific financial data with source link, though language barrier exists."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of balance sheet information."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Corporate crypto holdings remain relevant until next earnings report."
+      }
+    }
+  },
+  {
+    "tweet_id": "1517176352239022080",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Provocative question about VC manipulation drives engagement in crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Offers original analysis thread about Layer 1 blockchain competition."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Balanced critical analysis without clear positive/negative slant."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Layer 1 blockchain debates remain relevant for months in crypto spaces."
+      }
+    }
+  },
+  {
+    "tweet_id": "1517100327299948544",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Controversial regulatory take combined with meme reaction ('GFY') engages crypto audiences."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Reports policy statement but lacks context or source verification."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Strong negative reaction expressed through dismissal ('GFY') and laughing emoji."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Regulatory discussions maintain relevance until next policy development."
+      }
+    }
+  },
+  {
+    "tweet_id": "1517005684554051584",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Interesting trivia about crypto founder resonates with enthusiast communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Verifiable historical fact about Ethereum's creation."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of biographical fact."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Founder lore remains perpetually interesting in crypto culture."
+      }
+    }
+  },
+  {
+    "tweet_id": "1516979064203931648",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Meme coin price analysis attracts niche community engagement."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides comparative price data with source link."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative implication through 'lackluster buzz' and price decline focus."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Price analysis becomes outdated with next market movement."
+      }
+    }
+  },
+  {
+    "tweet_id": "1516582682024624131",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Emotional all-caps celebration of technical success drives engagement through enthusiasm."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Personal anecdote about token conversion without generalizable data."
+      },
+      "sentiment_polarity": {
+        "score": 10,
+        "justification": "Extreme positive emotion with celebratory language and multiple HAHAHAs."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Technical process description maintains relevance for others attempting similar conversions."
+      }
+    }
+  }
+]

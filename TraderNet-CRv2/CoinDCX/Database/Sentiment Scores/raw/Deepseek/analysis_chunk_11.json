@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1363516730358853640",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Controversial prediction about Ethereum's dominance could spark debates within crypto communities, but lacks universal appeal."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Presents a speculative opinion without supporting data or actionable insights."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Moderately negative tone implied by the prediction of Ethereum's decline."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for weeks/months as crypto platform debates are ongoing."
+      }
+    }
+  },
+  {
+    "tweet_id": "1363178506646003714",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Celebrity endorsement might drive engagement, but lacks a viral hook or emotional trigger."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Shares personal investment experience but offers no verifiable data or analysis."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Moderately positive tone about investment success without extreme enthusiasm."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance limited to current market conditions and personal portfolio updates."
+      }
+    }
+  },
+  {
+    "tweet_id": "1362975758185029632",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Historic market milestones with numerical benchmarks likely to be widely shared in financial circles."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides concrete, verifiable market data about cryptocurrency valuations."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement of factual information without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Market cap milestones remain reference points for months in financial analysis."
+      }
+    }
+  },
+  {
+    "tweet_id": "1362974093117517826",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Price milestone celebration with rocket emojis optimized for crypto community sharing."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Only states current price without context or analysis."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment implied through celebratory symbols and price announcement."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Price updates become obsolete quickly as markets fluctuate."
+      }
+    }
+  },
+  {
+    "tweet_id": "1362781521153720323",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Intra-community commentary likely to resonate within crypto spaces but not externally."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Opinion-based comparison without data or actionable insights."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral advisory tone without strong positive/negative language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Ongoing platform rivalry discussions maintain relevance for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1362746733726416898",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Critical service update from major exchange guarantees immediate widespread sharing."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides essential operational information about fund safety and platform status."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral corporate communication balancing problem acknowledgment with reassurance."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Primarily relevant until technical issue resolution."
+      }
+    }
+  },
+  {
+    "tweet_id": "1362646123928838150",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Niche crypto humor likely to circulate moderately within enthusiast circles."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Joke about portfolio allocation offers no substantive information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral humorous tone without clear positive/negative sentiment."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Meme-style content typically has short engagement cycles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1362106218651602950",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Local political meeting details have limited international appeal despite crypto mentions."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Documents high-level policy discussions about cryptocurrency regulation."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of meeting proceedings without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Policy discussions may influence regional crypto markets for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1361917750004772864",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "'Unpopular opinion' framing encourages engagement in crypto communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Assertion about DeFi trends lacks supporting evidence or data."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of an opinion without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Ongoing DeFi platform competition keeps topic relevant for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1361733385782259719",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Product announcement from major platform with financial incentive (7.5% APR)."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides details about upcoming staking service with actionable link."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone promoting financial opportunity through 'put your Ethereum to work'."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Product launches maintain relevance through rollout phases and user adoption."
+      }
+    }
+  }
+]

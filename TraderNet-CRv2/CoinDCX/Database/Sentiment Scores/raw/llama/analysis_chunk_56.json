@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1485586620203995138",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet contains breaking news about Ethereum whales, which can generate significant interest within the cryptocurrency community, potentially leading to widespread sharing."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides newsworthy, data-driven information about Ethereum whales, making it a valuable source of information for those interested in cryptocurrency markets."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet's sentiment is neutral, focusing on reporting factual information without expressing a clear emotional tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to the immediate market impact of the news, making its discussion-generating potential relatively short-lived."
+}
+}
+},
+{
+"tweet_id": "1485488086578765826",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet's analysis of Bitcoin's RSI might interest cryptocurrency enthusiasts, but its sharing potential is moderate due to the niche topic."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides some useful information about Bitcoin's RSI, including a link to a more in-depth analysis, making it somewhat informative for readers."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet maintains a neutral sentiment, focusing on analysis without expressing a clear emotional tone."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance will last as long as the discussed market conditions are of interest, providing a moderate duration of impact."
+}
+}
+},
+{
+"tweet_id": "1485455688662929412",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The humorous contrast between the user's best and worst investments might resonate with some, leading to moderate sharing within personal networks."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet is more of a personal anecdote than a source of informative content, offering little beyond the user's experience."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet expresses a moderately positive sentiment through its humorous approach to a personal financial mistake."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's impact is short-lived, primarily generating engagement in the immediate aftermath of posting."
+}
+}
+},
+{
+"tweet_id": "1485362505786347521",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet's question about Ethereum's value might spark some discussion, but its sharing potential is limited due to its specificity."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet poses a question without providing additional context or information, making it somewhat engaging but not highly informative."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet's sentiment is neutral, as it asks a question without expressing a clear emotional tone."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is tied to the immediate response to the question, making its impact relatively short-lived."
+}
+}
+},
+{
+"tweet_id": "1485311634973380614",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The bold, outcome-dependent statement about deleting a Twitter account if a prediction fails can generate significant engagement and sharing."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet is more of a bold claim than a source of informative content, offering a prediction without supporting information."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses a very positive sentiment regarding the potential for Ethereum's value to increase."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The tweet's impact will last until the predicted outcome is realized or the deadline passes, providing a longer duration of engagement."
+}
+}
+},
+{
+"tweet_id": "1485259920563851267",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The personal story of buying Bitcoin and Ethereum at high prices might resonate with some, but its sharing potential is limited."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet is a personal anecdote offering little beyond the user's experience, making it not highly informative."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The tweet expresses a moderately negative sentiment due to the implied financial loss from buying at high prices."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "The tweet's impact is very short-lived, primarily generating sympathy or shared experience in the immediate aftermath."
+}
+}
+},
+{
+"tweet_id": "1485178707128254465",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet's positive news about NFT sales might interest cryptocurrency and NFT enthusiasts, leading to moderate sharing."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides useful information about the NFT market, including a significant sales figure and a link to more details."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses a very positive sentiment regarding the growth of NFT sales."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance will last as long as the discussed market trend is of interest, providing a moderate duration of impact."
+}
+}
+},
+{
+"tweet_id": "1484937699769274372",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The significant transfer of USDT to Binance can generate substantial interest and sharing within the cryptocurrency community."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides newsworthy, data-driven information about a major transaction, making it a valuable source for those interested in cryptocurrency markets."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet's sentiment is neutral, focusing on reporting factual information without expressing a clear emotional tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to the immediate market impact of the transaction, making its discussion-generating potential relatively short-lived."
+}
+}
+},
+{
+"tweet_id": "1484926464424304643",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Similar to the other USDT transfer tweet, this can generate substantial interest and sharing within the cryptocurrency community due to the significant amount involved."
+},
+"informative_value": {
+"score": 8,
+"justification": "This tweet also provides newsworthy, data-driven information about a major transaction, making it valuable for cryptocurrency market enthusiasts."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet maintains a neutral sentiment, focusing on factual reporting without emotional tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Its relevance is tied to the immediate market impact, making the discussion-generating potential relatively short-lived."
+}
+}
+},
+{
+"tweet_id": "1484758003496546308",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The philosophical take on freedom and profit might interest some, but its sharing potential is limited due to its abstract nature."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides some thought-provoking commentary on the relationship between freedom and profit, making it somewhat informative for those interested in philosophical discussions."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "The tweet expresses a moderately negative sentiment towards the concept of profiting from restrictions on freedom."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's impact can last longer due to its abstract, evergreen topic, encouraging reflection and discussion beyond the immediate aftermath."
+}
+}
+}
+]

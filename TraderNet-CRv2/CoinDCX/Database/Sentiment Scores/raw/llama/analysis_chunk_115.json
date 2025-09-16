@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1545985708858302464",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet discusses a significant event in crypto history, the Ethereum Merge, which could generate interest within the crypto community, but its technical nature might limit broader virality."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides insightful information about the upcoming Ethereum Merge, addressing key characteristics of post-Merge ETH, making it valuable for those interested in crypto."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet maintains a neutral tone, focusing on informative aspects of the Ethereum Merge without expressing strong emotions."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "As the Ethereum Merge is a pivotal event, discussions around it will remain relevant for months, especially within the crypto community."
+}
+}
+},
+{
+"tweet_id": "1545900968600129541",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The 'FUN FACT' format can engage users, and the comparison to well-known banks might spark interest, but it's unlikely to go viral beyond crypto enthusiasts."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides a notable comparison, giving insight into Ethereum's market cap, but it's a single, somewhat superficial fact."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tone is moderately positive, implying admiration for Ethereum's market cap size, but it's not overly enthusiastic."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Market caps fluctuate, making this fact's relevance short-lived, likely to be outdated within days or weeks."
+}
+}
+},
+{
+"tweet_id": "1545891360993075200",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "While the high-value bid might interest crypto punk collectors, it's niche content unlikely to spread widely beyond that community."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet informs about a new bid on a CryptoPunk, providing specific details, but its appeal is limited to those interested in CryptoPunks."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply reporting on a transaction without emotional tone."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "The relevance of a single bid is extremely short-lived, becoming outdated as soon as a new bid is placed or the sale concludes."
+}
+}
+},
+{
+"tweet_id": "1545839937853050881",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "A statement from a notable CEO like Michael Saylor on Ethereum's nature can spark significant discussion within the crypto and financial communities."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides a direct quote from a key figure in the crypto space, offering valuable insight into his stance on Ethereum."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The quoted statement expresses a clear, somewhat negative opinion on Ethereum's classification, indicating a moderately negative sentiment."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "As it involves a significant figure's stance on a crucial aspect of Ethereum, the tweet's relevance can last for weeks or even months, sparking ongoing debates."
+}
+}
+},
+{
+"tweet_id": "1545751305687293954",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "While reaching an all-time high in addresses is noteworthy, it might not be engaging enough to spread widely beyond Ethereum enthusiasts."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides a clear, up-to-date statistic on Ethereum's growth, making it informative for those interested in crypto trends."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tone is moderately positive, implying growth and success, but it's presented in a factual manner."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The relevance of this record will diminish as new milestones are achieved, likely becoming outdated within weeks."
+}
+}
+},
+{
+"tweet_id": "1545568324276391938",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The humorous approach might engage users who can relate, but its appeal is mostly limited to those familiar with Ethereum's price movements."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet is primarily humorous and does not provide substantial information about Ethereum or its market."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The tweet has a moderately negative undertone, poking fun at a past decision, but it's light-hearted rather than critical."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "As a meme, its relevance can last longer than a straightforward tweet, but its impact will significantly diminish over a couple of months."
+}
+}
+},
+{
+"tweet_id": "1545264376994844672",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Reclaiming a $150 billion market cap is notable but might not generate widespread engagement beyond the crypto community."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet updates followers on Ethereum's market cap, providing a specific, noteworthy piece of information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tone is moderately positive, indicating a recovery or achievement, but it's more of a factual report."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Market cap figures are highly volatile, making this achievement's relevance short-lived, likely to change within days."
+}
+}
+},
+{
+"tweet_id": "1545173135367888896",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The launch of Aztec Connect and its benefits could generate interest within the crypto and privacy-focused communities."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides detailed information about Aztec Connect, its use case, and its potential bullish impact on Ethereum, making it highly informative."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tone is very positive, expressing excitement and optimism about the product's potential impact on Ethereum."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "As a product launch with significant implications for Ethereum's privacy and cost, discussions around it will remain relevant for months."
+}
+}
+},
+{
+"tweet_id": "1544709397858947073",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The successful transition of a testnet to PoS is a significant step, but its technical nature might limit broader engagement."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet updates followers on a crucial milestone in Ethereum's transition, providing valuable information for those interested in its development."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tone is moderately positive, indicating progress, but it's primarily a factual update."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "As a key step in Ethereum's development, the tweet's relevance will last for weeks, but its impact will diminish as the mainnet merge approaches."
+}
+}
+},
+{
+"tweet_id": "1544346244876754945",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The combination of a free NFT mint, the involvement of a notable figure, and the use of eye-catching hashtags could generate significant engagement."
+},
+"informative_value": {
+"score": 5,
+"justification": "While the tweet informs about an NFT mint, the details are somewhat superficial, and the focus is more on the event than providing in-depth information."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The tone is very positive, inviting and celebratory, indicating a special offering and expressing gratitude."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The relevance of a specific NFT mint event is short-lived, becoming outdated once the event concludes, likely within days."
+}
+}
+} 
+]

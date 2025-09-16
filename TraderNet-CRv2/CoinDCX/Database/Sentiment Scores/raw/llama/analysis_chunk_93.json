@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1526190756926746624",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet's humorous, comparative analysis of various cryptocurrencies has a high potential to be shared within the crypto community and beyond, due to its entertaining and relatable content."
+},
+"informative_value": {
+"score": 6,
+"justification": "While the tweet provides a subjective, humorous comparison of cryptocurrencies, it does offer a form of information about the perceived performance/issues of each, albeit in a non-traditional, entertaining manner."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The overall sentiment is moderately positive, as the tweet uses humor to critique various cryptocurrencies, with a favorable tone towards Bitcoin (implied by the heart symbol)."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is somewhat time-sensitive, as the issues mentioned (e.g., Luna's price, Solana's functionality) may change, but its humorous approach could keep it relevant for a bit longer than a standard tweet."
+}
+}
+},
+{
+"tweet_id": "1526185955102801920",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Announcements about the next generation of web3 networks, especially involving major players like Ethereum, have a medium to high potential for being shared within the tech and crypto communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides significant, newsworthy information about the start of experiments for the next generation of web3 networks, specifically mentioning Ethereum's move to Proof of Stake."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The sentiment is neutral, as the tweet is a straightforward announcement without expressing a clear emotional tone."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The relevance of this tweet will last for days or weeks, as the implications of these experiments and the transition to Proof of Stake will be discussed over time."
+}
+}
+},
+{
+"tweet_id": "1526100347722289152",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "News about Ethereum's founder suggesting a relief plan for UST retail investors is moderately likely to be shared, primarily within the crypto community, due to its relevance to recent market events."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides highly relevant, newsworthy information about a significant development in the crypto space, involving a major figure and a recent, widely-discussed event."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The sentiment is neutral, as the tweet reports on a development without expressing a clear emotional tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance will last for days, as the details and implications of the relief plan will be discussed and possibly updated over a short period."
+}
+}
+},
+{
+"tweet_id": "1525715282299342848",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "A list of cryptocurrency prices from a year ago has a low potential for virality, as it's more of a factual, historical reference rather than engaging or provocative content."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides useful, factual information for those interested in the historical prices of various cryptocurrencies, serving as a reference point."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The sentiment is neutral, as the tweet simply presents historical data without expressing any emotional tone."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The relevance of this tweet can last for months or even years, as historical price comparisons remain useful for analysis and reflection over time."
+}
+}
+},
+{
+"tweet_id": "1525537213181722624",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "A thread titled '14 reasons you don’t own enough Ethereum' has a medium to high potential for being shared, especially within the Ethereum and crypto enthusiast communities, due to its provocative title."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet, while not providing immediate information, promises in-depth content (via the thread) that could offer valuable insights or arguments for owning Ethereum, thus having a medium to high informative value."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The overall sentiment is very positive towards Ethereum, encouraging ownership, though the exact tone of the thread is not visible in this tweet."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The relevance of this tweet will last for days or weeks, as the interest in Ethereum and the arguments for owning it will be discussed over a short to medium period."
+}
+}
+},
+{
+"tweet_id": "1525135031894544384",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "An announcement about Ethereum's Ropsten testnet transitioning to The Merge has a neutral potential for virality, primarily of interest to those closely following Ethereum's development."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides highly specific, newsworthy information about a significant upcoming event in Ethereum's development, which is valuable for those interested in the project."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The sentiment is neutral, as the tweet is a straightforward announcement without expressing a clear emotional tone."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The relevance of this tweet will last for days or weeks, as the transition to The Merge and its implications will be discussed leading up to and following the event."
+}
+}
+},
+{
+"tweet_id": "1525116183988543488",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "A personal, somewhat cryptic anecdote about someone's past and a comparison to investing in Bitcoin/Ethereum has a low potential for virality, as it's highly personal and not broadly relatable or engaging."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet provides minimal information, and its primary focus is on a personal story rather than offering useful insights or data."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "The sentiment is moderately negative, as the tweet seems to lament a past decision (or the decision of 'el pibe') in a somewhat humorous but also slightly regretful tone."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The relevance of this tweet is short-term, as personal anecdotes without broader implications or discussions tend to lose relevance quickly."
+}
+}
+},
+{
+"tweet_id": "1525102761624449026",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "A hypothetical, humorous scenario involving Luna's price recovery and a blockchain alteration has a high potential for being shared, especially within the crypto community, due to its entertaining and thought-provoking nature."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet provides some context about recent crypto events (Luna's price drop, Ethereum's past blockchain alteration) but primarily in a speculative, humorous manner rather than offering factual information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The overall sentiment is moderately positive, as the tweet imagines a favorable outcome for Luna in a humorous, lighthearted way."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The relevance of this tweet is somewhat time-sensitive, as the humor and speculation are tied to recent events, but its entertaining nature could keep it relevant for a bit longer."
+}
+}
+},
+{
+"tweet_id": "1524971932252520454",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "An analysis or discussion about why a crypto stablecoin crashed and what traders can expect next has a low to medium potential for virality, as it's informative but may not appeal broadly beyond the crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet promises in-depth analysis or discussion on a significant recent event in the crypto space, which could provide valuable insights for traders and enthusiasts."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The sentiment is neutral, as the tweet is a straightforward presentation of a topic without expressing a clear emotional tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The relevance of this tweet will last for days, as the analysis and expectations following the stablecoin crash will be discussed over a short period."
+}
+}
+},
+{
+"tweet_id": "1524968300853071873",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "A humorous, comparative observation about the support prices of Bitcoin, Ethereum, and Luna has a very high potential for being shared, especially within the crypto community, due to its witty and relatable content."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet provides some factual information about current support prices but primarily in a humorous, comparative manner rather than a detailed analysis."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The overall sentiment is moderately positive, as the tweet uses humor to highlight the stark contrast in support prices, with an implied favorable view of Bitcoin and Ethereum over Luna."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The relevance of this tweet is somewhat time-sensitive, as the humor is tied to current market conditions, but its entertaining nature could keep it relevant for a bit longer."
+}
+}
+}
+]

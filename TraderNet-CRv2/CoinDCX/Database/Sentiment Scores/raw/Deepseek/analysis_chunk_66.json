@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1494858301095686149",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Event announcement with specific instructions for participation and cryptocurrency incentives could drive sharing within crypto communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Promotes an upcoming event but lacks concrete details about the nature of the event or its purpose."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral promotional tone without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance limited to the pre-event period and immediate aftermath of February 22 announcement."
+      }
+    }
+  },
+  {
+    "tweet_id": "1494842321048948737",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High-profile political figure collaborating with Ethereum's founder creates strong sharing potential in both tech and political circles."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Announces a significant partnership with concrete implications for state-level blockchain adoption."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone emphasizing collaboration and forward-looking initiatives."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Ongoing relevance due to long-term nature of state-level digital transformation projects."
+      }
+    }
+  },
+  {
+    "tweet_id": "1494652102685380619",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Sensational financial success story likely to resonate in crypto communities, though lacks unique visual elements."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Anecdotal story without verifiable details or educational content."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Enthusiastic tone promoting financial success through cryptocurrency investment."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term interest as a motivational story without lasting educational value."
+      }
+    }
+  },
+  {
+    "tweet_id": "1494292082688729096",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Provocative comparison using strong language ('shitcoin') likely to drive engagement through controversy."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "Contains no factual information - purely opinion-based comparison."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative tone through disparaging comparison of traditional finance platforms."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Meme-style content with relevance tied to immediate reaction cycle."
+      }
+    }
+  },
+  {
+    "tweet_id": "1494288249849851912",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Significant regulatory development for crypto adoption, relevant to investment communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Concrete information about financial instrument availability from official source."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement of factual information."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Lasting relevance as a regulatory milestone in cryptocurrency adoption."
+      }
+    }
+  },
+  {
+    "tweet_id": "1494061144880959488",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Bold price predictions likely to generate discussion in crypto trading communities."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Speculative content without supporting analysis or sources."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Extremely bullish sentiment expressed through high price targets."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to 2022 timeline and market performance against predictions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1494032182263914504",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major platform update from Twitter with direct crypto integration appeal."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Newsworthy announcement about significant feature implementation from verified source."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of factual update."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Lasting relevance as part of Twitter's ongoing crypto integration efforts."
+      }
+    }
+  },
+  {
+    "tweet_id": "1494031702154530822",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Niche commentary comparing crypto performance to traditional markets, limited appeal."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Opinion-based comparison without supporting data."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Implied criticism through unfavorable comparison."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Relevance tied to immediate market conditions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1494030738463019008",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Platform update news from established account, relevant to crypto and social media communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Clear reporting of verified feature implementation."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement tone."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Part of ongoing narrative about social media crypto integration."
+      }
+    }
+  },
+  {
+    "tweet_id": "1494030186404323334",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Breaking news about major platform integration from authoritative source, high retweet potential."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Verifiable news about significant Twitter feature update with source attribution."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual reporting without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Long-term relevance as milestone in crypto payment adoption."
+      }
+    }
+  }
+]

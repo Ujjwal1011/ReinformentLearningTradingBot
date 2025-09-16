@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1732188685326541012",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Predictions about cryptocurrency trends may resonate within crypto communities but lack a universal hook for broader virality."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Contains speculative market analysis without verifiable data or sources, limiting its factual value."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone describing a market prediction without overtly positive or negative language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to short-term market fluctuations, likely fading as trends evolve."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732188669061091471",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Large ETH transactions attract crypto enthusiasts' attention, especially with whale-tracking hashtags."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific transactional data but lacks contextual analysis or broader implications."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Purely factual reporting without emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Single transactional data point becomes obsolete quickly as new transactions occur."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732188555890319603",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Turkish-language crypto analysis may engage niche audiences but lacks global appeal."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Personal trading position shared without supporting data or educational context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral declaration of holding a position without emotional emphasis."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance limited to short-term market movements affecting the specific token."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732188428949713311",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "List-style content with bullish 2024 predictions could spread within crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides actionable advice but lacks specific data or source credibility."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement format without explicit sentiment."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant through 2024 bull run speculation but may age post-event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732188353511014492",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Routine market data unlikely to drive shares beyond basic informational retweets."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Accurate 24-hour price movements presented clearly with percentages."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Pure data presentation without emotional bias."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Instantly outdated as prices update minute-to-minute."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732188341406248989",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Near-identical duplicate of previous tweet reduces unique shareability."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Slightly updated price data maintains factual accuracy."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral data reporting identical to original tweet."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Same ephemeral relevance as previous price update."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732188339896304118",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Product promotion with multiple hashtags targets crypto security enthusiasts."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Introduces a hardware wallet solution with practical use case details."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive framing emphasizing security improvements."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Product relevance persists as long as wallet remains on market."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732188334334562605",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High engagement metrics and bullish hashtags suggest strong community resonance."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Hype-driven announcement without substantive project details."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Strong positive emotion with rocket emojis and 'Bullish' emphasis."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Tied to Season 2 event cycle, maintaining relevance for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732188262024781969",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Niche utility for Ethereum users needing gas estimates, limited broader appeal."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Actionable real-time data for network participants."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral bot-style reporting."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Immediately superseded by next block's gas prices."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732188115517792652",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "From a large Spanish-language account discussing Ethereum's rise, likely reaching broad audience."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "General market observation without specific data or sources."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Moderately positive tone highlighting value gains."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant until next significant market movement alters trend."
+      }
+    }
+  }
+]

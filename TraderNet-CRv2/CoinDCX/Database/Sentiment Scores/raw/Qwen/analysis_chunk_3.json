@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1314714956131164161",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet presents a bold opinion that invites debate, likely to be shared within crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides a direct comparison between Ethereum and Bitcoin, though it's a personal opinion."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, presenting an opinion without strong emotion."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant for a few days as a debate starter."
+      }
+    }
+  },
+  {
+    "tweet_id": "1313959574244859905",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Technical discussion about smart contracts, likely shared among Ethereum enthusiasts."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Explains the decentralized nature of Ethereum smart contracts."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, factual explanation."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for weeks as it's about ongoing technology."
+      }
+    }
+  },
+  {
+    "tweet_id": "1313943695016767488",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Critique of Ethereum's infrastructure, likely shared within the community."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Points out reliance on AWS, a valid concern."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative critique of current infrastructure."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant until infrastructure changes, short-term."
+      }
+    }
+  },
+  {
+    "tweet_id": "1313228298642575360",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Announcement of a milestone, likely shared by users."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Significant product update with a link for more info."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive celebration of growth."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for a few weeks as a milestone."
+      }
+    }
+  },
+  {
+    "tweet_id": "1313035954358292482",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Giveaway with incentives, likely widely shared."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Promotional content with participation rules."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive and exciting giveaway announcement."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant until the giveaway ends."
+      }
+    }
+  },
+  {
+    "tweet_id": "1333478962576715777",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Major upgrade announcement, likely widely shared."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Important update with a link to more details."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive announcement of support for Ethereum 2.0."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Long-term relevance as it's a foundational change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1332047468004077569",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Technical fix discussion, shared among developers."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Explains a critical bug fix with a link."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive resolution of a serious issue."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for weeks as it's about ongoing issues."
+      }
+    }
+  },
+  {
+    "tweet_id": "1331899357562454016",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Price drops are newsworthy, likely shared."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides current price data."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative due to price drops."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a few days as prices fluctuate."
+      }
+    }
+  },
+  {
+    "tweet_id": "1331639190526824454",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Bull run discussion, likely shared among investors."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "States a trend without detailed analysis."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive about the bull run."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for weeks as a trend."
+      }
+    }
+  },
+  {
+    "tweet_id": "1324018999458295809",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Foundational update, likely widely shared."
+      },
+      "informative_value": {
+        "score": 10,
+        "justification": "Announcement from a key figure with a link."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Positive and significant announcement."
+      },
+      "duration_of_impact": {
+        "score": 10,
+        "justification": "Timeless as it's a foundational update."
+      }
+    }
+  }
+]

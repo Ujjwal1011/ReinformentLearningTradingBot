@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1472696060351025154",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "The tweet contains only links with no contextual hook or emotional content, but the user’s large following and moderate engagement suggest a moderate potential for sharing within the crypto community."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No context or description accompanies the links, providing minimal informational content."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet contains no text to convey sentiment, resulting in a neutral tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Links may become outdated quickly, limiting the tweet’s relevance to the time of posting."
+      }
+    }
+  },
+  {
+    "tweet_id": "1472579126657749011",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The rhetorical question referencing the owner of Ethereum creates a meme-like hook that can resonate within the crypto community, giving it moderate to high shareability."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet offers a motivational statement rather than factual information, resulting in low informational value."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The tone is encouraging and positive, expressing optimism about success."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Motivational content remains relevant for a while, though it is not tied to a specific event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1472523191029481476",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Bold price predictions with a meme-like format and strong hashtags generate high shareability across the crypto audience."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "The tweet presents a speculative forecast, offering some informational content but not verified facts."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The optimistic tone and use of the moon emoji convey strong positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Predictions can spark discussion for days or weeks, though they eventually become outdated."
+      }
+    }
+  },
+  {
+    "tweet_id": "1472476159166144512",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The critique of minting advice and the extensive list of blockchains can resonate within the crypto community, giving it moderate shareability."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "While primarily opinionated, the tweet lists many blockchains, providing useful context for minting decisions."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "The tone is critical and somewhat negative toward the advice, resulting in a moderately negative sentiment."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The commentary remains relevant for a period as minting practices evolve, but it is not evergreen."
+      }
+    }
+  },
+  {
+    "tweet_id": "1472398851835248644",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "The meme referencing Ethereum and Axie Infinity is highly relatable and shareable within the crypto and gaming communities."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "The tweet is a humorous meme with no factual or informational content."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The humorous tone conveys a strong positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Memes can remain relevant for weeks or months, especially within niche communities."
+      }
+    }
+  }
+]

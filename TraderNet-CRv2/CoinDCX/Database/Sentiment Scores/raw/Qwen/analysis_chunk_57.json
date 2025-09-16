@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1484757337512439809",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet critiques new restrictions in blockchain technology, which could resonate within crypto communities but may not go viral beyond that."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides insight into blockchain restrictions and their implications, though not extremely detailed."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Expresses frustration and criticism, indicating moderately negative sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Impact is short-term, tied to specific blockchain issues."
+}
+}
+},
+{
+"tweet_id": "1484668109894352896",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Promotional giveaway with crypto market discussion, likely to engage crypto communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "Informs about market crash and offers a personal opinion."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment with excitement about potential rewards."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Impact tied to the giveaway, short-term."
+}
+}
+},
+{
+"tweet_id": "1484642532440956930",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Brief statement with low engagement, unlikely to go viral."
+},
+"informative_value": {
+"score": 5,
+"justification": "Mentions NFTs as a hedge but lacks depth."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral statement with a hint of interest."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Standard impact, relevant for a short period."
+}
+}
+},
+{
+"tweet_id": "1484543604618330117",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Discusses crypto events and market crash, engaging for crypto enthusiasts."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides timely information on market movements."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral observation on market changes."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Impact tied to recent events, short-term."
+}
+}
+},
+{
+"tweet_id": "1484346755814916096",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Reacting to price drops with high engagement, likely to be shared among crypto communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "Reports on price changes, a key metric in crypto."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "Negative reaction to price drops."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Impact tied to current prices, short-term."
+}
+}
+},
+{
+"tweet_id": "1484344761016147969",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Promotes knowledge sharing with relevant hashtags, moderate engagement."
+},
+"informative_value": {
+"score": 5,
+"justification": "Mentions crypto assets without detailed info."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral statement with a call to action."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Standard impact, relevant for a short period."
+}
+}
+},
+{
+"tweet_id": "1484213577737244675",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Humorous and attention-grabbing offer, likely to be shared."
+},
+"informative_value": {
+"score": 3,
+"justification": "Not particularly informative, more of a joke."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral with a humorous twist."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Impact tied to the offer, short-term."
+}
+}
+},
+{
+"tweet_id": "1484186504087932928",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Breaking news about a mayor's crypto adoption, high engagement."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides credible, newsworthy information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment about crypto adoption."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Impact lasts a few days as it's a significant announcement."
+}
+}
+},
+{
+"tweet_id": "1484156410409947136",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Discusses gas fees, relevant but not viral."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides data on Ethereum gas fees."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral report on fees."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Impact tied to current fee levels, short-term."
+}
+}
+},
+{
+"tweet_id": "1483738188636119047",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Compares Visa and Ethereum volumes, engaging for crypto discussions."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides significant, verifiable data."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral observation with a hint of surprise."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Impact lasts weeks as it's a notable statistic."
+}
+}
+}
+]

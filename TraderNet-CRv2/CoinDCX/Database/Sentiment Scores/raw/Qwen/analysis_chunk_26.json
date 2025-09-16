@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1451153392697495555",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet is a joke about Ethereum, which could resonate within the crypto community, but it's not likely to go viral beyond that."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet is a play on words and does not provide factual or educational content."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The use of a laughing emoji indicates a positive sentiment, though not extremely so."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The tweet's relevance is limited to a niche audience and will likely fade quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1450983679619059713",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet is a motivational statement about Ethereum ownership, which is likely to be shared within the crypto community."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "The tweet is a statement without providing specific information or context."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet expresses a positive sentiment about owning Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The tweet's relevance is tied to the current interest in Ethereum, which may diminish over time."
+      }
+    }
+  },
+  {
+    "tweet_id": "1450960184814325763",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet is a specific prediction about Ethereum Futures ETF, which may be shared within crypto circles."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "The tweet provides a forecast about a potential ETF, which is useful information for investors."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is a neutral prediction without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The topic of ETFs is relevant for a period as developments unfold."
+      }
+    }
+  },
+  {
+    "tweet_id": "1450902092479033344",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet is an excited announcement about Ethereum, likely to be shared within the crypto community."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "The tweet is a brief, enthusiastic statement without detailed information."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tweet expresses strong positive emotions about Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The tweet's relevance is tied to the current excitement around Ethereum, which may fade."
+      }
+    }
+  },
+  {
+    "tweet_id": "1450752044516605965",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet highlights Ethereum's adoption by major platforms, likely to be shared widely."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "The tweet points out a trend but does not provide detailed information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet expresses a positive sentiment about Ethereum's adoption."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The topic of Ethereum adoption is relevant for a period as more platforms integrate it."
+      }
+    }
+  },
+  {
+    "tweet_id": "1450678497878233095",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet discusses Terra's expansion, which may be shared within the crypto community."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet provides detailed information about blockchain integrations."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet expresses a positive sentiment about Terra's role in Web3."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The topic of blockchain integration is relevant for a period as developments continue."
+      }
+    }
+  },
+  {
+    "tweet_id": "1450538513141690371",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet announces a technical update, likely to be shared within the crypto community."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet provides specific information about Wormhole's support for Terra."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet expresses a positive sentiment about the update."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The topic of cross-chain bridges is relevant for a period as more updates occur."
+      }
+    }
+  },
+  {
+    "tweet_id": "1450529498718355461",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "The tweet is a breaking news announcement about AMC accepting crypto, likely to be widely shared."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet provides important news about a major company adopting crypto."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tweet expresses a positive sentiment about the news."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The topic of crypto adoption by major companies is relevant for a period as more announcements occur."
+      }
+    }
+  },
+  {
+    "tweet_id": "1450472793846554626",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "The tweet is a strong prediction about Bitcoin and Ethereum, likely to be shared widely."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "The tweet is a prediction without detailed information."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "The tweet expresses a very positive sentiment about the potential price movement."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The tweet's relevance is tied to the prediction, which may fade as time passes."
+      }
+    }
+  },
+  {
+    "tweet_id": "1450382126910779393",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet discusses Ethereum fees, which is a common issue and may be shared within the crypto community."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "The tweet provides a comparison between Ethereum and XRP fees."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "The tweet expresses frustration with Ethereum fees, indicating a moderately negative sentiment."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The topic of transaction fees is relevant for a period as discussions continue."
+      }
+    }
+  }
+]

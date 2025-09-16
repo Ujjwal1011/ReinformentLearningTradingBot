@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1737634168937517274",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Short declarative tweet from a high-follower user; may get some retweets but lacks a hook or link, so moderate potential."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Purely opinion; no factual data or link; low informative value."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone; no strong emotion."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "General statement; likely to fade after a few days; typical lifespan."
+      }
+    }
+  },
+  {
+    "tweet_id": "1737601874847478142",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "A compliment with a link; may get some retweets within the community but lacks a broader hook, so low to moderate potential."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No factual information; just a positive comment; low informative value."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone praising someone's portfolio; moderately positive."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "A compliment may be referenced for a while if the person is known, but generally fades after a few days; neutral lifespan."
+      }
+    }
+  },
+  {
+    "tweet_id": "1737529035906064428",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Strong opinion rant about Solana and Ethereum; may resonate within crypto communities and get shared, but not a meme or breaking news, so medium potential."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Opinionated commentary with no data; low informative value."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative rant about Ethereum; strongly negative sentiment."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Market commentary tends to be relevant for a short period; likely to fade within a day or two; short lifespan."
+      }
+    }
+  },
+  {
+    "tweet_id": "1737499299192217775",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Brief statement with a link; may get some retweets but lacks a hook, so low to moderate potential."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No factual content; just a statement; low informative value."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone; no strong emotion."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Statement likely to fade after a day or two; neutral lifespan."
+      }
+    }
+  },
+  {
+    "tweet_id": "1737155968868524187",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Promotional quiz with a call to action; high follower count and engaging content; likely to be widely shared, so high potential."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Educational quiz about Ethereum rollups; provides useful knowledge; high informative value."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive, enthusiastic tone; very positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Quiz event remains relevant for days or weeks; medium to long lifespan."
+      }
+    }
+  }
+]

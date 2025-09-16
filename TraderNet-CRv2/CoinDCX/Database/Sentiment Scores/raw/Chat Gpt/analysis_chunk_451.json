@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1758061466446438840",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet makes a provocative, hyperbolic claim about Ethereum L2s and dapps, referencing the notorious Bitconnect. Such controversy can spark debate and shares within crypto communities, though it is unlikely to break out of that niche."
+},
+"informative_value": {
+"score": 2,
+"justification": "The content consists of unsubstantiated opinions and hyperbole without any factual data or sources, providing little to no verifiable information."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The language is strongly negative toward L2s and dapps, using phrases like \"will not scale\" and \"95% of dapps are fake,\" indicating a very negative sentiment."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet may generate discussion for a day or two among crypto users, but the claim is not tied to a lasting event, limiting its relevance to the short term."
+}
+}
+},
+{
+"tweet_id": "1757857494079066395",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Announces a major financial development—court approval for Genesis to sell $1.6 billion in Bitcoin and Ethereum trust shares—making it breaking news likely to be widely shared across finance and crypto audiences."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides concrete, newsworthy information about a court decision and a large monetary transaction, which is factual and relevant."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is a neutral statement of fact without expressive language indicating positive or negative emotion."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The announcement may stay relevant for several days to weeks as markets react and the sale proceeds, giving it a medium‑term impact."
+}
+}
+},
+{
+"tweet_id": "1757776250037551442",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "A self‑promotional message from a known influencer that contains personal bragging; it may get retweets from followers but lacks a hook to spread beyond that niche."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet offers no factual or educational content, focusing solely on self‑praise and a link, which does not convey verifiable information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The language is upbeat and self‑affirming, expressing strong positive feelings about the author's achievements."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Personal bragging typically fades quickly; relevance is likely limited to a few hours or a day."
+}
+}
+},
+{
+"tweet_id": "1757180273538572720",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Provides cautionary advice about margin trading and includes comparative figures, which can resonate with traders and be shared within that community."
+},
+"informative_value": {
+"score": 6,
+"justification": "Offers specific advice and numerical examples about Bitcoin and Ethereum price dynamics, giving useful (though unsourced) information."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "The tone warns against a risky practice, conveying moderate negativity toward margin trading."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Risk warnings and trading advice remain relevant for weeks to months, giving the tweet a medium‑term lifespan."
+}
+}
+},
+{
+"tweet_id": "1757168443084898465",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Announces that a major asset manager, Franklin Templeton, is entering the Ethereum ETF race—a significant development likely to be widely shared across finance and crypto circles."
+},
+"informative_value": {
+"score": 8,
+"justification": "Conveys a factual, newsworthy update about a large institution's involvement in the ETF market, providing clear information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is a neutral statement of fact without emotive language."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The entry of a major firm into the ETF race can influence discussions for weeks to months as regulatory processes unfold, giving it a medium‑to‑long impact."
+}
+}
+}
+]

@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1721559569011257527",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet uses provocative language ('haters', 'bad news') and a massive price increase claim (14,853%) that can attract attention within crypto communities. With 4.7k likes and 1.7k retweets, it shows strong engagement, though its appeal remains niche to HEX supporters."
+},
+"informative_value": {
+"score": 5,
+"justification": "It mentions HEX's decentralization and price performance, but provides no source or detailed data, making it more hype than factual information."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tone is confrontational toward critics but celebratory about HEX's resilience and price gains, resulting in a moderately positive overall sentiment."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The price claim is time‑sensitive and will become outdated, while the decentralization claim has limited lasting relevance, suggesting a typical short‑term lifespan."
+}
+}
+},
+{
+"tweet_id": "1721145582859796526",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The claim that ETH founders' fraud is bigger than FTX is sensational and likely to be shared widely among crypto skeptics and conspiracy circles; high engagement (3.9k likes, 1.7k retweets) supports this."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet only teases a story with a link and makes an unverified accusation, offering little factual content."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The language is negative, framing Ethereum founders as fraudulent, resulting in a moderately negative tone."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "If the story gains traction, it could stay relevant for days to weeks, but without verification its relevance will likely fade quickly."
+}
+}
+},
+{
+"tweet_id": "1721023957216698414",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Listing recent negative events in the Ethereum ecosystem while praising HEX may resonate with critics, leading to moderate sharing; engagement (2.3k likes, 670 retweets) reflects medium virality."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet enumerates specific incidents (fake ledger app theft, AAVE pause, Gemini lawsuit), providing useful information despite lacking sources."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "The tweet is critical of Ethereum and defensive of HEX, conveying a moderately negative sentiment."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The events are recent (last 30 days) and may be discussed for a few weeks, giving the tweet a neutral, short‑to‑medium lifespan."
+}
+}
+},
+{
+"tweet_id": "1720978042879689169",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Repeats the sensational claim about ETH founders' fraud, attracting high engagement (3.3k likes, 1.2k retweets) and likely to be widely shared across crypto and conspiracy audiences."
+},
+"informative_value": {
+"score": 3,
+"justification": "Provides only a headline and link without substantive details, offering low informational content."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The phrasing implies strong negative judgment toward Ethereum founders, resulting in a moderately negative tone."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Similar to tweet 2, relevance depends on the story's development and may persist for days to weeks."
+}
+}
+},
+{
+"tweet_id": "1720891618709176633",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "From a respected analyst, the comparison of SOL and ETH performance can attract interest among investors; moderate engagement (1.7k likes, 242 retweets) suggests medium virality."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet shares a specific performance claim (SOL outperformed ETH 3x since 2022) and personal insight, offering useful but unverified information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The author expresses love for ETH and acknowledges SOL's strength, resulting in a generally positive and optimistic tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Performance comparisons remain relevant for weeks to months as investors evaluate assets, giving the tweet a medium‑to‑long relevance."
+}
+}
+}
+]

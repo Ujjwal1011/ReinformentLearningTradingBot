@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1492733255719669763",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet combines popular topics like Netflix and cryptocurrency, which can attract attention within crypto communities."
+},
+"informative_value": {
+"score": 5,
+"justification": "It provides news about a new series but lacks primary source information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral announcement of a new series."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant until the series airs and possibly beyond."
+}
+}
+},
+{
+"tweet_id": "1492613733864153089",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Polls can drive engagement, especially on popular crypto topics."
+},
+"informative_value": {
+"score": 4,
+"justification": "A poll without detailed information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short-lived as polls typically lose relevance quickly."
+}
+}
+},
+{
+"tweet_id": "1492597270809821193",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "High-value NFT sale attracts significant interest."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides specific transaction details."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive about the sale."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Remains relevant as NFT news often garners attention for weeks."
+}
+}
+},
+{
+"tweet_id": "1492551379176636424",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Interesting but niche topic about NFT real estate."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides factual information about the sale."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for a few weeks as NFT real estate is a growing trend."
+}
+}
+},
+{
+"tweet_id": "1492491110664400899",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Targets MAGA supporters, a specific community."
+},
+"informative_value": {
+"score": 5,
+"justification": "Discusses crypto value but with a negative slant."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "Strongly negative about the crypto's worthlessness."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short-term relevance as it's tied to current events."
+}
+}
+},
+{
+"tweet_id": "1491821215924690950",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Important security news for the DeFi community."
+},
+"informative_value": {
+"score": 8,
+"justification": "Detailed report on a critical bug and its resolution."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive regarding security improvements."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Remains relevant as it's a significant security event."
+}
+}
+},
+{
+"tweet_id": "1491506132636086277",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Useful information on earning with Ethereum."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides actionable advice on passive income."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive encouragement to use Ethereum."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Timeless advice as long as Ethereum is relevant."
+}
+}
+},
+{
+"tweet_id": "1491502663149703168",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Interesting tech news about crypto payments."
+},
+"informative_value": {
+"score": 6,
+"justification": "Announces a potential feature."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant until the feature is released."
+}
+}
+},
+{
+"tweet_id": "1491452010863857665",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Targets Ethereum community discussions."
+},
+"informative_value": {
+"score": 4,
+"justification": "Opinion on community behavior."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral but constructive."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short-term relevance as it's a current issue."
+}
+}
+},
+{
+"tweet_id": "1491423787203821572",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Promises something for free, attracting attention."
+},
+"informative_value": {
+"score": 3,
+"justification": "Not informative, more of a promotion."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive and enticing."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short-term as it's a specific offer."
+}
+}
+}
+]

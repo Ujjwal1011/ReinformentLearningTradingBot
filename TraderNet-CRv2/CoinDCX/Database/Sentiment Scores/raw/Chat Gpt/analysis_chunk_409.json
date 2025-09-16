@@ -1,0 +1,107 @@
+[
+{
+    "tweet_id": "1732105447866499255",
+    "analysis": {
+        "virality_potential": {
+            "score": 4,
+            "justification": "The tweet uses popular crypto hashtags and mentions a market dynamic, but it received only 25 likes and no retweets from a user with ~97 k followers, indicating limited sharing potential beyond the immediate crypto audience."
+        },
+        "informative_value": {
+            "score": 6,
+            "justification": "It makes a claim about Bitcoin's dominance over Ethereum and includes a link likely showing supporting data, offering some factual information for crypto followers, though it lacks detailed analysis."
+        },
+        "sentiment_polarity": {
+            "score": 5,
+            "justification": "The language is neutral, simply stating a market observation without strong positive or negative emotion."
+        },
+        "duration_of_impact": {
+            "score": 5,
+            "justification": "The statement reflects a current market condition that may change quickly; relevance is likely limited to the short to medium term."
+        }
+    }
+},
+{
+    "tweet_id": "1732104891600949749",
+    "analysis": {
+        "virality_potential": {
+            "score": 4,
+            "justification": "The tweet announces a personal NFT mint and tags a few accounts, appealing only to a niche NFT community. With only 2.4 k followers and modest engagement, its reach beyond that niche is low."
+        },
+        "informative_value": {
+            "score": 3,
+            "justification": "It provides a personal update about minting NFTs for a cause, but offers little factual or educational content beyond the announcement."
+        },
+        "sentiment_polarity": {
+            "score": 7,
+            "justification": "The author expresses excitement about the project, indicating a moderately positive tone."
+        },
+        "duration_of_impact": {
+            "score": 3,
+            "justification": "The relevance is tied to the specific NFT mint event, which is likely to fade after the launch, giving it a short lifespan."
+        }
+    }
+},
+{
+    "tweet_id": "1732103030659580335",
+    "analysis": {
+        "virality_potential": {
+            "score": 7,
+            "justification": "The tweet delivers a market commentary in Turkish with strong language encouraging traders, and it has high engagement (447 likes, 21 retweets) within a sizable follower base, suggesting good potential for viral spread in the Turkish crypto community."
+        },
+        "informative_value": {
+            "score": 7,
+            "justification": "It offers analysis of market dynamics—Bitcoin leading, followed by Ethereum and altcoins—providing useful insight for traders, though it is not a formal news report."
+        },
+        "sentiment_polarity": {
+            "score": 7,
+            "justification": "The tone is encouraging and motivational, urging readers not to be discouraged, reflecting a moderately positive sentiment."
+        },
+        "duration_of_impact": {
+            "score": 5,
+            "justification": "Market analysis is relevant for a limited period as price movements evolve, so its impact is expected to last a few days to weeks."
+        }
+    }
+},
+{
+    "tweet_id": "1732101559964901868",
+    "analysis": {
+        "virality_potential": {
+            "score": 5,
+            "justification": "The tweet reports a specific Ethereum price point and includes a link, which may be shared by price‑trackers, but the modest engagement (15 likes, 4 retweets) from a user with ~86 k followers suggests limited viral potential."
+        },
+        "informative_value": {
+            "score": 7,
+            "justification": "It conveys a factual piece of information—a current price level for Ethereum—making it a straightforward news update."
+        },
+        "sentiment_polarity": {
+            "score": 5,
+            "justification": "The tweet is neutral, simply stating a price without expressing positive or negative emotion."
+        },
+        "duration_of_impact": {
+            "score": 4,
+            "justification": "Price news is time‑sensitive and loses relevance quickly as markets move, giving it a short impact window."
+        }
+    }
+},
+{
+    "tweet_id": "1732099534770012345",
+    "analysis": {
+        "virality_potential": {
+            "score": 6,
+            "justification": "The tweet shares a personal success story about DCAing ETH and claims it is undervalued, which can resonate with crypto enthusiasts. While the author has a modest follower count, the narrative of strong gains may encourage sharing within the community, giving it medium potential."
+        },
+        "informative_value": {
+            "score": 6,
+            "justification": "It provides anecdotal performance data (125% gain) and an opinion on ETH valuation, offering some informational content but lacking detailed analysis or external sources."
+        },
+        "sentiment_polarity": {
+            "score": 8,
+            "justification": "The tone is highly positive, celebrating investment success and expressing optimism about Ethereum's future."
+        },
+        "duration_of_impact": {
+            "score": 5,
+            "justification": "The claim about undervaluation may stay relevant for a while, but it is tied to a specific price context, so its relevance is likely medium‑term."
+        }
+    }
+}
+]

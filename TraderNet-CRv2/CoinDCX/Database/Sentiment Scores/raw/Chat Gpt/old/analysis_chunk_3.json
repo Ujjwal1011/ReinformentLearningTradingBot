@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1314714956131164161",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The 'change my mind' challenge invites debate and can spread within crypto communities, but it's unlikely to go globally viral."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet is a personal opinion with no factual data or references."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet expresses a positive stance toward Ethereum, but not an extreme emotional tone."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The debate may last a few hours to a day before fading."
+}
+}
+},
+{
+"tweet_id": "1313959574244859905",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Replying to multiple high-profile accounts can generate visibility, but the content is not a headline, so moderate potential."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet explains Ethereum's immutable smart contract nature, providing useful information to followers."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is factual and neutral, with no strong emotional tone."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The concept of immutability remains relevant for the foreseeable future, but the tweet itself may not be referenced long-term."
+}
+}
+},
+{
+"tweet_id": "1313943695016767488",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The provocative claim about a major figure like Jeff Bezos can spark widespread discussion and sharing within the crypto community."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet presents a speculative claim without supporting evidence or data, so its factual value is limited."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The tweet expresses a negative stance toward Jeff Bezos, using criticism and a dismissive tone."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The claim may generate short-term debate but is unlikely to remain relevant beyond the immediate discussion."
+}
+}
+},
+{
+"tweet_id": "1313228298642575360",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "A milestone announcement from a well-known crypto wallet can attract attention within the community and beyond, but it is not a global breaking news."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides verifiable data about user growth and links to a blog post for further details."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses excitement and gratitude, reflecting a very positive tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The milestone may be referenced for months as a benchmark, but the tweet itself will likely fade after a few weeks."
+}
+}
+},
+{
+"tweet_id": "1313035954358292482",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Giveaway posts with clear rules and a large prize tend to be widely shared, especially within crypto communities."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet mainly lists giveaway rules and does not provide factual or educational content."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet conveys excitement and generosity, reflecting a very positive tone."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The giveaway is time-limited and will likely lose relevance after the deadline."
+}
+}
+},
+{
+"tweet_id": "1333478962576715777",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The announcement of a major upgrade to Ethereum 2.0 is newsworthy and likely to be shared across the crypto community."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides verifiable details about the launch date and Coinbase's support, linking to a source."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet presents factual information without a strong emotional tone."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The launch of Ethereum 2.0 is a significant milestone that will be referenced for months as the upgrade progresses."
+}
+}
+},
+{
+"tweet_id": "1332047468004077569",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "A claim about a potential zero‑day bug in a widely used language can spark interest and sharing among developers and crypto enthusiasts."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet references a technical issue and offers a fix, but lacks detailed evidence or data, so its factual depth is moderate."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet conveys excitement about the fix while also highlighting a serious bug, reflecting a moderately positive tone."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The discussion around a zero‑day bug may persist for weeks as developers investigate, but the tweet itself will likely fade after the fix is adopted."
+}
+}
+},
+{
+"tweet_id": "1331899357562454016",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Daily price updates are commonly shared within the crypto community, generating moderate engagement."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides specific percentage changes for Bitcoin and Ethereum, offering useful market information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet presents data without emotional language, resulting in a neutral tone."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Price changes are time‑specific and will quickly become outdated, limiting long‑term relevance."
+}
+}
+},
+{
+"tweet_id": "1331639190526824454",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "A brief claim about a bull run can attract attention within the community, but it lacks a hook for broader virality."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet is an opinion with no supporting data or context, so its informational depth is low."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses optimism about the bull run, reflecting a moderately positive tone."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The sentiment may remain relevant as the bull run continues, but the tweet itself will likely fade after the market moves."
+}
+}
+},
+{
+"tweet_id": "1324018999458295809",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The release of the ETH2 deposit contract is a significant event that will be shared among Ethereum users and developers."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides a direct link to the deposit contract, offering verifiable and actionable information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is factual and neutral, without emotional language."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The deposit contract remains a key reference point for the ETH2 upgrade, maintaining relevance for months."
+}
+}
+}
+]

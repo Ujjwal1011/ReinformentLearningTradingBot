@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1351456953357246464",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet is a call to action for a specific crypto community, likely to be shared within that niche."
+},
+"informative_value": {
+"score": 4,
+"justification": "It's a request for a feature, not providing factual information."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive sentiment with emojis and a hopeful tone."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant only until the feature is implemented or discarded."
+}
+}
+},
+{
+"tweet_id": "1351358681842151426",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Controversial statement about Satoshi, likely to spark debate."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides a speculative viewpoint on Ethereum."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral statement without strong emotion."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Tied to a specific event, relevance fades quickly."
+}
+}
+},
+{
+"tweet_id": "1351349824961077249",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Factual data from a credible source, likely to be shared."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides significant data on Ethereum's performance."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment with excitement about growth."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for a few weeks as a trend indicator."
+}
+}
+},
+{
+"tweet_id": "1350901710160605192",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Bold prediction, likely to attract attention."
+},
+"informative_value": {
+"score": 4,
+"justification": "Personal prediction without data."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive and confident tone."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant only until the prediction event."
+}
+}
+},
+{
+"tweet_id": "1350821128827244545",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Detailed report from a credible user, likely shared."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides in-depth analysis and a link to a report."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, factual presentation."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for weeks as a resource."
+}
+}
+},
+{
+"tweet_id": "1350498164256620544",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Significant milestone, likely widely shared."
+},
+"informative_value": {
+"score": 6,
+"justification": "Announces a price milestone."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Excitement about the milestone."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant only for the event day."
+}
+}
+},
+{
+"tweet_id": "1350363369639972864",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Engaging promise, likely to attract attention."
+},
+"informative_value": {
+"score": 4,
+"justification": "Personal promise, not informative."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive and playful tone."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant only if the event occurs."
+}
+}
+},
+{
+"tweet_id": "1350023420168306690",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Predictions from a credible source, likely shared."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides detailed price predictions."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive outlook on cryptocurrencies."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for weeks as a reference."
+}
+}
+},
+{
+"tweet_id": "1349795528616263680",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "List of future trends from a notable figure."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides insights on multiple future areas."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive and optimistic tone."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Long-term relevance as future trends."
+}
+}
+},
+{
+"tweet_id": "1349481713194463233",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Clever comparison, likely to be shared."
+},
+"informative_value": {
+"score": 5,
+"justification": "Makes a comparison without detailed info."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral comparison."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant only for the specific event."
+}
+}
+}
+]

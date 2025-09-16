@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1732439343535440132",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet compares two blockchain projects, which could resonate within the crypto community, but it's not likely to go viral beyond niche audiences."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Provides specific user growth statistics and mentions advantages of PulseChain, though it's presented as a personal opinion."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment towards PulseChain, highlighting its strengths and community."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a few days as crypto trends can change quickly, but the comparison may stay relevant for a week."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732433155473260635",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Large SHIB transfer could attract attention from the SHIB community, likely to be shared among enthusiasts."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific numbers and a link, offering credible information about a significant transaction."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, simply reporting a factual event without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Impact is short-term as it's a one-time event, relevant for a day or two."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732432754166427735",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Promises a giveaway, which can drive engagement and sharing among crypto users."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Minimal information beyond the giveaway announcement, lacks context."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive, encouraging participation with an incentive."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevant for 24 hours as per the giveaway timeframe."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732417422182015069",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Personal opinion about Ethereum, unlikely to gain much traction beyond a small audience."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "No substantial information, just a subjective statement."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative sentiment towards Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Very short-term relevance as it's a personal opinion without broader context."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732416015886331947",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Detailed thread about NFTs, likely to engage the NFT community."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides key details about the NFT project, including supply, price, and how to get a whitelist spot."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive, promoting the NFT project."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for days or weeks as NFT projects can sustain interest for some time."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732412721407377627",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Predicting Ethereum's performance, may attract some attention but not widely shared."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Includes a link, but the prediction is subjective."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative sentiment towards Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevant for a few days as market predictions can change quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732403187251118225",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "In Japanese, discussing a scandal, may have some virality within Japanese-speaking communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Provides context about a scandal but lacks detailed information."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Negative, discussing criticism and a scandal."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Very short-term relevance as it's tied to a specific event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732394772827164804",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Engaging poll on crypto prices, likely to attract attention from Bitcoin and Ethereum communities."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Asks a question without providing information, serves as a poll."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, presenting a question without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevant for a few days as market predictions can change quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732382784189276580",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Celebrates a milestone in a podcast, may attract attention from the Ethereum community."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides information about the podcast's reach and content."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive, expressing gratitude and excitement."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant for a few days as it's a milestone but may fade as new content emerges."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732366025700802942",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Criticism of Coinbase and Ethereum, may attract some attention but not widely shared."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Includes a link but the content is subjective criticism."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative sentiment towards Coinbase and Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Very short-term relevance as it's a personal opinion without broader context."
+      }
+    }
+  }
+]

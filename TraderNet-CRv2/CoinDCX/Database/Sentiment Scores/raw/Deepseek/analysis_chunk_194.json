@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1732173563145093260",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Promotes blockchain adoption with a relatable analogy (.com comparison) and targets crypto communities. Medium engagement potential within Web3 circles."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Explains ENS functionality and its blockchain implications, though lacks technical depth or source links."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Enthusiastic tone promoting future adoption with phrases like 'web of the future' and emojis."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Blockchain naming systems remain relevant as Web3 evolves, but not timeless."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732173556333662262",
+    "analysis": {
+      "virality_potential": {
+        "score": 2,
+        "justification": "Low-engagement reply tweet with minimal content beyond an excited emoji."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "No substantive information - purely social interaction."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Strong positive emotion conveyed through 'Vamooos!' and star-eyes emoji."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Momentary reaction tied to unspecified event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732173394685436105",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Provocative price prediction with high engagement (980 likes) from large account (1.9M followers)."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Speculative statement without supporting data or context."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Optimistic framing of Ethereum's future value."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Price predictions remain reference points until disproven."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732172426048307681",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Controversial comparison to Yahoo sparks debate, but limited retweets."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Opinion-based critique without supporting evidence."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative assessment using 'slowly sinking' metaphor."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant until Ethereum's market position changes."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732172120375906794",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Niche NFT transaction data relevant only to DeGods collectors."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Specific market data point with ETH/USD conversion."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of sale details."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Transaction relevance diminishes with newer sales."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732171811255930937",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Technical Ethereum scaling discussion appeals to developer communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Concrete predictions about L2/AVS growth with protocol mentions."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive framing of ecosystem growth ('yuge')."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Infrastructure developments remain relevant for months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732170760301531627",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Market analysis tweet with moderate engagement from established account."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides observable market trend with price chart."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral observation with speculative emoji (🧐)."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant until next market movement."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732170634057162804",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Data-driven decentralization claim sparks crypto community debate."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides verifiable node count statistics with source image."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual presentation without overt bias."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Decentralization metrics remain relevant long-term."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732170336592941304",
+    "analysis": {
+      "virality_potential": {
+        "score": 1,
+        "justification": "Cryptic reply with unknown context and low engagement."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "No discernible information beyond a link."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Ambiguous tone without clear emotional indicators."
+      },
+      "duration_of_impact": {
+        "score": 1,
+        "justification": "Immediately irrelevant without context."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732170303118422033",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Hashtag-stuffed promotional tweet with limited organic appeal."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Vague monster/NFT reference without concrete details."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive excitement through emojis and promotion."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance tied to transient hashtag trends."
+      }
+    }
+  }
+]

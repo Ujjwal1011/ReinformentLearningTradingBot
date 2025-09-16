@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1524862906130743323",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Breaking news about Germany's tax policy on crypto, likely to be shared widely across crypto and mainstream audiences."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides clear information about a new tax regulation, credible and relevant."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet states a fact without emotional language."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Policy change will be relevant for months or years."
+}
+}
+},
+{
+"tweet_id": "1524779791316045831",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Thread offers analysis and perspective, likely to be shared within the crypto community."
+},
+"informative_value": {
+"score": 7,
+"justification": "Includes TVL data and analysis of the market crash."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Mentions market crash, negative tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The analysis remains relevant for weeks or months."
+}
+}
+},
+{
+"tweet_id": "1524756386063667200",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Major Ethereum upgrade, widely shared across crypto and tech audiences."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides factual information about the Ethereum Merge."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Positive excitement about the Merge."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Will remain relevant for months or years."
+}
+}
+},
+{
+"tweet_id": "1524752406470283272",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Call to action and major crash, likely to spread widely."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides information about the price drop of Luna and UST."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "Expresses frustration and negativity."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Remains relevant for weeks."
+}
+}
+},
+{
+"tweet_id": "1524700995351347203",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Market crash news widely shared across crypto communities."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides factual price information about Bitcoin and altcoins."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "Mentions plummeting prices, negative tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Remains relevant for weeks."
+}
+}
+}
+]

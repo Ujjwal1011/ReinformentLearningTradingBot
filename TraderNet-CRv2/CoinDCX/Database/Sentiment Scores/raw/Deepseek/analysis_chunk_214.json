@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1731926159489679804",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Technical solution targeting a niche DeFi community. While informative, limited engagement metrics and specialized content reduce broader viral potential."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific details about a blockchain solution and includes a reference link, though lacks direct sourcing from a widely recognized authority."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone focused on factual announcement without overt emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevance depends on adoption, but technical advancements in blockchain could sustain discussion for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1731898704813056304",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Positive hype with multiple trending hashtags and moderate engagement, likely resonating within crypto communities."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Promotional content with vague claims about future performance and no verifiable data."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong positive emotion conveyed through phrases like 'Sounds Really good!' and celebratory emojis."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Tied to speculative 2024 predictions; relevance may fade quickly if the project lacks updates."
+      }
+    }
+  },
+  {
+    "tweet_id": "1731896037395091955",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Low engagement and a basic project announcement without compelling hooks for widespread sharing."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Introduces a new Ethereum rollup project with contextual links, though details are minimal."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone; primarily factual without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Ongoing interest in blockchain infrastructure could sustain relevance for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1731895629977440707",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High engagement and inspirational message about investment strategies, likely to resonate in crypto circles."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Opinion-based content advocating a strategy without new data or sources."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Moderately positive tone emphasizing optimism and rewards."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "General investment advice may remain relevant for weeks as a reference."
+      }
+    }
+  },
+  {
+    "tweet_id": "1731891842529058920",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "High-profile user with large follower base, though niche NFT content limits broader appeal."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Promotes an NFT item without substantive context or educational value."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Mildly positive sentiment ('this is nice') without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "NFT sales typically have short-term relevance unless part of a larger trend."
+      }
+    }
+  },
+  {
+    "tweet_id": "1731884828692476170",
+    "analysis": {
+      "virality_potential": {
+        "score": 2,
+        "justification": "Vague call-to-action with minimal engagement and unclear purpose."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Lacks context or verifiable information beyond a cryptic link."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone with no discernible emotional content."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Immediately irrelevant once the unspecified offer expires."
+      }
+    }
+  },
+  {
+    "tweet_id": "1731875431412867568",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Personal achievement with limited audience appeal beyond immediate network."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Primarily a personal update without broader educational or news value."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong positive emotion ('Amazing day,' 'happy to announce')."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance limited to the individual's personal network and short-term celebration."
+      }
+    }
+  },
+  {
+    "tweet_id": "1731873565362855966",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Niche NFT transaction report with minimal engagement metrics."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Provides specific transaction details but lacks broader context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of a sale without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Single transactions rarely sustain attention beyond immediate notification."
+      }
+    }
+  },
+  {
+    "tweet_id": "1731872429750792263",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Moderate engagement for an NFT sale announcement within a specialized community."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Detailed transaction data but limited educational or news value beyond the sale itself."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone reporting factual details."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance diminishes quickly after the sale concludes."
+      }
+    }
+  },
+  {
+    "tweet_id": "1731847239209795905",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Cryptocurrency hype with hashtags may attract niche interest, but low engagement limits spread."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Promotional content lacking context or verifiable claims."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment indicated by 'LFG!' (Let's F***ing Go) and hashtags."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term relevance tied to immediate crypto community reactions."
+      }
+    }
+  }
+]

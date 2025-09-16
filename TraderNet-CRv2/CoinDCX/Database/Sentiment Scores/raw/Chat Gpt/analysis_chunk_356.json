@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1732223460452249885",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet promotes a new DeFi protocol in Vietnamese, targeting a niche crypto audience. While it includes hype, the limited language and niche topic reduce broad shareability, resulting in moderate potential."
+},
+"informative_value": {
+"score": 6,
+"justification": "It provides a brief overview of Maverick Protocol and its multi-chain presence, offering some useful context but lacking depth or external sources."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tone is upbeat and enthusiastic, expressing positive excitement about the protocol."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The relevance will persist as the protocol develops, but it is tied to a specific project launch, so it will likely remain of interest for several months."
+}
+}
+},
+{
+"tweet_id": "1732220976518324625",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Breaking news about a major regulatory decision on an Ethereum Spot ETF is highly newsworthy and likely to be widely shared across crypto and mainstream media."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet delivers a concise, verifiable update from a primary source (Gary Gensler), providing critical information about the ETF timeline."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply reporting the delay without expressing personal opinion."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The ETF approval timeline will be referenced for months as the market watches for the final decision, giving the tweet a long-term relevance."
+}
+}
+},
+{
+"tweet_id": "1732218144733970691",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "A Vietnamese guide to a niche DEX may attract local traders, but its limited scope and language reduce broader viral potential."
+},
+"informative_value": {
+"score": 6,
+"justification": "It offers a concise description of Bebop and its multi-chain liquidity, giving readers basic knowledge but not in-depth analysis."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet conveys enthusiasm and positive encouragement toward the DEX."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The guide will remain useful as long as Bebop operates, likely for several months, but its relevance will wane once the platform evolves."
+}
+}
+},
+{
+"tweet_id": "1732216252448518616",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The poll invites community engagement and could spread within the ICE and broader crypto community, but it is not a headline event."
+},
+"informative_value": {
+"score": 4,
+"justification": "It poses a question about ICE token valuation but provides no factual data, offering limited informational content."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, encouraging participation without expressing strong emotions."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The poll's relevance is short-lived, likely only a few days until the discussion concludes."
+}
+}
+},
+{
+"tweet_id": "1732215259472302140",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "A promotional announcement of a new NFT collection can attract collectors and artists, but its niche focus limits widespread sharing."
+},
+"informative_value": {
+"score": 6,
+"justification": "It details the collection's structure, artists, and hosting platform, giving clear information to interested parties."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet maintains a neutral to mildly positive tone, highlighting the collection's features."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The collection will remain relevant for months as collectors acquire pieces, giving it a moderate long-term lifespan."
+}
+}
+}
+]

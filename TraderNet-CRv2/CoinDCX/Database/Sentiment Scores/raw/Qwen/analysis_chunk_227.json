@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1754825764896202877",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet highlights a specific event (Solana outage) relevant to Ethereum users, likely to be shared within crypto communities."
+},
+"informative_value": {
+"score": 5,
+"justification": "Provides a link to an event but lacks detailed information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral tone, simply pointing out the event."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Impact is short-term, tied to the specific event."
+}
+}
+},
+{
+"tweet_id": "1754613381250584833",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Engages a crypto community with a historical narrative, likely shared among enthusiasts."
+},
+"informative_value": {
+"score": 7,
+"justification": "Summarizes past trends, providing context for crypto discussions."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, presenting a question for discussion."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevance extends through the year as the narrative unfolds."
+}
+}
+},
+{
+"tweet_id": "1754578828679164110",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Warns about scams, resonating with a concerned audience."
+},
+"informative_value": {
+"score": 6,
+"justification": "Educates about risks in the crypto space."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Moderately negative, highlighting issues."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Impact lasts as long as scams are a concern."
+}
+}
+},
+{
+"tweet_id": "1754531833604186175",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Significant partnership news, likely widely shared."
+},
+"informative_value": {
+"score": 8,
+"justification": "Announces a strategic partnership with details."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive, highlighting a beneficial collaboration."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Impact lasts as the partnership develops."
+}
+}
+},
+{
+"tweet_id": "1754130433770700829",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Compares airdrops, engaging crypto enthusiasts."
+},
+"informative_value": {
+"score": 5,
+"justification": "Raises awareness but lacks specifics."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, posing a question."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Impact is short-term, speculative."
+}
+}
+},
+{
+"tweet_id": "1753794973387067678",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Shares price updates, relevant but not viral."
+},
+"informative_value": {
+"score": 5,
+"justification": "Provides current prices without analysis."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, factual update."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Impact fades quickly as prices change."
+}
+}
+},
+{
+"tweet_id": "1753315841582756030",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Excites about free coins, appealing to the crypto community."
+},
+"informative_value": {
+"score": 5,
+"justification": "Announces free coins but lacks details."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive, encouraging participation."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Impact lasts until the airdrop concludes."
+}
+}
+},
+{
+"tweet_id": "1753031721031967045",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Discusses niche tools within Ethereum."
+},
+"informative_value": {
+"score": 6,
+"justification": "Shares stats and links for further info."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, presenting information."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Impact is limited to the tool's relevance."
+}
+}
+},
+{
+"tweet_id": "1774270090994909671",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Shares a success story, likely to be shared widely."
+},
+"informative_value": {
+"score": 6,
+"justification": "Illustrates investment outcomes."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive, highlighting significant gains."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Impact lasts as the story is discussed."
+}
+}
+},
+{
+"tweet_id": "1774183769714356226",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Critiques a complex structure, relevant to enthusiasts."
+},
+"informative_value": {
+"score": 7,
+"justification": "Explains a technical concept."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Negative, questioning the approach."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Impact is limited to the discussion around L3."
+}
+}
+}
+]

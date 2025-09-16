@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1629234333327269891",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The 'FUN FACT' format and significant statistic (99.99% energy consumption drop) could generate interest within the crypto community, potentially leading to shares and discussions."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides a specific, verifiable, and newsworthy fact about Ethereum's energy consumption post-merge, offering valuable information to those interested in crypto and sustainability."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tone is moderately positive, conveying a sense of improvement and progress in the Ethereum project."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for days or weeks, especially within the crypto community, as discussions around Ethereum's merge and its implications continue."
+}
+}
+},
+{
+"tweet_id": "1628793462786228226",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "As a significant announcement from a major player (Coinbase), it has high potential for shares within the crypto and broader tech communities."
+},
+"informative_value": {
+"score": 9,
+"justification": "Announces a new Ethereum layer 2, @BuildOnBase, providing crucial information for those interested in crypto scalability and usability."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "Clearly expresses a very positive sentiment, highlighting the potential for 'economic freedom' and implying a significant breakthrough."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Remains relevant for months, given the implications of the launch on the crypto ecosystem and the ongoing interest in scalability solutions."
+}
+}
+},
+{
+"tweet_id": "1628761182386458626",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The enthusiastic tone and emphasis on the significance for Ethereum ('massive day') could lead to widespread sharing within the crypto community."
+},
+"informative_value": {
+"score": 6,
+"justification": "While it informs about Coinbase's launch and its potential impact on Ethereum, the details are brief and more speculative than factual."
+},
+"sentiment_polarity": {
+"score": 10,
+"justification": "Expresses an extremely positive sentiment, using superlatives like 'massive day' and implying a groundbreaking moment for Ethereum."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Relevant for days to weeks, as the immediate aftermath of the launch generates discussion, but its impact may wane as the news ages."
+}
+}
+},
+{
+"tweet_id": "1628760201254903809",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "As an official announcement from Coinbase, it's likely to be widely shared, especially given the significance of @BuildOnBase for the crypto ecosystem."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides detailed, newsworthy information about @BuildOnBase, including its features and the goal of onboarding 1B+ users into the cryptoeconomy."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "Clearly conveys a very positive sentiment, emphasizing the potential for growth and inclusivity in the cryptoeconomy."
+},
+"duration_of_impact": {
+"score": 9,
+"justification": "Remains highly relevant for months, given the launch's implications for Ethereum's scalability and the broader crypto landscape."
+}
+}
+},
+{
+"tweet_id": "1628757265728536578",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The 'BREAKING' tag and announcement of a new Ethereum L2 by Coinbase could generate significant interest and shares within the crypto community."
+},
+"informative_value": {
+"score": 7,
+"justification": "Informs about the launch of 'Base' but provides less detail than the official Coinbase announcement, relying on a follow-up thread for more information."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Expresses a very positive sentiment, using attention-grabbing language ('BREAKING') and implying excitement around the launch."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Relevant for days to weeks, as the initial excitement around the launch dissipates but discussions about its implications continue."
+}
+}
+},
+{
+"tweet_id": "1628756662088568833",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "A straightforward news headline about Coinbase's announcement, less likely to go viral compared to more engaging formats."
+},
+"informative_value": {
+"score": 8,
+"justification": "Concisely informs about the launch of 'Base', an Ethereum L2 network, providing essential details for those tracking crypto news."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, as it simply reports on the announcement without expressing a clear emotional tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for days, primarily serving as a news update for those interested in the crypto space, with diminishing interest over time."
+}
+}
+},
+{
+"tweet_id": "1628410398058708992",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Achieving a 'huge milestone' could generate interest and shares within the Arbitrum and broader crypto communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides newsworthy information about Arbitrum One's transaction volume surpassing Ethereum's, highlighting progress in scaling."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "Clearly expresses a very positive sentiment, celebrating a milestone and thanking the community, indicating pride and appreciation."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Relevant for days to weeks, as discussions around this milestone and its implications for Ethereum's scalability continue."
+}
+}
+},
+{
+"tweet_id": "1628192654340005889",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "While it's a notable achievement, the sharing potential might be limited to those closely following Arbitrum or Ethereum's development."
+},
+"informative_value": {
+"score": 8,
+"justification": "Informs about a significant milestone for Arbitrum One in relation to Ethereum, providing insight into the ecosystem's growth."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "Expresses a very positive sentiment, congratulating the community and implying a historic moment for Ethereum's rollup-centric roadmap."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for days, primarily of interest to those closely following the crypto space, especially Arbitrum and Ethereum's development."
+}
+}
+},
+{
+"tweet_id": "1628072730418417664",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The corrective nature of the tweet might spark some engagement, but its potential for widespread sharing is moderate."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides a clarifying perspective on what constitutes a 'wallet' in cryptocurrency, offering educational value."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, as the tone is more instructional than emotionally charged, aiming to correct a misconception."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Remains relevant for months or even years, as the clarification on cryptocurrency wallets is an evergreen topic."
+}
+}
+},
+{
+"tweet_id": "1627820697539190785",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The comparative explanation might engage some, but its sharing potential is limited due to its niche appeal and somewhat negative framing."
+},
+"informative_value": {
+"score": 8,
+"justification": "Offers a creative, comparative explanation to help new Bitcoiners understand Ethereum, providing educational value."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "Moderately negative, as the explanation is framed by highlighting perceived negatives of Ethereum in comparison to Bitcoin."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for days to weeks, primarily serving as an educational tool for those new to Ethereum, with interest waning over time."
+}
+}
+}
+]

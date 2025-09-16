@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1732191633393758444",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet is a niche, community‑focused message about an NFT character and is unlikely to be shared beyond the small NFT audience."
+},
+"informative_value": {
+"score": 2,
+"justification": "It contains whimsical commentary without factual or newsworthy information."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Friendly emojis and greeting convey a moderately positive tone despite the mention of potential famine."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The reference to a specific NFT is relevant only for a short period within that community."
+}
+}
+},
+{
+"tweet_id": "1732191626792169826",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "A short crypto comment that may be shared within Solana/Ethereum circles but lacks a strong hook for broader spread."
+},
+"informative_value": {
+"score": 4,
+"justification": "It raises a question about L2 solutions but provides no concrete information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is casual and neutral, neither strongly positive nor negative."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Discussion of L2 scaling can stay relevant for days to weeks as the topic persists."
+}
+}
+},
+{
+"tweet_id": "1732191552359874730",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "A bot‑generated price update for a niche token, likely to be seen only by interested traders."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides specific, verifiable transaction data and price information useful to crypto followers."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is factual and emotion‑neutral."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Price information becomes outdated quickly as market values change."
+}
+}
+},
+{
+"tweet_id": "1732191287007461682",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "A brief reply referencing a meme‑like phrase, unlikely to spread beyond the immediate conversation."
+},
+"informative_value": {
+"score": 2,
+"justification": "Contains no factual content, only a playful comment."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive language about a \"good doggo\" conveys a cheerful tone."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The comment is tied to a specific moment and will lose relevance quickly."
+}
+}
+},
+{
+"tweet_id": "1732191210549162402",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "A personal lament about a hacked account, which may resonate with some users but lacks viral hooks."
+},
+"informative_value": {
+"score": 2,
+"justification": "Provides only a personal anecdote without broader informational value."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "Expresses regret and frustration, reflecting a negative emotional tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The sentiment may be discussed for a short period but does not have lasting relevance."
+}
+}
+}
+]

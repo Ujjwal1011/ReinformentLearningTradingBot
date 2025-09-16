@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1530533720033316865",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet offers a motivational message about financial freedom through Ethereum, which could resonate with crypto enthusiasts and encourage sharing within specific communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides information about Ethereum 2.0 validator requirements but lacks detailed technical data."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Expresses positive sentiment with encouraging language and emojis."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Impact lasts a few weeks as people consider becoming validators."
+      }
+    }
+  },
+  {
+    "tweet_id": "1530392300052185094",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Shares crypto market insights, likely shared within crypto communities but not beyond."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides relevant market analysis with credible links."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment, purely informational."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a day as a daily news update."
+      }
+    }
+  },
+  {
+    "tweet_id": "1530059058539274240",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Strong statement about market downturn, likely shared among crypto investors."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Warns about a potential market event, useful for investors."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Negative sentiment highlighting a market downturn."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a few days during market volatility."
+      }
+    }
+  },
+  {
+    "tweet_id": "1529692372833288192",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Discusses market performance, shared within crypto circles."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides data on cryptocurrency price drops."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Negative sentiment about market declines."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a day as a market update."
+      }
+    }
+  },
+  {
+    "tweet_id": "1529622992203882496",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Raises critical questions about Ethereum's progress, sparking discussions."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Compares project timelines, useful for Ethereum followers."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Negative sentiment questioning progress."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Impact lasts weeks as discussions about development continue."
+      }
+    }
+  },
+  {
+    "tweet_id": "1529497192976744450",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Shares specific data, relevant to Ethereum users."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides factual data on gas fees."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment, purely informational."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a few days as gas fees can change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1529491700317552640",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Positive news about gas fees, likely shared among users."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Announces a significant drop in fees."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment, celebrating lower fees."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a few days as fees can fluctuate."
+      }
+    }
+  },
+  {
+    "tweet_id": "1529458000011972610",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Technical issue discussed, relevant to developers."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Details a technical problem and proposed solutions."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment, discussing technical aspects."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Impact lasts weeks as the community addresses the issue."
+      }
+    }
+  },
+  {
+    "tweet_id": "1529424018113273860",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Engaging fact that could be shared widely."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Shares a comparative statistic about transaction volume."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment highlighting Ethereum's performance."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a few days as a factoid."
+      }
+    }
+  },
+  {
+    "tweet_id": "1529179668900990976",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Announces a significant technological advancement, likely shared among blockchain communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Details a new bridge with technical benefits."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment about improved interoperability."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Impact lasts months as the bridge is adopted and used."
+      }
+    }
+  }
+]

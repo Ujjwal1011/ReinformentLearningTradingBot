@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1732130006346662361",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet provides factual reasons for choosing Solana over Ethereum, but it's a standard comparison without a strong hook for widespread sharing."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet offers specific, informative points about Solana's community and fees, making it somewhat useful for readers interested in blockchain comparisons."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tone is moderately positive, presenting 'facts' in a somewhat promotional manner for Solana, but without strong emotional language."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to the current state of Solana and Ethereum, making its impact relatively short-term, likely fading within days or a week."
+}
+}
+},
+{
+"tweet_id": "1732129810024149199",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet has potential for sharing within specific NFT and art communities due to its engaging question and the use of emojis, but it may not transcend those circles."
+},
+"informative_value": {
+"score": 6,
+"justification": "While the tweet informs about a curated collection on OpenSea, its primary focus is promotional, reducing its overall informative value."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tone is very positive, indicated by the use of enthusiastic language ('ARE YOU NOT ENTERTAINED?!') and celebratory emojis (🐸🥂)."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is somewhat standard for a promotional post about a collection, likely generating interest for a day or two before fading."
+}
+}
+},
+{
+"tweet_id": "1732129435095052389",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The announcement about 'MAD LADS' moving to the Ethereum chain could generate significant interest and sharing within the Ethereum and broader crypto communities."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet is brief and lacks detailed information, merely stating a move without context or reasons, reducing its informative value."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tone is moderately positive, implied by the use of 'MAD LADS' in all caps, suggesting excitement or energy around the announcement."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The relevance of the tweet could extend for several days as the implications of the move are discussed and analyzed within the community."
+}
+}
+},
+{
+"tweet_id": "1732128969640841306",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "The tweet is a straightforward news update unlikely to be widely shared beyond those already interested in Ethereum or Grayscale's ETF."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet informs readers about a specific event (the delay of Grayscale's Ethereum ETF decision), but it's a brief, factual update without additional insights."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, simply reporting on a delay without expressing any emotion or bias."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is short-term, as the news will be superseded by updates or the eventual decision on the ETF."
+}
+}
+},
+{
+"tweet_id": "1732128613905117590",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The news about the SEC delaying Grayscale's Spot Ethereum ETF decision might be shared within crypto and finance circles but lacks a broad appeal."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides timely and relevant information about a significant event in the crypto space, including a link for further reading."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, focusing on reporting the news without emotional language or personal opinion."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The relevance of the tweet will extend for several days, as the implications of the delay are discussed and anticipated."
+}
+}
+},
+{
+"tweet_id": "1732128586080104845",
+"analysis": {
+"virality_potential": {
+"score": 2,
+"justification": "The tweet about an NFT purchase is highly niche and unlikely to be shared widely, appealing primarily to those tracking specific NFT market activities."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet provides specific details about an NFT purchase, but its informative value is limited to a very niche audience interested in NFT transactions."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, simply reporting on a transaction without expressing any emotion or personal opinion."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "The tweet's relevance is very short-term, as the interest in a specific NFT purchase is fleeting, typically lasting only minutes to hours."
+}
+}
+},
+{
+"tweet_id": "1732128461622276131",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet's potential for sharing is limited to crypto and finance enthusiasts interested in SEC and Grayscale news, without broader appeal."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet informs about the SEC's delay of Grayscale's spot Ethereum ETF conversion, but it's a brief update without additional analysis or insights."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, focusing on reporting the news in a factual manner without emotional tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet remains relevant for several days as the community discusses the implications of the SEC's decision."
+}
+}
+},
+{
+"tweet_id": "1732128390897877088",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet might see some sharing within the crypto community due to its informative nature and the author's credibility, but it's not highly provocative or surprising."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides context and expectation management regarding Grayscale's Ethereum trust filing delay, showcasing the author's expertise and insight."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, offering an objective analysis of the situation without expressing personal emotions or biases."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The relevance of the tweet extends for several days to a week, as the community continues to discuss the implications of the delay and anticipates the next steps."
+}
+}
+},
+{
+"tweet_id": "1732127828504609026",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet might generate some interest and sharing within crypto and investment communities due to the involvement of a significant financial figure, but it lacks broad appeal."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet informs readers about a notable investment in crypto by a financial personality, providing some context and a link for more information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tone is moderately positive, implied by the presentation of the investment as noteworthy and potentially positive news for the crypto space."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet remains relevant for several days as the community discusses the implications of the investment and its potential impact on the market."
+}
+}
+},
+{
+"tweet_id": "1732127160565891180",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The promotional tweet for EverRise's security solution might see some sharing within the crypto and DeFi communities due to its relevance and the use of hashtags."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet provides some basic information about protecting tokens and NFTs with EverRise, but it's primarily promotional in nature."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tone is very positive, encouraging readers to secure their assets with EverRise, using enthusiastic language and a call to action."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The relevance of the tweet could extend for several days to a week, as the importance of security in DeFi continues to be a topic of discussion."
+}
+}
+} 
+]

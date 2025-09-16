@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1766589672019353618",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet announces a massive USDT minting event, a newsworthy crypto update that is likely to be shared widely within the crypto community, especially given Whale Alert’s large following."
+},
+"informative_value": {
+"score": 8,
+"justification": "It provides a factual, primary‑source‑style update on a significant monetary event, offering clear data that is valuable to traders and analysts."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply reporting a fact without emotional language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The minting event is a one‑time occurrence; the tweet will remain relevant for a few weeks as a record but will not be evergreen."
+}
+}
+},
+{
+"tweet_id": "1766550765223739844",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "A statement about Larry Fink, a high‑profile CEO, is likely to be retweeted across finance and crypto audiences, giving it good viral potential."
+},
+"informative_value": {
+"score": 7,
+"justification": "It conveys a credible, newsworthy opinion from a prominent figure, providing useful information to followers."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply stating a fact without emotional tone."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet will stay relevant for a while as a record of Fink’s stance but will eventually fade as newer news emerges."
+}
+}
+},
+{
+"tweet_id": "1766480813590503632",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "A generic marketing statement is unlikely to go viral beyond the existing follower base."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet offers no new facts or data; it is purely promotional."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses positive enthusiasm toward Chainlink."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Marketing content typically has a short lifespan, fading after a few days."
+}
+}
+},
+{
+"tweet_id": "1766319753700725152",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Breaking news about Solana outperforming Ethereum in DEX volume is likely to be shared widely across crypto communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "It reports a concrete, data‑driven event that is newsworthy and valuable to traders."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is a neutral factual statement."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The event will remain relevant for days or weeks as traders analyze the trend."
+}
+}
+},
+{
+"tweet_id": "1766266656530059431",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Breaking news about withdrawal restrictions on Gemini is likely to be retweeted across crypto and finance audiences."
+},
+"informative_value": {
+"score": 8,
+"justification": "It provides a timely, factual update on a significant operational change affecting many users."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "The tweet highlights a problem, giving it a mildly negative tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The issue will remain relevant for a few days or weeks as users seek solutions."
+}
+}
+}
+]

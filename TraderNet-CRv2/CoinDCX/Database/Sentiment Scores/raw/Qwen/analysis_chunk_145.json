@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1618234366966247424",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet promotes an NFT on OpenSea, which could attract attention within the NFT community, but it's unlikely to go viral beyond that niche."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet provides information about a specific NFT scene being available but is more promotional than informative."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses positive sentiment by announcing the availability of the NFT."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's impact is short-term as NFT trends can quickly change."
+}
+}
+},
+{
+"tweet_id": "1616273583008874497",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The bold claim about J.P. Morgan owning Ethereum is likely to spark debate and attract attention within crypto communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides a claim that could be informative if true, but it lacks verification."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The tweet expresses a negative sentiment towards J.P. Morgan."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's impact is medium as it's a significant claim that may be discussed for some time."
+}
+}
+},
+{
+"tweet_id": "1615456623195222021",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The announcement of a new multi-chain wallet could attract attention within crypto communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides information about a new product feature."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses a positive sentiment about the future of wallets."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's impact is medium as it's a product update that may be relevant for some time."
+}
+}
+},
+{
+"tweet_id": "1613951306036645925",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The announcement of MetaMask's beta program for Ethereum staking is likely to attract attention within the crypto community."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides a clear and informative announcement about a new service."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses a positive sentiment about the launch."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's impact is medium as staking is an ongoing topic."
+}
+}
+},
+{
+"tweet_id": "1613848879862013955",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet criticizes Alameda's use of Ethereum, which could attract attention within crypto circles."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides technical information about a specific incident."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The tweet expresses a negative sentiment towards Alameda."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's impact is short-term as it's about a specific incident."
+}
+}
+},
+{
+"tweet_id": "1613422940766482432",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The tweet discusses a significant event in Ethereum's history, which is likely to attract attention."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides factual information about Ethereum's transition to PoS."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses a positive sentiment about the transition."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The tweet's impact is long-term as it's about a foundational change."
+}
+}
+},
+{
+"tweet_id": "1613199688877891584",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet announces a specific Punk sale, which could attract attention within the crypto art community."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet provides information about a specific transaction."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses a positive sentiment about the sale."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's impact is short-term as it's about a one-time sale."
+}
+}
+},
+{
+"tweet_id": "1611911890057166849",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Gary Vee's contest is likely to attract a lot of attention due to his influence."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet is primarily promotional with a call to action."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses a positive sentiment about the contest."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's impact is short-term as contests usually have a deadline."
+}
+}
+},
+{
+"tweet_id": "1630090731733012480",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet discusses a significant move by Memeland, which is likely to attract attention within the crypto community."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides context about a specific event."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses a positive sentiment about the move."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's impact is medium as it's part of an ongoing event."
+}
+}
+},
+{
+"tweet_id": "1629851874135351297",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet provides a list of top cryptocurrencies, which could attract attention within the crypto community."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides a snapshot of market data."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet presents information factually without a strong emotional tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's impact is short-term as market caps change frequently."
+}
+}
+}
+]

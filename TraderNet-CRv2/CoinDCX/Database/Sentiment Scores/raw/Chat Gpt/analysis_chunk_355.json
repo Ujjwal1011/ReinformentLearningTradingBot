@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1732255842395951458",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Provides timely regulatory update relevant to crypto investors; likely to be shared within crypto communities but not expected to go global."
+},
+"informative_value": {
+"score": 7,
+"justification": "Shares specific regulatory information and dates, offering useful context for investors."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet presents facts without emotional language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for weeks until the SEC decision; after that, relevance fades."
+}
+}
+},
+{
+"tweet_id": "1732251780807827599",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Engaging question about modular blockchain architecture; likely to be shared within DeFi communities, moderate virality."
+},
+"informative_value": {
+"score": 7,
+"justification": "Shares technical details and raises questions about modular blockchain design, offering useful context."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is factual and inquisitive, lacking strong emotional tone."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The discussion about modular blockchain and DA layers remains relevant for an extended period as the ecosystem evolves."
+}
+}
+},
+{
+"tweet_id": "1732247535476150496",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Informative regulatory update with emojis; likely to be shared within crypto communities but not expected to go global."
+},
+"informative_value": {
+"score": 7,
+"justification": "Shares specific regulatory information and dates, offering useful context for investors."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet presents facts without emotional language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for weeks until the SEC decision; after that, relevance fades."
+}
+}
+},
+{
+"tweet_id": "1732238865405297085",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Shares a notable whale activity; likely to be shared within crypto communities but not expected to go viral globally."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides factual information about a significant whale transaction, useful for market observers."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is factual and neutral, lacking strong emotional language."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The event is time-sensitive; relevance fades after a few days."
+}
+}
+},
+{
+"tweet_id": "1732232835304673405",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "General commentary on Ethereum's volatility; may attract interest within crypto community but limited virality."
+},
+"informative_value": {
+"score": 5,
+"justification": "Provides general observations about market dynamics but lacks specific data or actionable insights."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, describing market movements without emotional language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Discussion about Ethereum's volatility remains relevant as market conditions evolve."
+}
+}
+}
+]

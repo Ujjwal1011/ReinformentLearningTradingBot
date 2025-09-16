@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1438786804300255236",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news about a major financial service integrating cryptocurrencies has high shareability, especially with trending hashtags."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides critical information about PayPal's expansion into crypto services with specific asset details."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement without explicit emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Significant policy change likely to influence crypto adoption discussions for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1438746959364308995",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Official announcement from PayPal UK with clear crypto integration details, appealing to financial tech communities."
+      },
+      "informative_value": {
+        "score": 10,
+        "justification": "Primary source confirmation of cryptocurrency functionality with operational details."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive tone with 'delighted' and clear enthusiasm for the launch."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Long-term relevance as this marks a structural change in payment systems."
+      }
+    }
+  },
+  {
+    "tweet_id": "1438544567947640843",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Provocative price prediction question attracts crypto community engagement."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Speculative question without data or analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral inquiry format without emotional bias."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term relevance tied to current market speculation."
+      }
+    }
+  },
+  {
+    "tweet_id": "1438541006123716611",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Technical blockchain update primarily relevant to developer communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Details a significant network upgrade with multi-chain implications."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual announcement without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Medium-term relevance as developers adopt the new network features."
+      }
+    }
+  },
+  {
+    "tweet_id": "1438478740032524289",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Regulatory analysis of crypto assets sparks debate in financial/legal communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides insight into SEC's regulatory stance with specific case references."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative implication through 'draconian' characterization of regulations."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant while Ripple case and Ethereum's status are unresolved."
+      }
+    }
+  },
+  {
+    "tweet_id": "1438298684266098688",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Major retail chain adopting multiple cryptocurrencies is highly shareable news."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Concrete business decision affecting millions of customers' payment options."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive announcement showing corporate crypto adoption progress."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Long-term impact as this expands crypto's real-world utility."
+      }
+    }
+  },
+  {
+    "tweet_id": "1438262656377425925",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Politically charged statement about crypto regulation likely to spark debates."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Raises an opinion about regulatory competence rather than providing facts."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative tone criticizing lawmakers' understanding."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant as regulatory discussions continue."
+      }
+    }
+  },
+  {
+    "tweet_id": "1438124072395812868",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Significant Ethereum metric presented by major exchange attracts crypto community attention."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific quantitative data about network economics post-upgrade."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of factual data."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term relevance as burn rate stats get updated regularly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1438111196801024007",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Regulatory analysis with insider perspective on SEC leadership."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides insight into regulatory philosophy affecting major cryptocurrencies."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative implication through 'draconian' description and regulatory uncertainty."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Medium-term relevance tied to ongoing Ethereum regulatory discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1437870430770053121",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Niche technical achievement primarily interesting to blockchain enthusiasts."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Highlights Ethereum's network reliability with a verifiable fact."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive admiration expressed through 'absolutely remarkable'."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Standard lifespan as a notable factoid in blockchain history."
+      }
+    }
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1567113884388950016",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news about a major Ethereum upgrade with significant implications for the crypto community. High shareability due to technical importance."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides critical timing information about a fundamental blockchain protocol change from a credible source."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement without emotional language, focused on factual reporting."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The Merge was a historic event in blockchain history, maintaining relevance for weeks during implementation."
+      }
+    }
+  },
+  {
+    "tweet_id": "1567001402068566018",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Direct timeline confirmation from Ethereum's founder generates interest but lacks viral hooks."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Primary-source information about a landmark technical event from the protocol's creator."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral statement conveying factual timeline expectations."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Critical scheduling information remained relevant until the Merge completion date."
+      }
+    }
+  },
+  {
+    "tweet_id": "1566873633548558337",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Niche crypto humor with limited appeal beyond NFT communities, moderate engagement metrics."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Opinion-based commentary offering no verifiable information or educational content."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Moderately negative tone mocking potential NFT purchasers' decision-making."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Tied to specific pre-mint period, losing relevance after event conclusion."
+      }
+    }
+  },
+  {
+    "tweet_id": "1566751496548532228",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Time-sensitive technical update likely shared within crypto circles, but less impactful than breaking news."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides concrete timing for a major protocol upgrade from established source."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of factual countdown information."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Immediate 24-hour timeframe limited relevance window before event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1566716836636344322",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Milestone statistic with moderate interest, typical for industry updates."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Quantitative network metric provides verifiable transaction data."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of network statistics without emotional valence."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Transactional metrics get superseded by newer data quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1566616585015422976",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Actionable guide format encourages sharing within investor communities, evidenced by high retweets."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Detailed strategic advice from industry expert regarding major network event."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral instructional tone focused on preparation steps."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Guidance remained relevant through the Merge execution period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1565928294054338560",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Creative analogy approach increases shareability, though limited to specific interest groups."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Educational thread using accessible metaphors to explain technical content."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral explanatory intent without emotional positioning."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Analogical content maintains value until Merge completion, then declines."
+      }
+    }
+  },
+  {
+    "tweet_id": "1565781100865003520",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Celebrity involvement and high-value hack create broad interest beyond crypto circles."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Newsworthy security incident with specific financial details from verified account."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative event reporting focusing on security breach and financial loss."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "News cycle relevance typical for celebrity-related security incidents."
+      }
+    }
+  },
+  {
+    "tweet_id": "1565625320887095296",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Founder's market prediction attracts attention but lacks immediate actionability."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Insightful forward-looking statement from protocol creator about market dynamics."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral projection about future market behavior."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Long-term prediction maintains relevance in market analysis discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1565416127378882560",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Niche financial metric with limited appeal beyond mining communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Specific quantitative data about network economics from reliable source."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of revenue statistics without commentary."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Monthly financial data quickly superseded by subsequent reports."
+      }
+    }
+  }
+]

@@ -1,0 +1,205 @@
+--- RAW RESPONSE FROM MODEL ---
+[
+{
+"tweet_id": "1460537319186997250",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet includes a giveaway, which is a common viral tactic, and uses popular hashtags like #crypto, #Ethereum, and #Bitcoin."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet is promotional and does not provide new information or insights."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, expressing excitement about reaching a milestone and offering a giveaway."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to the giveaway, which will likely end soon."
+}
+},
+{
+"tweet_id": "1460492220646113284",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet is a question about a specific topic, which may generate some discussion but is unlikely to go viral."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet provides information about a comparison between Ethereum and Solana."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The tweet expresses a mild negative sentiment, questioning why engineers prefer Solana over Ethereum."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is tied to the ongoing discussion about Ethereum and Solana."
+}
+},
+{
+"tweet_id": "1460385414196432896",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet provides price targets for various cryptocurrencies, which may be shared within the crypto community."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides specific price targets for several cryptocurrencies."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, presenting information without a strong emotional tone."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is tied to the ongoing discussion about cryptocurrency prices."
+}
+},
+{
+"tweet_id": "1460289097004728326",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet uses holiday-themed language and emojis, which may resonate with a wider audience."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet is a personal statement about the user's expectations for cryptocurrency prices."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, expressing anticipation for future events."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is tied to the ongoing discussion about cryptocurrency prices."
+}
+},
+{
+"tweet_id": "1460085031901224967",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet offers a financial opportunity, which may be shared within relevant communities."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides detailed information about minting an NFT on Ethereum."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet is moderately positive, expressing willingness to pay for a service."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is tied to the ongoing discussion about NFTs and Ethereum."
+}
+},
+{
+"tweet_id": "1460020344274792448",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet provides information about the size of Ethereum and Bitcoin nodes, which may be shared within the crypto community."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides specific data about the size of Ethereum and Bitcoin nodes."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, presenting information without a strong emotional tone."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is tied to the ongoing discussion about blockchain technology."
+}
+},
+{
+"tweet_id": "1459906508867653632",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet mentions several significant events, which may generate discussion and shares."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet provides information about personal and industry events."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "The tweet expresses a mix of positive and negative emotions."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is tied to the ongoing discussion about the events mentioned."
+}
+},
+{
+"tweet_id": "1459810147107282948",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet shares personal experiences with cryptocurrency, which may resonate with others in the crypto community."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet provides personal insights about cryptocurrency investments."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses strong positive emotions about the user's investments."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is tied to the ongoing discussion about personal investment experiences."
+}
+},
+{
+"tweet_id": "1459762532567203848",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet compares the speed of upgrades between Bitcoin and Ethereum, which may be shared within the crypto community."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet provides a personal opinion about the speed of upgrades."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet is moderately positive, expressing satisfaction with Bitcoin's upgrade."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is tied to the ongoing discussion about blockchain upgrades."
+}
+},
+{
+"tweet_id": "1459606238996615178",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet asks a question about Ethereum's potential, which may generate discussion within the crypto community."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet presents a topic for discussion about Ethereum's potential."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, presenting a question without a strong emotional tone."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is tied to the ongoing discussion about Ethereum's potential."
+}
+}
+]
+
+--- FULL PROMPT SENT TO MODEL ---

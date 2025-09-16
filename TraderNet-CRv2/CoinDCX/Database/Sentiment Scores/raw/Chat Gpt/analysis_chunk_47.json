@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1453990485610012672",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Contains a simple prediction that may resonate with crypto enthusiasts, but lacks a strong hook or breaking news."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Provides a speculative price forecast, but no source or evidence."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is a factual statement with no emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The tweet's relevance may last a few weeks as people discuss predictions, but it will fade after the year."
+      }
+    }
+  },
+  {
+    "tweet_id": "1453892871304663042",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet announces a significant market event that can attract attention across crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides a factual update about a significant market milestone."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "No emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tweet remains relevant for days or weeks as people discuss the event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1453892201201688589",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet announces a significant event and adds a hook that may encourage engagement."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides a factual update."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The tweet expresses excitement."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tweet remains relevant for days or weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1453886023226863623",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet announces a high-value bid that may interest collectors, but it's a niche topic."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific, verifiable information about a high-value auction."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "No emotional language."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The tweet remains relevant for a short period until the auction ends."
+      }
+    }
+  },
+  {
+    "tweet_id": "1453872415591829504",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "The tweet announces a record-breaking sale that can attract widespread attention across crypto communities and beyond."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides verifiable, high-value transaction details."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "No emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The tweet remains relevant for weeks or months as a record sale."
+      }
+    }
+  }
+]

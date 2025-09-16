@@ -1,0 +1,107 @@
+[
+{
+    "tweet_id": "1496150724694130709",
+    "analysis": {
+        "virality_potential": {
+            "score": 6,
+            "justification": "The tweet shares a personal investment update that resonates within finance and crypto communities, prompting moderate sharing, but lacks a strong hook or breaking news to drive widespread virality."
+        },
+        "informative_value": {
+            "score": 2,
+            "justification": "It is a personal anecdote about holdings and does not provide verifiable news or educational content."
+        },
+        "sentiment_polarity": {
+            "score": 5,
+            "justification": "The statement is factual and neutral, offering no strong emotional language."
+        },
+        "duration_of_impact": {
+            "score": 4,
+            "justification": "The relevance is tied to a specific personal update and fades quickly, offering limited long‑term discussion."
+        }
+    }
+},
+{
+    "tweet_id": "1496149061761900554",
+    "analysis": {
+        "virality_potential": {
+            "score": 7,
+            "justification": "The speculative price targets and question format, combined with multiple crypto hashtags, encourage engagement and sharing within the crypto community, leading to higher virality."
+        },
+        "informative_value": {
+            "score": 4,
+            "justification": "The tweet lists speculative price predictions, which are opinion‑based and not verified factual information."
+        },
+        "sentiment_polarity": {
+            "score": 5,
+            "justification": "The tone is neutral, presenting numbers without strong emotional language."
+        },
+        "duration_of_impact": {
+            "score": 5,
+            "justification": "Price speculation may be discussed for several days to weeks but does not have lasting relevance beyond the short‑term market conversation."
+        }
+    }
+},
+{
+    "tweet_id": "1496087239037698048",
+    "analysis": {
+        "virality_potential": {
+            "score": 8,
+            "justification": "The claim of uncovering the DAO hacker’s identity is presented as exclusive news, generating high interest and shares within the crypto community."
+        },
+        "informative_value": {
+            "score": 7,
+            "justification": "It offers potentially new information about a notable historical event, though the claim is not independently verified."
+        },
+        "sentiment_polarity": {
+            "score": 7,
+            "justification": "The author expresses excitement and pride about the discovery, reflecting a moderately positive tone."
+        },
+        "duration_of_impact": {
+            "score": 8,
+            "justification": "If the claim holds, it could remain a reference point in discussions about the DAO hack for months or years."
+        }
+    }
+},
+{
+    "tweet_id": "1495886440131084296",
+    "analysis": {
+        "virality_potential": {
+            "score": 7,
+            "justification": "Announcing that a mainstream service now accepts crypto is newsworthy and likely to be shared across both crypto and broader tech audiences."
+        },
+        "informative_value": {
+            "score": 8,
+            "justification": "The tweet provides verifiable information about Sling TV’s new payment options, a concrete development in crypto adoption."
+        },
+        "sentiment_polarity": {
+            "score": 6,
+            "justification": "The tone is mildly positive, highlighting a favorable development for crypto users."
+        },
+        "duration_of_impact": {
+            "score": 7,
+            "justification": "Adoption news remains relevant for weeks to months as part of the ongoing narrative of crypto integration."
+        }
+    }
+},
+{
+    "tweet_id": "1495811341520625666",
+    "analysis": {
+        "virality_potential": {
+            "score": 3,
+            "justification": "A personal reflection about a conversation at EthDenver lacks a strong hook and is unlikely to be widely shared beyond a niche audience."
+        },
+        "informative_value": {
+            "score": 2,
+            "justification": "The tweet offers no factual or educational content, only a personal anecdote."
+        },
+        "sentiment_polarity": {
+            "score": 5,
+            "justification": "The tone is neutral, simply recalling a past interaction without strong emotion."
+        },
+        "duration_of_impact": {
+            "score": 3,
+            "justification": "Its relevance is short‑lived, tied to a specific moment and unlikely to generate ongoing discussion."
+        }
+    }
+}
+]

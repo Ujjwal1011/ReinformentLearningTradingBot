@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1559151590031900672",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Breaking news about Argentina adopting Ethereum nodes is likely to be shared widely within the crypto community and beyond, especially given the user’s large following and the presence of a link."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides a factual, newsworthy update about a country's plan to run Ethereum nodes, which is credible and relevant."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is a neutral factual statement with no emotional tone."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The policy decision is long-term, so the tweet will remain relevant for months or years as a reference to Argentina’s blockchain strategy."
+}
+}
+},
+{
+"tweet_id": "1559150231639539714",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Similar to tweet 1, this breaking news about Buenos Aires running Ethereum nodes will attract attention from crypto enthusiasts and general news readers."
+},
+"informative_value": {
+"score": 8,
+"justification": "It delivers a factual update about a city’s plan to run Ethereum nodes, providing credible information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply reporting the news."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The decision is a long-term policy, so the tweet will stay relevant for an extended period."
+}
+}
+},
+{
+"tweet_id": "1558961992336977920",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The claim that Ethereum and Bitcoin will age differently may spark debate among crypto users, but it lacks a hook for mass sharing, so its virality is moderate."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet offers a speculative statement without evidence or context, so its informative value is low."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, presenting a statement without emotional language."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The speculation may generate discussion for a few days or weeks, but it will likely fade as market dynamics evolve."
+}
+}
+},
+{
+"tweet_id": "1558959277821362176",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "A personal brag about selling Ethereum and ignoring the merge may attract some engagement from followers, but it is unlikely to go viral beyond the user’s network."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet contains no factual or newsworthy information, just a personal boast, so its informative value is very low."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses positive emotions about personal gains, making it strongly positive."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Personal brag content tends to lose relevance quickly, so its impact is short-lived."
+}
+}
+},
+{
+"tweet_id": "1558840556289146884",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "A list of top 10 cryptocurrencies is a common type of content that can be shared within the crypto community, giving it moderate virality potential."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides a factual ranking of cryptocurrencies by market cap, which is useful and credible."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply presenting information."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The list remains relevant for a while but will become outdated as market caps shift, so its impact is moderate."
+}
+}
+}
+]

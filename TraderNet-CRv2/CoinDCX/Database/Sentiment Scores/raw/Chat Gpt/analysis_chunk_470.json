@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1767921949886357975",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Breaking news about a major Ethereum L2 outage, likely to be shared widely within the crypto community and beyond."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides a factual update about a technical outage, including a link for more details."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral factual statement with no emotional tone."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevant for a few days until the outage is resolved."
+}
+}
+},
+{
+"tweet_id": "1767920894570369224",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Good news for the Ethereum community, but limited to a niche audience."
+},
+"informative_value": {
+"score": 7,
+"justification": "Shares technical details about blobs going live and the upgrade schedule."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Positive celebratory tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a day or two until the upgrade occurs."
+}
+}
+},
+{
+"tweet_id": "1767917203964272900",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Breaking news about a major Ethereum upgrade, high interest across the community."
+},
+"informative_value": {
+"score": 8,
+"justification": "Factual update about the Dencun upgrade and reduced transaction fees."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral factual statement."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevant for a few days after the upgrade."
+}
+}
+},
+{
+"tweet_id": "1767913916279992526",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Personal congratulatory comment with limited audience."
+},
+"informative_value": {
+"score": 2,
+"justification": "No factual information provided."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive congratulation."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short-term relevance."
+}
+}
+},
+{
+"tweet_id": "1767913396777767361",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Informative but niche, limited to Ethereum community."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides factual details about the upgrade and bandwidth increase."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive tone."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevant for a few days after the upgrade."
+}
+}
+}
+]

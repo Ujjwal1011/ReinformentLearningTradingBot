@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1766139659414131169",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Price milestone for #Bitcoin and #Ethereum plus a direct call to like creates strong engagement within the crypto community; high likes/retweets show medium‑high sharing potential, though it remains niche."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides current price data for several cryptocurrencies, which is factual but limited to a snapshot without deeper context."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Expresses happiness about price gains and uses an upbeat tone, indicating moderately positive sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Price updates lose relevance quickly as market values change; the tweet is likely to be discussed only for a few hours to a day."
+}
+}
+},
+{
+"tweet_id": "1766036870973026455",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "General advice about crypto returns lacks a strong hook; moderate engagement suggests average sharing potential."
+},
+"informative_value": {
+"score": 4,
+"justification": "Offers vague advice without concrete data or sources, providing low informational content."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "Warns that investors are losing money, conveying a moderately negative tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Investment advice can remain relevant for several days to weeks as users consider strategies."
+}
+}
+},
+{
+"tweet_id": "1766019561038524420",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Announcement of 1 billion USDT minted is a notable event in the crypto space; high engagement and newsworthiness give it high sharing potential."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides a verifiable data point about USDT supply with a link to the source, offering high informational value."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Use of money emojis and the phrasing suggest excitement, reflecting moderately positive sentiment."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Supply changes of a major stablecoin are discussed for days to weeks, giving the tweet medium‑long relevance."
+}
+}
+},
+{
+"tweet_id": "1765987450474856448",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Highlights impressive past returns for multiple tokens, which can attract shares within crypto enthusiasts; engagement is moderate."
+},
+"informative_value": {
+"score": 6,
+"justification": "Lists performance multiples for several assets, providing factual data but without context or sources."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Celebratory language and congratulations convey very positive sentiment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Past performance data may be referenced for a few weeks as investors compare returns, giving medium relevance."
+}
+}
+},
+{
+"tweet_id": "1765967035723620494",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Rhetorical hype urging users not to miss future gains, combined with strong emotional language and high engagement, yields medium‑high sharing potential."
+},
+"informative_value": {
+"score": 6,
+"justification": "Repeats performance figures for several tokens, offering factual information but limited depth."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Enthusiastic and encouraging tone expresses very positive sentiment."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Hype about missing out is timely but likely fades as market conditions evolve, giving a neutral short‑to‑medium lifespan."
+}
+}
+}
+]

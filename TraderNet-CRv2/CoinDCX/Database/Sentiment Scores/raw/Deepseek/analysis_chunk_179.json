@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1732202880030097812",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Discusses significant capital inflow predictions for Ethereum via ETF, which could generate interest in crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides analysis from a notable figure (Uniswap founder) about Ethereum's value drivers and ecosystem development."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone presenting factual analysis without explicit emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "ETF-related discussions typically remain relevant for weeks in financial/crypto circles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732201499688829176",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Market analysis about Ethereum's role in altcoin cycles could resonate within crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides technical market analysis with chart references, though lacks direct source links."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of market conditions without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Market condition analyses typically have short-term relevance as prices change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732200685494575453",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Large ETH transactions to exchanges often attract attention in crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Specific transaction details with USD equivalents provide concrete data points."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Purely factual transaction report without emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Single transaction alerts typically have very short-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732200647129211287",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Similar whale transaction alert but with less engagement than comparable tweets."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Detailed blockchain transaction data with wallet addresses and multiple currency values."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of transaction details."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Immediate alert with no lasting relevance beyond the transaction itself."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732200461569053059",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Generic promotional content with limited engagement drivers beyond hashtags."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Primarily hype-driven content without substantive information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive emojis and bullish hashtags convey moderate excitement."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Time-bound promotion for a specific event season."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732199869668786543",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "NFT sales data primarily relevant to niche collector communities."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Specific transaction details for NFT collectors but limited broader relevance."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of a marketplace transaction."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Single NFT sales have very short-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732199202892165569",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Niche critique about Ethereum community standards with minimal engagement."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Opinion-based statement without verifiable information."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Mildly negative tone critiquing perceived hypocrisy."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Temporary commentary unlikely to sustain discussion."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732199197825261918",
+    "analysis": {
+      "virality_potential": {
+        "score": 2,
+        "justification": "Casual conversational reply with limited sharing potential."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "No substantive content beyond personal commentary."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Lighthearted tone with emoji and casual language."
+      },
+      "duration_of_impact": {
+        "score": 1,
+        "justification": "Ephemeral social interaction with no lasting relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732198994208571583",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Content series announcement could attract consistent viewers in crypto communities."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Primarily promotional but indicates educational crypto content."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive emojis and exclamation points show enthusiasm."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Potential ongoing relevance if series continues weekly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732198918178451754",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Market analysis with specific altcoin mentions could spread within trading communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides actionable market insights with specific token examples."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral technical analysis without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Market analyses typically remain relevant for days in active trading periods."
+      }
+    }
+  }
+]

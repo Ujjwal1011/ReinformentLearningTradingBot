@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1528696695793524737",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The announcement that a globally recognized luxury brand (Balenciaga) is accepting Bitcoin and Ethereum is novel and likely to be shared widely among both fashion and crypto audiences, giving it high viral potential."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides a factual update about Balenciaga's new payment options, offering new information to followers."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is a neutral news statement without emotive language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Adoption news may stay relevant for several weeks to months as discussions about crypto acceptance continue."
+}
+}
+},
+{
+"tweet_id": "1528197519498711040",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Price spikes above a major threshold ($30,000) attract attention within the crypto community, but such updates are common, leading to moderate viral potential."
+},
+"informative_value": {
+"score": 5,
+"justification": "Shares a current price level and suggests it may be short‑term, offering limited but useful market information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet presents the price movement factually, lacking strong positive or negative emotion."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Cryptocurrency price spikes are typically short‑lived, making the tweet relevant only for a few hours to a day."
+}
+}
+},
+{
+"tweet_id": "1528105981804220417",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "A statement about Vitalik Buterin, a high‑profile figure, losing billionaire status is likely to be widely discussed across crypto and finance circles."
+},
+"informative_value": {
+"score": 7,
+"justification": "Reports a notable change in Vitalik's net‑worth status, providing news that is of interest to the community."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet conveys the information in a neutral tone without overt positivity or negativity."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "While notable, net‑worth updates tend to lose relevance after the initial buzz, giving it a medium‑short impact period."
+}
+}
+},
+{
+"tweet_id": "1528042554679238664",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The rollout of crypto payments by major POS providers in 65 countries is a significant development that can attract attention across multiple sectors."
+},
+"informative_value": {
+"score": 7,
+"justification": "Details the partnership between Lavu, Verifone, and several cryptocurrencies, delivering concrete adoption information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is a straightforward announcement with no emotional language."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Adoption announcements can remain relevant for weeks as businesses and users explore the new payment options."
+}
+}
+},
+{
+"tweet_id": "1527952469245976577",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Vitalik Buterin confirming the Ethereum PoS transition timeline is a major milestone, likely to be shared extensively across the crypto ecosystem."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides a direct update on the expected August rollout of Ethereum's proof‑of‑stake transition, a critical piece of information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is a factual statement without emotional framing."
+},
+"duration_of_impact": {
+"score": 9,
+"justification": "The PoS transition is a historic event for Ethereum, ensuring the tweet will be referenced for years."
+}
+}
+}
+]

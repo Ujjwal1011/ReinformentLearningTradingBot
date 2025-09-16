@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1746532626683613280",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet offers a useful tip that could be shared within the crypto community, but it is unlikely to go global."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "It provides a clear, actionable instruction about bridging tokens, which is informative for users."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is factual and neutral, with no strong emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tip remains relevant for a period of time, but may become outdated if the platform changes."
+      }
+    }
+  },
+  {
+    "tweet_id": "1746209199758180753",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet references a high‑profile figure and invites discussion, which can lead to widespread sharing within finance and crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "It states a claim about BlackRock’s tokenization plans and includes a link, providing some informational content."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, presenting a statement and a question without strong emotion."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The topic of tokenization will remain relevant for months, keeping the tweet relevant."
+      }
+    }
+  },
+  {
+    "tweet_id": "1746168387070230827",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The provocative rant could resonate within the crypto community, but it is not a global meme."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "The tweet is purely opinion‑based and contains no verifiable information."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "The tweet expresses frustration and negativity towards Larry Fink."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The rant is tied to a specific sentiment and may lose relevance quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1746055088429556032",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "The tweet is about a major upcoming event, likely to generate widespread sharing."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "It gives some details about the event but not in depth."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tweet expresses excitement and hype."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The tweet remains relevant for days or weeks as the event unfolds."
+      }
+    }
+  },
+  {
+    "tweet_id": "1745903962568704140",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet references high‑profile topics and invites discussion, leading to moderate sharing."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "It poses a question about upcoming ETFs and includes a link, providing some informational content."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, with no strong emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The discussion about crypto ETFs will remain relevant for a while."
+      }
+    }
+  }
+]

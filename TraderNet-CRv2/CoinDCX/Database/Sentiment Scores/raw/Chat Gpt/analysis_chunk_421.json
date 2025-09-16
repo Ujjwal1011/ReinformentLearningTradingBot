@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1732040600994894279",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet expresses a common sentiment about Ethereum fees, which may resonate within the crypto community, but it is not a breaking news or meme, so its virality potential is moderate."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet is a personal opinion with no factual data or news, providing minimal informative content."
+},
+"sentiment_polarity": {
+"score": 1,
+"justification": "The tweet conveys strong negative emotion, expressing disgust toward Ethereum fees."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The discussion around Ethereum fees may last a day or two before fading, giving the tweet a neutral lifespan."
+}
+}
+},
+{
+"tweet_id": "1732039488443203722",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "The announcement is niche and targeted to a specific audience, making it unlikely to go viral."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides factual information about the launch of World Mobile Token and its cross-chain bridges."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply stating facts without emotional language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The token launch may be referenced for a while, keeping the tweet relevant for days or weeks."
+}
+}
+},
+{
+"tweet_id": "1732037876152672693",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The news about Safe's new wallet creation method is relevant to many Ethereum users, likely to be shared within the community."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet links to a credible source and provides news about a significant change in wallet creation."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet presents neutral news without emotional bias."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The change may remain relevant for months, giving the tweet a medium-long lifespan."
+}
+}
+},
+{
+"tweet_id": "1732037175573979154",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The partnership announcement may resonate with the Ethereum staking community but is unlikely to spread beyond that niche."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides details about a partnership that could impact staking and public goods funding."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses excitement and optimism about the partnership."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The partnership may be referenced for months, giving the tweet a medium-long lifespan."
+}
+}
+},
+{
+"tweet_id": "1732035587593711864",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The hype and speculation about an Ethereum pump and ETF approval are likely to attract wide attention and sharing."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet is speculative and lacks verifiable data, providing minimal factual information."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet conveys strong positive excitement and hype."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The hype may be short-lived, with relevance fading within a day or two."
+}
+}
+}
+]

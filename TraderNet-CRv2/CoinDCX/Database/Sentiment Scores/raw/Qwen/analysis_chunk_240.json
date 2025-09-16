@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1765899672571560044",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet discusses a significant event (Ethereum ETF) and includes historical data, which can attract attention from crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific historical data and insights into Ethereum's potential, making it informative for crypto enthusiasts."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment towards Ethereum's potential ETF approval and historical performance."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The topic is timely and relevant, likely to be discussed for days or weeks as the ETF news is significant."
+      }
+    }
+  },
+  {
+    "tweet_id": "1765835905976164458",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet highlights low prices for major cryptocurrencies, which can resonate with crypto traders but may not go viral globally."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Provides a personal observation on crypto prices, which is somewhat informative but lacks detailed data."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment about the opportunity to buy at lower prices."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The tweet's relevance is tied to current prices, which can change quickly, limiting its long-term impact."
+      }
+    }
+  },
+  {
+    "tweet_id": "1765815082376740871",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Announces a significant event (OG Diamond claim) with high engagement, likely to be shared within Ethereum communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Informs about an upcoming event and provides context with Solana's data, making it informative."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive and encouraging tone towards Ethereum OGs."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The tweet is relevant for a short period around the claim event but may fade after it occurs."
+      }
+    }
+  },
+  {
+    "tweet_id": "1765803384458948784",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "A meme about selling tops, which can resonate within crypto communities but may not go viral globally."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "A personal anecdote about crypto trading decisions, which is somewhat informative."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive sentiment towards the meme and crypto trading."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The tweet's relevance is tied to a specific trading strategy, which may not remain relevant long-term."
+      }
+    }
+  },
+  {
+    "tweet_id": "1765580934407987317",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Discusses a thesis on crypto adoption, which can attract attention within crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides a thesis on why Solana or Ethereum may be chosen, making it somewhat informative."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive sentiment towards the potential adoption of Solana or Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The tweet's relevance is tied to the current bull run, which may last for a few weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1765321693503832471",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Reports from EthDenver, which may attract attention within Ethereum communities but not globally."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides a report from EthDenver, which is informative for Ethereum enthusiasts."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment as it's a factual report."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The tweet's relevance is tied to the event, which may fade after the conference ends."
+      }
+    }
+  },
+  {
+    "tweet_id": "1764782662495989951",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Discusses a significant event (SEC delay on Ethereum ETF), likely to be shared widely within crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides critical information about the SEC's decision, which is highly informative."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Negative sentiment towards the delay, expressed with an emoji."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The topic is significant and may remain relevant for weeks as the crypto community reacts."
+      }
+    }
+  },
+  {
+    "tweet_id": "1764778172761923634",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Same as above but with higher engagement, indicating high virality potential."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Same as above but with higher engagement, indicating high informative value."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Same as above but with higher engagement, indicating negative sentiment."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Same as above but with higher engagement, indicating medium duration."
+      }
+    }
+  },
+  {
+    "tweet_id": "1764673182600929551",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Announces a significant purchase in CryptoPunks, likely to attract attention within the NFT community."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific details about the purchase, making it informative."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment towards the purchase and the project."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tweet's relevance is tied to the NFT market, which may remain relevant for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1764619361250075093",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Discusses a significant market event (Solana flipping Ethereum in volume), likely to be shared widely."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific data about the volume flip, making it informative."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment towards Solana's performance."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The topic is significant and may remain relevant for weeks as the market reacts."
+      }
+    }
+  }
+]

@@ -1,0 +1,1052 @@
+[
+  {
+    "tweet_id": "1771282521214300624",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "An announcement about a project building on a prominent Ethereum L2 (Base, backed by Coinbase) is highly relevant and shareable within crypto and tech communities, but not globally viral."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific, factual details about a project's technology stack and affiliations, offering valuable information to its target audience."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Generally positive tone, announcing a new development and leveraging established brands ('beloved by millions')."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Project announcements have medium-term relevance as the project develops and its impact on the ecosystem is observed. It's not fleeting, but not timeless."
+      }
+    }
+  },
+  {
+    "tweet_id": "1771255156664897740",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Breaking news of a major tech company (Google) integrating a key crypto service (ENS) has extremely high sharing potential within crypto, tech, and even mainstream news circles."
+      },
+      "informative_value": {
+        "score": 10,
+        "justification": "Critical, verifiable breaking news about a significant integration, offering high factual content about a major development."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Highly positive for the crypto community, as it signifies mainstream adoption and utility for ENS."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "An integration of this magnitude has long-term implications for ENS adoption and crypto visibility, and will be referenced as a foundational step for years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770938551422554338",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "This tweet sets up a strong, comparative narrative between two major blockchains, highlighting distinct strengths (retail/memecoins vs. institutional/tokenization), which often sparks debate and broad sharing within crypto communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides insightful, high-level analysis of the primary market attractions for Solana and Ethereum, effectively summarizing complex ecosystem trends."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The sentiment is primarily analytical and comparative, highlighting successes for both platforms without strong emotional bias for one over the other. Slightly positive for both for 'successfully attracted'."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The narrative of different 'games' or target markets for major blockchains is an ongoing theme in crypto, ensuring the tweet's relevance for months or even years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770910189572501954",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Challenges a 'huge misconception' and provides a strong, educational argument about Ethereum's core value (verifiability), which resonates with and is likely to be shared by a technically-minded crypto audience."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Highly informative, explaining a nuanced technical and philosophical point about Ethereum's security model and verifiability, educating the audience on a core aspect of the blockchain."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tone is assertive and explanatory, positively framing Ethereum's attributes through a factual and corrective lens rather than emotional exuberance."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "Fundamental arguments about blockchain security, decentralization, and verifiability are evergreen topics, making this explanation relevant for the foreseeable future of Ethereum."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770693629742559712",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Reports multiple all-time highs across diverse asset classes, creating excitement and potential FOMO, and the #Ethereum mention adds to its shareability within crypto."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific, factual market data points on all-time highs for gold, S&P 500, and Bitcoin, alongside a pertinent safety warning."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Predominantly positive due to reporting multiple all-time highs, which is generally bullish market news. The warning is neutral but protective."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Market updates on all-time highs are primarily relevant for days to a few weeks, as specific numbers quickly become outdated. The broader trend it implies has longer relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770688970571055553",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Expresses a strong, relatable opinion and common pain point for crypto traders (transaction failures), leading to high engagement and sharing within the crypto community, sparking debate."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Conveys personal experience and implicitly compares user experience between Ethereum (cost) and Solana (reliability), highlighting real operational issues for traders."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Strongly negative towards Solana's transaction experience ('failed swap after failed swap'), contrasting it with a preference for Ethereum's 'clean swap', making the overall tone negative due to frustration."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The debate around high fees on Ethereum versus transaction reliability on Solana is an ongoing, long-standing issue in crypto, making this tweet relevant for a considerable time."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770623752251826631",
+    "analysis": {
+      "virality_potential": {
+        "score": 10,
+        "justification": "Explosive breaking news involving a major traditional finance institution (BlackRock) launching a tokenized fund on Ethereum. This is a huge event for crypto, capable of attracting global attention."
+      },
+      "informative_value": {
+        "score": 10,
+        "justification": "Critical, verifiable, primary-source information about a significant institutional adoption of blockchain technology, specifically Ethereum, making it highly informative."
+      },
+      "sentiment_polarity": {
+        "score": 10,
+        "justification": "Extremely positive and highly enthusiastic, using phrases like 'GIGA BULLISH 🔥' and all caps to convey immense excitement about the news."
+      },
+      "duration_of_impact": {
+        "score": 10,
+        "justification": "A foundational, landmark event in the institutional adoption of blockchain and real-world assets (RWAs). This will be cited and discussed for many years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770622972937839081",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "A highly provocative and defiant statement from a notable figure (Solana founder Toly), expressing a strong stance against potential state opposition to Ethereum. Such politically charged declarations generate significant engagement and sharing."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Primarily an expression of a strong personal stance and philosophical alignment rather than verifiable factual information, news, or educational content."
+      },
+      "sentiment_polarity": {
+        "score": 1,
+        "justification": "Strongly negative and defiant towards 'the state', though it implies strong positive support for Ethereum as a symbol of resistance. The core expressed emotion is opposition."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The underlying sentiment of crypto as a counter-establishment force is an evergreen topic. This statement will likely be referenced during regulatory debates and philosophical discussions for months or even years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770619152090497330",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "A clear, detailed explanation of the BlackRock news, leveraging a major brand and significant financial figures ($100M). Highly shareable within financial and crypto circles due to its importance."
+      },
+      "informative_value": {
+        "score": 10,
+        "justification": "Extremely high, providing specific, verifiable details about the BlackRock fund, its name, the amount of USDC issued, and its basis on Ethereum, making it crucial information."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Highly positive for the crypto and finance communities, framing this as a landmark achievement and a significant step forward for institutional adoption. Factual but celebratory."
+      },
+      "duration_of_impact": {
+        "score": 10,
+        "justification": "A foundational event for institutional crypto adoption. The launch of BlackRock's tokenized fund on Ethereum will serve as a reference point for years to come."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770613618423587232",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Reiterates the BlackRock news with a strong, bullish take, asserting that 'the market has definitely not digested this yet,' creating urgency and encouraging sharing among investors."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Confirms and interprets the BlackRock news, highlighting the 'yield-bearing stablecoin' aspect and its 'bullish' implications, adding valuable analysis and insight."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Extremely positive, using phrases like 'most bullish things to ever happen in crypto' and 'Bullish ETH' to convey strong optimism."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "As a commentary on a foundational shift (BlackRock's move), this tweet's implications are long-lasting, even if market digestion takes weeks or months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770594620969501035",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Addresses 'misinformation' and provides 'basic facts' about Ethereum, which is a common driver for engagement and sharing within a community seeking to correct narratives. Its multi-part thread format encourages deeper engagement."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Highly informative, aiming to clarify crucial facts about Ethereum's status (commodity, not security), its history, and adoption, which are vital for ongoing regulatory debates."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Starts with 'Sigh...' indicating frustration, but then shifts to an assertive, factual defense of Ethereum, leading to a generally positive, corrective tone."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "The classification of ETH and related ETP decisions are major, long-running regulatory and market issues. The arguments presented will remain relevant for months, if not years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770583816978985222",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Reports a competitive comparison between Solana and Ethereum with specific, compelling statistics, which is highly engaging and likely to spark debate and sharing within both communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Very high, presenting specific, sourced (CoinGecko) data on investor interest in blockchain ecosystems, offering valuable market intelligence."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Factual and reportorial. While the numbers favor Solana, the tweet presents them objectively as performance metrics rather than emotional judgment, with a slight positive lean for Solana's 'leading' position."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Market trend reports have a medium lifespan. While specific percentages change, the underlying narrative of Solana's rise versus Ethereum's established position will be discussed for months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770542015438061739",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Reports a massive, record-breaking NFT sale involving high-value assets (CryptoPunks) and significant monetary figures, which often captures public attention within crypto, art, and finance news."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Highly informative, providing specific, verifiable details of a significant transaction: NFT name, purchase price in ETH and USD, and buyer/seller addresses."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Factual reporting with an implied sentiment of awe or excitement due to the extremely high value of the transaction."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Record-breaking NFT sales for iconic collections often become milestones cited in market analysis and cultural discussions for months or even years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770536831542591997",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Expresses strong positive sentiment and a bullish prediction (price increase, likely ETF next) for Ethereum, which can resonate with investors and generate engagement within crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Contains opinions and predictions that offer market insights, and references technical work and the potential for a US ETF, providing valuable (though speculative) information."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Overwhelmingly positive towards Ethereum, using phrases like 'really like', 'appreciate the work', and 'love it', alongside optimistic price and ETF predictions."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Price predictions are medium-term, while ETF approval discussions are ongoing for months. The technical appreciation is more evergreen, creating a mixed medium-term impact."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770514270004121662",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Lists are highly shareable, especially ranking lists in competitive spaces like blockchain ecosystems. People share them to support their favorite chains or to debate the rankings."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Highly informative, providing a ranked list of 20 blockchain ecosystems based on popularity (presumably CoinGecko's metric), which is valuable summary data."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, as it presents a factual ranking without expressing a strong emotional tone, though the competitive nature can elicit subjective sentiment from readers."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Rankings are snapshots. While top players remain, specific positions change, making immediate relevance days to weeks, though the general idea of market dominance persists longer."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770490478443573339",
+    "analysis": {
+      "virality_potential": {
+        "score": 10,
+        "justification": "Extremely high. 'JUST IN:' and news about the SEC pursuing legal action to classify a major crypto asset like Ethereum as a security is highly inflammatory and critical news, likely to go viral across crypto and financial media."
+      },
+      "informative_value": {
+        "score": 10,
+        "justification": "Critical, verifiable breaking news about a major regulatory development that could have massive, long-term implications for Ethereum and the wider crypto market."
+      },
+      "sentiment_polarity": {
+        "score": 1,
+        "justification": "Highly negative for the crypto community, as SEC action to classify Ethereum as a security would be a major setback, creating widespread alarm and concern."
+      },
+      "duration_of_impact": {
+        "score": 10,
+        "justification": "Legal and regulatory campaigns of this magnitude against a major asset can take months or years to resolve, with long-term, foundational implications for the crypto industry."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770489004636475686",
+    "analysis": {
+      "virality_potential": {
+        "score": 10,
+        "justification": "Extremely high. 'BREAKING:' and news of an SEC investigation into the Ethereum Foundation, with a sarcastic and relatable 'nobody saw that coming... 🤨' tone, boosts engagement and sharing significantly."
+      },
+      "informative_value": {
+        "score": 10,
+        "justification": "Critical, verifiable breaking news confirming an SEC investigation into the Ethereum Foundation and the push to classify ETH as a security, making it highly informative."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "While the news is highly negative, the sarcastic tone indicates a mix of resignation and criticism of the SEC, leaning predominantly negative due to the serious implications."
+      },
+      "duration_of_impact": {
+        "score": 10,
+        "justification": "This concerns a long-running, significant regulatory battle with foundational implications for Ethereum and the entire crypto space, ensuring its relevance for many years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770488543896309800",
+    "analysis": {
+      "virality_potential": {
+        "score": 10,
+        "justification": "Extremely high. 'JUST IN:' and reporting from a reputable source (Fortune Crypto) about the SEC's energetic legal campaign against Ethereum ensures high virality across financial and crypto news feeds."
+      },
+      "informative_value": {
+        "score": 10,
+        "justification": "Critical, verifiable breaking news, attributed to a specific reputable source, about a major regulatory action, providing maximum informative value."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Factual reporting of highly negative news for the crypto community. While the tweet is neutral, the content itself evokes strong negative sentiment due to the regulatory threat."
+      },
+      "duration_of_impact": {
+        "score": 10,
+        "justification": "This is a long-term regulatory battle with foundational implications, so the tweet's relevance will persist for a significant period, potentially years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770486264568959408",
+    "analysis": {
+      "virality_potential": {
+        "score": 10,
+        "justification": "Extremely high. A concise and impactful 'BREAKING' style headline about a major regulatory action from the SEC ensures maximum virality due to the critical nature of the news for the crypto market."
+      },
+      "informative_value": {
+        "score": 10,
+        "justification": "Critical, verifiable breaking news, clearly delivering the core message of the SEC campaign and its source, providing maximum informative value."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Factual reporting, but the content is extremely negative for Ethereum and the crypto market due to the implied regulatory threat."
+      },
+      "duration_of_impact": {
+        "score": 10,
+        "justification": "This concerns a critical, long-term regulatory issue that will shape the future of Ethereum and the crypto space, ensuring its enduring relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770470520263209074",
+    "analysis": {
+      "virality_potential": {
+        "score": 10,
+        "justification": "Explosive headline about the 'ETHEREUM FOUNDATION SUBPOENAED FOR THE FIRST TIME IN ITS HISTORY,' combined with a provocative question about 'ETF REJECTION INEVITABLE?'. This creates immense urgency, debate, and broad sharing."
+      },
+      "informative_value": {
+        "score": 10,
+        "justification": "Critical, verifiable information about a historical event (subpoena, removal of Warrant Canary) with in-depth context and analysis (implied thread), making it highly informative."
+      },
+      "sentiment_polarity": {
+        "score": 1,
+        "justification": "Highly negative. News of a subpoena and the strong implication of ETF rejection are deeply concerning and alarming for the Ethereum community, generating significant negative sentiment."
+      },
+      "duration_of_impact": {
+        "score": 10,
+        "justification": "A historical event for the Ethereum Foundation with long-term implications for regulation and the prospects of an Ethereum ETF, ensuring its discussion and reference for many years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770470493201567885",
+    "analysis": {
+      "virality_potential": {
+        "score": 10,
+        "justification": "Extremely high. 'JUST IN:' and news of the Ethereum Foundation being under investigation by a 'State Authority' from a reputable source (CoinDesk) is critical and highly viral within the crypto community."
+      },
+      "informative_value": {
+        "score": 10,
+        "justification": "Critical, verifiable breaking news with source attribution, providing maximum informative value about a major regulatory development."
+      },
+      "sentiment_polarity": {
+        "score": 1,
+        "justification": "Factual reporting of highly negative news for the crypto community. While the tweet is neutral, the content itself evokes strong negative sentiment due to the serious implications of an investigation."
+      },
+      "duration_of_impact": {
+        "score": 10,
+        "justification": "A long-term regulatory investigation with foundational implications for Ethereum. This will be a topic of discussion and analysis for a significant period, potentially years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770469360710095256",
+    "analysis": {
+      "virality_potential": {
+        "score": 10,
+        "justification": "Extremely high. A concise, impactful headline reporting critical news of the Ethereum Foundation being under investigation by a 'State Authority,' ensuring maximum virality within the crypto space."
+      },
+      "informative_value": {
+        "score": 10,
+        "justification": "Critical, verifiable breaking news, clearly delivering the core message of the investigation and its source, providing maximum informative value."
+      },
+      "sentiment_polarity": {
+        "score": 1,
+        "justification": "Factual reporting, but the content is extremely negative for Ethereum due to the serious implications of an investigation by a 'State Authority'."
+      },
+      "duration_of_impact": {
+        "score": 10,
+        "justification": "This concerns a long-term regulatory issue that will shape the future of Ethereum and the crypto space, ensuring its enduring relevance for years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770232793299112171",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Focuses on a significant investment from a major institution ($100M from BlackRock) and links it directly to price action with a strong bullish call ('HIGHER!!!'), making it highly engaging for investors and speculators."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides the key fact of BlackRock's $100M investment, linking it to Ethereum. While 'most bullish news possible' and 'HIGHER!!!' are opinions, the core investment fact is significant."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Extremely positive and highly enthusiastic, using phrases like 'most bullish news possible' and 'HIGHER!!!' to convey immense optimism and excitement."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The BlackRock investment is a foundational event for institutional adoption, providing long-term relevance. The immediate price call, while impactful, has a shorter shelf life."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770214477251674606",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Expresses a strong, relatable opinion based on user experience, contrasting high fees (Ethereum) with transaction failures (Solana). This direct comparison often sparks debate and widespread sharing within the crypto trading community."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Conveys an experiential comparison between Ethereum (cost) and Solana (reliability), highlighting a common trade-off and pain point in the crypto space for users."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative towards Solana's transaction reliability ('57 failed transactions'), and relatively positive towards Ethereum's reliability despite fees ('rather pay the gas fees'). The overall tone is one of frustration with a solution."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The debate between Ethereum's gas fees and Solana's transaction reliability is an ongoing discussion in crypto, ensuring the tweet remains relevant as long as these issues persist."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770196664349032857",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Clear, concise breaking news about a major financial institution (BlackRock) launching a significant product (Tokenized Asset Fund) on a prominent blockchain (Ethereum). This is highly shareable across financial and crypto news feeds."
+      },
+      "informative_value": {
+        "score": 10,
+        "justification": "Critical, verifiable breaking news about a major development with immense implications for institutional crypto adoption, providing maximum informative value."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Factual reporting, but the content is overwhelmingly positive for Ethereum and the broader crypto market, clearly signaling significant institutional adoption."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "A landmark event for institutional crypto adoption, which will be referenced and discussed as a foundational moment for years to come."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770179511864131856",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Short, punchy, and highly bullish statement, capitalizing on the BlackRock news. The declarative 'ETH under $10k is ludacris' is a strong, provocative price prediction that can go viral in speculative crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Confirms BlackRock's involvement with Ethereum, and then provides a strong, optimistic opinion/prediction about Ethereum's price potential based on this development."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Extremely positive and confident. The rocket emoji and the term 'ludacris' clearly convey excitement and strong bullish sentiment."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The BlackRock news provides long-term relevance. The specific price prediction has a shorter, but still significant, shelf life as it pertains to market cycles over months or years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770177665099596282",
+    "analysis": {
+      "virality_potential": {
+        "score": 10,
+        "justification": "Extremely high. 'JUST IN:' and reporting a specific, large financial action ($100 million $USDC deposit) from a major player (BlackRock) on Ethereum is critical and highly viral, attracting broad attention."
+      },
+      "informative_value": {
+        "score": 10,
+        "justification": "Critical, verifiable factual information about a major institutional action in crypto, providing maximum informative value."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Factual reporting of overwhelmingly positive news for the crypto community, signaling significant institutional adoption and capital flow into Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "A landmark event with long-term implications for institutional adoption and the use of stablecoins on the Ethereum network. This will be referenced for years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770167246423257343",
+    "analysis": {
+      "virality_potential": {
+        "score": 10,
+        "justification": "Extremely high. All caps 'BREAKING' and 'GIGA BULLISH' alongside BlackRock's name makes this tweet intensely viral, particularly within the crypto investment community eager for bullish news."
+      },
+      "informative_value": {
+        "score": 10,
+        "justification": "Critical, verifiable breaking news about BlackRock's new fund on the Ethereum blockchain, providing maximum informative value about a major development."
+      },
+      "sentiment_polarity": {
+        "score": 10,
+        "justification": "Extremely positive and highly enthusiastic, using phrases like 'GIGA BULLISH 🔥' and all caps to convey immense excitement about the news."
+      },
+      "duration_of_impact": {
+        "score": 10,
+        "justification": "A landmark institutional adoption event with foundational, long-term implications for Ethereum and the broader crypto market, ensuring its discussion for many years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770164192437211333",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Extremely high. '🚨 RUMOR 🚨' combined with a highly anticipated event ('ETHEREUM SPOT ETF WILL GET APPROVED IN MAY 2024') and comparative analysis to the Bitcoin ETF creates huge virality within crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "High, despite being a 'rumor,' it provides a specific timeline (May 2024) and supporting reasoning (filings being updated), offering valuable, albeit speculative, market intelligence."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Highly positive and anticipatory regarding a potential Ethereum Spot ETF approval, generating excitement and optimism."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The specific rumor has a medium-term impact until May 2024. The underlying topic of an Ethereum ETF is a long-term, ongoing discussion, giving it extended relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770087855916028394",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Highlights a significant technical integration and user experience improvement (seamless cross-chain transfers), making it highly relevant and shareable for DeFi users and developers interested in interoperability."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Highly informative, explaining how Jupiter leverages Wormhole for cross-chain transfers between Ethereum and Solana, detailing a technical solution and its user benefits."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive, showcasing an innovation that improves user experience and enhances interoperability within the blockchain ecosystem."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Technical integrations and infrastructure improvements have a medium to long-term impact, as they fundamentally change how users interact with the ecosystem and persist for months or longer."
+      }
+    }
+  },
+  {
+    "tweet_id": "1769742064630018497",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Presents a stark, direct comparison of price performance between Solana and Ethereum over a short period, highlighting Solana's significant gains and Ethereum's dip. The '🤯' emoji emphasizes the surprising contrast, making it highly shareable for discussion."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific, recent price data for two major cryptocurrencies, allowing for direct comparison of their short-term market performance, which is factual market data."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "While factual, the implied sentiment is strongly positive for Solana and potentially concerned for Ethereum, amplified by the '🤯'. Overall mixed, but the contrast highlights a short-term 'winner'."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term price comparisons are highly relevant for a few days to a week. The specific numbers quickly become outdated, though the narrative of one outperforming the other might linger briefly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1769704086117499046",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "'BREAKING:' and a direct, competitive 'flip' in market cap between two popular memecoins on rival blockchains is a high-engagement, highly shareable event, particularly within the memecoin and broader crypto communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Highly informative, reporting a significant market event (a market cap flip) involving specific assets on specific blockchains, providing verifiable market data."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Factual reporting, but the content is strongly positive for Solana and $WIF, and implicitly negative for Ethereum and $PEPE in this specific competitive context."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Market cap 'flips' are significant but often temporary. The event itself is news for days, but its long-term impact depends on sustained performance and market dynamics."
+      }
+    }
+  },
+  {
+    "tweet_id": "1769568156182323261",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "'BREAKING:' and a direct 'flip' of Google Search interest between two major blockchains is a highly competitive and engaging piece of news, indicating shifts in public awareness and investor attention, making it highly shareable."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Highly informative, reporting a verifiable metric (Google Search interest) from a major platform (Google) and showing a significant trend shift, offering valuable market and public interest data."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Factual reporting, but the content is strongly positive for Solana and implicitly negative for Ethereum in this competitive context, highlighting a perceived shift in public interest."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Shifts in search interest are indicators of trends that can last weeks or months. While the exact 'flip' might be fleeting, the underlying trend it suggests has a medium-term impact."
+      }
+    }
+  },
+  {
+    "tweet_id": "1769388497192833168",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "A highly stylized, almost poetic, rallying cry within the memecoin and crypto community, appealing to shared ownership ('the future is ours') and mentioning diverse popular crypto subcultures, making it highly viral through its inclusive and celebratory tone."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Less factual news, more a cultural statement. It provides insight into the various sub-communities within crypto and highlights the collective power in memecoin phenomena, offering cultural information."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strongly positive and empowering for the crypto community, especially those involved in memecoins and various subcultures, conveying a celebratory and inclusive message."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "While memecoin trends can be fleeting, the underlying message of community power and the convergence of different crypto subcultures is a broader, ongoing narrative that has longer relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1769368200846745935",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Sets up a strong, controversial, and highly engaging comparison between Ethereum/Solana's 'crisis mode' (due to scams) and Bitcoin's 'free and fair meta' (airdrops). It leverages a 'we are not the same' trope, which is inherently viral for sparking debate and tribalism within crypto."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific, albeit generalized, claims about issues on Ethereum/Solana (scams in presales) and a positive development on Bitcoin (Ordinal airdrops), offering informative contrast on perceived problems and advantages."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Highly negative towards Ethereum/Solana ('in crisis mode,' 'scammers are stealing') and highly positive towards Bitcoin ('free and fair meta,' 'hundreds of millions of dollars'), creating strong overall polarity leaning negative for the first two."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "The issues of scams on presales and the debate over fairness in crypto distribution are ongoing, fundamental discussions. The 'we are not the same' narrative is a recurring theme, ensuring relevance for months or years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1769126971294851141",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Provides clear, actionable (though speculative) investment advice in the memecoin space with specific examples across multiple chains. Lists of investment tips in speculative markets tend to go viral."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides a list of popular memecoins on different blockchains, offering insights into market structure and specific assets. While investment advice, it's informative about current market trends."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Highly positive and confident about the proposed investment strategy, stating 'you can’t go wrong,' which generates enthusiasm."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Memecoin cycles are generally short-to-medium term. The advice is relevant for the current cycle, but the dominance of specific coins can change rapidly, limiting its long-term impact."
+      }
+    }
+  },
+  {
+    "tweet_id": "1768920062981750810",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Similar to previous comparative tweets, this sets up a stark comparison highlighting perceived flaws in Ethereum/Solana's memecoin distribution (presales to 'degens') versus Bitcoin's (airdrops to 'OGs'). The 'we are not the same' conclusion is highly tribal and viral."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Informs about different memecoin distribution methods on various blockchains, highlighting a common criticism of presales and praising airdrops, offering valuable insight into market practices."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Highly negative towards Ethereum/Solana (implying unfairness/speculation in presales) and highly positive towards Bitcoin (implying fairness/rewards for early adopters). Overall strong polarity leaning negative for the former."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "The debate over fair launches, presales, and airdrops is a fundamental, ongoing discussion in crypto. This type of critique will remain relevant as long as these distribution models exist, potentially for years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1768700841316192699",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "A clear marketing/announcement tweet for a specific game/NFT project (Kiraverse), announcing new content and perks. Such content is highly viral within its dedicated community due to strong engagement drivers."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Highly informative for its target audience, detailing a new character/skin, its availability, and how to access it, providing useful information for players and NFT holders."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Clearly positive and exciting for the game's community, introducing new content and perks, generating anticipation and satisfaction."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Announcements of new in-game items or skins generate excitement and activity for days or weeks, then become part of the game's existing content, losing their 'breaking news' relevance but remaining accessible."
+      }
+    }
+  },
+  {
+    "tweet_id": "1768622817631772910",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "'🚨BREAKING 🚨' combined with a massive financial figure ($3.35 billion) and the implication of 'HIGH VOLATILITY' is extremely viral within the crypto trading and investment community due to its market impact."
+      },
+      "informative_value": {
+        "score": 10,
+        "justification": "Critical, time-sensitive financial market information about a significant options expiry and its immediate implication (volatility), providing maximum informative value."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Neutral/factual reporting of market conditions, but the implication of 'HIGH VOLATILITY' can induce excitement or concern, making it moderately polarized depending on the reader's risk profile."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Very short. The relevance is primarily for 'today' when the options expire. Its impact fades significantly within hours or a day after the event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1768592268745667036",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "'JUST IN:' and the massive financial figure tied to a time-sensitive market event (options expiry) ensures high virality within financial and crypto trading communities due to its immediate relevance."
+      },
+      "informative_value": {
+        "score": 10,
+        "justification": "Critical, time-sensitive financial market data, providing maximum informative value about a significant short-term market event."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, factual reporting of a market event, without expressing a strong emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Very short. Relevant only for the day of expiry. Its impact quickly becomes irrelevant once the event passes."
+      }
+    }
+  },
+  {
+    "tweet_id": "1768318142466658497",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "A celebratory 'shout out' for a major technical achievement (EIP-4844) within the Ethereum community, especially from a prominent figure, is highly shareable among developers and enthusiasts."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Highly informative, confirming the successful implementation of a significant technical milestone (EIP-4844), which is crucial for Ethereum's development."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Extremely positive and celebratory, using phrases like 'Huge shout out' and 'massive win' to express strong enthusiasm for the technical progress."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "EIP-4844 is a fundamental upgrade to Ethereum's architecture with long-term implications for scalability. Its effects will be felt and referenced for years, ensuring enduring impact."
+      }
+    }
+  },
+  {
+    "tweet_id": "1768313648982753629",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Strong, declarative opening ('History has been made.') for a significant technical achievement (first Decentralized Sequencer on an Ethereum L2). This is major news for the L2 and Ethereum ecosystem, highly shareable among technical audiences and investors."
+      },
+      "informative_value": {
+        "score": 10,
+        "justification": "Critical, verifiable breaking news, reporting a landmark technical achievement ('first ever Decentralized Sequencer') for an Ethereum L2, explaining its significance and future steps."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Extremely positive and forward-looking, celebrating a technical milestone with phrases like 'History has been made' and expressing optimism for 'The future of Layer 2s'."
+      },
+      "duration_of_impact": {
+        "score": 10,
+        "justification": "The introduction of a decentralized sequencer is a fundamental architectural improvement for L2s, with long-term implications for decentralization and security. This is a foundational event that will be referenced for many years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1768292467739414582",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Highly controversial and critical, challenging a common narrative about L2s with strong, emotional language ('you cry and cry very hard,' 'L2s are kind a joke'). This provocative critique is highly shareable, sparking strong reactions and debate."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Aims to inform about significant security risks and centralization points in Ethereum L2s, particularly regarding centralized sequencers. While opinionated, it raises valid technical concerns relevant to users."
+      },
+      "sentiment_polarity": {
+        "score": 1,
+        "justification": "Strongly negative towards the security and centralization aspects of current Ethereum L2s, using highly critical and emotive language ('not as secure,' 'cry and cry very hard,' 'kind a joke,' 'bad')."
+      },
+      "duration_of_impact": {
+        "score": 10,
+        "justification": "The debate around L2 security, centralization, and their fundamental limitations relative to L1s is an evergreen, fundamental discussion in blockchain architecture. This tweet will remain relevant as long as these architectural trade-offs exist, potentially for decades."
+      }
+    }
+  },
+  {
+    "tweet_id": "1768290377382138001",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Connects a major Ethereum upgrade (Dencun) to another blockchain (PulseChain) with a 'rumor' and a compelling technical explanation. This leverages interest in both chains, making it shareable within specific crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Informs about a potential future upgrade for PulseChain, drawing a parallel to Ethereum's Dencun, and provides a technical justification for why this might be the case. Offers insight into cross-chain relations."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Generally positive, suggesting that PulseChain benefits from Ethereum's innovations and teasing price potential, adding to positive anticipation and optimism."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The Dencun upgrade has long-term impact. The rumor about PulseChain inheriting it has a medium-term impact until confirmed/denied or superseded by PulseChain's own developments."
+      }
+    }
+  },
+  {
+    "tweet_id": "1768283768048193744",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Highly opinionated and celebratory for a specific community (HEXicans/PulseChain users), drawing a strong, positive comparison to Ethereum using specific, compelling metrics. This direct advocacy can go viral within its niche."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides anecdotal evidence and specific (claimed) metrics (gas fees, liquidity) to argue for PulseChain's superiority over Ethereum for certain use cases. While biased, it attempts to back its claims with numbers."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Extremely positive for PulseChain and HEXicans ('living the dream,' celebrating low fees and high liquidity). Negative by comparison to Ethereum, creating a strong positive bias for PulseChain."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Debates about gas fees and liquidity across different chains are ongoing. The sentiment will remain relevant as long as the platforms maintain these characteristics relative to each other, ensuring medium-to-long term impact."
+      }
+    }
+  },
+  {
+    "tweet_id": "1768123207700066455",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Celebrates a major achievement (gas fees < $0.01 on an L2) directly attributable to a significant Ethereum upgrade (Dencun). The enthusiastic language ('Let’s fucking go,' 'Huge shoutout') makes it highly shareable among the Ethereum and L2 communities, highlighting real, tangible benefits."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Highly informative, demonstrating the immediate, tangible impact of the Dencun upgrade (reduced gas fees on Optimism/Uniswap) with concrete numbers, providing a clear example of scalability."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Extremely positive and celebratory, emphasizing a major win for Ethereum scalability and crediting those involved in the Dencun upgrade."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "The Dencun upgrade and its effects on L2 gas fees are a fundamental, long-term improvement for Ethereum scaling. This specific example will be cited for months, and the benefit itself is enduring."
+      }
+    }
+  },
+  {
+    "tweet_id": "1768032567230394433",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "'BREAKING:' and a competitive 'flip' in market cap between a hot memecoin on Solana and a major Ethereum L2 token is highly engaging and shareable, especially for those tracking market trends and inter-chain rivalry."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Highly informative, reporting a specific, verifiable market event (market cap flip) between two significant tokens from different ecosystems, providing valuable market data."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Factual reporting, but the content implies a win for Solana/WIF and a loss for Ethereum L2/ARB in this market cap comparison, creating a moderate polarity."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Market cap 'flips' are significant but can be temporary. The event itself is news for days, but its long-term impact depends on sustained performance and market dynamics."
+      }
+    }
+  },
+  {
+    "tweet_id": "1767983026443579448",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Celebratory and informative about a major technical milestone (first L2 to post a 4844 blob) after the Dencun upgrade. The playful emojis enhance engagement, and the core content is significant for the L2 and Ethereum community, making it highly shareable among tech-savvy users."
+      },
+      "informative_value": {
+        "score": 10,
+        "justification": "Critical, verifiable breaking news, confirming a technical achievement (first L2 to use 4844 blobs) and explaining the immediate implications (fee stabilization, full impact to be seen). This is a crucial technical progress update."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Extremely positive and anticipatory for the benefits of the Dencun upgrade, celebrating a technical first and the positive future impact on transaction fees."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "Dencun and blob implementation are fundamental, long-term architectural changes for Ethereum's scalability. This tweet marks a key step that will be referenced for years, ensuring enduring impact."
+      }
+    }
+  },
+  {
+    "tweet_id": "1767978094143418864",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "A bold price prediction for a major asset, often a magnet for engagement and sharing within speculative crypto communities due to its potential for high returns or controversy."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Primarily a speculative price prediction. While it implies underlying reasons ('This is why'), it doesn't explicitly state them or provide new factual information, offering minimal verifiable content."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Extremely positive and bullish, confidently predicting a significant price increase for Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Price predictions have a medium-term impact, remaining relevant until the price either reaches that level or fails to do so for an extended period, typically months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1767974564514910362",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Targets a specific, loyal community ('Ethereum OGs') with a compelling offer (retroactive rewards/airdrops for past activity). The call to action and interactive question ('How many did you get?') are strong drivers for engagement and sharing within the NFT and Ethereum communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Highly informative for its target audience, detailing a specific rewards program, eligibility criteria (Ethereum OGs, activity back to 2017), the platform, and the required action."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Highly positive and exciting, offering tangible rewards and acknowledging long-term community members, generating strong goodwill and enthusiasm."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "A rewards program creates immediate buzz. While the claiming period might be limited, the act of acknowledging OGs and establishing a retroactive program can serve as a reference point for community building for months or even years, ensuring medium-to-long term impact."
+      }
+    }
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1741675379780194740",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Significant crypto events are likely to be shared within the crypto community but may not go beyond."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides factual updates from credible sources."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, just stating facts."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Major events will remain relevant for a while."
+      }
+    }
+  },
+  {
+    "tweet_id": "1763341468691759583",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Provocative question likely to spark debate."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Minimal information, just a statement."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative, suggesting Ethereum is bad for retail."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Topic is ongoing."
+      }
+    }
+  },
+  {
+    "tweet_id": "1763215419433759187",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High interest in NFTs, likely shared among crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides specific data on an NFT bid."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, just an update."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "NFTs are trendy but may fade."
+      }
+    }
+  },
+  {
+    "tweet_id": "1763187443379913003",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Urgent warning, could spread within Ethereum community."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Important security information."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Neutral, but slightly negative due to concern."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term as it's about a specific threat."
+      }
+    }
+  },
+  {
+    "tweet_id": "1763021289999266035",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Time-sensitive, likely shared among crypto users."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Promotional but provides info on an event."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive, encouraging participation."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term, event-based."
+      }
+    }
+  },
+  {
+    "tweet_id": "1762884103718748371",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Predictions can spark discussions."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Opinion-based, not factual."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive outlook on Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Topic is ongoing."
+      }
+    }
+  },
+  {
+    "tweet_id": "1762856905716768809",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Just a link, low engagement."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Minimal info, just a link."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short, as it's a simple link."
+      }
+    }
+  },
+  {
+    "tweet_id": "1762800060184826069",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "News about a politician selling crypto is newsworthy."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific financial data."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, just reporting."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant for a few days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1762652123206939059",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Humorous complaint, likely shared within the community."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Minimal info, just a complaint."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Slightly negative, frustration."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term, about a specific product."
+      }
+    }
+  },
+  {
+    "tweet_id": "1762515560900780066",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Launch announcement, likely shared among NFT communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Announces a new marketplace."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive, announcing a launch."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Moderate, as it's a new product."
+      }
+    }
+  }
+]

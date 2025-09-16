@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1457850996068081667",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Announcement of major tech platform integration with Ethereum generates excitement in crypto communities, with strong engagement metrics."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Teases significant partnership but lacks technical details or official confirmation."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Strong positive emotion conveyed through 'Holy shit' exclamation and eye emoji."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Partnership discussions could influence platform decisions for weeks/months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1457844953070116864",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "High-engagement tweet from established crypto media account about major platform integration."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Confirms partnership but lacks implementation details or sources."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive framing with fire emoji indicates enthusiasm."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Strategic partnerships maintain relevance through implementation phases."
+      }
+    }
+  },
+  {
+    "tweet_id": "1457842402106830849",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Founder reflection appeals to ENS community but lacks viral hooks."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Historical perspective without new technical or operational information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Grateful tone celebrating milestones and team contributions."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Project origin stories maintain relevance in ecosystem narratives."
+      }
+    }
+  },
+  {
+    "tweet_id": "1457811131611815936",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Price milestone tweets generate immediate engagement in crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Reports verifiable market data but lacks deeper analysis."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Excited tone with multiple exclamation points and price speculation."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Price updates become obsolete with market movements."
+      }
+    }
+  },
+  {
+    "tweet_id": "1457746293586022405",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Controversial comparison sparks debate within crypto communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Opinion-based claims without technical evidence or sources."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative framing of Ethereum through 'factually wrong' accusation."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Protocol comparisons remain topical but individual claims fade quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1457710025732993030",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Mass user onboarding claim attracts broad crypto community interest."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Specific claim about ERC-20 integration with major platform."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Optimistic price prediction shows strong positive outlook."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Large-scale integrations influence ecosystem development long-term."
+      }
+    }
+  },
+  {
+    "tweet_id": "1457519739572424711",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Price excitement with multiple exclamation points drives engagement."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Market data point without additional context or analysis."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Enthusiastic reaction to price movement with multiple exclamation marks."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Price announcements lose relevance with market fluctuations."
+      }
+    }
+  },
+  {
+    "tweet_id": "1457392179786272773",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Regulatory news from official source sparks high engagement."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Direct regulatory commentary with implications for crypto classification."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of regulatory stance without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Regulatory positions influence market behavior for extended periods."
+      }
+    }
+  },
+  {
+    "tweet_id": "1457368008054214657",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Controversial comparison between major protocols drives engagement."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Opinion statement without supporting data or analysis."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative assessment of Solana's potential through definitive statement."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Protocol comparisons remain discussion topics during market cycles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1457312828998705152",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Humorous take on market analysis with moderate engagement."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Satirical content without factual basis or actionable information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Playful tone suggesting optimism about market recovery."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Joke format limits long-term relevance beyond immediate humor."
+      }
+    }
+  }
+]

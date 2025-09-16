@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1557758049766498304",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Announcement of a significant event in the Ethereum ecosystem, likely to generate interest within the crypto community, but may not extend far beyond."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides specific, newsworthy information about the Ethereum merge, including a precise date range, making it valuable for those following the project."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, factual reporting without emotional tone, simply conveying information about the Ethereum merge."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for several days or weeks leading up to the merge, but its impact will significantly diminish once the event occurs."
+}
+}
+},
+{
+"tweet_id": "1557756201827532800",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Official announcement from a reputable source, likely to be widely shared within the Ethereum and broader crypto communities due to its significance."
+},
+"informative_value": {
+"score": 9,
+"justification": "Direct, official confirmation of the Ethereum Merge schedule, providing high-value information to the community."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, as it's a straightforward announcement without emotional appeal."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Similar to the previous, its relevance peaks before the merge and diminishes thereafter."
+}
+}
+},
+{
+"tweet_id": "1557753518282473472",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Engaging presentation (use of 'BREAKING' and ) of highly anticipated news, likely to encourage sharing and discussion across crypto platforms."
+},
+"informative_value": {
+"score": 8,
+"justification": "Conveys the essential information about the merge date, though the technical detail (TTD) might not be universally understood, reducing its informative score slightly."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Moderately positive due to the enthusiastic presentation ('The Merge is officially scheduled ') of a long-awaited event."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant in the short to medium term, with interest waning post-merge."
+}
+}
+},
+{
+"tweet_id": "1557747849357430784",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "While it announces the merge, the presentation is more subdued, potentially limiting its sharing to highly interested Ethereum followers."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides the merge date, making it useful, though the information is not as detailed or uniquely sourced as others."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Moderately positive, indicated by 'The Merge is coming ' and the accompanying emoji, showing anticipation."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevant for a shorter period, primarily leading up to the merge, with a quicker decline in interest afterward."
+}
+}
+},
+{
+"tweet_id": "1557582864962576384",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "A niche discussion about a specific project, unlikely to spread widely beyond those already interested in Ethereum or the mentioned project."
+},
+"informative_value": {
+"score": 3,
+"justification": "Limited to a personal opinion about a project, lacking in broadly useful or newsworthy information."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "Very negative, as the tweet criticizes a project and implies negligence on the part of @MagicEden."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short-lived relevance, primarily of interest to those directly involved or invested in the mentioned project."
+}
+}
+},
+{
+"tweet_id": "1557549548012068864",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "A simple price update, unlikely to generate significant sharing or discussion beyond immediate Ethereum price watchers."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides current, specific information about Ethereum's price, useful for traders and investors."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, as it's a factual report without emotional tone."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "Very short-lived, as the relevance of a specific price point diminishes rapidly with market fluctuations."
+}
+}
+},
+{
+"tweet_id": "1557546343052230656",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "While a significant development, the testnet success might not resonate widely beyond Ethereum's core followers."
+},
+"informative_value": {
+"score": 8,
+"justification": "Important update for Ethereum's development, indicating progress towards the mainnet merge."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, focusing on reporting the event without emotional appeal."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a shorter period, primarily until the mainnet merge, with declining interest afterward."
+}
+}
+},
+{
+"tweet_id": "1557544104031973377",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Success of the testnet merge is a significant step, potentially generating interest and sharing among Ethereum enthusiasts."
+},
+"informative_value": {
+"score": 8,
+"justification": "Clearly communicates a key milestone in Ethereum's transition to Proof of Stake."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Moderately positive, expressing anticipation and optimism with 'The Merge is coming '."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Similar to others, its relevance is mostly leading up to the mainnet merge."
+}
+}
+},
+{
+"tweet_id": "1557543521875140615",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Significant news about Ethereum's testnet, likely to be shared among both Ethereum and broader crypto communities due to its implications."
+},
+"informative_value": {
+"score": 9,
+"justification": "Direct, breaking news about a critical step in Ethereum's development, providing high-value information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, as it focuses on reporting the news without emotional tone."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Peaks in relevance before the mainnet merge, then declines."
+}
+}
+},
+{
+"tweet_id": "1557533155480969216",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "A market cap update, while informative, is unlikely to generate wide sharing or discussion beyond immediate Ethereum investors."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides a specific, up-to-date market metric, useful for those interested in Ethereum's market performance."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, as it's a factual report without emotional tone or context suggesting otherwise."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "Very short-lived, as market cap figures rapidly become outdated."
+}
+}
+} 
+]

@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1738587903289069921",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The meme uses the popular 'Absolutely no one' format and references Ethereum, which resonates with crypto enthusiasts; it can be shared within that niche but lacks broader appeal, giving it a medium‑high viral potential."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet is primarily a joke and does not convey factual information; the linked media may illustrate blockchain bloat but the text itself offers no substantive data."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tone is lighthearted and humorous, expressing a mildly positive sentiment rather than negativity."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Memes about blockchain performance tend to be relevant for a short period, typically a few days to a week, before newer jokes replace them."
+}
+}
+},
+{
+"tweet_id": "1738560097310412824",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet promotes the Phantom wallet across multiple blockchains, appealing to users of Solana, Ethereum, Polygon, and Bitcoin; it may be retweeted within crypto circles but is unlikely to break out to a wider audience."
+},
+"informative_value": {
+"score": 7,
+"justification": "It clearly lists the blockchains supported by Phantom, providing concrete, factual information useful to potential users."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The language is promotional and upbeat, conveying a positive endorsement of the wallet's multi‑chain capabilities."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Wallet support information remains relevant as long as Phantom continues to support these chains, giving the tweet a medium‑to‑long relevance period."
+}
+}
+},
+{
+"tweet_id": "1738549517153132789",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "A top‑10 list invites community interaction and can generate many replies and shares among crypto fans, but its appeal is limited to those interested in rankings."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet presents a subjective ranking of cryptocurrencies without analysis, offering limited factual value beyond the list itself."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tone is enthusiastic and positive, encouraging discussion about favorite coins."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Crypto rankings change over time; the list may stay relevant for weeks to a few months before newer market movements shift preferences."
+}
+}
+},
+{
+"tweet_id": "1738235404300751004",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Breaking news about China's sudden policy reversal on crypto is a major global story; the use of emojis and a thread link amplifies its shareability, leading to high viral potential."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet announces a significant policy shift and references a $1.6 trillion market surge, providing timely, newsworthy information."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "While the tweet uses excitement emojis, the overall tone is neutral reporting with a slight positive excitement about the policy change."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "A policy reversal by a major economy can influence markets and discussions for months, giving the tweet a long‑term impact."
+}
+}
+},
+{
+"tweet_id": "1738204879120957945",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Announcing Paxos's expansion to Solana and a new stablecoin is notable within the crypto community, especially among Solana and stablecoin users, leading to moderate viral potential."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet conveys concrete details about Paxos's partnership, the Solana platform, and the planned USDP stablecoin launch date, offering clear factual information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tone is positive and forward‑looking, highlighting growth and new opportunities."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The news about a stablecoin launch will remain relevant throughout the rollout period and for months after, giving it a medium‑to‑long impact."
+}
+}
+}
+]

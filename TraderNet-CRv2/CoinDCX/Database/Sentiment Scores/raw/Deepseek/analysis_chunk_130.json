@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1570357343170199553",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Congratulating a major financial institution on a crypto milestone could gain traction in fintech communities, but lacks universal appeal."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Contains no technical details or new information about the Ethereum Merge itself."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive congratulatory message with institutional recognition."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant primarily during immediate post-Merge discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570356356527394816",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Controversial take on Bitcoin community could spark debates within crypto circles."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Opinion-based analysis of community dynamics without concrete data."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative assessment of Bitcoin community with hopeful undertones."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Could fuel ongoing debates about crypto community leadership."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570338727347785728",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Provocative comparison between PoW/PoS likely to generate strong reactions."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Opinionated take without technical explanations."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative tone mocking environmental arguments."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Touches on ongoing debates about blockchain consensus mechanisms."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570334032587620354",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High-profile figure's endorsement of technical milestone."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Acknowledges technological achievement without details."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong positive sentiment with 'incredible technological feat'."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Will remain relevant in Ethereum's historical narrative."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570321739023777792",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Historic POAP mention could drive engagement in NFT communities."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Notes milestone achievement with collectible angle."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive congratulatory message with celebratory emojis."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "POAP relevance tied to specific moment in time."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570320009976778755",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Personal mining story with limited broad appeal."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Personal anecdote without technical insights."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Hopeful personal endeavor with luck request."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Immediate time-sensitive relevance only."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570316410093436929",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Critical infrastructure update from major exchange."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Concrete information about exchange operations resuming."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral service announcement."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Permanent record of blockchain transition milestone."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570313573880197137",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Influencer announcing major protocol change completion."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Confirms Merge completion without technical details."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive welcome to new era."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Will remain reference point for Ethereum's history."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570313251447246848",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Prominent figure's commentary on major protocol shift."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Mentions roadmap implications without specifics."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Neutral-positive acknowledgment of milestone."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Roadmap references ensure long-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1570310664236994561",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Quantifiable global impact statistic with news value."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific environmental impact data point."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive framing of energy reduction."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "Will be cited in future environmental impact analyses."
+      }
+    }
+  }
+]

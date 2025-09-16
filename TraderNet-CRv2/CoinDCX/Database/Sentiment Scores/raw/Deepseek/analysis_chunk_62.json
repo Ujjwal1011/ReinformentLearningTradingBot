@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1477087250680791047",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Bold crypto predictions often generate discussion within blockchain communities, but lacks elements for mass viral spread."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Presents an opinion/prediction rather than verifiable facts, though relevant to crypto investors."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral statement of prediction without clear emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Predictions remain relevant through 2022 as markets evolve."
+      }
+    }
+  },
+  {
+    "tweet_id": "1498172221054988290",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Notable auction cancellation with crypto hashtags drives niche community engagement."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Reports specific event details with source link, though lacks deeper context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual reporting without evident emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Time-sensitive event relevance limited to immediate news cycle."
+      }
+    }
+  },
+  {
+    "tweet_id": "1498033996562931715",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Emotionally charged political commentary about notable crypto figure drives engagement."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Primarily expresses opinion with inflammatory language rather than facts."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Strong negative sentiment evident through expletives and confrontational tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Tied to specific political moment with limited lasting relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1498033741465210884",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Simple engagement question leverages large follower base for retweets."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No substantive information conveyed beyond basic community engagement."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral question without emotional valence."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term engagement spike typical of poll-style tweets."
+      }
+    }
+  },
+  {
+    "tweet_id": "1498032229938708480",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Mentions crypto billionaire's statement, driving interest in Russian-speaking communities."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Announces commentary exists but lacks specific content or context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of statement occurrence."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance tied to immediate news cycle around Ukraine conflict."
+      }
+    }
+  },
+  {
+    "tweet_id": "1498031424083054599",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "High engagement from large account discussing notable crypto figure's political stance."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "References event participation without substantive details."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of affiliation without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Tied to specific geopolitical moment with ephemeral relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1498029533345243148",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Ethereum founder's diplomatic response to geopolitical conflict attracts wide attention."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Documents specific leadership response with project credentials context."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive framing of 'very nicely' response."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Part of ongoing discussion about crypto's role in geopolitics."
+      }
+    }
+  },
+  {
+    "tweet_id": "1497718332002295813",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Breaking news about Ukraine donations during active conflict drives massive sharing."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific financial figures with geopolitical significance from verified account."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive framing of humanitarian support."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Historic moment in crypto adoption for crisis response with weeks-long relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1497688902685048837",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Updated donation figures during breaking news event with high retweet count."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific transaction amounts and timeline provide verifiable data."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive context of humanitarian support despite neutral reporting."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Part of sustained discussion about crypto in geopolitics throughout conflict."
+      }
+    }
+  },
+  {
+    "tweet_id": "1497679755327553537",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Comparative analysis of fundraising platforms sparks niche crypto community discussion."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific critique of fundraising platforms with anecdotal evidence."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive endorsement of Ethereum's capabilities."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Contribution to ongoing debate about blockchain applications with weeks-long relevance."
+      }
+    }
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1699783327023259915",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Popular crypto hashtags might drive niche community engagement, but lacks original content or emotional hook for broader virality."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Contains only hashtags and a generic link without context or verifiable information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "No discernible emotional tone - purely promotional content."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Generic crypto content with no time-sensitive elements - likely buried quickly by algorithm."
+      }
+    }
+  },
+  {
+    "tweet_id": "1699754386027684223",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Official infrastructure update from a major exchange - important for crypto community sharing."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific technical update about ETH integration with clear operational implications."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement tone without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Network upgrades typically remain relevant for weeks as users adopt new features."
+      }
+    }
+  },
+  {
+    "tweet_id": "1699491063436829026",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Breaking news about major financial product approval with rocket emoji amplifying excitement."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Reports concrete regulatory filing with market-moving potential."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Enthusiastic tone with 'big deal' statement and rocket emoji."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "ETF approvals have long-term market structure implications."
+      }
+    }
+  },
+  {
+    "tweet_id": "1699482627776847889",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Concise breaking news format optimized for retweets in financial circles."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Clear reporting of significant regulatory development."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral journalistic tone despite positive implications."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "ETF news remains relevant through approval process timeline."
+      }
+    }
+  },
+  {
+    "tweet_id": "1697906771283906773",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Provocative anti-tribalist stance could spark debates in crypto communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Opinion piece without data or actionable insights."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative tone towards 'tribalist incels' with confrontational language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Twitter debates typically have short attention cycles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1697686831326957777",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Nostalgic price commentary lacks novel elements for widespread sharing."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "Personal sentiment about historical pricing with no new data."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Ambiguous tone - could be interpreted as humorous or critical."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Price nostalgia has immediate expiration as markets move."
+      }
+    }
+  },
+  {
+    "tweet_id": "1718310082495017205",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Provocative decentralization argument with meme potential ('real men')."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Highlights validator centralization issue with specific project comparison."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive advocacy for decentralization with competitive framing."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Ongoing debates about validator centralization ensure sustained relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1717862209194234039",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Large derivatives expiry numbers attract trader attention and sharing."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Specific financial data point with market implications."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of market event."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Options expiry impacts are fully priced within 24-48 hours."
+      }
+    }
+  },
+  {
+    "tweet_id": "1717204577290690635",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Mix of crypto/Argentine politics might drive niche virality in regional markets."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Combines verified event (SEC lawsuit) with political commentary."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Celebratory tone with 'grandísima hora nacional' conclusion."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Combined crypto/local politics has medium shelf-life in Argentine context."
+      }
+    }
+  },
+  {
+    "tweet_id": "1717134336104038580",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Major network upgrade announcement from established project."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Detailed technical update about core protocol functionality."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Optimistic framing of technological progress."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Protocol upgrades influence developer activity for months."
+      }
+    }
+  }
+]

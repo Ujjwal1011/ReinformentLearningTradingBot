@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1499414900355047427",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news about Metamask blocking Ethereum transactions in Venezuela is likely to be widely shared among crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides factual information about a significant compliance action affecting Ethereum users."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral statement of fact without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Impact may last a few days as the community discusses the implications."
+      }
+    }
+  },
+  {
+    "tweet_id": "1498811336335056897",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Announcement about Ethereum's transition to proof of stake is significant and likely to be shared within crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Informs about an upcoming change in Ethereum's consensus mechanism."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment with excitement about the upcoming change."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Impact could last a few weeks as the community prepares for the transition."
+      }
+    }
+  },
+  {
+    "tweet_id": "1498709915455705088",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Clarification about Ether vs Ethereum may be shared but not widely."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides a factual distinction between Ether and Ethereum."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment, simply stating a fact."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Short-term impact as it's a specific point of clarification."
+      }
+    }
+  },
+  {
+    "tweet_id": "1498683066289635328",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Negative opinion about Ethereum's price may be shared within crypto communities."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Shares a personal opinion on Ethereum's value."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative sentiment, calling Ethereum a scam."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Impact is short-term as it's a price-related comment."
+      }
+    }
+  },
+  {
+    "tweet_id": "1498680829077250051",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Meme about Ethereum Classic is likely to be shared among crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Mentions Ethereum Classic as an alternative."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment, presented as a joke."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Short-term impact as it's a meme."
+      }
+    }
+  },
+  {
+    "tweet_id": "1520239235747692545",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Prediction about APECOIN's price is likely to be shared among crypto investors."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides expert predictions and market analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment, presenting a prediction."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Impact could last a few weeks as people follow the prediction."
+      }
+    }
+  },
+  {
+    "tweet_id": "1520182239547469825",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Meme comparing Solana and Ethereum NFTs is likely to be shared within crypto communities."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Provides a point of view on NFT trends."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment, presented as a point of view."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Short-term impact as it's a meme."
+      }
+    }
+  },
+  {
+    "tweet_id": "1519879442776358912",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Deep dive into Ethereum whales' portfolios is likely to be shared among crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides detailed analysis of whales' portfolios."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment, presenting factual information."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Impact could last a week as people discuss the findings."
+      }
+    }
+  },
+  {
+    "tweet_id": "1519837834131034112",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Jim Cramer's prediction about Ethereum is likely to be widely shared."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides a notable prediction from a financial expert."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment with excitement about potential growth."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Impact could last a few days as people react to the prediction."
+      }
+    }
+  },
+  {
+    "tweet_id": "1519757049181216769",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Negative news about Ethereum and crypto markets is likely to be shared."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides a headline about negative developments."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative sentiment, indicating bad news."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Impact could last a few days as the news unfolds."
+      }
+    }
+  }
+]

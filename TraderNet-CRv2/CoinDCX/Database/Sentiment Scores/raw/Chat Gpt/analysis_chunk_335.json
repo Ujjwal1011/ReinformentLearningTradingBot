@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1738014481580528060",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet combines a popular topic (cryptocurrency) with a trending AI tool (GPT-4) and teases surprising results, which can spark curiosity and sharing among crypto and AI enthusiasts. Engagement metrics (3.5k likes, 332 retweets) indicate moderate spread, but the content is not a breaking news item, so the potential is medium-high."
+},
+"informative_value": {
+"score": 6,
+"justification": "It promises data about the average Bitcoin and Ethereum owner, which is factual demographic information. While the source (GPT-4) may not be a primary data source, the tweet still conveys potentially useful insights, giving it a medium level of informativeness."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The language \"The results are astounding\" conveys excitement and positivity, without any negative wording, reflecting a moderately positive sentiment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Demographic insights about crypto owners can remain relevant for weeks to months, but as market participants change, the specific data may become outdated, resulting in a medium impact duration."
+}
+}
+},
+{
+"tweet_id": "1737979616449667446",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet lists upcoming crypto-related events and market expectations in a concise recap format that can be easily retweeted. It appeals to investors and traders, but it does not reveal novel information, so its spread is likely limited to the crypto community, giving it a medium virality score."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet aggregates known upcoming events (ETF dates, halving, price levels) but does not provide new data or analysis. It serves as a reminder, offering moderate informational value."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The author expresses enthusiasm ('I love this timeline') and optimism about the market, indicating a moderately positive tone."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Since the tweet references events occurring over the next several months (ETF approvals, halving, price targets), it will stay relevant until those events pass, giving it a medium-to-long relevance."
+}
+}
+},
+{
+"tweet_id": "1737851779034050700",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The announcement of a new integration between Arbitrum Orbit and NEAR DA is a significant development for the blockchain developer community. The hype language and high engagement (15.5k likes) suggest strong sharing potential, especially within technical circles."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet conveys a concrete technical update—NEAR DA integration with Arbitrum Orbit—providing developers with actionable information, which is high-value news for the ecosystem."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "Enthusiastic phrasing ('Give it some fuel', 'send this baby into Orbit') and the highlighting of new opportunities reflect a very positive sentiment."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "A platform integration can influence development for months or years as projects adopt the new capabilities, giving the tweet a long-lasting relevance."
+}
+}
+},
+{
+"tweet_id": "1737834364593987866",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Regulatory updates about Ethereum ETFs are of broad interest to crypto investors. The concise 'JUST IN' format can prompt retweets, but the content is a single factual statement, leading to moderate virality."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet reports a specific regulatory decision (SEC delay to May 2024), which is timely and factual, making it highly informative."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The wording is neutral, simply stating the delay without emotive language, resulting in a neutral sentiment."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The delay will be relevant until the decision is finally made (May 2024), giving the tweet a medium-term relevance of several months."
+}
+}
+},
+{
+"tweet_id": "1737654970164408412",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "A claim that Solana has overtaken Ethereum in 7-day DEX volume is a striking market shift that can generate buzz and debate, especially among traders. The 'BREAKING' label and high engagement indicate high virality potential."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides a specific, data-driven metric about DEX volume, which is newsworthy and verifiable, making it highly informative."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The exclamation and 'BREAKING' convey excitement, likely positive for Solana supporters, resulting in a very positive sentiment."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Such a milestone may be referenced in future market analyses for weeks to months, but as volume dynamics change, its relevance will fade, giving it a medium impact duration."
+}
+}
+}
+]

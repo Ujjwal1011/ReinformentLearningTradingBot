@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1722678731859513844",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet announces a major development that could impact the crypto market, likely to be widely shared among investors and crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet provides a verifiable, newsworthy fact about a major financial institution's actions."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is purely informational, with no positive or negative sentiment."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The news will remain relevant for weeks to months as the ETF is processed and potentially launched."
+      }
+    }
+  },
+  {
+    "tweet_id": "1722634650068074513",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet poses a relatable question and offers a solution, likely to be shared within the Ethereum community but not necessarily globally."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "The tweet provides a specific problem and a link to a solution, giving useful information to those concerned about high fees."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "The tweet expresses mild frustration about high fees but uses humor, resulting in a moderately negative tone."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The tweet will remain relevant for a few weeks as people discuss high fees and solutions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1722634073712017656",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet is likely to be shared within the PulseChain community and among Ethereum users, but not necessarily globally."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "The tweet provides a claim about transaction costs and a link to evidence, giving some information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet expresses enthusiasm for PulseChain and criticism of Ethereum, resulting in a moderately positive tone."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The tweet will remain relevant for a few weeks as people discuss transaction costs."
+      }
+    }
+  },
+  {
+    "tweet_id": "1722633082803732553",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet announces a significant development that could impact the crypto market, likely to be widely shared among investors and crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet provides a verifiable, newsworthy fact about a major financial institution's actions."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is purely informational."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The news will remain relevant for weeks to months as the trust is processed and potentially launched."
+      }
+    }
+  },
+  {
+    "tweet_id": "1722633044388147547",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet announces a major development that could impact the crypto market, likely to be widely shared among investors and crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet provides a verifiable, newsworthy fact about a major financial institution's actions."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is purely informational."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The news will remain relevant for weeks to months as the ETF is processed and potentially launched."
+      }
+    }
+  }
+]

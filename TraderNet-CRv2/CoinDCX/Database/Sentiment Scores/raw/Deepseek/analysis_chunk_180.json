@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1732198913120293073",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Uses multiple trending crypto hashtags which could engage specific communities, but lacks a unique hook for broader virality."
+},
+"informative_value": {
+"score": 4,
+"justification": "Primarily shares a market sentiment without providing new data or actionable insights."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Explicitly bullish sentiment with positive crypto-related keywords."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Market sentiment tweets typically have short-term relevance due to volatile crypto markets."
+}
+}
+},
+{
+"tweet_id": "1732198784069738776",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Announcement of a major bank entering crypto could resonate strongly within Brazilian financial and crypto communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides specific information about Itaú Bank launching Bitcoin/Ethereum trading services."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive tone implied by celebratory emojis and exclamation marks."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Bank adoption news could remain relevant for weeks as the service implementation progresses."
+}
+}
+},
+{
+"tweet_id": "1732198742852554918",
+"analysis": {
+"virality_potential": {
+"score": 2,
+"justification": "Reply conversation with limited audience reach potential."
+},
+"informative_value": {
+"score": 2,
+"justification": "Personal investment advice without supporting analysis or context."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral statement about cryptocurrency investment strategy."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "Ephemeral conversation with no lasting relevance."
+}
+}
+},
+{
+"tweet_id": "1732198672115339414",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "ETF-related news often generates significant interest in financial and crypto circles."
+},
+"informative_value": {
+"score": 7,
+"justification": "Reports on expert predictions about major financial developments in crypto."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive implication through words like 'hopes surge' and 'trillions in inflows'."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "ETF approval processes typically have multi-week/multi-month relevance cycles."
+}
+}
+},
+{
+"tweet_id": "1732198545245999298",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "Niche conversation between crypto enthusiasts with limited sharing potential."
+},
+"informative_value": {
+"score": 3,
+"justification": "Personal trading anecdote without broader educational value."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Mildly positive tone regarding Ethereum investment."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "Casual conversation tied to momentary market position."
+}
+}
+},
+{
+"tweet_id": "1732198529685451173",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Security vulnerabilities in NFT projects could generate moderate interest in web3 communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "Alerts community about specific security concerns affecting NFT creators."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Implied negative situation through words like 'scramble' and 'vulnerability'."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Security issues maintain relevance until patched, typically weeks in crypto space."
+}
+}
+},
+{
+"tweet_id": "1732198450572480741",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "High engagement metrics (34 likes, 44 replies) suggest strong community interest in regulatory developments."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides specific regulatory update about Ethereum ETF approval process from primary source."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral reporting of regulatory timeline extension."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "SEC decisions have long-term implications for crypto markets."
+}
+}
+},
+{
+"tweet_id": "1732198377381933149",
+"analysis": {
+"virality_potential": {
+"score": 1,
+"justification": "Basic link sharing without context or engagement drivers."
+},
+"informative_value": {
+"score": 2,
+"justification": "No substantive information beyond hashtags and URL."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "No discernible emotional content."
+},
+"duration_of_impact": {
+"score": 1,
+"justification": "Immediately irrelevant without contextual information."
+}
+}
+},
+{
+"tweet_id": "1732198334268359017",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Creative text format with moderate engagement, but limited mass appeal."
+},
+"informative_value": {
+"score": 3,
+"justification": "Artistic expression without concrete information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Mixed references without clear emotional direction."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Cultural references may have brief meme potential."
+}
+}
+},
+{
+"tweet_id": "1732198231579259082",
+"analysis": {
+"virality_potential": {
+"score": 2,
+"justification": "Niche technical discussion about cryptocurrency competition."
+},
+"informative_value": {
+"score": 3,
+"justification": "Opinionated comparison without supporting arguments."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "Slightly negative assessment of ADA's capabilities."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "Transient opinion in ongoing crypto platform debates."
+}
+}
+}
+]

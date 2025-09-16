@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1456659329617211396",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet references Elon Musk, a high-profile figure, and uses a meme format, which can resonate within the crypto community. However, it is not breaking news or a major announcement, so its reach is limited to niche communities."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "The tweet is a comedic statement with no verifiable information or news content."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tweet expresses positive humor with a laughing emoji, indicating a very positive tone."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The meme may be shared for a short period but will likely fade as new memes emerge."
+      }
+    }
+  },
+  {
+    "tweet_id": "1456634154783756300",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet reports a significant whale transaction, which is newsworthy and likely to be shared across crypto communities and mainstream media."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet includes verifiable information and a link to the transaction, making it highly informative."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet presents factual information without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The news will be relevant for a short period as market participants analyze the transaction."
+      }
+    }
+  },
+  {
+    "tweet_id": "1456596960048304130",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet cites JPMorgan, a reputable source, and makes a bold claim about Ethereum, which can attract attention within finance and crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet provides a credible opinion from a major financial institution, which is informative."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The tweet expresses a positive stance toward Ethereum, but remains neutral in tone."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The opinion will be referenced for a few weeks as market participants consider it."
+      }
+    }
+  },
+  {
+    "tweet_id": "1456367942497705998",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet makes a bold prediction that may resonate with investors, but lacks new data or a source, limiting its reach."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "The tweet offers a speculative opinion rather than verifiable information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet expresses optimism about Ethereum, indicating a positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The prediction will be discussed for a few weeks or months as the decade progresses."
+      }
+    }
+  },
+  {
+    "tweet_id": "1456314965460242433",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet shares a personal story that can resonate with parents and crypto enthusiasts, potentially spreading within niche communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet is a personal anecdote and does not provide new factual information."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tweet expresses positivity and encouragement, with a smiling emoji."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The story may be shared for a few weeks as people relate to it."
+      }
+    }
+  }
+]

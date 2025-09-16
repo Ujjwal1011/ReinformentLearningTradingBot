@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1732475474972999729",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet announces a new product launch with incentives, likely to be shared within the crypto and NFT communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides information about a new tool and its features, though it's a promotional announcement."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "Excited and positive tone with emojis and encouraging language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Impact lasts a few weeks as users engage with the new tool and create NFTs."
+}
+}
+},
+{
+"tweet_id": "1732469774012019049",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Shares a positive outcome in the crypto space, likely shared among enthusiasts."
+},
+"informative_value": {
+"score": 8,
+"justification": "Details a specific event and its resolution, providing credible information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive tone with celebration of the outcome."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days as it pertains to a specific event."
+}
+}
+},
+{
+"tweet_id": "1732469330288537740",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "Technical discussion in Vietnamese, limited to specific communities."
+},
+"informative_value": {
+"score": 5,
+"justification": "Provides some technical insights but is not widely accessible."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral and factual tone."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short-term relevance as it's a specific discussion."
+}
+}
+},
+{
+"tweet_id": "1732467461025657283",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Shares an analyst's survey, not likely to go viral."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides context on Ethereum's price movement."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral and informative tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days as market conditions change."
+}
+}
+},
+{
+"tweet_id": "1732467445309309159",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Shares important news about an ETF delay, likely shared among investors."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides critical information from a reputable source."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral but important news."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Impact lasts weeks as it affects market strategy."
+}
+}
+},
+{
+"tweet_id": "1732459957654610171",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Critics JPMorgan's actions, likely shared among crypto enthusiasts."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides context on a financial institution's involvement."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Negative tone towards JPMorgan."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days as it's a specific event."
+}
+}
+},
+{
+"tweet_id": "1732455656404156622",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Promotional launch with incentives, likely shared within the community."
+},
+"informative_value": {
+"score": 6,
+"justification": "Announces a new tool with features."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "Excited and positive tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Impact lasts weeks as users engage with the tool."
+}
+}
+},
+{
+"tweet_id": "1732455168032338152",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Shares performance data, not likely to go viral."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides year-to-date performance statistics."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive tone with encouraging language."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days as it's a year-end summary."
+}
+}
+},
+{
+"tweet_id": "1732445560605733091",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Shares a project update, likely shared among blockchain enthusiasts."
+},
+"informative_value": {
+"score": 8,
+"justification": "Details a project's goals and partnerships."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive and enthusiastic tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Impact lasts weeks as the project progresses."
+}
+}
+},
+{
+"tweet_id": "1732444833753743658",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Announces an art project, limited to specific communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides details about the project and availability."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive and creative tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days as it's a specific event."
+}
+}
+}
+]

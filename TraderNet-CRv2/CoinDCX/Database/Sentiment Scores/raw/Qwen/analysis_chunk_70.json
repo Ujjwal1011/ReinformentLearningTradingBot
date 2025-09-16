@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1490685624407441414",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet discusses a potential crypto market trend, which can attract attention within the crypto community, but may not reach beyond that."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Provides a brief analysis of Ethereum's breakout but lacks detailed information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment with excitement about the potential altseason."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant for a few days as market trends can change quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1490653661315289091",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Promotional giveaway with high engagement metrics, likely to be shared within the NFT community."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Primarily promotional with minimal information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive and exciting tone about the giveaway."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Time-bound event, relevant for 24 hours."
+      }
+    }
+  },
+  {
+    "tweet_id": "1490643884262764544",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Informative content from a reputable source, likely shared within crypto circles."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Explains Ethereum's role in NFTs and stablecoins."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral factual information."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "General statement with ongoing relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1490391141677633537",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Technical discussion from Vitalik Buterin, likely shared among crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "In-depth analysis from a key figure in Ethereum."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral technical discussion."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Long-term relevance for technical discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1489799208269979653",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Critique of banks' approach to blockchain, likely shared within crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides a critique of current practices."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Negative sentiment towards banks."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for a few weeks as it's a critique of ongoing practices."
+      }
+    }
+  },
+  {
+    "tweet_id": "1489741361045721088",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Promotion of an NFT auction with high engagement."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Provides details about the auction but is promotional."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive and enthusiastic about the new addition."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for the duration of the auction, a few days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1489628720449175556",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Statistical data on Ethereum-NFT trading, likely shared among crypto investors."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides significant trading volume statistics."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of data."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for a few weeks as it's a year-over-year comparison."
+      }
+    }
+  },
+  {
+    "tweet_id": "1489547530127900675",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Encouraging message about holding Ethereum, may resonate with some."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Minimal information, more of a motivational message."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive and encouraging tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevant for a short period as market conditions change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1489545904642093056",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "On-chain analysis of Bitcoin and Ethereum, likely shared among crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides analysis with a link to further information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral factual information."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a few days as market analysis can change quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1489385954058067972",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Surprising information about Facebook's market cap loss, likely to be widely shared."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides significant financial information."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Negative sentiment about Facebook's performance."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a few days as market reactions unfold."
+      }
+    }
+  }
+]

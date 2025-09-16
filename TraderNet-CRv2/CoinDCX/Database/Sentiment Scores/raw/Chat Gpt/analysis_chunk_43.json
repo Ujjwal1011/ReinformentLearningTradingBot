@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1433434633396318213",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet is from a prominent figure and poses a question about popular topics, which can generate engagement within the crypto community, but it lacks a strong hook for widespread viral spread."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "The tweet references performance data of Bitcoin and Ethereum relative to other asset classes, providing some factual context, but lacks citations or deeper analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, presenting facts and asking a question without expressing strong emotions."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tweet discusses long-term performance of crypto assets, which remains relevant for a while, but the specific figures may become outdated as markets evolve."
+      }
+    }
+  },
+  {
+    "tweet_id": "1433323563893755908",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet offers a giveaway with clear instructions and uses popular NFT and crypto hashtags, encouraging retweets and shares, which can lead to high virality."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "The tweet is primarily a promotional announcement with no factual or educational content."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The tweet expresses excitement and offers a giveaway, conveying a positive tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The tweet is relevant only until the giveaway ends, after which it loses relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1433307063757639680",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet targets a prominent figure with a controversial claim, which can spark discussion within the crypto community, but it lacks a broader hook for widespread viral spread."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "The tweet makes an unverified claim about a public figure without evidence, providing no factual or informative content."
+      },
+      "sentiment_polarity": {
+        "score": 1,
+        "justification": "The tweet expresses strong negative sentiment towards Vitalik, accusing him of wrongdoing."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The tweet's relevance is tied to the rumor about Vitalik, which may not sustain long-term discussion."
+      }
+    }
+  },
+  {
+    "tweet_id": "1433304084610641924",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet expresses a bullish price target, which can attract attention from the crypto community, but it lacks a strong hook for widespread viral spread."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "The tweet offers a speculative price target without supporting data or analysis, providing limited informative value."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet expresses optimism about future price levels, conveying a positive tone."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The tweet discusses future price expectations, which can remain relevant for a period but will eventually become outdated."
+      }
+    }
+  },
+  {
+    "tweet_id": "1433296020805496836",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "The tweet shares a personal investment decision, which can resonate with followers but lacks a broader hook for widespread viral spread."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "The tweet provides a personal example of asset reallocation, offering some context but not detailed analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, presenting a personal decision and asking for feedback without strong emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The tweet's relevance is tied to the personal investment decision, which can spark discussion for some time but will eventually fade."
+      }
+    }
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1514092732041420803",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "As a prominent figure in the Ethereum community, Vitalik's question is likely to engage a niche audience but may not go viral beyond that."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "The tweet invites discussion on technical aspects, providing value to those interested in Ethereum's protocol design."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, as it's a question seeking information."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The topic is ongoing and relevant for a while."
+      }
+    }
+  },
+  {
+    "tweet_id": "1514027144250232832",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "The talk with Vitalik may attract attention within crypto circles but is unlikely to go viral beyond that."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides a link to a talk, which is informative for those interested in Ethereum basics."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive, as it's promoting a talk."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The content is timeless and could remain relevant."
+      }
+    }
+  },
+  {
+    "tweet_id": "1513999002982830087",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "News about a large crypto purchase before listing could attract attention within the crypto community."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "It's a news snippet but lacks depth."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, just stating facts."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The impact is short-term as it's tied to a specific event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1513591400343953420",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "A roadmap in Spanish for blockchain development may engage a niche audience."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides resources, which is helpful for those starting in blockchain development."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive, as it's encouraging and helpful."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The content is evergreen and could have a longer impact."
+      }
+    }
+  },
+  {
+    "tweet_id": "1513447176344588295",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Testing PoS is a significant event, likely to engage the Ethereum community."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Details on testing and links to resources provide credible information."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive, highlighting progress in the Ethereum merge."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "The merge is a major event with long-term implications."
+      }
+    }
+  },
+  {
+    "tweet_id": "1513423605400580099",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "A price prediction question could attract traders and generate some engagement."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "It's a prediction without supporting data, so informative value is low."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, just posing a question."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The impact is short-term as it's about a specific timeframe."
+      }
+    }
+  },
+  {
+    "tweet_id": "1513166217573507073",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Criticizing Floyd could generate controversy and attract attention."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Provides some context but is opinionated and lacks depth."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative, criticizing Floyd's actions."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The impact is short-term as it's about a specific person's actions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1513073045476454405",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Announcing the merge countdown is significant and likely to attract attention."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "It's factual and relevant to the Ethereum community."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive, announcing a major event."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "The merge is a long-term event with lasting implications."
+      }
+    }
+  },
+  {
+    "tweet_id": "1513049461320298499",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Fun fact about transactions could attract attention within the crypto community."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides a statistic, which is informative."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive, highlighting Ethereum's performance."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The fact is relevant but may fade as new data emerges."
+      }
+    }
+  },
+  {
+    "tweet_id": "1512983745988419588",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Teaching on-chain detection is niche but could attract interest from those in blockchain security."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Offers educational content on analyzing Ethereum addresses."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive, sharing knowledge and encouraging learning."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The content is evergreen and could remain relevant."
+      }
+    }
+  }
+]

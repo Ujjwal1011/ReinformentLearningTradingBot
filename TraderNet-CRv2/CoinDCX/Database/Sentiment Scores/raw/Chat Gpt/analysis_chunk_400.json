@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1732133238582169923",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Short hype statement with no strong hook; likely to be shared only within the crypto niche."
+},
+"informative_value": {
+"score": 2,
+"justification": "Provides only an opinion about Ethereum without any verifiable data or context."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Uses positive language indicating excitement about Ethereum."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Hype tweet tied to current market sentiment; relevance fades quickly after a day or two."
+}
+}
+},
+{
+"tweet_id": "1732132790064337141",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Provocative hack suggestion and technical details give it moderate shareability within niche security and crypto communities."
+},
+"informative_value": {
+"score": 7,
+"justification": "Lists multiple bridge adapters and explains a method to compromise them, offering concrete technical information."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "Encourages malicious activity, reflecting a negative sentiment toward the bridges."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Technical discussion on bridge vulnerabilities may stay relevant for weeks as the community revisits security issues."
+}
+}
+},
+{
+"tweet_id": "1732132458307649816",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "Niche NFT promotion with limited appeal outside its collector community."
+},
+"informative_value": {
+"score": 3,
+"justification": "Only announces a specific card without broader context or educational content."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Statement is factual and lacks emotional language."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant only while the card is being promoted, fading after a few days."
+}
+}
+},
+{
+"tweet_id": "1732132246486954439",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "Similar niche NFT promotion with limited shareability."
+},
+"informative_value": {
+"score": 3,
+"justification": "Provides only basic details about a specific card."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "No emotional language; purely a factual announcement."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevance limited to the promotion period, likely a few days."
+}
+}
+},
+{
+"tweet_id": "1732132212080857550",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Bold claim with high-profile hashtags may attract shares within the crypto community."
+},
+"informative_value": {
+"score": 2,
+"justification": "Makes an unsubstantiated claim without providing data or sources."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Expresses strong optimism and excitement about KAS replacing major cryptocurrencies."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Hype tweet likely relevant for a few days to weeks during market discussions."
+}
+}
+}
+]

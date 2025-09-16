@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1469258842487808001",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Bold price prediction with personal stake creates engagement potential in crypto communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Contains no factual information beyond a speculative personal bet."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral statement framed as a personal challenge without clear emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant until the stated deadline (end of next year)."
+      }
+    }
+  },
+  {
+    "tweet_id": "1469099889552334852",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Wordplay humor might resonate in Spanish-speaking crypto communities."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No factual content - purely linguistic humor."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Playful tone without clear positive/negative sentiment."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Joke loses relevance immediately after understanding."
+      }
+    }
+  },
+  {
+    "tweet_id": "1469015392483872772",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Relatable critique of crypto transaction fees could spread in crypto circles."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Highlights real crypto payment issues through personal experience."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Clear frustration expressed through sarcastic fee breakdown."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevant until Ethereum addresses gas fee issues."
+      }
+    }
+  },
+  {
+    "tweet_id": "1468675657488117766",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Breaking regulatory news from verified account attracts crypto industry attention."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides key regulatory insight with court document reference."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual reporting with implied surprise ('Pretty amazing')."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Regulatory clarity has lasting implications for crypto markets."
+      }
+    }
+  },
+  {
+    "tweet_id": "1468601645164470272",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Concise crypto philosophy likely to be shared as meme content."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Opinionated comparison without supporting data."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral observation about asset characteristics."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Standard crypto commentary lifespan (1-2 days)."
+      }
+    }
+  },
+  {
+    "tweet_id": "1468317923563515908",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Poll format encourages engagement from crypto community."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Speculative price question without analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral question format without bias."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Immediately time-bound to Christmas timeframe."
+      }
+    }
+  },
+  {
+    "tweet_id": "1468214813184733190",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Industry criticism likely to resonate in crypto circles."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Opinion piece about executive perspective."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative judgment ('absurd') with critical emoji use."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Tied to specific executive comment cycle."
+      }
+    }
+  },
+  {
+    "tweet_id": "1467965194785763338",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Product launch announcement with technical details for crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Details new encrypted communication service for Ethereum users."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive framing of product benefits."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Product relevance lasts through adoption phase."
+      }
+    }
+  },
+  {
+    "tweet_id": "1467915994437980163",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Basic price update with limited engagement hooks."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Time-specific price snapshot without context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral factual statement."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Immediately outdated with price fluctuations."
+      }
+    }
+  },
+  {
+    "tweet_id": "1467662718752923649",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Platform comparison humor likely shared among developers."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Opinionated joke without technical substance."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Implied criticism of Solana development experience."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance tied to current platform debates."
+      }
+    }
+  }
+]

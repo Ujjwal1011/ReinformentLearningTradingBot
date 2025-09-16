@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1356647111195041792",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet is from a major exchange, includes hashtags, and announces a price milestone, which can be shared within crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It reports a specific price milestone, which is verifiable and newsworthy."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet simply states a fact without emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The price milestone is relevant for a limited period until price changes."
+      }
+    }
+  },
+  {
+    "tweet_id": "1386712216439861248",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet covers a high-profile athlete and a crypto endorsement, which can attract both sports and crypto audiences."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "The tweet informs about a specific endorsement deal and the use of crypto."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is factual."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The endorsement is a lasting event, but interest may fade after a few months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1397946781745483776",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet is from a popular podcaster, mentions a major figure, and invites engagement, which can drive shares."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "The tweet informs about an upcoming event."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The tweet expresses excitement about the upcoming conversation."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The tweet is relevant for a short period until the podcast is released."
+      }
+    }
+  },
+  {
+    "tweet_id": "1392023186775187458",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "The tweet is a personal update with limited engagement potential."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet gives a vague sense of involvement but no concrete info."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet expresses excitement and positivity."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "The tweet is only relevant for a short time."
+      }
+    }
+  },
+  {
+    "tweet_id": "1429823778268360709",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "The tweet is a general statement, may get some engagement but not high."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "The tweet expresses an opinion, not providing new info."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet expresses optimism."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The tweet may be referenced for a few days to weeks."
+      }
+    }
+  }
+]

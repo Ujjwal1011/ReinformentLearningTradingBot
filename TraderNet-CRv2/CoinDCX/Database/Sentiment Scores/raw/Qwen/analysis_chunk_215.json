@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1731844878877810897",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet discusses Ethereum's value and mentions Uniswap, which is a significant project in the Ethereum ecosystem. This is likely to be shared among Ethereum enthusiasts and developers, but it may not go viral beyond that community."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet provides specific information about Uniswap's role in Ethereum's value, including statistics about blockspace and MEV, which adds significant informative value."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The sentiment is positive, as the tweet highlights the value and potential of Ethereum and Uniswap."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tweet's impact is likely to last for several days or weeks, as it discusses ongoing developments in the Ethereum ecosystem."
+      }
+    }
+  },
+  {
+    "tweet_id": "1731843724907356384",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet discusses Ethereum's L2/rollup roadmap, which is a significant topic in the Ethereum community. It may be shared among Ethereum enthusiasts but is unlikely to go viral beyond that."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "The tweet provides information about Ethereum's roadmap and its potential benefits, which adds informative value."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The sentiment is positive, as the tweet expresses optimism about the potential success of Ethereum's roadmap."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tweet's impact is likely to last for several days or weeks, as it discusses future developments in the Ethereum ecosystem."
+      }
+    }
+  },
+  {
+    "tweet_id": "1731841964201668613",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "The tweet announces the return of the user to fight FUD about Ethereum. While it may be shared among Ethereum supporters, it is unlikely to go viral beyond that community."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "The tweet is more of a personal announcement than an informative piece, though it does mention fighting FUD, which could be relevant to some."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The sentiment is positive, as the user expresses a desire to promote the truth about Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The tweet's impact is likely to be short-term, as it is a personal announcement and may only be relevant for a few days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1731835207588974931",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet discusses Manta and Ethereum L2s, which are topics of interest in the crypto community. It may be shared among crypto enthusiasts but is unlikely to go viral beyond that."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "The tweet provides information about Manta and Ethereum L2s, which adds some informative value."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The sentiment is positive, as the tweet expresses optimism about Manta and Ethereum L2s."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tweet's impact is likely to last for several days or weeks, as it discusses future developments in the crypto space."
+      }
+    }
+  },
+  {
+    "tweet_id": "1731829811797209541",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "The tweet compares Cardano tokens to Ethereum tokens, which may be of interest to some in the crypto community, but it is unlikely to go viral."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "The tweet provides a brief comparison of Cardano and Ethereum tokens, which adds some informative value."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The sentiment is neutral, as the tweet is more of an observation than an opinion."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The tweet's impact is likely to be short-term, as it is a specific comparison and may only be relevant for a few days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1731829229354959176",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "The tweet promotes a collection on OpenSea, which may be of interest to some in the NFT community, but it is unlikely to go viral."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet is more of a promotional message than an informative piece."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The sentiment is positive, as the tweet encourages people to join the Rabbit Hole."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The tweet's impact is likely to be short-term, as it is a promotional message and may only be relevant for a few days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1731706803153506338",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet critiques the current price of Ethereum and provides a strong opinion, which is likely to be shared among Ethereum supporters and critics alike."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "The tweet provides some data about Ethereum's fundamentals, which adds informative value."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "The sentiment is negative, as the tweet criticizes the current price of Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The tweet's impact is likely to be short-term, as it is focused on a specific price point and may only be relevant for a few days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1731292198610596043",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet announces the release of KYC and Ethereum distribution, which is likely to be shared among the Ethereum and crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet provides information about an important update in the Ethereum ecosystem, which adds significant informative value."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The sentiment is positive, as the tweet expresses excitement about the upcoming release."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tweet's impact is likely to last for several days or weeks, as it discusses an upcoming event that is important to the community."
+      }
+    }
+  },
+  {
+    "tweet_id": "1752758955657593311",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet shares a story about Ethereum's creator, which is likely to be shared among Ethereum supporters and the broader crypto community."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "The tweet is more of a story than an informative piece, though it does provide some historical context."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "The sentiment is positive, as the tweet shares an inspirational story about Ethereum's creator."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The tweet's impact is likely to be long-term, as it shares a story about a significant figure in the crypto space."
+      }
+    }
+  },
+  {
+    "tweet_id": "1752641185607496163",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet discusses alternatives to Delaware, which is a niche topic but may be shared among those interested in corporate law and blockchain."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet provides a detailed analysis of alternatives to Delaware, which adds significant informative value."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The sentiment is positive, as the tweet suggests that these alternatives could be beneficial for corporate refugees."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The tweet's impact is likely to be long-term, as it discusses a topic that could have ongoing relevance for corporate structures."
+      }
+    }
+  }
+]

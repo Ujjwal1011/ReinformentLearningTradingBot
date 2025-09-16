@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1473317595239624717",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet announces a new product from a known brand, likely to be shared within the crypto community but not expected to go global."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides new product info, but not extremely high-level."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive tone, emojis, excitement."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for weeks as people use the wallet."
+      }
+    }
+  },
+  {
+    "tweet_id": "1473073485069045765",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Humorous anecdote with a twist, likely to be shared within the Spanish-speaking crypto community."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Minimal factual info, mostly anecdotal."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Light-hearted, comedic tone."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-lived interest."
+      }
+    }
+  },
+  {
+    "tweet_id": "1473042109997322243",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Short reaction, may get some retweets but not a big hook."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No factual information."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Exclamation, excitement."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-lived reaction."
+      }
+    }
+  },
+  {
+    "tweet_id": "1473019822665568261",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Negative anecdote may be shared but not a huge hook."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Anecdotal, not factual."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-lived."
+      }
+    }
+  },
+  {
+    "tweet_id": "1472978062593736711",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Useful info for the Ethereum community, likely to be shared widely within that community."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides new feature details and a link to more information."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive tone."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Feature will remain relevant for months or years."
+      }
+    }
+  }
+]

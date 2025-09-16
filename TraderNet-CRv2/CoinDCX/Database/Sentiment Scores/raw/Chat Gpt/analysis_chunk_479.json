@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1765963643664093217",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Exciting price spikes for multiple tokens and an enthusiastic tone make it shareable within crypto circles, but the content is niche and lacks broader appeal."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides specific percentage gains for several tokens, offering concrete market data, though no source or deeper context is given."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Uses exclamation 'WOW!' and highlights large gains, conveying strong positive excitement."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Price change information is relevant only for the current day; interest fades quickly as market moves on."
+}
+}
+},
+{
+"tweet_id": "1765935584076267981",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Claims a major shift in DEX volume between Solana and Ethereum, framed as breaking news, which can spark rapid sharing among crypto enthusiasts."
+},
+"informative_value": {
+"score": 6,
+"justification": "States a measurable event (24-hour DEX volume flip) but provides no data or analysis beyond a link."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral tone; simply reports a fact without strong emotional language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Volume shift may be discussed for several days as analysts compare platforms, giving it medium-term relevance."
+}
+}
+},
+{
+"tweet_id": "1765908171489779780",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Provocative language about Wall Street buying crypto bags and a call to 'report imposters' can drive engagement within the crypto community."
+},
+"informative_value": {
+"score": 5,
+"justification": "Mentions dip percentages for BTC and ETH, but lacks source and is mixed with opinion, limiting its factual value."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Expresses criticism toward Wall Street and a conspiratorial tone, indicating moderately negative sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Tied to current market dip statistics; relevance diminishes as market conditions change."
+}
+}
+},
+{
+"tweet_id": "1765902712905068716",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Optimistic price predictions for multiple tokens may be shared among followers, though the content remains niche."
+},
+"informative_value": {
+"score": 4,
+"justification": "Primarily speculative statements without concrete data; the linked content is not described."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Repeatedly asserts that prices will rise, reflecting strong positive optimism."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Predictions may stay relevant for a few days to weeks as prices evolve, but are not evergreen."
+}
+}
+},
+{
+"tweet_id": "1765900597046472971",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Critique of Ethereum L2 risk and cost may resonate with some users, but lacks a hook for broader viral spread."
+},
+"informative_value": {
+"score": 4,
+"justification": "Offers an opinion on L2 expense without supporting data or detailed analysis."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "Shows mild negativity toward L2 usage, indicating moderately negative sentiment."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Discussion about L2 costs could persist while the issue remains relevant, giving it medium-term relevance."
+}
+}
+}
+]

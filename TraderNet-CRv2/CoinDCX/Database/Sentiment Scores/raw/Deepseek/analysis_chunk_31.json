@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1443947606258995204",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High-value NFT sale from a prestigious auction house with historical significance in blockchain art, likely to attract crypto and art communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific financial figures and marks a milestone as the first Ether-conducted auction with verifiable details."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement tone without emotional language, focused on factual reporting."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Significant as a blockchain art milestone but tied to a specific event that may fade as newer NFT sales occur."
+      }
+    }
+  },
+  {
+    "tweet_id": "1443733085036560405",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major platform integration news (TikTok + NFTs) with inherent crypto community appeal and enthusiastic punctuation."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Announces strategic partnership but lacks technical details about the implementation."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Strong positive emotion conveyed through capitalization and multiple exclamation points."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant until next major platform integration, but establishes an important Web3 precedent."
+      }
+    }
+  },
+  {
+    "tweet_id": "1465817445244055556",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Niche appeal to crypto governance enthusiasts but lacks mass-market emotional hooks."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific data about Ethereum founder's stake dilution with verifiable blockchain context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Analytical tone comparing founder equity structures without explicit emotion."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Lasting reference point for discussions about founder compensation in decentralized projects."
+      }
+    }
+  },
+  {
+    "tweet_id": "1465805538206253056",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Market analysis with prediction of 'altseason' likely to spread within crypto trading communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Contains market observation but lacks supporting data or source citations."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Optimistic tone about Ethereum's performance using phrases like 'totally nuts'."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Tied to volatile crypto market conditions that change rapidly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1465768966589083649",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Dramatic blockchain exploit story with implications for smart contract security, appealing to developers and gamers."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Detailed technical account of a blockchain gaming incident with permanent archival value."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Negative implications highlighted through words like 'forced' and 'exploit' but presented factually."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Will remain relevant as a case study in blockchain development challenges."
+      }
+    }
+  },
+  {
+    "tweet_id": "1465729399341395968",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Provocative comparison between blockchain platforms designed to spark community debate."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Opinion-based statement without supporting data or concrete metrics."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Challenging tone without clear positive/negative emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to ongoing Layer 1 blockchain competition debates."
+      }
+    }
+  },
+  {
+    "tweet_id": "1465696205573296146",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Significant financial product news (ETFs) appealing to both crypto and traditional investors."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Concrete announcement of regulated financial products entering market with geographic specificity."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting style common in financial news announcements."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "ETF launches have lasting market implications but may be overshadowed by future regulatory developments."
+      }
+    }
+  },
+  {
+    "tweet_id": "1465693934966001666",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Sarcastic market commentary that resonates with experienced crypto traders' cynicism."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Speculative narrative without actionable data or verifiable claims."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Negative outlook masked by ironic enthusiasm ('Sounds great, I'm in')."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Tied to immediate market conditions with transient relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1465508191387611139",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Insider perspective on developer trends likely to circulate within blockchain technical communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Anecdotal evidence about development trends but lacks statistical backing."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral observation presented without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant to ongoing Layer 2 adoption discussions but may date as scaling solutions evolve."
+      }
+    }
+  },
+  {
+    "tweet_id": "1465241679800111107",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Novel real-world NFT application (smart home access) with strong visual demonstration potential."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Demonstrates practical blockchain implementation with technical specifics (ENS verification)."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Enthusiastic showcase of personal innovation using multiple positive indicators."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Pioneering example of NFT utility that could be referenced in future IoT/blockchain discussions."
+      }
+    }
+  }
+]

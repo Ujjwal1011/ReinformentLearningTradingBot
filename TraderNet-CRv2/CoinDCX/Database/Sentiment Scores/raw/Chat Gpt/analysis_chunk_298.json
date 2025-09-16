@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1639123359811133440",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Generic crypto hype with many hashtags but no unique hook; likely to attract niche community but not widespread."
+},
+"informative_value": {
+"score": 1,
+"justification": "Only a promotional statement with no factual content; minimal information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive hype tone encouraging participation."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short-lived hype; relevance fades quickly after the token's buzz subsides."
+}
+}
+},
+{
+"tweet_id": "1639028559162511360",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Official announcement from MetaMask with many followers; new feature likely to be widely shared among crypto users."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides technical details about EIP-4361 and domain binding; credible source."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive and informative tone."
+},
+"duration_of_impact": {
+"score": 9,
+"justification": "Feature will remain relevant for months as users adopt it."
+}
+}
+},
+{
+"tweet_id": "1638824989087367168",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Question about Ethereum testnet could spark discussion among developers; moderate potential."
+},
+"informative_value": {
+"score": 5,
+"justification": "Asks for input; no new info provided."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Discussion may last days to weeks as community responds."
+}
+}
+},
+{
+"tweet_id": "1638617228005220374",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Personal story of early career; relatable and could resonate; moderate virality."
+},
+"informative_value": {
+"score": 3,
+"justification": "Personal anecdote, not factual news."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "Mixed negative/reflective tone."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Story remains relevant for a while as a motivational anecdote."
+}
+}
+},
+{
+"tweet_id": "1638504396228108290",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Price chart for many cryptocurrencies; widely shared among traders; high virality."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides visual price data; useful but not deep analysis."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Chart relevance lasts until market changes; moderate longevity."
+}
+}
+}
+]

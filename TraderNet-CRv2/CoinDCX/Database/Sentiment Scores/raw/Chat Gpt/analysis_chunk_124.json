@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1477087250680791047",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet makes a bold claim that Ethereum will overtake Bitcoin, a hot topic in the crypto community that can spark debate and shares within that niche, but it lacks broader appeal beyond crypto enthusiasts."
+},
+"informative_value": {
+"score": 3,
+"justification": "It is a personal prediction without supporting data or factual information, offering little educational or news content."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The statement conveys optimism about Ethereum's future, reflecting a positive outlook."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "As a 2022 prediction, it remains relevant throughout the year but loses relevance after the year ends, giving it a medium-term lifespan."
+}
+}
+},
+{
+"tweet_id": "1498172221054988290",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet reports a sudden withdrawal of a high‑profile NFT auction by Sotheby’s, a breaking news event that can attract attention across the NFT and broader financial media, leading to high sharing potential."
+},
+"informative_value": {
+"score": 8,
+"justification": "It provides a factual update about a specific event, making it a newsworthy piece of information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The language is neutral and factual, without strong emotional wording."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The news is tied to a specific event but may be referenced in ongoing NFT market discussions for several days to weeks."
+}
+}
+},
+{
+"tweet_id": "1498033996562931715",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Written in Russian and praising Vitalik, the tweet resonates strongly with Russian‑speaking crypto users, as reflected by high engagement, but its language limits broader global spread."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet expresses gratitude and praise but does not convey new factual details or data."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "It conveys strong admiration for Vitalik, using emphatic language, resulting in a very positive emotional tone despite the negative words aimed at critics."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet refers to a specific response to critics, making its relevance short‑lived once the discussion subsides."
+}
+}
+},
+{
+"tweet_id": "1498033741465210884",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "A generic question about Ethereum lacks a strong hook, limiting its shareability beyond users already interested in the topic."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet does not provide any factual information, only asks a question."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The wording is neutral, simply seeking opinions without expressing emotion."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Such a question typically generates brief discussion and loses relevance quickly."
+}
+}
+},
+{
+"tweet_id": "1498032229938708480",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet announces that Vitalik made a statement, which can interest Russian‑speaking crypto followers, but its generic phrasing limits wider spread."
+},
+"informative_value": {
+"score": 4,
+"justification": "It informs that Vitalik spoke but offers no details about the content, providing limited informational value."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is factual and neutral in tone."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The announcement may stay relevant for a few days as users seek the linked content, giving it a medium‑term impact."
+}
+}
+}
+]

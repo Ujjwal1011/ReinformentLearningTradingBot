@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1533090805082365952",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Breaking news about ApeCoin's proposal can resonate within the crypto community and the user has a large following, but the topic is niche, limiting global reach."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides a specific vote percentage and context about the proposal, offering clear factual information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral factual statement with no emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for days or weeks until the proposal is finalized, after which it may lose relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1533019579555147778",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Standard market update that may be shared within the crypto community but is unlikely to go viral beyond that niche."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Offers some useful information about LUNA 2.0 vs LUNC and includes a link for further details."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral factual update with no emotional language."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevant for a short period, likely a day or two as price levels change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1532983314394808320",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Short tweet with a link that has high retweets relative to likes, indicating some sharing within the community, but limited content."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "The tweet itself provides no clear information; the link is unknown, so it offers minimal value."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral; no emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Likely to be relevant for a few hours to a day before fading."
+      }
+    }
+  },
+  {
+    "tweet_id": "1532966703423954944",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "List of top 10 cryptocurrencies is of broad interest to crypto enthusiasts and can be shared widely within the community."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides credible data on follower counts, offering valuable factual information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral factual list."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The data remains relevant for months as follower counts change slowly, making it evergreen."
+      }
+    }
+  },
+  {
+    "tweet_id": "1532694074976780289",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Breaking news about ApeCoin's proposal can resonate within the crypto community and the user has a large following, but the topic is niche."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific information about the proposal, offering clear factual content."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral factual statement."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for days or weeks until the proposal is resolved."
+      }
+    }
+  }
+]

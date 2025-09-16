@@ -1,0 +1,107 @@
+[
+{
+"tweet_id":"1549176605792256002",
+"analysis":{
+"virality_potential":{
+"score":9,
+"justification":"Breaking news about Ethereum's market cap, likely to be shared widely."
+},
+"informative_value":{
+"score":9,
+"justification":"Provides credible, newsworthy information about Ethereum's market cap."
+},
+"sentiment_polarity":{
+"score":5,
+"justification":"Factual statement with no strong emotional tone."
+},
+"duration_of_impact":{
+"score":6,
+"justification":"Market cap news remains relevant for days as traders discuss."
+}
+}
+},
+{
+"tweet_id":"1549144549762662409",
+"analysis":{
+"virality_potential":{
+"score":6,
+"justification":"Contains a link to a potentially interesting article about Ethereum pre-mine, likely to be shared within crypto communities."
+},
+"informative_value":{
+"score":5,
+"justification":"The tweet hints at a pre-mine topic but provides no details; the link may contain info."
+},
+"sentiment_polarity":{
+"score":5,
+"justification":"No emotional tone."
+},
+"duration_of_impact":{
+"score":4,
+"justification":"The pre-mine discussion may be relevant for a few days to a week."
+}
+}
+},
+{
+"tweet_id":"1549085077036056583",
+"analysis":{
+"virality_potential":{
+"score":6,
+"justification":"Bullish statement may resonate with crypto enthusiasts, but not necessarily viral."
+},
+"informative_value":{
+"score":4,
+"justification":"General statement about price movement, not providing new data."
+},
+"sentiment_polarity":{
+"score":6,
+"justification":"Expresses optimism about price."
+},
+"duration_of_impact":{
+"score":5,
+"justification":"The tweet may be relevant for a short period as price moves."
+}
+}
+},
+{
+"tweet_id":"1549070709816688644",
+"analysis":{
+"virality_potential":{
+"score":8,
+"justification":"References a high-profile figure and a bullish claim, likely to be shared widely."
+},
+"informative_value":{
+"score":5,
+"justification":"Provides a claim about price movement but no source."
+},
+"sentiment_polarity":{
+"score":6,
+"justification":"Expresses optimism about Ethereum's price."
+},
+"duration_of_impact":{
+"score":5,
+"justification":"The price movement may be relevant for a short period."
+}
+}
+},
+{
+"tweet_id":"1549065009128681472",
+"analysis":{
+"virality_potential":{
+"score":6,
+"justification":"Rant about regulation may resonate with some, but not necessarily viral."
+},
+"informative_value":{
+"score":3,
+"justification":"Opinion about regulation, no verifiable info."
+},
+"sentiment_polarity":{
+"score":2,
+"justification":"Expresses frustration and negative sentiment."
+},
+"duration_of_impact":{
+"score":5,
+"justification":"The regulatory debate may continue for a while."
+}
+}
+}
+]

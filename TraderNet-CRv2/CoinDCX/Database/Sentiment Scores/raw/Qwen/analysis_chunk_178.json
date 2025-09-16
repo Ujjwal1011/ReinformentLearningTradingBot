@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1732223460452249885",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Targets a niche crypto audience, likely to be shared within specific communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides detailed information about Maverick Protocol and its functionalities."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment promoting MAV as a quality project."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant until the product launch, then fades."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732220976518324625",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Breaking news on a significant crypto topic, likely widely shared."
+      },
+      "informative_value": {
+        "score": 10,
+        "justification": "Critical update from a regulatory body affecting the market."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment about a potential market movement."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Impacts the market for weeks, affecting investment strategies."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732218144733970691",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Niche content, relevant to a specific crypto community."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Educational guide on a specific DEX platform."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment encouraging participation."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant until the event concludes."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732216252448518616",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Engaging question about a new token, likely shared within crypto circles."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Discussion prompt about token distribution."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment about an upcoming event."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant until the distribution occurs."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732215259472302140",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Niche art collection, relevant to crypto and NFT communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Introduces a new art collection with details on artists and platforms."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment about the launch."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant until the collection launch."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732213042912583814",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Important news for crypto investors, likely shared within communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides a critical update on regulatory decisions."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment, factual update."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant for a few days as market reacts."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732209466810970538",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news with high engagement, widely shared."
+      },
+      "informative_value": {
+        "score": 10,
+        "justification": "Primary source information on a critical regulatory decision."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment about potential market movement."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Impacts the market for weeks, affecting investment strategies."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732207773893398881",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Discusses significant blockchain events, likely shared among enthusiasts."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Summarizes key crypto events with timestamps."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment about upcoming milestones."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant for a few days around the events mentioned."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732206835019698487",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Niche content about a regulatory delay, shared within crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides a critical update on regulatory decisions."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment, factual update."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant for a few days as market reacts."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732203852940935399",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Time-sensitive call to action for a new token distribution."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Guides users on a specific action for token allocation."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment encouraging prompt action."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant until the KYC process begins."
+      }
+    }
+  }
+]

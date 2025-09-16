@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1500407703612448770",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet reports a notable market decline in NFT sales and includes popular crypto hashtags and a link, making it likely to be shared widely within the crypto community, though not across mainstream audiences."
+},
+"informative_value": {
+"score": 8,
+"justification": "It provides specific data (29% sales tumble, search term plunge) and links to a news source, offering factual, newsworthy information about the NFT market."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The language is largely neutral and factual, describing a market drop without expressing strong personal emotion."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Market news items of this type stay relevant for a few days to a week as investors react, after which their relevance diminishes."
+}
+}
+},
+{
+"tweet_id": "1499780129962139648",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "A correction from a prominent figure (Charles Hoskinson) about J.P. Morgan's involvement may be retweeted within Cardano and broader crypto circles, giving it moderate viral potential."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet makes a factual claim about ownership of Cardano infrastructure and includes a link for verification, providing useful information to the community."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, simply stating a point without emotional language."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The claim remains relevant as long as the rumor about J.P. Morgan's involvement persists, typically a few days to weeks."
+}
+}
+},
+{
+"tweet_id": "1499775221083090952",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Kevin O'Leary's high‑profile endorsement of blockchain growth, combined with enthusiastic language, can attract shares both within crypto enthusiasts and mainstream investors."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet expresses a general opinion about blockchain growth without providing concrete data or sources, limiting its informational content."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The tweet uses enthusiastic language ('phenomenal', 'capital coming in') indicating a very positive emotional tone."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Broad, optimistic statements about blockchain remain relevant for a short to medium term, but lack specificity to sustain long‑term discussion."
+}
+}
+},
+{
+"tweet_id": "1499482384529604610",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "A humorous comment with a meme link and the #Ethereum tag can be shared among crypto meme communities, giving it moderate viral potential."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet offers no factual information; it is purely a joke or meme."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The author states that it 'makes me laugh', indicating a moderately positive sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Memes typically have a short lifespan, remaining relevant for a few hours to a day before fading."
+}
+}
+},
+{
+"tweet_id": "1499465625223286787",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The strongly opinionated, polarizing content about Ethereum's centralization can spark debate and be widely retweeted within both anti‑ and pro‑Ethereum communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet presents several factual claims (ownership of ConsenSys, transaction percentages) but lacks citations, making it moderately informative."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The language is highly negative, describing Ethereum as a 'trojan horse for tyranny' and emphasizing criticism."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Debates over Ethereum's decentralization are ongoing, so the tweet can remain relevant for weeks or months as the discussion continues."
+}
+}
+}
+]

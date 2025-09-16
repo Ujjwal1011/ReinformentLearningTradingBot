@@ -1,0 +1,213 @@
+[
+  {
+    "tweet_id": "1365494212305711106",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "The tweet discusses a niche topic (Cardano and smart contracts) which may resonate within crypto communities but lacks broader appeal."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Provides some information about Cardano's progress but is presented as a personal anecdote rather than a formal analysis."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Expresses strong negative sentiment towards Cardano's lack of progress."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The tweet's relevance is tied to the ongoing discussion about Cardano's development, which may last a few weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1365288863044833283",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Critiques Cardano's valuation, which could spark debate within crypto circles but may not reach beyond."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Offers a critique of crypto valuation methods but is opinionated rather than purely factual."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Strongly negative sentiment towards Cardano's market valuation."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance is tied to current market conditions, likely to fade as market dynamics change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1365175330432946176",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Predictions about Bitcoin and Ethereum prices can attract attention within crypto communities."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Shares a personal opinion on price targets without providing detailed analysis."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment towards the potential price increases."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance is tied to short-term market movements, likely to lose impact as prices change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1365034820187918340",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "score": 7,
+        "justification": "Bold prediction about Bitcoin adoption could spark significant discussion and attract media attention."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Provides a forecast but lacks detailed supporting data."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strongly positive sentiment about Bitcoin's future adoption."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The prediction could remain relevant for years as adoption trends develop."
+      }
+    }
+  },
+  {
+    "tweet_id": "1364970734288842756",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Uses a meme format to critique Ethereum, which can spread quickly within crypto communities."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Includes a link but the text is more of a joke than informative."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative sentiment towards Ethereum's issues."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Meme relevance is typically short-lived, tied to current events."
+      }
+    }
+  },
+  {
+    "tweet_id": "1364920776550477824",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Compares transaction fees between Cardano and Ethereum, which can attract attention from crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides factual data on transaction volumes and fees, supported by references."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of data without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance is tied to current transaction volumes, likely to change with market conditions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1364748112326180868",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Lists interesting technologies, which may be shared within tech and crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides a list of technologies with brief descriptions, useful for those interested in innovation."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone, focusing on innovation without strong emotion."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The list may remain relevant as the technologies evolve, but could fade as new innovations emerge."
+      }
+    }
+  },
+  {
+    "tweet_id": "1364099447999799296",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Reports on recent price changes, which may be shared among crypto traders but lacks a strong hook."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides factual data on price changes across multiple cryptocurrencies."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative sentiment due to price declines."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Relevance is tied to the specific 24-hour period, quickly becoming outdated."
+      }
+    }
+  },
+  {
+    "tweet_id": "1363617773566500864",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Compares Ethereum to Myspace, a relatable metaphor that could spark debate within DeFi communities."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Raises questions about Ethereum's future but lacks detailed analysis."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative sentiment towards Ethereum's potential decline."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance is tied to current discussions about Ethereum's scalability, likely to persist for a few weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1363572555395846146",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Uses a meme to critique Ethereum's gas fees, which can spread quickly within crypto communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Primarily a joke with a link, minimal factual information."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative sentiment towards Ethereum's high gas fees."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Meme relevance is typically short-lived, tied to current issues with gas fees."
+      }
+    }
+  }
+]

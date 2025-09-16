@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1546604805572927493",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet is a meme-like statement from a finance professional that has garnered significant engagement, indicating it resonates within finance communities and has potential to spread beyond the immediate follower base."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "It provides a simple factual clarification that the Euro vs Dollar is not a cryptocurrency, but lacks depth or additional context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral, presenting a factual statement without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The statement remains relevant as a general fact about currency classification, but it is unlikely to sustain long-term engagement beyond the initial interest."
+      }
+    }
+  },
+  {
+    "tweet_id": "1546523153224159234",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Personal anecdotes from a moderately sized finance account receive moderate engagement but are unlikely to go viral beyond the immediate follower base."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet shares a personal investment decision but does not provide broader insights or data."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The tone is positive, expressing pride in the investment choice."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The anecdote may remain relevant for a few weeks but will likely fade as the story becomes less timely."
+      }
+    }
+  },
+  {
+    "tweet_id": "1546332898147672064",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The meme-like format and strong engagement indicate high potential for widespread sharing within communities interested in finance and tech."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "The tweet presents cost comparisons that are not substantiated with data, offering limited factual depth."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "The tone is negative, criticizing the new economy."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The meme may remain relevant for a few weeks to months but will likely lose traction as new topics emerge."
+      }
+    }
+  },
+  {
+    "tweet_id": "1546142971543814145",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The list format and moderate engagement suggest it can spread within crypto communities, though it may not reach a global audience."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet provides a clear, data-driven ranking of cryptocurrencies by Twitter followers."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral, simply presenting facts."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The ranking will remain relevant for a few months before follower counts shift, but the format can be reused."
+      }
+    }
+  },
+  {
+    "tweet_id": "1546016303583993856",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet's concise, intriguing fact can spark interest within crypto communities, leading to moderate sharing."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It provides a specific historical price point for Ethereum, offering useful context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral, presenting a fact without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The historical price remains relevant for a period, but the tweet will eventually become less timely."
+      }
+    }
+  }
+]

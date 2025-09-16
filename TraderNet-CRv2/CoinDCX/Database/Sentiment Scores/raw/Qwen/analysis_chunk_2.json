@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1302221193081163776",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "The tweet discusses a niche topic (oracle costs) and is likely to be shared within specific blockchain communities but not widely beyond."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides factual information comparing costs between two oracles and includes a link for further details."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone, presenting facts without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a short period as it pertains to current network costs that may change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1320802735843954691",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Promotes a crowdsale, likely to be shared within the DeFi community but not beyond."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides details about the crowdsale and includes links for more information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone, encouraging participation."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant only during the crowdsale period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1318940081869131776",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "From a prominent figure (Vitalik) and addresses a common misconception, likely to be widely shared."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Clarifies Ethereum's positioning in the market."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive, emphasizing Ethereum's evolution."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Addresses a foundational concept, remaining relevant for a long time."
+      }
+    }
+  },
+  {
+    "tweet_id": "1318930492381523971",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Announcement from PayPal, likely to be widely shared in crypto and finance communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides newsworthy information about PayPal's crypto support."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive, announcing a new service."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for weeks as the service rolls out."
+      }
+    }
+  },
+  {
+    "tweet_id": "1318898980026118145",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Announcement from Vitalik about PayPal's integration, likely to be widely shared."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Informs about PayPal's crypto support and its impact on Ethereum."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive, welcoming PayPal to the Ethereum ecosystem."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for weeks as the service becomes available."
+      }
+    }
+  },
+  {
+    "tweet_id": "1318636297070825475",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Raises awareness about crypto's environmental impact, likely to be shared within crypto and environmental communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides data on energy consumption, citing a credible source."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Critical of Bitcoin and Ethereum's energy use."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Addresses a significant and ongoing issue in crypto."
+      }
+    }
+  },
+  {
+    "tweet_id": "1318617260269895683",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Suggests a new approach to market analysis, likely to be shared within crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Proposes a new method for calculating market dominance, includes a link."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Neutral, presenting an analytical perspective."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Addresses a strategic issue that could influence future market analysis."
+      }
+    }
+  },
+  {
+    "tweet_id": "1316506694839685125",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Quotes a prominent figure (CFTC Chairman) praising Ethereum, likely to be shared in crypto circles."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Includes a credible quote and links to relevant content."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive, highlighting Ethereum's strengths."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant for a few days as it pertains to a specific event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1316089530584240129",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Announces a new feature from MetaMask, likely to be shared within the DeFi community."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Explains the new feature and its availability."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive, announcing a new tool."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for weeks as the feature is rolled out."
+      }
+    }
+  },
+  {
+    "tweet_id": "1315051287415869445",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Expresses a speculative opinion, likely to be shared within crypto communities but not widely."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Personal opinion without detailed information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive, expressing optimism about Ethereum and other metals."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant only for a short period as it's a speculative opinion."
+      }
+    }
+  }
+]

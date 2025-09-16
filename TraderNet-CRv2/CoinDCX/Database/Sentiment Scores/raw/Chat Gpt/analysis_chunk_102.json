@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1469258842487808001",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Personal threat with a crypto hashtag can resonate within the community, but it's unlikely to go globally viral."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No factual or news content, just a personal threat."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Threat to delete Twitter indicates frustration, negative tone."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The tweet's relevance lasts until the end of next year, after which it becomes irrelevant."
+      }
+    }
+  },
+  {
+    "tweet_id": "1469099889552334852",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "A playful question that could resonate with Spanish-speaking crypto community, but not likely to go viral."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No factual content, just a rhetorical question."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is a neutral question without strong emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The tweet is relevant for a few hours to a day, tied to a short-lived meme."
+      }
+    }
+  },
+  {
+    "tweet_id": "1469015392483872772",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Personal anecdote about using Ethereum for a purchase can resonate with crypto users, but not likely to go globally viral."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific details about using Ethereum for a real-world purchase, giving useful info to others."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet presents factual information without strong emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The tweet may generate discussion for a day or two, then fade."
+      }
+    }
+  },
+  {
+    "tweet_id": "1468675657488117766",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news about regulatory status of major cryptocurrencies can go viral across crypto and finance communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides credible information about SEC's stance, referencing court documents."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is factual, no strong emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The regulatory status of Bitcoin and Ethereum is a long-term topic, relevant for months or years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1468601645164470272",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Short, meme-like statement that could resonate within crypto community, but not likely to go globally viral."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet offers a simple opinion, not detailed info."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet expresses a positive sentiment about owning cryptocurrencies."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The tweet is relevant for a few hours to a day, tied to a short-lived meme."
+      }
+    }
+  }
+]

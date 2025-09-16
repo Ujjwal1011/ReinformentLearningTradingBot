@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1557758049766498304",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Announcing a significant event like the Ethereum merge is likely to be widely shared among crypto enthusiasts."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides specific and important information about the Ethereum merge date."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment due to the announcement of a major milestone."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Impact will last for weeks as the community prepares for the merge."
+}
+}
+},
+{
+"tweet_id": "1557756201827532800",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Official announcement adds credibility and is likely to be shared widely."
+},
+"informative_value": {
+"score": 8,
+"justification": "Credible and timely information about the merge schedule."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment with the official scheduling of the merge."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Impact will be felt for weeks leading up to the merge."
+}
+}
+},
+{
+"tweet_id": "1557753518282473472",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Use of 'BREAKING' and specific details make it highly shareable."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides clear and important information about the merge."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment with excitement about the merge."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Impact will last for weeks as the event approaches."
+}
+}
+},
+{
+"tweet_id": "1557747849357430784",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Credible source but less urgency than others."
+},
+"informative_value": {
+"score": 7,
+"justification": "Informative but less detailed than others."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive sentiment but less excitement."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Impact will last for a few weeks."
+}
+}
+},
+{
+"tweet_id": "1557582864962576384",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "Personal criticism without context, unlikely to go viral."
+},
+"informative_value": {
+"score": 3,
+"justification": "Minimal information provided."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "Negative sentiment towards MagicEden."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short-term impact as it's a specific criticism."
+}
+}
+},
+{
+"tweet_id": "1557549548012068864",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Price update, relevant but not as impactful as the merge."
+},
+"informative_value": {
+"score": 5,
+"justification": "Provides a specific price point but lacks depth."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment, factual update."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Impact lasts a few days as prices fluctuate."
+}
+}
+},
+{
+"tweet_id": "1557546343052230656",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Significant technical update, likely shared among enthusiasts."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides important information about the testnet switch."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment with the successful switch."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Impact lasts for weeks as the mainnet merge approaches."
+}
+}
+},
+{
+"tweet_id": "1557544104031973377",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Credible source but less urgency than others."
+},
+"informative_value": {
+"score": 8,
+"justification": "Informative about the testnet success."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment with excitement."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Impact lasts for weeks."
+}
+}
+},
+{
+"tweet_id": "1557543521875140615",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Use of 'BREAKING' and specific details make it highly shareable."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides clear and important information about the testnet merge."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment with excitement."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Impact lasts for weeks."
+}
+}
+},
+{
+"tweet_id": "1557533155480969216",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Market cap update, relevant but not as impactful."
+},
+"informative_value": {
+"score": 5,
+"justification": "Provides a specific market cap figure."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment, factual update."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Impact lasts a few days."
+}
+}
+}
+]

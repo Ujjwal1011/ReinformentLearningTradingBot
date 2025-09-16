@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1454325038044356610",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet addresses a significant trend in cryptocurrency, making it likely to be shared within crypto communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "It provides insight into the trend of Ethereum's increasing value, which is relevant to crypto enthusiasts."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The sentiment is neutral, simply stating a fact about the difficulty of owning Ethereum."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance will last as long as Ethereum's value trend continues, which could be several months."
+}
+}
+},
+{
+"tweet_id": "1454213259905613824",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The comparison is niche but useful for blockchain enthusiasts, likely shared within specific communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "It provides specific data on transaction costs and speeds, which is highly informative."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The sentiment is neutral, presenting facts without emotion."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a short period as transaction costs can change with updates."
+}
+}
+},
+{
+"tweet_id": "1454023849528410115",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The poll is engaging and relevant to crypto users, likely to be shared within specific communities."
+},
+"informative_value": {
+"score": 5,
+"justification": "It's somewhat informative but more opinion-based, asking for community input."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment, presenting a question without bias."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant only until the poll closes, with results possibly discussed for a few days."
+}
+}
+},
+{
+"tweet_id": "1454014797532573703",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The news about Facebook's stable coin is likely to be shared among blockchain enthusiasts."
+},
+"informative_value": {
+"score": 8,
+"justification": "It provides credible information about a significant blockchain deployment."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment with a smiley emoji, indicating excitement."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a short period as news about blockchain deployments typically fades quickly."
+}
+}
+},
+{
+"tweet_id": "1453999115780513797",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The nostalgia factor makes it shareable among crypto communities."
+},
+"informative_value": {
+"score": 4,
+"justification": "It's a personal reflection, not a formal analysis."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment, expressing nostalgia for lower Ethereum prices."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a short time as it's a memory of past prices."
+}
+}
+},
+{
+"tweet_id": "1453990485610012672",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Predictions can spark discussions, especially in crypto communities."
+},
+"informative_value": {
+"score": 4,
+"justification": "It's a prediction without supporting data, so informative value is low."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment, suggesting optimism about future prices."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant until the end of the year, after which the prediction is either met or not."
+}
+}
+},
+{
+"tweet_id": "1453892871304663042",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Announcing a new all-time high is significant and likely to be widely shared."
+},
+"informative_value": {
+"score": 6,
+"justification": "It's a factual update on Ethereum's price, which is informative."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment, indicating excitement about the price increase."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a short period as price changes are often fleeting."
+}
+}
+},
+{
+"tweet_id": "1453892201201688589",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Excitement about a new all-time high makes it shareable."
+},
+"informative_value": {
+"score": 6,
+"justification": "It's a factual update on Ethereum's price."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Strong positive sentiment with an exclamation, indicating excitement."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a short period as price changes are often fleeting."
+}
+}
+},
+{
+"tweet_id": "1453886023226863623",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "High bids on crypto art are niche but can generate interest among collectors."
+},
+"informative_value": {
+"score": 8,
+"justification": "It provides specific data on a significant transaction in the crypto art market."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment, highlighting a substantial bid."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a short period as crypto art prices can fluctuate."
+}
+}
+},
+{
+"tweet_id": "1453872415591829504",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "A high-profile sale is likely to be shared widely in crypto and art communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "It provides detailed information on a significant crypto art transaction."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Positive sentiment, emphasizing a large and notable sale."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a short period as crypto art trends can change rapidly."
+}
+}
+}
+]

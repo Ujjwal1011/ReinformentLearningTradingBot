@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1732193044143714507",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet discusses a niche topic (Ethereum NFT market) with a link and relevant hashtags, which may attract specific communities but lacks a strong emotional hook."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides a link to an article about the Ethereum NFT market's resurgence, offering useful information for those interested in crypto."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone, presenting factual information without strong emotion."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The topic is current and relevant, likely to generate discussion for a few days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732193014380929260",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Personal complaint about creators' attitudes, unlikely to go viral beyond a small audience."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Shares a personal opinion without providing substantial information."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Expresses negative emotions about the creators' behavior."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevant only to those interested in the specific creators mentioned, short-lived."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732192703025467898",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Explains a blockchain-based game, which may attract interest within the crypto community."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides detailed information about Sorare's blockchain-based fantasy football game."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral explanation of the game's features."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Discusses a foundational aspect of blockchain games, likely to remain relevant for months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732192402251612378",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Meeting a crypto influencer is niche and may attract a small following."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Shares a personal experience without substantial information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment about meeting the influencer and Miami."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant only for a short period, tied to the event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732191669863297126",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Promotional tweet with hashtags, unlikely to go viral."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Links to content without providing context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral promotional content."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevant only for a short time, tied to the promotion."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732191633393758444",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Friendly interaction with a mention, unlikely to go viral."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Asks for help regarding a fictional character, minimal information."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive and friendly tone."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant only for a short period, tied to the specific request."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732191626792169826",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Opinion on L2s on Solana, niche audience."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Shares an opinion on blockchain technology."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral opinion."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant for a few days as it's a current topic."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732191552359874730",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Selling PEPE, niche audience."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Shares a transaction without context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral transaction update."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevant only for a short time, tied to the sale."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732191287007461682",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Positive mention of Ethereum, niche audience."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Shares a positive sentiment without substantial info."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong positive sentiment about Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a short period, tied to the specific mention."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732191210549162402",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Personal regret about Ethereum, unlikely to go viral."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Shares a personal anecdote about Ethereum."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Moderately negative sentiment about the situation."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevant only for a short time, tied to the personal experience."
+      }
+    }
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1732170225003475225",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Contains multiple mentions and emojis but lacks a strong hook for broad sharing beyond crypto communities."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Primarily promotional content without substantive information or context."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone with enthusiastic emojis like 😎 and 'Fantastic Mission Alert' phrasing."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Event-specific excitement likely to fade after initial announcement period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732170198814228864",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Technical analysis content with market predictions that could resonate within crypto trading communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific trading analysis with chart references, though lacks detailed explanation."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral market analysis without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Market predictions typically have short-term relevance based on price movements."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732169178398834731",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High engagement metrics and project promotion from an official account with large following."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Explains technical features of Aurora blockchain with educational video link."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive promotional language emphasizing benefits like 'cheap transactions'."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Blockchain infrastructure announcements maintain relevance for weeks in developer communities."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732169055321182363",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Boastful predictions format could generate discussion within crypto circles."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Mix of unverified predictions and personal commentary rather than factual information."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong positive excitement about market movements and personal predictions."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Time-sensitive predictions about EOY events maintain relevance for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732168628559106421",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Strategic analysis of Ethereum scaling solutions likely to be shared in blockchain communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides insight into Layer 2 solutions with specific project promotion."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Optimistic tone about Metis' preparedness for market demands."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Discusses ongoing scalability challenges with lasting relevance in blockchain space."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732168570652463499",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Niche instructional content limited to specific platform users."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Step-by-step guide for marketplace navigation with technical details."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral instructional language without emotional valence."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Procedural guidance becomes obsolete with platform updates."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732167759960707298",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Controversial take on Ethereum centralization might spark limited debate."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Opinion-based commentary without supporting evidence or data."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative tone criticizing Ethereum's development direction."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Opinion commentary typically has short relevance cycle."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732167747537383568",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Mixed opinion piece unlikely to gain widespread traction."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Personal assessment of blockchain ecosystems without supporting arguments."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Moderately negative assessment of BTC ecosystem projects."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "General ecosystem comparisons maintain baseline relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732165640541351999",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Vietnamese-language analysis of Ethereum congestion could resonate regionally."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Identifies scalability challenges during bull markets with concrete examples."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral market analysis without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Discusses recurring network challenges with medium-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732165276576133402",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Technical governance discussion with limited audience appeal."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides academic reference to Nakamoto Coefficient concept with source link."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual correction without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Blockchain governance metrics maintain relevance in technical communities."
+      }
+    }
+  }
+]

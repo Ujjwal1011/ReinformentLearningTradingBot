@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1724074738778030256",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Announcements from major exchanges about new Bitcoin and Ethereum futures can generate significant interest within the crypto community, potentially leading to widespread sharing."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides timely, newsworthy information about a significant development in the cryptocurrency market, likely to be of high interest to traders and investors."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply reporting on a new development without expressing a personal opinion or emotion."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance will last for several days or weeks, as the launch of new futures contracts will be a topic of discussion in the crypto space for some time."
+}
+}
+},
+{
+"tweet_id": "1723912570329833584",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "While the tweet attempts to create intrigue with a speculative statement, it's unlikely to go viral beyond the Altcoin Daily's existing follower base."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet provides minimal information, essentially teasing a potential future event without offering substantial context or value."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet expresses a moderately positive sentiment, encouraging readers to buy Ethereum in anticipation of a potential future event."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is short-term, heavily dependent on the timing of Apple's announcement, after which its impact will quickly diminish."
+}
+}
+},
+{
+"tweet_id": "1723372846125060258",
+"analysis": {
+"virality_potential": {
+"score": 2,
+"justification": "A new bid on a CryptoPunk is niche content, unlikely to generate widespread interest or sharing beyond the CryptoPunks community."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides specific, useful information about a new bid on a CryptoPunk, including the amount and the bidder's ID, valuable to those following CryptoPunks."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply reporting on a new bid without expressing a personal opinion or emotion."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is relatively short, mainly of interest to those currently engaged with CryptoPunks, with its impact fading after the bidding process concludes."
+}
+}
+},
+{
+"tweet_id": "1723005252792725762",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Announcements about large expirations of Bitcoin and Ethereum options can generate significant interest within the crypto community, potentially leading to moderate sharing."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides timely, newsworthy information about a significant event in the cryptocurrency market, likely to be of interest to traders and investors."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply reporting on a new development without expressing a personal opinion or emotion."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is short-term, mainly of interest on the day of the expirations, with its impact quickly diminishing thereafter."
+}
+}
+},
+{
+"tweet_id": "1722973131374010559",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Announcements about significant technological advancements, especially those promising substantial improvements, can generate widespread interest and sharing within the crypto and tech communities."
+},
+"informative_value": {
+"score": 10,
+"justification": "Provides detailed, newsworthy, and highly informative content about a groundbreaking development in Ethereum rollups, of high value to those interested in crypto technology."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses a very positive sentiment, highlighting the benefits of the new solution with enthusiasm."
+},
+"duration_of_impact": {
+"score": 9,
+"justification": "The tweet's relevance will last for months or even years, as the impact of the fast finality layer on Ethereum rollups will be a topic of discussion in the crypto space for an extended period."
+}
+}
+},
+{
+"tweet_id": "1722731099174920303",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Official filings for a Spot Ethereum ETF by a major asset manager like BlackRock can generate significant interest and widespread sharing within the crypto and financial communities."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides timely, highly newsworthy information about a significant development in the cryptocurrency market, of high interest to traders, investors, and financial institutions."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply reporting on a new development without expressing a personal opinion or emotion."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The tweet's relevance will last for several weeks or months, as the ETF's progression through the regulatory process will be closely watched by the crypto and financial sectors."
+}
+}
+},
+{
+"tweet_id": "1722729581801586936",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Breaking news about a BlackRock Ethereum ETF can generate moderate interest and sharing, especially within the crypto community, but may not reach a broader audience."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides timely, newsworthy information about a significant development in the cryptocurrency market, of interest to traders and investors."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply reporting on a new development without expressing a personal opinion or emotion."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is moderate, mainly of interest on the day of the announcement, with its impact fading as more detailed information becomes available."
+}
+}
+},
+{
+"tweet_id": "1722727779186119074",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Updates on ETF filings, while informative, may not generate widespread sharing beyond those closely following cryptocurrency news."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides specific, timely information about the BlackRock Ethereum ETF's filing status, valuable to those interested in crypto investments."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply reporting on a new development without expressing a personal opinion or emotion."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is moderate, mainly of interest on the day of the update, with its impact diminishing as the ETF's status evolves."
+}
+}
+},
+{
+"tweet_id": "1722716974302576982",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "Promotional content, even with a unique selling point, is less likely to go viral, especially if it appears as a sales pitch rather than engaging content."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides some useful information about a solution for reducing Ethereum fees, but the primary intent is promotional."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses a very positive sentiment, enthusiastically promoting the benefits of using PulseChain."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is relatively short, mainly of interest to those currently engaged with Ethereum and looking for fee reduction solutions."
+}
+}
+},
+{
+"tweet_id": "1722690040793358634",
+"analysis": {
+"virality_potential": {
+"score": 1,
+"justification": "Reports of USDT minting, while informative for some, are unlikely to generate significant interest or sharing beyond a niche audience."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides specific, useful information about a significant minting of USDT, valuable to those closely following cryptocurrency markets."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply reporting on a new development without expressing a personal opinion or emotion."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "The tweet's relevance is very short, mainly of interest at the moment of reporting, with its impact quickly diminishing thereafter."
+}
+}
+}
+]

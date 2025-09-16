@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1732130006346662361",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Compares blockchain platforms with factual arguments, likely resonating within crypto communities but lacking broad emotional appeal."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific reasons for choosing Solana, though lacks citations or novel data."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone presenting comparative facts without overt emotion."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Ongoing blockchain debates could keep this relevant for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732129810024149199",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "NFT-focused content with multiple tags/exclamations, but targets a niche audience."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Primarily promotional without educational content or context."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Enthusiastic tone with celebratory emojis and rhetorical question."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "NFT collection relevance typically lasts days unless achieving meme status."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732129435095052389",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Capitalized breaking-news style announcement about Ethereum, likely to spread quickly in crypto circles."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "States a platform migration without details or sources."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement without explicit positive/negative language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Chain migrations can remain relevant for weeks if followed by developments."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732128969640841306",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "ETF delay news in Italian has regional relevance but limited global reach."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Reports verifiable regulatory action with specific timeline context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual reporting without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "ETF delays typically dominate 1-2 news cycles before attention shifts."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732128613905117590",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major regulatory news from SEC with high crypto community relevance."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Concise reporting of critical ETF decision with source link."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral alert-style reporting."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "ETF decisions influence markets for weeks/months until resolution."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732128586080104845",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "High-value NFT transaction notice appeals to collectors but lacks broader hooks."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides verifiable on-chain data about specific NFT purchase."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral transaction reporting without commentary."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Single NFT sales rarely maintain relevance beyond 24-48 hours."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732128461622276131",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Repeats high-impact SEC news with hashtags for discoverability."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Accurate regulatory update critical for crypto investors."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral alert format without bias."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Part of ongoing ETF narrative with multi-week relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732128390897877088",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "High-engagement tweet from verified analyst explaining expected regulatory action."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Expert analysis with specific deadline context and source link."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Professional tone without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Will be referenced in future ETF coverage until next deadline."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732127828504609026",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "CEO crypto adoption story has cross-industry interest in Francophone markets."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Reports verified executive portfolio details with article link."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive framing of institutional adoption."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Executive endorsements remain relevant for weeks in crypto media."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732127160565891180",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Product promo with multiple chain hashtags targets broad crypto audience."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Explains security product features without technical depth."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive emphasis on protection and security."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Security tools maintain relevance but require updates to stay topical."
+      }
+    }
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1592484156994641920",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Technical discussion from a prominent figure about L2 adoption challenges has medium sharing potential within crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides substantive analysis of Ethereum's UX challenges and learning opportunities from existing experiments."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral analytical tone discussing technical challenges without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Discusses ongoing technical challenges relevant to Ethereum's long-term development trajectory."
+      }
+    }
+  },
+  {
+    "tweet_id": "1592403855572025344",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Sensational unverified claims about Ethereum insolvency have high potential to spread fear and uncertainty."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Presents unsubstantiated rumors without evidence or credible sources."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Strong negative implication through words like 'insolvent' and 'withdrawals disabled'."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term impact until official clarification addresses the rumors."
+      }
+    }
+  },
+  {
+    "tweet_id": "1592344706130022400",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Provocative prediction presented as inevitable fact could drive engagement in crypto circles."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Contains no substantive information beyond an opinionated assertion."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Moderately positive conviction about Ethereum's future prospects."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Standard lifespan for speculative predictions without concrete details."
+      }
+    }
+  },
+  {
+    "tweet_id": "1592309025680822273",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Market cycle analysis likely to be shared within crypto investment communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides personal investment perspective with some market observations."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Optimistic about Ethereum's future performance compared to Bitcoin."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant through current market cycle discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1591995728318152710",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Alarmist language and FTX connection create high sharing potential during crisis."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Thread likely explores substantive arguments about FTX fallout, though tweet itself is a hook."
+      },
+      "sentiment_polarity": {
+        "score": 1,
+        "justification": "Extremely negative framing using 'FUCKED' and crisis language."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevance tied to immediate FTX crisis aftermath."
+      }
+    }
+  },
+  {
+    "tweet_id": "1591723135497379845",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Provocative accusations against multiple projects likely to drive engagement through controversy."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Unsubstantiated claims presented as facts without evidence."
+      },
+      "sentiment_polarity": {
+        "score": 0,
+        "justification": "Extremely negative towards all mentioned projects except Bitcoin."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Short-term attention due to inflammatory nature rather than substance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1591642525236101121",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Breaking news format about major exchange error has high sharing potential."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Reports specific, verifiable transaction error with quantified impact."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting style despite concerning content."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant until resolution of the specific incident."
+      }
+    }
+  },
+  {
+    "tweet_id": "1591339383961313280",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Comparative technical analysis likely shared within blockchain developer communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Makes substantive argument about smart contract chain advantages."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Moderately negative towards Bitcoin and Doge's capabilities."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Contributes to ongoing technical debates about blockchain architectures."
+      }
+    }
+  },
+  {
+    "tweet_id": "1590737576910258182",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Positioning Ethereum against centralized exchanges has medium sharing potential post-FTX."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides reasoned argument about DeFi's value proposition with real-world relevance."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive advocacy for Ethereum and DeFi solutions."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Remains relevant to ongoing discussions about crypto infrastructure."
+      }
+    }
+  },
+  {
+    "tweet_id": "1590338086990290944",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Philosophical take on market events could drive discussion among crypto analysts."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Offers observational commentary about market psychology rather than concrete information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of contrasting perspectives without endorsement."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant as commentary on market cycles and perception formation."
+      }
+    }
+  }
+]

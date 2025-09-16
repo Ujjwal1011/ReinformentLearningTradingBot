@@ -1,0 +1,165 @@
+--- RAW RESPONSE FROM MODEL ---
+[
+{
+"tweet_id": "1457298029707505664",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet contains popular cryptocurrency hashtags and price targets, which could engage specific communities interested in cryptocurrency investments."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides specific price targets for various cryptocurrencies, which can be considered useful information for investors."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, presenting factual information about cryptocurrency price targets without expressing any emotions."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is tied to the fluctuating nature of cryptocurrency prices, which may remain relevant for a few days or weeks."
+}
+},
+{
+"tweet_id": "1457218505678352388",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet presents a hypothetical question about cryptocurrency preferences, which may not be compelling enough to go viral."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet is a simple question without any additional information or context."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet expresses a positive sentiment by asking a thought-provoking question."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is tied to the ongoing discussion about cryptocurrency preferences."
+}
+},
+{
+"tweet_id": "1457195856394801154",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet uses popular cryptocurrency hashtags and presents a poll, which could engage specific communities interested in cryptocurrency investments."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet presents a poll about Ethereum's price, which can be considered somewhat informative."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses a positive sentiment by expressing hope for Ethereum's price increase."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance is tied to the ongoing discussion about Ethereum's price."
+}
+},
+{
+"tweet_id": "1457109136425070596",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet presents information about a CryptoPunks bid, which could engage specific communities interested in CryptoPunks and Ethereum."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides specific information about a CryptoPunks bid, which can be considered useful information for CryptoPunks collectors."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, presenting factual information about a CryptoPunks bid without expressing any emotions."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is tied to the ongoing discussion about CryptoPunks bids."
+}
+},
+{
+"tweet_id": "1457060324939423745",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet presents a unique perspective on pricing layer 1 blockchain tokens, which could engage specific communities interested in blockchain technology."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides a new perspective on pricing blockchain tokens, which can be considered useful information for blockchain enthusiasts."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, presenting factual information about blockchain tokens without expressing any emotions."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is tied to the ongoing discussion about blockchain technology."
+}
+},
+{
+"tweet_id": "1456987697382313987",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet presents information about Ethereum and Solana wallets, which could engage specific communities interested in cryptocurrency wallets."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet is a simple statement without any additional information or context."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, presenting factual information about Ethereum and Solana wallets without expressing any emotions."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is tied to the ongoing discussion about Ethereum and Solana wallets."
+}
+},
+{
+"tweet_id": "1456982061403750404",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet presents information about the value of various cryptocurrencies, which could engage specific communities interested in cryptocurrency investments."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides specific information about the value of various cryptocurrencies, which can be considered useful information for investors."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, presenting factual information about cryptocurrency values without expressing any emotions."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is tied to the fluctuating nature of cryptocurrency prices."
+}
+},
+{
+"tweet_id": "1456736860596736010",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet presents information about Immutable X, which could engage specific communities interested in NFTs and Ethereum."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides specific information about Immutable X, which can be considered useful information for NFT enthusiasts."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, presenting factual information about Immutable X without expressing any emotions."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is tied to the ongoing discussion about Immutable X and NFTs."
+}
+}
+]
+
+--- FULL PROMPT SENT TO MODEL ---

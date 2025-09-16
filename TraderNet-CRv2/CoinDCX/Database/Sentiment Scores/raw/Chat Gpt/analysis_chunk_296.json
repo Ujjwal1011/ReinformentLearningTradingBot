@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1621893796723134464",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news about Ethereum reaching a $200B market cap is likely to be widely shared across crypto communities and beyond, generating significant buzz."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides a verifiable, significant market cap milestone that is newsworthy and factual."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral factual statement with no strong emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Milestone remains relevant for some time but eventually fades as market cap changes."
+      }
+    }
+  },
+  {
+    "tweet_id": "1621643990448627713",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Controversial claim about Bitcoin vs Ethereum can spark debate within the crypto community, leading to moderate share potential."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Opinion with some factual context but not a primary source or verifiable data."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone, balanced between criticism of Bitcoin and optimism for Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Debate may continue for weeks or months as market dynamics evolve."
+      }
+    }
+  },
+  {
+    "tweet_id": "1621512870038233094",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major bank launching DeFi on Ethereum is significant news likely to spread widely across crypto and finance communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides verifiable, significant development in the intersection of traditional finance and DeFi."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral factual statement."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Platform launch remains relevant for months as it develops and gains adoption."
+      }
+    }
+  },
+  {
+    "tweet_id": "1641890861637324801",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "New developer tool may be shared within Ethereum dev community, moderate reach."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides information about a new tool that could be useful for developers."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Tool remains relevant for some time but may be superseded by newer solutions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1641532055195643904",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Announcement targeted to DeGods community, limited reach beyond that audience."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides actionable information about migration to Ethereum."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance limited to the migration period; after that, the tweet becomes less relevant."
+      }
+    }
+  }
+]

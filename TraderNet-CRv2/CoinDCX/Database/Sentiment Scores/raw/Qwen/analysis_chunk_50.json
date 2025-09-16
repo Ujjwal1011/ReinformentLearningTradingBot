@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1471140756312268816",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Confirmation from a notable figure in Ethereum could generate interest among enthusiasts, though it's a personal update."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides factual information about the user's role, which is significant in the crypto space."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment due to confirmation of a significant role."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Impact is expected to last a few days as discussions around the confirmation occur."
+      }
+    }
+  },
+  {
+    "tweet_id": "1471102865892687875",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Report from a reputable source about a potential alternative to Ethereum, likely shared within crypto communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Credible information from a reputable source about Avalanche as an alternative."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment as it's a factual report."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Impact may last a few days to weeks as Avalanche gains traction."
+      }
+    }
+  },
+  {
+    "tweet_id": "1471018000304074754",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Personal opinion about Ethereum's issues, likely to spark discussions in crypto communities."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Personal anecdote without data, minimal information."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative sentiment towards Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term impact as it's a personal decision."
+      }
+    }
+  },
+  {
+    "tweet_id": "1470868954159534082",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Announcement about migration, relevant to specific community."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Informative for ECOMI and Immutable users."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment about the migration."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Impact lasts during the migration period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1470717382662500354",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Controversial statement about the Bank of England, may generate shares."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Personal opinion without factual data."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Strong negative sentiment towards the Bank of England."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term impact as it's a personal statement."
+      }
+    }
+  },
+  {
+    "tweet_id": "1470589832959299587",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Factual information about major companies buying NFTs on Ethereum, likely to be shared."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides credible information about corporate NFT purchases."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment about Ethereum's role."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Impact may last as the trend continues."
+      }
+    }
+  },
+  {
+    "tweet_id": "1470561612474032128",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Personal opinion about Bitcoin, likely to spark discussions."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Personal anecdote without data."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative sentiment towards Bitcoin."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term impact as it's a personal decision."
+      }
+    }
+  },
+  {
+    "tweet_id": "1470397114169630726",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Thread on NFT history, likely shared among enthusiasts."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides detailed historical information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment about Ethereum's role in NFTs."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Impact may last as it's a resource."
+      }
+    }
+  },
+  {
+    "tweet_id": "1470031228682256391",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Price predictions generate interest, though speculative."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides targets but lacks analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment as it's a prediction."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Impact tied to the specific timeframe."
+      }
+    }
+  },
+  {
+    "tweet_id": "1469812742408359940",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Bullish prediction, likely to generate interest."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Speculative without data."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive sentiment towards Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Impact tied to the specific year."
+      }
+    }
+  }
+]

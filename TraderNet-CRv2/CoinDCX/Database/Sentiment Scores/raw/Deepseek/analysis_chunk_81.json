@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1499414900355047427",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Breaking news about regulatory action affecting major cryptocurrency users. High emotional resonance and relevance to crypto communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides specific compliance information affecting Ethereum users in a geopolitical context."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral reporting style without explicit emotional language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Regulatory actions typically have medium-term implications until resolved or challenged."
+}
+}
+},
+{
+"tweet_id": "1498811336335056897",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Significant timeline update for Ethereum's protocol change, likely shared within crypto communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "Conveys concrete information about Ethereum's development roadmap."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive anticipation implied by exclamation point and milestone announcement."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant until the proof-of-stake transition occurs, then diminishes."
+}
+}
+},
+{
+"tweet_id": "1498709915455705088",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Educational content about crypto terminology with limited viral hooks."
+},
+"informative_value": {
+"score": 6,
+"justification": "Clarifies technical distinction between Ethereum chain and its native token."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral instructional tone without emotional valence."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Evergreen content addressing common confusion in crypto space."
+}
+}
+},
+{
+"tweet_id": "1498683066289635328",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Contrarian price opinion without novel analysis to drive sharing."
+},
+"informative_value": {
+"score": 3,
+"justification": "Personal opinion about price movement without supporting data."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "Strong negative sentiment with 'scam' accusation."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Tied to transient price action, relevance diminishes with market changes."
+}
+}
+},
+{
+"tweet_id": "1498680829077250051",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Humorous meme format about crypto alternatives has sharing potential."
+},
+"informative_value": {
+"score": 3,
+"justification": "Primarily joke content without substantive information."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Implied criticism through humor about financial limitations."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Meme lifespan typically limited to short-term engagement."
+}
+}
+},
+{
+"tweet_id": "1520239235747692545",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Price prediction content with multiple hashtags for community engagement."
+},
+"informative_value": {
+"score": 6,
+"justification": "Reports expert predictions but lacks original analysis."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral reporting of mixed expert opinions."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Time-bound to 2022 price targets, relevance expires annually."
+}
+}
+},
+{
+"tweet_id": "1520182239547469825",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Meme comparing blockchain ecosystems sparks community discussion."
+},
+"informative_value": {
+"score": 3,
+"justification": "Cultural commentary without substantive information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral observational humor without clear bias."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Tied to ephemeral NFT market trends."
+}
+}
+},
+{
+"tweet_id": "1519879442776358912",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Niche analysis of whale wallets appeals to dedicated traders."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides analytical insight into major crypto holders' portfolios."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral investigative tone without judgment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Whale activity remains relevant through market cycles."
+}
+}
+},
+{
+"tweet_id": "1519837834131034112",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Leverages Jim Cramer's controversial reputation in financial circles."
+},
+"informative_value": {
+"score": 6,
+"justification": "Reports analyst prediction but lacks contextual data."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "Negative implication through 'Uh, oh' suggests skepticism."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Remains relevant until price target is reached or disproven."
+}
+}
+},
+{
+"tweet_id": "1519757049181216769",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Alarmist language about major crypto asset drives engagement."
+},
+"informative_value": {
+"score": 6,
+"justification": "References news event but requires link for full context."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "Explicitly negative with 'Horrible news' declaration."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Depends on underlying news impact duration, potentially medium-term."
+}
+}
+}
+]

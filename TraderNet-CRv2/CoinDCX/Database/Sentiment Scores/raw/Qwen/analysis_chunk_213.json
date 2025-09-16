@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1731964749615677526",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet suggests Bitcoin becoming a Solana-like ecosystem, which could attract attention within the blockchain community but may not go viral beyond niche audiences."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides technical insights into blockchain ecosystems, which is valuable for those interested in cryptocurrency and decentralized technologies."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The sentiment is neutral, presenting a suggestion without strong positive or negative emotions."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet discusses current trends and may remain relevant for a few days as discussions around blockchain ecosystems evolve."
+}
+}
+},
+{
+"tweet_id": "1731961719583396119",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The introduction of Reth Crawler is likely to be shared within the Ethereum developer community, but may not reach a broader audience."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides detailed information about a tool for the Ethereum execution layer, which is highly relevant for developers and blockchain enthusiasts."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The sentiment is positive, showcasing a successful project and its capabilities."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance will last for several weeks as the tool is adopted and discussed within the developer community."
+}
+}
+},
+{
+"tweet_id": "1731958274239422646",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet promotes a specific project, which may only be shared within the Aavegotchi community."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet provides minimal information beyond a promotional link and hashtags."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The sentiment is neutral, focusing on promotion without strong emotional language."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is limited to the specific project and may lose impact quickly."
+}
+}
+},
+{
+"tweet_id": "1731958044739977346",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet promotes a lending opportunity on Clearpool, which could attract interest within the DeFi community."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides useful information about lending options and benefits."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The sentiment is positive, encouraging users to take action."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance will last for a few weeks as users consider the lending opportunity."
+}
+}
+},
+{
+"tweet_id": "1731954235967721555",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet discusses transaction times on layer 2, which could be shared within the Ethereum community."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides educational content about blockchain transaction times, which is valuable for users interested in Ethereum."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The sentiment is neutral, focusing on the educational aspect without strong emotions."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance will last for several weeks as discussions around layer 2 solutions continue."
+}
+}
+},
+{
+"tweet_id": "1731946706365808829",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The tweet provides a historical overview of onchain gaming on Starknet, which is likely to be widely shared within the blockchain gaming community."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet offers detailed information about Starknet's history and its impact on onchain gaming."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The sentiment is positive, highlighting the significance of Starknet's contributions."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The tweet's relevance will last for months as it provides foundational information about Starknet's role in blockchain gaming."
+}
+}
+},
+{
+"tweet_id": "1731945042363736318",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet compares block times across different blockchain networks, which is likely to be shared widely among cryptocurrency enthusiasts."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides valuable information about blockchain performance metrics."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The sentiment is positive, emphasizing the efficiency of Kaspa."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet's relevance will last for several weeks as discussions around blockchain scalability continue."
+}
+}
+},
+{
+"tweet_id": "1731942815515410589",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet is a promotional post about a specific NFT sale, which may only be shared within the Mfers community."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet provides information about a specific NFT sale but lacks broader educational content."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The sentiment is neutral, focusing on the sale without strong emotions."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is limited to the specific sale and may lose impact quickly."
+}
+}
+},
+{
+"tweet_id": "1731939459418267824",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet is a promotional post about a specific NFT sale, which may only be shared within the Mfers community."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet provides information about a specific NFT sale but lacks broader educational content."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The sentiment is neutral, focusing on the sale without strong emotions."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is limited to the specific sale and may lose impact quickly."
+}
+}
+},
+{
+"tweet_id": "1731927717627539537",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet discusses a major bank entering the cryptocurrency market, which is likely to be shared widely among crypto enthusiasts."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides important news about a major bank integrating cryptocurrency services."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The sentiment is positive, highlighting the significance of the bank's decision."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance will last for several weeks as discussions around institutional adoption of crypto continue."
+}
+}
+}
+]

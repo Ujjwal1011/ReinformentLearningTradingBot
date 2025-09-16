@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1527469228613419009",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Announces a potential early Ethereum merge from a core developer, a major event in crypto; the author has 3.4M followers, making it highly shareable across the community."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides timely, factual news about the Ethereum merge timeline, which is newsworthy and relevant to many users."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply stating information without emotional language."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The Ethereum merge is a significant milestone that will be discussed for months before and after the event."
+}
+}
+},
+{
+"tweet_id": "1527323399524995074",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "A personal statement about liking multiple blockchains; lacks a strong hook or breaking news, limiting its shareability."
+},
+"informative_value": {
+"score": 2,
+"justification": "Expresses personal preference without providing factual or educational content."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Conveys a positive tone by expressing liking for Solana, Ethereum, and Bitcoin."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet is a one‑off opinion that will likely be relevant only for a short period."
+}
+}
+},
+{
+"tweet_id": "1527316022457356301",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Summarizes a Vitalik Buterin paper and includes interviews; valuable to the crypto community, encouraging shares within that niche."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides a detailed summary of a 37‑page paper and original interview content, offering high informational depth."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, focusing on presenting information rather than expressing strong emotions."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Discussion of Ethereum's future remains relevant for weeks to months as the community debates the roadmap."
+}
+}
+},
+{
+"tweet_id": "1527064422300147712",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Bragging about luxury items with many crypto hashtags may attract some attention, but lacks broader relevance."
+},
+"informative_value": {
+"score": 1,
+"justification": "The tweet offers no factual or educational content; it is purely self‑promotion."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The tone is taunting and boastful, conveying mild negativity toward others."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Such self‑promotional posts typically lose relevance within hours to a day."
+}
+}
+},
+{
+"tweet_id": "1526795777976463362",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "A market signal about Bitcoin and Ethereum may be shared among traders, giving it moderate virality within that niche."
+},
+"informative_value": {
+"score": 6,
+"justification": "Claims a bear market signal and includes a link for details, offering some informational value to interested users."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The message suggests a negative market condition, reflecting a moderately negative sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Market signals are typically relevant for a short window (hours to a few days) before the sentiment changes."
+}
+}
+}
+]

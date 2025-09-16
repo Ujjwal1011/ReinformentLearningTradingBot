@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1732333362432598290",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet offers a niche instructional guide on creating NFTs, which appeals mainly to crypto enthusiasts. While it generated a moderate number of replies relative to the author's small follower base, the content lacks broad emotional hooks or breaking news, limiting its viral reach."
+},
+"informative_value": {
+"score": 7,
+"justification": "It provides step‑by‑step information about choosing a blockchain for NFTs, mentioning Ethereum and alternatives, which is useful for beginners. The depth is limited, but the factual guidance merits a medium‑high rating."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral and factual, with only inquisitive emojis; there is no strong positive or negative emotion expressed."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Educational content about NFT creation can remain relevant for weeks to months as users reference it, though it may become outdated as platforms evolve, giving it a medium‑term impact."
+}
+}
+},
+{
+"tweet_id": "1732328789911261223",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The tweet comes from a high‑follower account and has amassed hundreds of thousands of likes, retweets, replies, and quotes, indicating massive sharing. Its promotional nature and inclusion of a video further boost shareability, placing it in the high viral range."
+},
+"informative_value": {
+"score": 6,
+"justification": "It announces that over 1.2 million users have completed KYC and mentions upcoming Ethereum distribution and Uniswap listing. While factual, the information is primarily promotional and lacks depth, resulting in a medium rating."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The language is enthusiastic and optimistic, using celebratory emojis and exclamation points, reflecting a very positive sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet focuses on an upcoming token distribution and listing, topics that are time‑sensitive and will lose relevance once the events occur, giving it a short‑term impact."
+}
+}
+},
+{
+"tweet_id": "1732321019778724333",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The post discusses zkSync fee reductions and upcoming Ethereum updates, topics of interest within the crypto community, especially among Vietnamese speakers. Engagement is modest, and the content is niche, resulting in a neutral to low viral potential."
+},
+"informative_value": {
+"score": 7,
+"justification": "It conveys specific information about zkSync's low fees, upcoming Dencun update, and ease of use for projects, offering useful insights for developers, meriting a medium‑high score."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet uses checkmarks and positive phrasing, indicating a moderately positive attitude toward the developments."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Details about upcoming updates and fee changes will stay relevant for several weeks to months as the network evolves, giving it a medium‑term impact."
+}
+}
+},
+{
+"tweet_id": "1732318081769185619",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Price‑prediction tweets often get shared within crypto circles, and this one has moderate engagement relative to the author's large follower base, suggesting medium viral potential."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet is speculative hype without factual data or analysis, offering very low informational content."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The language is highly enthusiastic about price gains, using exclamation points and rocket emojis, reflecting a very positive sentiment."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Such hype is tied to short‑term market sentiment and loses relevance quickly, resulting in a short impact window."
+}
+}
+},
+{
+"tweet_id": "1732308278259188112",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet reports a large ETH whale transaction, which can attract interest in the crypto community. However, the author's modest follower count and limited engagement keep its viral reach moderate."
+},
+"informative_value": {
+"score": 8,
+"justification": "It provides concrete data about a ~90 million USD ETH transfer to Kraken and the amount sent, offering high informational value for market watchers."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is factual and neutral, with no strong emotional language, resulting in a neutral sentiment rating."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Whale transaction news remains relevant for a few days as markets react, giving it a moderate short‑term impact."
+}
+}
+}
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1472196286271180803",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Announcing a major change in Ethereum's consensus mechanism is likely to be widely shared within the crypto community."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides a link to detailed information about Ethereum's transition, which is a significant technical update."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement of a technical change without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The transition to PoS is a foundational change that will remain relevant for years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1472002040230469632",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "A brief bio in Spanish with a link, unlikely to go viral beyond a niche audience."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Minimal information provided, just a mention of Vitalik Buterin."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral statement without emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "A bio tweet is only relevant for a short period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1471967904090386434",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Announcing a significant testnet launch for Ethereum's PoS, likely to be shared among enthusiasts."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides a link to a technical update, valuable for developers and enthusiasts."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive announcement about a major milestone."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The PoS testnet will be relevant for several months as it progresses."
+      }
+    }
+  },
+  {
+    "tweet_id": "1471881075148443654",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "A humorous take on Ethereum's price, likely to be shared within the crypto community."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "No factual information, just a joke."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive and humorous tone."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a few days as a funny meme."
+      }
+    }
+  },
+  {
+    "tweet_id": "1471451598404608009",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "A credible source's bullish stance on Ethereum is likely to be shared."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides a link to an article, offering valuable insights."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment about Ethereum's future."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for a week or two as market sentiment shifts."
+      }
+    }
+  },
+  {
+    "tweet_id": "1471293227626078208",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Criticism of Ethereum's congestion is likely to be shared among users."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides a critique of Ethereum's current state."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative sentiment about Ethereum's usability."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant for a few days as a common complaint."
+      }
+    }
+  },
+  {
+    "tweet_id": "1471240502691385347",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "A personal opinion about Ethereum's interest, unlikely to go viral."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "No factual information, just an opinion."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment about Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a few days as a personal opinion."
+      }
+    }
+  },
+  {
+    "tweet_id": "1471238658736930820",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Explains complex topics like MEV and Flashbots, likely to be shared among enthusiasts."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides a detailed explanation and link to research."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment about the technical aspects of Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "MEV is a relevant topic for several months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1471178240643448837",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Announcing a major partnership with environmental claims, likely to be widely shared."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides details on a significant business move and environmental impact."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive and enthusiastic tone."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The partnership and environmental claims will be relevant for months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1471173109998882819",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Introduces a useful tool for developers, likely to be shared within the niche."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Explains a new tool and provides a link."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment about the tool's utility."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The tool will be relevant for several months as developers adopt it."
+      }
+    }
+  }
+]

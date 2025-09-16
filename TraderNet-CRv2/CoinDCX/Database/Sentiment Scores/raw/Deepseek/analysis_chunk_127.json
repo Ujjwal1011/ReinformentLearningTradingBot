@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1572262118778609664",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Philosophical statement about Ethereum's purpose could resonate strongly within crypto communities, though lacks universal appeal."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Makes an ideological claim rather than providing factual information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone advocating for freedom through technology."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Evergreen ideological statements can remain relevant in crypto discourse for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1572241752635084800",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Broad industry prediction with hashtag could spread within crypto circles."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "States an opinion about future trends without supporting evidence."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Optimistic view about blockchain technology."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "General predictions typically have standard engagement lifespan."
+      }
+    }
+  },
+  {
+    "tweet_id": "1572210251713351686",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major financial institution news with institutional implications."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Concrete information about Nasdaq's new service offering."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement of business development."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Institutional adoption news could influence markets for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1572139360509624322",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Controversial regulatory claim presented as breaking news."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Specific legal assertion from a government agency with market implications."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Implied criticism through rhetorical question about jurisdiction claim."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Regulatory actions can have long-term industry consequences."
+      }
+    }
+  },
+  {
+    "tweet_id": "1572118169665572865",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "High engagement metrics and critical regulatory information."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Clear statement of regulatory position from authoritative source."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative implication of expanded government oversight."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Jurisdictional claims could affect crypto regulation for years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1571992949524942848",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Emotional reaction to regulatory news with strong engagement."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Adds commentary to existing news with specific node statistics."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Strong negative language ('YIKES!!! Scary precedent')."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Commentary on regulatory actions remains relevant for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1571988281222463489",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "High retweet count indicates strong sharing of regulatory news."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Links to detailed article about SEC jurisdiction claim."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Implied negative perspective through headline choice."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Linked article provides lasting reference material."
+      }
+    }
+  },
+  {
+    "tweet_id": "1571941657184210945",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Personal update mixed with market commentary has limited appeal."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Contains some market analysis but primarily personal status update."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral technical assessment of Ethereum merge outcomes."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Time-sensitive travel context and temporary market analysis."
+      }
+    }
+  },
+  {
+    "tweet_id": "1571905591693524994",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Contrarian take on failed prediction attracts engagement."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides verifiable data about price performance vs prediction."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative implication through highlighting failed forecast."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Price comparisons typically have short relevance cycles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1571724217082679297",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Highly relatable meme format with exceptional engagement metrics."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Pure humor without substantive information."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Playful teasing about investment advice outcomes."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Memes typically have short cultural relevance windows."
+      }
+    }
+  }
+]

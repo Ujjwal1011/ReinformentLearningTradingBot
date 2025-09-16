@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1438786804300255236",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news about a major company like PayPal integrating cryptocurrencies is likely to be widely shared among crypto communities and general tech audiences."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "The tweet provides factual information about a significant service update from PayPal, which is newsworthy and relevant to many users."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet is positive, announcing a new feature that expands financial options for users."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The announcement will remain relevant for weeks as users adopt the new service and discuss its implications."
+      }
+    }
+  },
+  {
+    "tweet_id": "1438746959364308995",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "An official announcement from PayPal UK about cryptocurrency support is likely to trend within crypto and finance communities."
+      },
+      "informative_value": {
+        "score": 10,
+        "justification": "The tweet is a direct, credible announcement from a reputable company, providing clear and actionable information."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tweet expresses excitement and positivity about the new service."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The update will be relevant for weeks as users integrate the new feature into their financial activities."
+      }
+    }
+  },
+  {
+    "tweet_id": "1438544567947640843",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The question about Ethereum's price is engaging and likely to be discussed among crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "The tweet is speculative and lacks detailed information or sources."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, posing a question without expressing a strong opinion."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The tweet's relevance is tied to the short-term interest in price speculation."
+      }
+    }
+  },
+  {
+    "tweet_id": "1438541006123716611",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The launch of Overledger Network is niche but relevant to blockchain developers and enthusiasts."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet provides technical details about a new blockchain solution, valuable for the target audience."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The tweet is positive, highlighting the capabilities of the new network."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The announcement will be relevant for weeks as the community discusses its implications."
+      }
+    }
+  },
+  {
+    "tweet_id": "1438478740032524289",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "The tweet discusses regulatory issues, which may interest a specific audience but lacks a broad appeal."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet provides insights into regulatory developments affecting cryptocurrencies."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, presenting a factual discussion on regulatory matters."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The tweet's relevance is tied to the ongoing Ripple case and regulatory discussions, which may last a few weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1438298684266098688",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "A major company like AMC announcing crypto payments is likely to trend widely in crypto and mainstream media."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "The tweet provides a significant update on a company's adoption of cryptocurrencies."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tweet is positive, indicating a forward-looking approach by the company."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The announcement will remain relevant for weeks as the feature is rolled out and discussed."
+      }
+    }
+  },
+  {
+    "tweet_id": "1438262656377425925",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet challenges lawmakers' understanding, sparking debate among crypto and political audiences."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "The tweet highlights a critical issue in cryptocurrency regulation."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "The tweet expresses criticism towards lawmakers, indicating negative sentiment."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The tweet's relevance is tied to ongoing regulatory discussions, which may last a few weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1438124072395812868",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet shares significant data about Ethereum's hard fork, likely to be shared among crypto communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "The tweet provides important information about Ethereum's network improvements."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet is positive, highlighting a successful network upgrade."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tweet's relevance will last for weeks as the community discusses the implications of the hard fork."
+      }
+    }
+  },
+  {
+    "tweet_id": "1438111196801024007",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet discusses regulatory definitions, which may interest a niche audience."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet provides insights into regulatory perspectives on cryptocurrencies."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, presenting a factual comparison of regulatory approaches."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The tweet's relevance is tied to ongoing regulatory discussions, which may last a few weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1437870430770053121",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "The tweet highlights a significant achievement of Ethereum, likely to be shared widely in crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet provides factual information about Ethereum's operational reliability."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tweet is positive, celebrating Ethereum's uptime record."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The tweet's relevance is long-lasting, as it highlights a foundational aspect of Ethereum's technology."
+      }
+    }
+  }
+]

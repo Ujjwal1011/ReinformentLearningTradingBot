@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1754825764896202877",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet references a timely Solana outage and includes a link, which can spark interest within the crypto community. The user’s 165k followers and the 1571 likes/201 retweets indicate moderate engagement, suggesting it could spread within niche circles but not globally."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "It points to a Solana outage and provides a link for more details, but the tweet itself offers minimal context or data, so its informational depth is average."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is a neutral statement about an outage, lacking strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The relevance of the outage will fade within a few hours to a day, so the tweet’s impact is short‑term."
+      }
+    }
+  },
+  {
+    "tweet_id": "1754613381250584833",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet poses a provocative question about the best narrative for 2024, encouraging replies and discussion. With 1.9M followers and 2446 replies, it shows high engagement potential across the crypto community."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "It lists yearly hype trends and invites speculation, providing a useful historical context for readers, though it lacks in-depth analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral and inquisitive, without strong positive or negative emotion."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The question remains relevant for weeks as the 2024 hype cycle unfolds, keeping the tweet in circulation."
+      }
+    }
+  },
+  {
+    "tweet_id": "1754578828679164110",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The rant about scams and coin quality can resonate with a segment of the crypto audience, and the user’s 352k followers plus 524 retweets indicate moderate spread."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "The tweet mainly expresses opinion and criticism, offering little new factual information."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "The language is strongly negative, criticizing scams and coin quality."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The rant is timely but will likely lose relevance as new topics emerge, giving it a short‑term impact."
+      }
+    }
+  },
+  {
+    "tweet_id": "1754531833604186175",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "A partnership between GoDaddy and ENS is a significant news event that can attract broad attention across both domain and crypto communities. The 3.4M followers and high engagement metrics confirm strong viral potential."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "The tweet announces a concrete partnership and explains the functionality, providing clear, verifiable information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral, simply reporting the news without emotional bias."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Domain-ENS integration is an evergreen development that will remain relevant for months, if not years, as it affects many users."
+      }
+    }
+  },
+  {
+    "tweet_id": "1754130433770700829",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet poses a question about a potential Bitcoin airdrop, which can spark discussion among crypto enthusiasts. The engagement metrics (1802 likes, 379 retweets) suggest moderate spread."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "It mentions past airdrops and hints at a future event, but lacks detailed data or sources."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral and inquisitive, with no strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The question will remain relevant for a few weeks as the crypto community speculates, but it is not a long‑term evergreen topic."
+      }
+    }
+  }
+]

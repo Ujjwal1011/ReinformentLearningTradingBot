@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1770594620969501035",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Addresses a niche audience with a specific interest in Ethereum, likely to be shared within crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides factual information about Ethereum, though it's a personal perspective."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone, presenting facts without strong emotion."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for a few days as it's tied to a specific event (ETP decision)."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770583816978985222",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news about blockchain ecosystems, likely to be shared widely among crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific data from CoinGecko, a reputable source."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone towards Solana, neutral towards Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for a week as it's a current trend."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770542015438061739",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Niche interest in crypto transactions, shared within specific communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides a transaction detail but lacks broader context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, factual report."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant for a few days as it's a specific transaction."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770536831542591997",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Positive sentiment about Ethereum, likely shared within crypto communities."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Personal opinion with some factual elements."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong positive sentiment towards Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant for a few days as it's a personal opinion."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770514270004121662",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "List of ecosystems, but in Hawaiian, limiting its reach."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides a list but lacks detailed analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral, presenting a list without emotion."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for a week as it's a ranking."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770490478443573339",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Breaking news with significant implications, likely widely shared."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Critical information about legal actions affecting Ethereum."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative sentiment due to legal challenges."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Long-term impact as it's a foundational legal issue."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770489004636475686",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Breaking news with a meme, likely to go viral."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides news but with a casual tone."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative sentiment towards the SEC's actions."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Long-term impact due to legal implications."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770488543896309800",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "News from a reputable source, likely shared widely."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Critical information from a credible outlet."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative sentiment about the SEC's campaign."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Long-term impact as it's a significant legal issue."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770486264568959408",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Direct and impactful news, likely widely shared."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides key information but is brief."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative sentiment towards the SEC's actions."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Long-term impact due to legal implications."
+      }
+    }
+  },
+  {
+    "tweet_id": "1770470520263209074",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Technical discussion about legal actions, shared within crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides analysis on a legal development."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative sentiment due to legal concerns."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Relevant for weeks as it's a significant legal event."
+      }
+    }
+  }
+]

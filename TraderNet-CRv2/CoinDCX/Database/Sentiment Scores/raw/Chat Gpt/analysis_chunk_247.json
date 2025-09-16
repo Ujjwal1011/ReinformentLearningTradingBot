@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1557170159026143232",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet shares a fun fact about a well-known figure, which can resonate with a broad audience. Its simple, shareable format and the presence of a hashtag (#Ethereum) increase its potential for sharing, but it lacks a breaking news hook, so it is moderately likely to go viral."
+},
+"informative_value": {
+"score": 6,
+"justification": "It provides a factual detail about Vitalik Buterin's age when writing the Ethereum whitepaper, which is a concrete piece of information. While not deeply technical, it adds knowledge about a key figure in crypto."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral and factual, with no strong emotional language."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The fact about Vitalik's age is evergreen and will remain relevant for a long time, making the tweet likely to be referenced repeatedly."
+}
+}
+},
+{
+"tweet_id": "1556743328774995971",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The tweet reports on a significant regulatory action (US sanctions on Tornado Cash addresses) and includes a strong emotional hook (big brother’s assault on crypto), making it highly shareable across crypto and mainstream audiences."
+},
+"informative_value": {
+"score": 8,
+"justification": "It delivers concrete, verifiable information about US sanctions, the freezing of USDC, and GitHub suspensions, providing a clear news update."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The tweet expresses a negative viewpoint toward the regulatory action, using words like big brother’s assault, indicating a moderately negative sentiment."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "While the sanctions are a specific event, the broader discussion about privacy services and regulation will continue for some time, giving the tweet a moderate lasting relevance."
+}
+}
+},
+{
+"tweet_id": "1556708643617312768",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet announces a new policy by Circlepay, which is relevant to the crypto community but not a headline-breaking event, so it has moderate potential for sharing."
+},
+"informative_value": {
+"score": 6,
+"justification": "It provides a factual update that Circlepay's USDC has blacklisted sanctioned addresses, which is useful information for users."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, simply stating the fact without emotional language."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The policy may remain relevant for a while, but it is tied to a specific action, giving it a moderate duration."
+}
+}
+},
+{
+"tweet_id": "1556706440726716416",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet discusses a unique event (Triple Halvening) tied to the upcoming Merge, a major topic in crypto, making it highly shareable among enthusiasts."
+},
+"informative_value": {
+"score": 7,
+"justification": "It explains a concept and its potential impact on ETH holders, offering educational content about a significant upcoming event."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, describing the event without strong positive or negative language."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The Merge and halving events are long-term milestones, so the tweet will remain relevant for months as discussions continue."
+}
+}
+},
+{
+"tweet_id": "1556637211537334272",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet announces a milestone (reclaimed $215B market cap) for Ethereum, which is a headline-worthy update likely to be widely shared."
+},
+"informative_value": {
+"score": 7,
+"justification": "It provides a concrete, verifiable figure about Ethereum's market cap, which is valuable news for investors and the community."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, simply reporting the fact."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Market cap milestones are significant but can change quickly; the tweet will remain relevant for a few weeks as the market evolves."
+}
+}
+}
+]

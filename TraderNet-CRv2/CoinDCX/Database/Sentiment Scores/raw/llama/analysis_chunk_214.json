@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1731926159489679804",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet discusses a specific solution for MEV on Ethereum, which might generate interest within the Ethereum and DeFi communities, but its technical nature limits broader virality."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides detailed information about a new solution for MEV, including its launch on Ethereum, making it informative for those interested in Ethereum and DeFi."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses a moderately positive sentiment, announcing a new solution in a neutral, informative manner without strong emotional language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The relevance of the tweet will last as long as the solution is novel and generates interest, likely remaining relevant for days or weeks within specific communities."
+}
+}
+},
+{
+"tweet_id": "1731898704813056304",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The optimistic forecast for $PAW in 2024, coupled with multiple relevant hashtags, could generate interest and sharing within cryptocurrency communities."
+},
+"informative_value": {
+"score": 4,
+"justification": "While the tweet mentions a prediction, it lacks specific, verifiable information, relying more on sentiment than fact."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses a very positive sentiment towards the future of $PAW, indicated by 'Sounds Really good!' and the forecast for 2024."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is tied to the immediate future (2024), but its impact will likely be short-lived, fading as new predictions emerge."
+}
+}
+},
+{
+"tweet_id": "1731896037395091955",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "The tweet's focus on a new project with specific, possibly niche, followers limits its broader virality potential."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet informs about a new project, @TalusFND, providing some context (being a next-gen rollup on Ethereum), which is useful for those tracking new Ethereum projects."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet maintains a neutral sentiment, simply announcing a new project without expressing emotion."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance will last as long as @TalusFND is considered a new or emerging project, potentially generating interest for days or weeks."
+}
+}
+},
+{
+"tweet_id": "1731895629977440707",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The universal theme of delayed gratification, tied to well-known cryptocurrencies, has the potential to resonate widely and be shared."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides insightful commentary on investment strategies, using Bitcoin, Ethereum, and HEX as examples, making it informative for investors."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses a very positive sentiment towards patient investing, encouraging readers with a message of future rewards."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The tweet's theme is evergreen, and its relevance can endure for months or even years as it discusses a fundamental investment strategy."
+}
+}
+},
+{
+"tweet_id": "1731891842529058920",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet's niche focus on VeeFriends might limit its virality to the specific community interested in such collectibles."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet informs about a specific item on OpenSea, but its utility is highly niche, limited to those interested in VeeFriends collectibles."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet expresses a moderately positive sentiment, suggesting the item is 'nice' for newcomers to vf1."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is short-lived, tied to the immediate interest in the specific collectible on OpenSea."
+}
+}
+},
+{
+"tweet_id": "1731884828692476170",
+"analysis": {
+"virality_potential": {
+"score": 2,
+"justification": "The tweet's vague offer without context ('Any takers? 20e') lacks a clear hook to generate significant interest or sharing."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet lacks clear, useful information, making it uninformative without additional context."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet's sentiment is neutral, as it poses a question without expressing a clear emotion."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "The tweet's relevance is extremely short-lived, as its purpose is to solicit an immediate response."
+}
+}
+},
+{
+"tweet_id": "1731875431412867568",
+"analysis": {
+"virality_potential": {
+"score": 1,
+"justification": "The tweet's personal, localized content (a personal achievement and visit to a college) has very low potential for broad sharing."
+},
+"informative_value": {
+"score": 3,
+"justification": "While the tweet informs about a personal achievement, its scope is highly personal and not broadly informative."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The tweet expresses a very positive sentiment, indicated by 'Amazing day' and the announcement of a first division 3 offer."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "The tweet's relevance is very short-lived, primarily of interest to the individual's immediate network."
+}
+}
+},
+{
+"tweet_id": "1731873565362855966",
+"analysis": {
+"virality_potential": {
+"score": 1,
+"justification": "The tweet's focus on a specific, niche transaction (NimBuds #88) limits its potential for broad sharing."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides specific, verifiable information about a transaction, which is informative for those tracking NimBuds or the buyer/seller."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet maintains a neutral sentiment, simply reporting on a transaction without emotional tone."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "The tweet's relevance is extremely short-lived, as its utility is primarily for immediate awareness of the transaction."
+}
+}
+},
+{
+"tweet_id": "1731872429750792263",
+"analysis": {
+"virality_potential": {
+"score": 2,
+"justification": "The tweet's niche focus on a FLUF #8227 sale limits its potential for broad sharing, appealing mainly to FLUF collectors."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides detailed, verifiable information about a specific sale, making it informative for those interested in FLUF or the Ethereum market."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet maintains a neutral sentiment, simply reporting on a sale without expressing emotion."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is short-lived, primarily of interest until newer sales or market movements overshadow it."
+}
+}
+},
+{
+"tweet_id": "1731847239209795905",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet's use of hashtags like #Ethereum and #PulseChain might generate some interest within those communities, but its overall impact is limited."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet lacks clear, useful information, making it uninformative beyond expressing enthusiasm for a project."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses a very positive sentiment, indicated by 'LFG!' and the context of supporting a project."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is short-lived, tied to the immediate enthusiasm for the project mentioned."
+}
+}
+}
+]

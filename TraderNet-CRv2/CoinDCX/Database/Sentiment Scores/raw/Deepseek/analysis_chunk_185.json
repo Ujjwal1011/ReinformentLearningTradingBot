@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1732191100524171353",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Personal NFT promotion with minimal engagement drivers. Targets a niche crypto audience but lacks broad appeal."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Primarily a sales pitch for a specific NFT with no verifiable data or educational content."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone expressing gratitude and excitement about listing the NFT."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Relevance ends once the NFT is sold or the listing expires."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732190739948544470",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Multiple crypto-related hashtags could drive engagement within Web3 communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Vague promotional content without specific details about the project."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Enthusiastic tone with rallying hashtags like #pikaarmy."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Standard crypto promotion lifespan unless the project gains traction."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732190722500002011",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Generic crypto hashtags with a link but no engaging content."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No substantive information - just hashtags and an unspecified link."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of crypto terms without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Immediately irrelevant without context for the link."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732190695316652256",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Market analysis content that could interest crypto investors during bull market anticipation."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides analysis of upcoming crypto projects through linked article."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting style without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant through 2024-2025 if market predictions hold."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732190681110655184",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Trading update with niche hashtags but limited broad appeal."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Personal trading strategy without educational context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral description of trade adjustment."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Only relevant until the trade is closed or market changes."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732190576764764519",
+    "analysis": {
+      "virality_potential": {
+        "score": 2,
+        "justification": "Technical question about crypto mining with very narrow audience."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Specific query about payout mechanics without broader insights."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral question format without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Relevance ends when question is answered."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732190434221490594",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Niche appeal to Bitcoin enthusiasts interested in fiction."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Announces and links to a substantive book review."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement of a book review."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Could remain relevant while the book is discussed in crypto circles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732190345968955744",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking regulatory news about Ethereum ETF with broad crypto market implications."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Newsworthy SEC decision affecting major cryptocurrency."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of regulatory action."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Will remain relevant until SEC makes final decision."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732190340835070372",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Giveaway announcement with strong engagement metrics (53 likes, 20 retweets)."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Promotes decentralized AI concept with technical details about token requirements."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Enthusiastic promotion using multiple exclamation points."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant while the giveaway remains active and tokens hold value."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732190302616641582",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High engagement (42 likes, 23 RTs) for anticipated product launch in active community."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Detailed announcement about NFT collection launch with specific event details."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Excited language ('delighted', 'highly-anticipated') with emoji emphasis."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Will remain relevant through mint event and subsequent collection activity."
+      }
+    }
+  }
+]

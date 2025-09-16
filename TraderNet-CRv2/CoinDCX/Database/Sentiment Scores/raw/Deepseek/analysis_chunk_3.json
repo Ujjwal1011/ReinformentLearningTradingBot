@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1314714956131164161",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Provocative comparison between major cryptocurrencies likely to spark debates within crypto communities."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Opinion-based statement with no factual content or verifiable information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral challenge format without explicit positive/negative emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Debates about crypto comparisons typically remain relevant for days in fast-moving markets."
+      }
+    }
+  },
+  {
+    "tweet_id": "1313959574244859905",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Technical discussion about Ethereum infrastructure likely to circulate within developer communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides concrete details about Ethereum's architecture and decentralization features."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral technical explanation without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Discussions about blockchain decentralization remain relevant for weeks in tech circles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1313943695016767488",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Controversial claim about cloud infrastructure dependency likely to spark widespread debate."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Highlights potential vulnerability in decentralized systems with real-world implications."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Skeptical tone criticizing decentralization claims through sarcasm ('Uncle Jeff')."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Infrastructure dependency discussions remain relevant for weeks in tech policy debates."
+      }
+    }
+  },
+  {
+    "tweet_id": "1313228298642575360",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Milestone announcement with celebratory elements likely to be shared within crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Concrete user growth metric with link to detailed analysis."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive emotional language ('humbled', 'vibrant community', celebratory emoji)."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "User growth metrics remain relevant for weeks as industry benchmark."
+      }
+    }
+  },
+  {
+    "tweet_id": "1313035954358292482",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "High-engagement giveaway structure incentivizes mass sharing and participation."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Promotional content with no substantive information beyond contest mechanics."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive framing around giveaway opportunity but lacks deeper emotional content."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Time-bound promotion becomes irrelevant after contest conclusion."
+      }
+    }
+  },
+  {
+    "tweet_id": "1333478962576715777",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major platform announcement about Ethereum upgrade likely to circulate widely in crypto markets."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides critical timeline and policy information about a fundamental blockchain upgrade."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral corporate announcement tone without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "ETH2 transition represents multi-year infrastructure change with lasting implications."
+      }
+    }
+  },
+  {
+    "tweet_id": "1332047468004077569",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Technical security disclosure with dramatic framing likely to engage developer communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Details critical infrastructure vulnerability and its resolution process."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Mix of concern and technical satisfaction without clear emotional valence."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Security disclosures remain reference points for months in software development."
+      }
+    }
+  },
+  {
+    "tweet_id": "1331899357562454016",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Market data presented in concise format likely to be shared as reference."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific price movement data for major cryptocurrencies."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative price movement presented without contextual analysis."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Price snapshots become outdated within days as markets fluctuate."
+      }
+    }
+  },
+  {
+    "tweet_id": "1331639190526824454",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Provocative market analysis likely to spark discussion among traders."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Lacks supporting data or analysis for comparative claim."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral declarative statement about market conditions."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Market commentary typically remains relevant for days unless supported by deeper analysis."
+      }
+    }
+  },
+  {
+    "tweet_id": "1324018999458295809",
+    "analysis": {
+      "virality_potential": {
+        "score": 10,
+        "justification": "Landmark technical release from Ethereum's creator with massive industry implications."
+      },
+      "informative_value": {
+        "score": 10,
+        "justification": "Primary source announcement of critical infrastructure component for ETH2 upgrade."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral technical announcement without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 10,
+        "justification": "Foundational component of multi-year blockchain upgrade with decade-long implications."
+      }
+    }
+  }
+]

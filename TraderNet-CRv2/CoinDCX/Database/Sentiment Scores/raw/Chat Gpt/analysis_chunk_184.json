@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1526724640994906113",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet announces a major market cap milestone for Ethereum using 'JUST IN', a breaking‑news style hook, which is likely to be shared widely within the crypto community and may attract broader attention due to the large $250 billion figure."
+},
+"informative_value": {
+"score": 7,
+"justification": "It provides a concrete, newsworthy data point (Ethereum's $250 billion market cap), which is factual and relevant to investors."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The language is neutral, simply stating a fact without emotive words."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Market‑cap news is tied to short‑term price movements; interest typically wanes after a few days."
+}
+}
+},
+{
+"tweet_id": "1526681603010871296",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "A humorous, speculative comment about Vitalik moving to Bitcoin can generate retweets among crypto enthusiasts but lacks a broader hook, giving it moderate viral potential."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet is a personal opinion with no verifiable information or new data."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tone is playful and mildly positive, expressing surprise in a light‑hearted way."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevance is limited to the moment of posting; it will likely lose traction within hours or a day."
+}
+}
+},
+{
+"tweet_id": "1526634062944903168",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "A strong critical statement about Ethereum, accompanied by flag emojis and a link, can spark debate and be shared within crypto circles, giving it medium‑high viral potential."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet offers a critical viewpoint but does not present supporting facts or data, resulting in low informational value."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The language is sharply negative, calling Ethereum an 'illusion of decentralization' and using warning emojis."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Debates about Ethereum's scalability and decentralization can persist for days to weeks, giving the tweet medium‑term relevance."
+}
+}
+},
+{
+"tweet_id": "1526420435897810949",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Bold, provocative claims about multiple blockchain projects (Luna, Solana, Polygon, Ethereum, Cardano) are likely to provoke strong reactions and shares, especially among supporters of Cardano, resulting in high viral potential."
+},
+"informative_value": {
+"score": 2,
+"justification": "The statements are speculative and lack evidence, providing little factual information."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "The tweet is largely negative toward other blockchains while celebrating Cardano, resulting in a moderately negative overall tone."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The relevance is tied to current blockchain competition and is expected to fade after a short period (a few days)."
+}
+}
+},
+{
+"tweet_id": "1526413115621052416",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "A lengthy, humor‑laden list of criticisms across several crypto topics can resonate with niche audiences and be retweeted for its wit, giving it medium‑high viral potential."
+},
+"informative_value": {
+"score": 4,
+"justification": "While it mentions several factual issues (e.g., UST instability), the tweet mainly offers commentary without depth or sources, resulting in low informational value."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The overall tone is strongly negative, expressing disappointment and criticism across many points."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet reflects current crypto frustrations and will likely be of interest for only a short time before the conversation moves on."
+}
+}
+}
+]

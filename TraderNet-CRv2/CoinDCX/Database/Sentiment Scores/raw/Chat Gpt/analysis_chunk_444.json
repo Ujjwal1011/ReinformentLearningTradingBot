@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1741675379780194740",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet summarizes multiple high-profile crypto events that are likely to be widely shared among the crypto community and beyond."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It provides a concise summary of significant regulatory and corporate developments in the crypto space, offering readers clear factual information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet presents facts without expressing strong positive or negative emotions."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "While the news remains relevant for some time, the recap is tied to 2023 events and may lose relevance as new developments arise."
+      }
+    }
+  },
+  {
+    "tweet_id": "1763341468691759583",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet poses a provocative claim and invites debate, which can generate moderate sharing within the crypto community."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "The tweet expresses an opinion without providing verifiable facts or context."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "The tweet conveys a negative opinion about Ethereum's usability."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The tweet is tied to a specific claim about Ethereum and may only be relevant for a short period as discussions evolve."
+      }
+    }
+  },
+  {
+    "tweet_id": "1763215419433759187",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet announces a record-breaking bid for a CryptoPunk, which is likely to attract attention from collectors and the broader crypto community."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It gives precise details about a significant transaction in the NFT space, providing valuable information to interested parties."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet simply reports a transaction without expressing sentiment."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The tweet reports a specific transaction that may remain of interest for collectors and market analysts for some time, but it is tied to a single event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1763187443379913003",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "The tweet is a personal warning that may attract some attention from followers but is unlikely to go viral."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "It informs followers about potential impersonation and encourages vigilance."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "The tweet expresses a mild concern about impersonation but remains largely neutral."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The tweet addresses a specific impersonation issue that may be relevant for a short period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1763021289999266035",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet announces a limited-time airdrop, which can generate moderate sharing among interested users."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "It provides specific details about the airdrop deadline and encourages participation."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The tweet conveys a sense of urgency and excitement about the airdrop."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The tweet's relevance is tied to a short 6-hour window, after which it loses relevance."
+      }
+    }
+  }
+]

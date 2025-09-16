@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1333743998637400073",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet is from the official Ethereum account, which has a large following, and the mention of #eth2 could attract attention within the crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "The link likely provides detailed information about Ethereum's Genesis, making it informative."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply announcing something."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The update could remain relevant for a few days as people discuss it."
+}
+}
+},
+{
+"tweet_id": "1355939489143803905",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The mention of a market event could attract attention, but the user is a bot, reducing credibility."
+},
+"informative_value": {
+"score": 4,
+"justification": "It's a brief statement without context, so minimal information."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "Negative sentiment about the market movement."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant only for a short period as market events change quickly."
+}
+}
+},
+{
+"tweet_id": "1355629610608840704",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Predictions from a known analyst can spark discussions."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides specific price targets, which is informative."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Optimistic predictions, positive sentiment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "People may discuss these predictions for a week or two."
+}
+}
+},
+{
+"tweet_id": "1355300945001934851",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Just market data, not very engaging."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides current market cap figures."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral presentation of data."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Market caps change quickly, so short-lived."
+}
+}
+},
+{
+"tweet_id": "1355259561268154368",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Specific update, less likely to go viral."
+},
+"informative_value": {
+"score": 8,
+"justification": "Details about Grayscale's shares, informative."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, factual information."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant only for the time of the event."
+}
+}
+},
+{
+"tweet_id": "1355159836971970564",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Controversial opinion, could spark debate."
+},
+"informative_value": {
+"score": 5,
+"justification": "Opinion-based, not factual."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive promotion of Ethereum."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Tied to the GameStop event, short-lived."
+}
+}
+},
+{
+"tweet_id": "1355131681657679878",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Aggressive statement, likely to get attention."
+},
+"informative_value": {
+"score": 4,
+"justification": "Predictive, not factual."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "Very positive sentiment."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant only for the prediction period."
+}
+}
+},
+{
+"tweet_id": "1355128728376889348",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Strong declaration, likely to be shared."
+},
+"informative_value": {
+"score": 4,
+"justification": "Opinion without context."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "Very positive sentiment."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short-lived due to the specific event."
+}
+}
+},
+{
+"tweet_id": "1354999123582152704",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Surprising volume news, likely to spread."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides specific numbers, informative."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive about Doge's performance."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant only for the event's duration."
+}
+}
+},
+{
+"tweet_id": "1354907793057325069",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Hyped prediction, likely to attract attention."
+},
+"informative_value": {
+"score": 5,
+"justification": "Predictive, not factual."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment about Ethereum."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant only for the prediction period."
+}
+}
+}
+]

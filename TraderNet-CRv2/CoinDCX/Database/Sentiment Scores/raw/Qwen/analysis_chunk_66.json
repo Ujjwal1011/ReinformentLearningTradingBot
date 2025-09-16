@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1494858301095686149",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Promotional tweet with a call to action, likely to be shared within the crypto community but not beyond."
+},
+"informative_value": {
+"score": 4,
+"justification": "Provides information about an upcoming event but lacks detailed context."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral promotional message without strong emotional tone."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant only until the event occurs, short-term impact."
+}
+}
+},
+{
+"tweet_id": "1494842321048948737",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Meeting between a governor and a crypto founder, likely to be shared widely in crypto circles."
+},
+"informative_value": {
+"score": 8,
+"justification": "Announces a significant collaboration, providing newsworthy information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive tone with excitement about the collaboration."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for a few days as news, but may have longer impact due to the partnership."
+}
+}
+},
+{
+"tweet_id": "1494652102685380619",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Motivational story about crypto success, likely shared within crypto communities."
+},
+"informative_value": {
+"score": 4,
+"justification": "Anecdotal story without detailed information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive and encouraging tone."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant for a short period as a specific story."
+}
+}
+},
+{
+"tweet_id": "1494292082688729096",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Comparison to PayPal, may attract attention within crypto discussions."
+},
+"informative_value": {
+"score": 4,
+"justification": "Unclear context, but sparks curiosity."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "Negative comparison to PayPal."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short-term relevance as a comparison."
+}
+}
+},
+{
+"tweet_id": "1494288249849851912",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Announcement about stock exchange, likely shared in crypto and finance circles."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides newsworthy information about trading options."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive announcement."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevant for a few days as news."
+}
+}
+},
+{
+"tweet_id": "1494061144880959488",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Price predictions, may attract attention but not widely shared."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides predictions but without detailed analysis."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive outlook on prices."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant until the predictions are tested."
+}
+}
+},
+{
+"tweet_id": "1494032182263914504",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Breaking news about Twitter adding Ethereum tipping, likely widely shared."
+},
+"informative_value": {
+"score": 8,
+"justification": "Announces a significant feature addition."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive announcement."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for days as news, may have longer impact."
+}
+}
+},
+{
+"tweet_id": "1494031702154530822",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Critical comparison, may be shared in crypto discussions."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides a comparison but lacks detailed context."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Negative comparison."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short-term relevance as a comparison."
+}
+}
+},
+{
+"tweet_id": "1494030738463019008",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Breaking news about Twitter adding Ethereum tipping, likely widely shared."
+},
+"informative_value": {
+"score": 8,
+"justification": "Announces a significant feature addition."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive announcement."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for days as news, may have longer impact."
+}
+}
+},
+{
+"tweet_id": "1494030186404323334",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Breaking news from a reputable source, likely to be widely shared."
+},
+"informative_value": {
+"score": 9,
+"justification": "Announces a significant feature addition with a reputable source."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Positive and exciting announcement."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Relevant for days to weeks as news, may have longer impact."
+}
+}
+}
+]

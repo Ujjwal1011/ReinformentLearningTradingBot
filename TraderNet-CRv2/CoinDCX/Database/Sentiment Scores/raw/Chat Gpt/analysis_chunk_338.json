@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1735337367341318443",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major financial institution's prediction about crypto, likely to be shared widely, high engagement, trending topic."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Direct statement from JPMorgan, credible source, provides new information about market expectations."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Informative statement, no emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Prediction remains relevant for the year, but may lose relevance after 2024."
+      }
+    }
+  },
+  {
+    "tweet_id": "1735088803440623908",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Promotional content with niche audience, moderate engagement."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific steps for obtaining tokens, but limited to niche audience."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive tone about free service, but not strongly emotional."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Promotional content tied to current availability, likely short-lived."
+      }
+    }
+  },
+  {
+    "tweet_id": "1735064692035305638",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Promotes a tool, may be shared within community."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Useful for those wanting to reduce gas fees."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive tone about cost savings."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Tool remains relevant for some time, but may lose relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1734787856667676803",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Useful info for a specific group, may be shared within community."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Clear instructions, actionable."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Informative, no strong emotion."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant until airdrop period ends."
+      }
+    }
+  },
+  {
+    "tweet_id": "1734700911719555580",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Community announcement, may be shared within community."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Informative for community."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive tone, emojis, excitement."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Program may be ongoing."
+      }
+    }
+  }
+]

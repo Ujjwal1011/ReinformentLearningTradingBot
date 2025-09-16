@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1732183351405257130",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Crypto memes often gain traction within niche communities, and the use of popular coin references increases shareability potential."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Primarily a humorous comparison of meme coins without substantive educational content or verifiable data."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone implied through the 'hidden gem' metaphor and celebratory emoji usage."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Meme-based content typically has short relevance cycles in fast-moving crypto markets."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732183346120433707",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Contains multiple news items relevant to crypto investors, but language barrier limits broader sharing potential."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides three distinct updates about ETF decisions, corporate filings, and exchange features with supporting links."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of factual updates without clear emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "SEC-related news typically remains relevant for days, while exchange updates have medium-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732183214264045637",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Technical analysis of blockchain fees may circulate within developer communities but lacks mass appeal."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Offers comparative insight into Ethereum layer-2 solutions with specific criticism about fee structures."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Critically neutral tone highlighting operational challenges without overt negativity."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Ongoing discussions about blockchain scalability ensure medium-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732182552457142727",
+    "analysis": {
+      "virality_potential": {
+        "score": 2,
+        "justification": "Cryptic message with niche terminology ($wen) limits understanding and sharing potential."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "Contains no verifiable information or context beyond a broken 'mental barrier' reference."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Capitalized 'BROKEN' suggests positive breakthrough sentiment in context."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Abstract statement loses relevance immediately after parsing."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732182446257631333",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Multi-chain NFT integration news could spread across crypto communities through technical channels."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Clearly lists supported blockchain networks with product update details."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive emoji and exclamation mark indicate enthusiasm about the update."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Product feature announcements typically maintain relevance for weeks in tech circles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732182404234678343",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Vague price reference with limited context reduces shareability beyond crypto traders."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Lacks specific data or references to support market commentary."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral market observation without clear positive/negative indicators."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Transient price commentary becomes irrelevant with market fluctuations."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732182391559483603",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High engagement metrics and controversial take on blockchain economics drive sharing potential."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides substantive analysis of blockchain token distribution mechanisms with thread expansion."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Analytical tone discussing economic mechanisms without overt emotion."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Fundamental discussions about blockchain economics maintain relevance for months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732181565319364916",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Political/technical critique may circulate within Spanish-speaking crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Explains blockchain consensus mechanisms while critiquing institutional implementation."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative tone implied through criticism of government system implementation."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Institutional blockchain critiques remain relevant through election cycles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732181534847996246",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Historical price analysis has limited virality potential without current news hooks."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific historical price points and team behavior context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral retrospective analysis with speculative future projection."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Price history comparisons typically have short-term relevance cycles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732181190684062055",
+    "analysis": {
+      "virality_potential": {
+        "score": 1,
+        "justification": "Routine blockchain transaction alerts rarely gain significant traction."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Reports specific on-chain activity but lacks broader context or analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Purely factual transaction reporting without emotional valence."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Transaction data becomes outdated within hours in fast-moving markets."
+      }
+    }
+  }
+]

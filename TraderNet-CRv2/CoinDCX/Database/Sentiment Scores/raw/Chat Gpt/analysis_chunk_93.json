@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1472964802058375168",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet is a humorous personal anecdote about meeting the Ethereum creator, which may attract interest within crypto and meme communities, but lacks a broad hook for global virality."
+},
+"informative_value": {
+"score": 2,
+"justification": "It provides only a personal story with no verifiable facts or news; therefore it offers very low informational content."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tone is light‑hearted and positive, expressing amusement about the encounter."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevance is tied to a specific moment and personal anecdote, so it is likely to fade within a few days."
+}
+}
+},
+{
+"tweet_id": "1472957947546324993",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "A satirical future‑scenario meme that is funny and shareable within meme and finance circles, but it does not contain a universally compelling hook."
+},
+"informative_value": {
+"score": 2,
+"justification": "The content is fictional and speculative, offering no factual or newsworthy information."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet ends with \"Life is good\" and conveys an upbeat, optimistic mood."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "As a meme about a hypothetical future, it may be referenced for a short period but is unlikely to stay relevant long term."
+}
+}
+},
+{
+"tweet_id": "1472920313927110659",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Political meme targeting a well‑known Argentine figure can spread quickly within local political discourse, giving it medium‑high viral potential."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet is an opinionated jab without factual data, providing only low informational value."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "It expresses a mocking, negative sentiment toward Larreta, indicating strong disapproval."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Its relevance is tied to current political conversations and may persist for days to weeks, but not beyond that."
+}
+}
+},
+{
+"tweet_id": "1472913976367460358",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The clear comparison of centralized platforms versus decentralized protocols is shareable among tech and crypto audiences, giving it medium‑high viral potential."
+},
+"informative_value": {
+"score": 5,
+"justification": "It conveys a conceptual distinction (presence of CEOs) but does not provide new factual data, placing it at a neutral informational level."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tone encourages choosing decentralized tools, reflecting a moderately positive stance."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Debates about centralization versus decentralization are ongoing, so the tweet can remain relevant for months or years."
+}
+}
+},
+{
+"tweet_id": "1472897066322038784",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "A humorous meme contrasting the Ethereum creator with a beginner HTML/CSS student is likely to be shared within crypto and meme communities, giving it medium‑high viral potential."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet is a joke with no factual or educational content, resulting in very low informational value."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tone is playful and mildly positive, not expressing strong negativity."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Its relevance is tied to a specific meme format and may persist for a short to medium period."
+}
+}
+}
+]

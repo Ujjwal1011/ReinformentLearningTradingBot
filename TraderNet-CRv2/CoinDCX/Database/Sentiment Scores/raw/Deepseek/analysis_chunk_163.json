@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1724074738778030256",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Announcement from a major financial institution about crypto derivatives likely to attract significant attention in finance/crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific, verifiable information about a new financial product launch with clear asset classes mentioned."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement without emotional language or explicit bias."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Product launches typically remain relevant for weeks as markets digest implications."
+      }
+    }
+  },
+  {
+    "tweet_id": "1723912570329833584",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Speculative investment advice tied to Apple's brand could drive shares in crypto communities."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Makes an unsubstantiated prediction without supporting evidence or context."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive encouragement to take action (buy Ethereum) with emoji reinforcement."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance depends entirely on unconfirmed future Apple announcement."
+      }
+    }
+  },
+  {
+    "tweet_id": "1723372846125060258",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Niche NFT market activity primarily relevant to crypto art collectors."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Specific transaction details but limited broader context or significance."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual reporting without emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Individual NFT bids typically have short-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1723005252792725762",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "High-value derivatives expiration event notable for crypto traders."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Quantified market data with specific asset classes and expiration timing."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of market event."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Primarily relevant on expiration date with short-term market impact."
+      }
+    }
+  },
+  {
+    "tweet_id": "1722973131374010559",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Technical breakthrough claims (4000x cheaper) likely to engage crypto developers."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Detailed technical roadmap with partner collaboration specifics."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Enthusiastic tone about technological progress with emoji emphasis."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Infrastructure developments typically have medium-term relevance as implementations roll out."
+      }
+    }
+  },
+  {
+    "tweet_id": "1722731099174920303",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Historic ETF filing from world's largest asset manager guarantees widespread coverage."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Specific regulatory milestone with institution name and filing details."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual announcement without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "ETF approval processes typically remain relevant for months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1722729581801586936",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "BREAKING format and ETF confirmation drives immediate shares despite lower authority."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Confirms major financial product but lacks specific filing details."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of confirmation."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Tied to long-term regulatory process similar to main announcement."
+      }
+    }
+  },
+  {
+    "tweet_id": "1722727779186119074",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Specific regulatory filing details from verified account attract industry attention."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Includes specific form type (19b-4) and filing destination."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral update with factual content."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Regulatory filings remain reference points throughout approval processes."
+      }
+    }
+  },
+  {
+    "tweet_id": "1722716974302576982",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Controversial claims about transaction costs may drive debate in crypto circles."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Promotional content with unverified performance claims and fundraising numbers."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive framing of solution's benefits."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Technology adoption claims could remain relevant for weeks if debated."
+      }
+    }
+  },
+  {
+    "tweet_id": "1722690040793358634",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Large stablecoin minting notable for crypto markets but routine occurrence."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Specific transaction details with USD equivalent valuation."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of treasury activity."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Individual minting events typically have short-term market relevance."
+      }
+    }
+  }
+]

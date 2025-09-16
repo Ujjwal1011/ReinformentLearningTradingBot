@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1732194091444699211",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "The tweet contains only a brief statement with multiple crypto mentions but lacks a compelling hook or content, making it unlikely to spread widely beyond the author's followers."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "It offers no factual information or context beyond the word 'EASY', so it is not informative."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The word 'EASY' is neutral in tone, with no clear positive or negative emotion expressed."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "The tweet is a fleeting statement tied to a moment and is unlikely to remain relevant beyond a short period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732194046192267659",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet details a specific NFT sale with loss figures, which may attract attention within the NFT community but is unlikely to go viral globally."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "It provides concrete numbers about the sale, payment, loss, and remaining ETH, giving factual insight into the transaction."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "The tweet highlights a significant financial loss, expressing a negative sentiment."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The information is tied to a specific event and will likely lose relevance once the market moves on, making it short-term."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732193881360330891",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet promotes a call to action for burning multiple coins, which could resonate within the crypto community but is not a globally viral hook."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "It mainly serves as marketing content with no new factual data, so its informative value is limited."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The language is enthusiastic and encouraging, conveying a very positive tone."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The promotional message may remain relevant for a while as part of ongoing marketing, but it is not a timeless piece."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732193297609986385",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "A bullish statement about Ethereum may attract some retweets among traders, but it lacks a unique hook for widespread sharing."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "It offers a brief market opinion but no detailed analysis or data, so its informativeness is modest."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tweet expresses optimism about Ethereum staying above $2,000, reflecting a very positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Such short-term market commentary typically fades after a day or two, making its impact short-lived."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732193186783666354",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet poses a question to a niche audience, which could spark discussion within that community but is unlikely to go viral."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "It is a question rather than a factual statement, so it provides limited information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral, simply asking for reasons without expressing strong emotion."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The question may generate replies for a few days, but it is not expected to sustain long-term relevance."
+      }
+    }
+  }
+]

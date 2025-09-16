@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1358658137020985344",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "A standard 24‑hour crypto price summary is useful but not inherently share‑worthy beyond the crypto community."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides concrete price changes for several major cryptocurrencies, offering factual data to readers."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, simply reporting numbers without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Price updates are relevant for a day or two before becoming outdated."
+      }
+    }
+  },
+  {
+    "tweet_id": "1358037418918699010",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news about a large institutional purchase ahead of a major futures launch is likely to be widely shared."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Shares a verifiable fact about a significant market move, providing newsworthy information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is factual and neutral, with no overt emotional language."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The news remains relevant for several days as the futures launch approaches."
+      }
+    }
+  },
+  {
+    "tweet_id": "1357743313974099970",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "A playful meme‑style question about coin tosses is likely to be shared within crypto and sports communities."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "The tweet offers no factual or educational content, just a humorous prompt."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tone is upbeat and playful, expressing positive enthusiasm."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Meme relevance typically lasts a few days before fading."
+      }
+    }
+  },
+  {
+    "tweet_id": "1357280964326612994",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Hype‑filled statements about multiple cryptocurrencies can resonate with the crypto community and be shared."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "The tweet is purely promotional hype with no factual data."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "The tweet expresses strong positive excitement and enthusiasm."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Hype content tends to lose relevance quickly after the initial buzz."
+      }
+    }
+  },
+  {
+    "tweet_id": "1356738181828345857",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "A brief price update with emojis is useful but not highly shareable beyond the immediate audience."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides a specific price point for Ethereum, offering factual information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The rocket emojis and concise format convey a positive, bullish sentiment."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Price information is relevant for a short period before it becomes outdated."
+      }
+    }
+  }
+]

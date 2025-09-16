@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1732412721407377627",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet makes a market prediction about a major cryptocurrency, which can attract attention within crypto circles, but lacks a strong emotional hook or breaking news, limiting broader virality."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet offers a personal forecast without supporting data or context, providing minimal factual information."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "The wording indicates a negative outlook for Ethereum's performance, but lacks strong emotional language."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is tied to the current market cycle and will likely fade after the cycle concludes."
+}
+}
+},
+{
+"tweet_id": "1732403187251118225",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet references a niche Japanese pop culture incident and offers a humorous critique, which may resonate within specific Japanese-speaking circles but lacks broader appeal."
+},
+"informative_value": {
+"score": 3,
+"justification": "It mentions a minor controversy but offers no factual details or sources, serving mainly as personal commentary."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The tweet conveys a critical, slightly negative tone toward the gravure incident and the perceived shortcomings of elite-educated men."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The relevance is limited to the brief period of the controversy and will likely fade quickly."
+}
+}
+},
+{
+"tweet_id": "1732394772827164804",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet poses a speculative question about major crypto price milestones, which can attract interest and shares within the crypto community, though it lacks a strong emotional hook for broader virality."
+},
+"informative_value": {
+"score": 2,
+"justification": "It merely asks a speculative question without providing data or context, offering minimal informational content."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is phrased as an inquiry without evident positive or negative sentiment."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet remains relevant as long as the price targets are discussed, but its generic nature limits long-term impact."
+}
+}
+},
+{
+"tweet_id": "1732382784189276580",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet celebrates a significant milestone for a popular Ethereum educational series, generating strong engagement within the crypto community, though its appeal is niche."
+},
+"informative_value": {
+"score": 7,
+"justification": "It provides concrete information about a substantial repository of free Ethereum educational material, which can be valuable to the audience."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The language expresses strong positive emotions and gratitude, celebrating an achievement."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The content points to a lasting educational resource that can be referenced for months or years, giving the tweet extended relevance."
+}
+}
+},
+{
+"tweet_id": "1732366025700802942",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet delivers a sharply worded critique of a major crypto exchange, using strong language that can resonate within anti-centralization circles, leading to moderate sharing."
+},
+"informative_value": {
+"score": 4,
+"justification": "It reports a personal notification and expresses an opinion, offering limited factual information."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The language conveys strong negative emotions and disdain toward Coinbase."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "While the sentiment may persist, the specific notification is a fleeting event, limiting long-term relevance."
+}
+}
+}
+]

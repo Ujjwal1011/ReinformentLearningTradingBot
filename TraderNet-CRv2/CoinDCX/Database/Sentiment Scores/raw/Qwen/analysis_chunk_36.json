@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1460537319186997250",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The giveaway announcement is likely to be shared within the crypto community, but it's not a global trend."
+},
+"informative_value": {
+"score": 4,
+"justification": "Provides information about a giveaway but is primarily promotional."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive and encouraging tone."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant only during the giveaway period."
+}
+}
+},
+{
+"tweet_id": "1460492220646113284",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Niche topic, unlikely to go viral beyond blockchain enthusiasts."
+},
+"informative_value": {
+"score": 6,
+"justification": "Raises a technical point about blockchain naming conventions."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral question without strong emotion."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevant for a short period as it's a specific issue."
+}
+}
+},
+{
+"tweet_id": "1460385414196432896",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Predictions can generate some discussion but not viral."
+},
+"informative_value": {
+"score": 5,
+"justification": "Lists price targets without context."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, just stating targets."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevant for a short period."
+}
+}
+},
+{
+"tweet_id": "1460289097004728326",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Wishlist is niche, not widely shared."
+},
+"informative_value": {
+"score": 4,
+"justification": "Lists price targets without context."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive and hopeful."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant only during the bull run."
+}
+}
+},
+{
+"tweet_id": "1460085031901224967",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Niche offer to artists, may get some attention."
+},
+"informative_value": {
+"score": 6,
+"justification": "Discusses NFTs and Ethereum."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive and encouraging."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevant until the offer expires."
+}
+}
+},
+{
+"tweet_id": "1460020344274792448",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Technical comparison, relevant to blockchain enthusiasts."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides factual comparison of node sizes."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, factual statement."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for a medium period as it's a technical topic."
+}
+}
+},
+{
+"tweet_id": "1459906508867653632",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Mix of personal and crypto news, may resonate with crypto enthusiasts."
+},
+"informative_value": {
+"score": 4,
+"justification": "Personal events with some crypto context."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Mixed, leaning negative due to personal losses."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant only for the specific week."
+}
+}
+},
+{
+"tweet_id": "1459810147107282948",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Common crypto narrative, may get some shares."
+},
+"informative_value": {
+"score": 4,
+"justification": "Personal crypto journey without deep info."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Positive and optimistic."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevant for a short period."
+}
+}
+},
+{
+"tweet_id": "1459762532567203848",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Technical discussion, relevant to blockchain enthusiasts."
+},
+"informative_value": {
+"score": 8,
+"justification": "Compares Bitcoin and Ethereum upgrades."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, factual comparison."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for a medium period as it's a technical topic."
+}
+}
+},
+{
+"tweet_id": "1459606238996615178",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Common question, may generate some discussion."
+},
+"informative_value": {
+"score": 4,
+"justification": "Predicts Ethereum price without detailed analysis."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, posing a question."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant only during the current bull run."
+}
+}
+}
+]

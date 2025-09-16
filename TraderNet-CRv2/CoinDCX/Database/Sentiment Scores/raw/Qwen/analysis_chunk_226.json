@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1757143332231565663",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Significant news about a major asset manager filing for an Ethereum ETF, likely to be widely shared in crypto communities."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides factual information about a major financial institution's move, which is newsworthy and credible."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment with an exciting announcement about a significant financial product."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Remains relevant for weeks as the ETF filing process unfolds and its implications are discussed."
+}
+}
+},
+{
+"tweet_id": "1757142599016616334",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Joining the ETF race is notable, but slightly less impactful than the first tweet."
+},
+"informative_value": {
+"score": 8,
+"justification": "Informs about a significant player entering the market, though less detailed."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive sentiment with a straightforward announcement."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for a few weeks as the ETF's implications are discussed."
+}
+}
+},
+{
+"tweet_id": "1757140029426606493",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Exciting for NFT communities but more niche."
+},
+"informative_value": {
+"score": 7,
+"justification": "Announces a specific event with a partnership, providing useful information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive and enthusiastic announcement."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant until the event occurs, then fades."
+}
+}
+},
+{
+"tweet_id": "1756654977445953932",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Visual content can be shared, but not extremely viral."
+},
+"informative_value": {
+"score": 4,
+"justification": "Minimal information, focuses on aesthetics."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment with appreciation for visuals."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Charts are relevant for a short period."
+}
+}
+},
+{
+"tweet_id": "1756337671318695941",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Technical but important for blockchain enthusiasts."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides in-depth information about a protocol's history and growth."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, factual tone."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Long-term relevance as it's foundational information."
+}
+}
+},
+{
+"tweet_id": "1756249005263056914",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Humorous but not widely viral."
+},
+"informative_value": {
+"score": 4,
+"justification": "Minimal information, focuses on a joke."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive with a playful tone."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant for a short period as it's about recent stats."
+}
+}
+},
+{
+"tweet_id": "1755957594932306329",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Incentive announcement, likely shared among stakers."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides detailed information about incentives and tasks."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Excited and positive announcement."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant until the event concludes."
+}
+}
+},
+{
+"tweet_id": "1755929540700807211",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Technical advancement, shared among enthusiasts."
+},
+"informative_value": {
+"score": 9,
+"justification": "Explains a significant technical development."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive and optimistic tone."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Long-term relevance as it's a foundational advancement."
+}
+}
+},
+{
+"tweet_id": "1755658452482056523",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Solution to a common issue, shared among users."
+},
+"informative_value": {
+"score": 8,
+"justification": "Explains a new solution to lower gas fees."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive, encouraging adoption."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for weeks as adoption progresses."
+}
+}
+},
+{
+"tweet_id": "1755499470471524831",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Daily update, not widely shared."
+},
+"informative_value": {
+"score": 3,
+"justification": "Minimal information, focuses on a daily observation."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive but generic."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant for a short period."
+}
+}
+}
+]

@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1773932955100131642",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Contains a hook about insider crypto knowledge and self-promotion, likely resonating within crypto communities."
+},
+"informative_value": {
+"score": 3,
+"justification": "Primarily opinion-based with vague claims about teaching exclusive content rather than concrete information."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Moderately positive tone emphasizing expertise and intellectual superiority."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevance tied to current crypto discussions but lacks evergreen content."
+}
+}
+},
+{
+"tweet_id": "1773759049193967789",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Positive commentary on Ethereum's resilience could resonate with crypto enthusiasts."
+},
+"informative_value": {
+"score": 5,
+"justification": "Mentions ETP/ETF filings but lacks specific details or sources."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Moderately positive sentiment praising Ethereum's community."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "ETP/ETF discussions have medium-term relevance but are time-bound."
+}
+}
+},
+{
+"tweet_id": "1773690171587797005",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "High-stakes financial data presented as breaking news likely to be widely shared."
+},
+"informative_value": {
+"score": 9,
+"justification": "Specific, quantifiable market data with clear implications for traders."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral presentation of factual information."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Time-sensitive expiration event with immediate but short-lived impact."
+}
+}
+},
+{
+"tweet_id": "1773638333710659774",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Urgent breaking news format with dramatic capitalization drives shares."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides critical market-moving information despite sensational tone."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral warning about volatility without explicit sentiment."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "Extremely short-term relevance tied to options expiration."
+}
+}
+},
+{
+"tweet_id": "1773353783482872117",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Technical update from Ethereum's founder attracts inherent attention."
+},
+"informative_value": {
+"score": 7,
+"justification": "Signals important protocol development but requires external context."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral technical discussion without emotional language."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Core protocol changes have medium-long term relevance."
+}
+}
+},
+{
+"tweet_id": "1773041585262821395",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Technical UX improvements appeal to crypto enthusiasts but lack mass appeal."
+},
+"informative_value": {
+"score": 6,
+"justification": "Explains platform features but requires technical understanding."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral explanation of platform mechanics."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Ongoing relevance for zkSync users but limited broader impact."
+}
+}
+},
+{
+"tweet_id": "1772999593577390172",
+"analysis": {
+"virality_potential": {
+"score": 10,
+"justification": "Major institutional adoption news with explosive crypto community interest."
+},
+"informative_value": {
+"score": 10,
+"justification": "Concrete regulatory filing from $4.5T asset manager with staking details."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Very positive news for Ethereum ecosystem participants."
+},
+"duration_of_impact": {
+"score": 9,
+"justification": "ETF approvals have multi-year market structure implications."
+}
+}
+},
+{
+"tweet_id": "1772997491966820656",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Clarification on major ETF filing attracts crypto industry attention."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides critical regulatory process details from knowledgeable source."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral factual clarification without emotional tone."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Contributes to ongoing ETF narrative with lasting relevance."
+}
+}
+},
+{
+"tweet_id": "1772707593397608733",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Regulatory scrutiny appeals to crypto policy enthusiasts but limited broader appeal."
+},
+"informative_value": {
+"score": 8,
+"justification": "Highlights important regulatory contradictions regarding ETH's status."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Moderately negative tone questioning regulatory consistency."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Regulatory clarity discussions remain relevant for months."
+}
+}
+},
+{
+"tweet_id": "1772706769455690112",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "NFT incentive program with major platform collaborations drives engagement."
+},
+"informative_value": {
+"score": 5,
+"justification": "Promotional content about platform features rather than objective information."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "Very positive excitement about rewards and partnerships."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "NFT campaigns typically have weeks-long relevance cycles."
+}
+}
+}
+]

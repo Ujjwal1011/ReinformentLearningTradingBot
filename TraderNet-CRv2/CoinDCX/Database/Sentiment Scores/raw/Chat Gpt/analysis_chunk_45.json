@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1432945297223729153",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet is a simple price update with a hashtag, posted by a large account (Binance). It can resonate within the crypto community and may be shared by followers, but it lacks a strong hook or emotional content, so its virality is moderate."
+},
+"informative_value": {
+"score": 5,
+"justification": "It provides a factual statement about Ethereum's price, but offers no deeper analysis or context, so its informative value is neutral."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply stating a fact without positive or negative emotion."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Price updates are short-lived; the tweet's relevance fades quickly as market prices change."
+}
+}
+},
+{
+"tweet_id": "1454874057501863943",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "A brief call-to-action from a large account (Carl Moon) may get some retweets, but the lack of context or emotional hook limits its viral spread."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet offers a recommendation but no supporting information or context, so its informative value is low."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses a positive recommendation, encouraging users to buy Ethereum, reflecting moderately positive sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The recommendation remains relevant for a short period as market conditions change, so its impact is brief."
+}
+}
+},
+{
+"tweet_id": "1454807230944002048",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "A detailed list of crypto prices with a clear structure can attract shares within the crypto community, especially from a reputable source like Blockworks, but it lacks a sensational hook."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides a comprehensive snapshot of top crypto prices on a specific date, offering valuable historical data."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is purely factual and neutral, with no emotional tone."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Historical price data remains relevant for reference and analysis over a long period, giving the tweet a lasting impact."
+}
+}
+},
+{
+"tweet_id": "1454530287296126976",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet discusses a timely issue (gas fees affecting NFT floor prices) and offers a recommendation, which can spark discussion within the NFT and crypto communities, but it is not a sensational meme."
+},
+"informative_value": {
+"score": 7,
+"justification": "It explains how gas fees impact NFT floor prices and suggests alternative chains, providing useful insight for NFT creators and collectors."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The tweet expresses frustration about high gas fees, reflecting a moderately negative sentiment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The issue of gas fees is ongoing, so the tweet remains relevant for several weeks or months as the market evolves."
+}
+}
+},
+{
+"tweet_id": "1454455451739906055",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "An educational tweet about Ethereum account addresses can be shared by followers, but it lacks a strong hook or emotional appeal, so its virality is moderate."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet explains what an Ethereum account address looks like and its uses, providing clear, actionable information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, presenting facts without emotional language."
+},
+"duration_of_impact": {
+"score": 9,
+"justification": "The information about Ethereum account addresses is evergreen and will remain useful for years, giving the tweet a very long-term impact."
+}
+}
+}
+]

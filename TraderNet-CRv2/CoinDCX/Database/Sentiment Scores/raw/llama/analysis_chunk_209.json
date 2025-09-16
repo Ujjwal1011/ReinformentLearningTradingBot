@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1732059889109745673",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet promotes a service with lower fees, which might interest Ethereum and Bitcoin users, potentially generating shares within specific communities."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet informs users about an alternative platform for buying Ethereum and Bitcoin with lower fees, providing actionable information."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tone is positive, inviting users to join with a sense of excitement about the lower fees."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance will last as long as the promoted service remains an attractive alternative, potentially for weeks or months."
+}
+}
+},
+{
+"tweet_id": "1732059631776592275",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet's comparison and invitation to join PulseChain, emphasizing its cost-effectiveness, could spark engagement and shares within the Ethereum and BTC communities."
+},
+"informative_value": {
+"score": 5,
+"justification": "While it mentions PulseChain is cheaper, the tweet lacks detailed information about the service or its benefits beyond cost."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The tone is very positive, with an enthusiastic invitation and emphasis on the advantage of using PulseChain."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's impact is somewhat short-term, relevant as long as the cost advantage of PulseChain is a current topic of discussion."
+}
+}
+},
+{
+"tweet_id": "1732059252217582003",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "The tweet is highly niche, reporting a specific adoption, which limits its potential for broad sharing."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides specific, detailed information about a KILLABEAR adoption, including price and buyer."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, simply reporting a transaction without emotional language."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "The tweet's relevance is very short-lived, primarily of interest at the moment of posting."
+}
+}
+},
+{
+"tweet_id": "1732056942703481312",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet might generate some interest within the AI art community, but its appeal is limited."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet informs about a sale, providing some details, but the information is somewhat specialized."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, announcing a sale without expressing emotion."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet remains relevant for a short period, primarily while the sale is of interest."
+}
+}
+},
+{
+"tweet_id": "1732054073921228809",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The insightful analysis on Ethereum's shift could spark significant discussion and sharing within the crypto community."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides in-depth, thoughtful analysis on a crucial aspect of Ethereum's value proposition."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tone is moderately positive, reflecting optimism about Ethereum's unique value."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The tweet's relevance could last for months, as the discussed shift in Ethereum's perceived value is a long-term topic."
+}
+}
+},
+{
+"tweet_id": "1732052415363621015",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Announcing a significant update like Wormhole Connect on Jupiter Bridge could generate substantial interest and sharing across DeFi communities."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet clearly communicates a new development, providing direct links for immediate action, which is highly informative."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The tone is very positive, excitedly announcing a new feature that enhances user experience."
+},
+"duration_of_impact": {
+"score": 9,
+"justification": "The tweet's impact is long-lasting, as the update significantly affects the DeFi ecosystem's functionality and appeal."
+}
+}
+},
+{
+"tweet_id": "1732049006463701445",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The promotional language and promise of a significant pump could attract shares within crypto communities seeking investment opportunities."
+},
+"informative_value": {
+"score": 4,
+"justification": "While it mentions a presale, the tweet lacks substantial information about the project's value proposition or the token itself."
+},
+"sentiment_polarity": {
+"score": 10,
+"justification": "The tone is extremely positive, using highly enthusiastic language to promote the presale."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is short-term, primarily during the presale phases."
+}
+}
+},
+{
+"tweet_id": "1732048708047360432",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The update on @zksync's Boojum could interest Ethereum scaling solution enthusiasts, potentially generating shares within this niche."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet informs about a completed update, mentioning the impact on fees, which is useful for those interested in Ethereum scaling."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tone is positive, highlighting the positive outcome of the update for Ethereum's scalability."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet's relevance lasts as long as the update's implications are discussed, potentially for weeks."
+}
+}
+},
+{
+"tweet_id": "1732048681967444168",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The significant update on RAILGUN v3, enhancing privacy on Ethereum, could widely interest DeFi and privacy-focused communities."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet thoroughly explains the update's benefits, providing links for further information, which is highly informative."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The tone is very positive, enthusiastically presenting the update as a major enhancement."
+},
+"duration_of_impact": {
+"score": 9,
+"justification": "The tweet's impact is long-lasting, as the update significantly enhances Ethereum's privacy capabilities, a topic of ongoing interest."
+}
+}
+},
+{
+"tweet_id": "1732047225562583159",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet might attract some shares due to its playful, community-building approach, but its appeal is somewhat limited."
+},
+"informative_value": {
+"score": 3,
+"justification": "The primary focus is on a community event (auction) rather than providing informative content."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The tone is very positive, using affectionate language and inviting the community to participate."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "The tweet's relevance is very short-lived, primarily of interest during the 24-hour bidding period."
+}
+}
+} 
+]

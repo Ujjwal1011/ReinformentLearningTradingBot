@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1741193419039404340",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet announces a significant update from a prominent figure in the Ethereum community, likely to be shared widely among blockchain enthusiasts."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides a direct link to an updated roadmap, offering valuable information to the Ethereum community."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral announcement without strong emotional language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for days or weeks as the roadmap will influence future developments."
+}
+}
+},
+{
+"tweet_id": "1741131924171809016",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Engages a specific community but lacks a strong hook for broader virality."
+},
+"informative_value": {
+"score": 6,
+"justification": "Updates on community onboarding and brand approach, useful for followers."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive tone with enthusiasm about the project."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days as it pertains to current onboarding efforts."
+}
+}
+},
+{
+"tweet_id": "1740800458384609361",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Significant financial event, likely shared among crypto traders and investors."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides critical information about expiring options, valuable for market participants."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral factual statement."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Impact is time-sensitive, relevant only on the day mentioned."
+}
+}
+},
+{
+"tweet_id": "1740734416714916123",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Reflects on community progress, likely shared among zkSync and Ethereum communities."
+},
+"informative_value": {
+"score": 7,
+"justification": "Summarizes progress and future goals, informative for followers."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive and optimistic tone looking forward."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for weeks as it sets the stage for future developments."
+}
+}
+},
+{
+"tweet_id": "1740664993367113860",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Highlights a significant shift in search interest, likely shared among crypto enthusiasts."
+},
+"informative_value": {
+"score": 8,
+"justification": "Shares a notable trend with a source link, providing credible information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive tone with excitement about Solana's rise."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days as it's tied to a specific time frame."
+}
+}
+},
+{
+"tweet_id": "1740515567621345689",
+"analysis": {
+"virality_potential": {
+"score": 10,
+"justification": "From a prominent figure, calls for a movement, likely to go viral."
+},
+"informative_value": {
+"score": 8,
+"justification": "Links to a discussion on making Ethereum cypherpunk again, offering a vision."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Strong positive and motivational tone."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Long-term relevance as it addresses foundational aspects of Ethereum."
+}
+}
+},
+{
+"tweet_id": "1740192312297455942",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Focuses on bridging chains, relevant to a specific community."
+},
+"informative_value": {
+"score": 7,
+"justification": "Explains the project's approach to inclusion, useful for interested parties."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive and inclusive tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for weeks as it's part of an ongoing project."
+}
+}
+},
+{
+"tweet_id": "1739318467734438111",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Significant financial event, likely shared among crypto traders."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides important data on USDT minting, valuable for market analysis."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral factual statement."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days as it's a specific event."
+}
+}
+},
+{
+"tweet_id": "1738912202558431688",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Discusses cross-chain possibilities, relevant to a specific community."
+},
+"informative_value": {
+"score": 7,
+"justification": "Shares an agreement on a technical decision, useful for followers."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive tone with excitement about the decision."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days as it's tied to a specific announcement."
+}
+}
+},
+{
+"tweet_id": "1738775768799600844",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Bold statement about Ethereum's future, may spark discussion."
+},
+"informative_value": {
+"score": 4,
+"justification": "Vague without context, minimal information provided."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "Negative implication about Ethereum's current state."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days as it's a specific opinion."
+}
+}
+}
+]

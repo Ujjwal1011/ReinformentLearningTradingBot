@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1747246914104680785",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Short, hype-driven tweet with price gains and popular hashtags; likely to spread within crypto circles but not guaranteed global virality."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Shares price multipliers, giving some factual info but lacks depth or source, so moderate informative value."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Uses exclamation 'Epic' and highlights gains, expressing strong positive excitement."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Price performance news may stay relevant for a short period until market moves, typical lifespan of a few days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1747185269688709488",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "News about a high-profile figure's activity trending on social media; likely to spread widely, especially within Turkish crypto community."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Reports a factual event with a link, giving moderate informational content."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet simply reports a trending event without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Event-based news remains relevant for a day or two before losing context."
+      }
+    }
+  },
+  {
+    "tweet_id": "1747019861476434006",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Targeted call to action that may spread within HEX supporters but limited to niche audience."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Provides ranking positions but mainly a complaint; limited factual depth."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Expresses frustration toward CoinMarketCap, but also hopeful tone; overall slightly negative."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Issue may remain relevant for weeks or months until resolved, giving medium longevity."
+      }
+    }
+  },
+  {
+    "tweet_id": "1746966264969380089",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Short, vague statement with no context; unlikely to spread widely."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No detailed info or source; just a prediction."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Predictive statement with mild positive tone, but no strong emotion."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Prediction may be relevant for a few days until market moves."
+      }
+    }
+  },
+  {
+    "tweet_id": "1746805417576112287",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Statement from a prominent investor about major market expectation; likely to be widely shared."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides a credible forecast from a well-known figure, adding informational value."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive outlook on Ethereum's performance relative to Bitcoin."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Expectation may remain relevant for months as market cycles unfold."
+      }
+    }
+  }
+]

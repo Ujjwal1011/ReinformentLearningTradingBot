@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1459566888783163395",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet expresses a strong opinion comparing Bitcoin, Solana, and Ethereum, which can spark debate within crypto communities and may be shared moderately, but it lacks breaking news or a universal hook."
+},
+"informative_value": {
+"score": 2,
+"justification": "The content is purely opinionated with no factual data, links, or new information, providing very low informational value."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet praises Bitcoin and Solana while criticizing Ethereum, resulting in a moderately positive overall tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The comparative opinion may remain relevant in ongoing crypto discussions for weeks or months, but it is not evergreen."
+}
+}
+},
+{
+"tweet_id": "1459507826645164033",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "A concise roundup of multiple notable crypto news items can attract retweets from enthusiasts, giving it high sharing potential within the niche."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet lists several factual events (ATHs, market cap, corporate actions) providing useful information despite lacking source links."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, simply enumerating events without strong emotional language."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "As a weekly news summary, its relevance fades after a few days once the stories are covered elsewhere."
+}
+}
+},
+{
+"tweet_id": "1459163600178843648",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "A personal anecdote about a startup choosing Solana over Ethereum may be shared as a meme within crypto circles, but its reach is limited."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet offers a single anecdotal observation without broader context or verifiable data."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The author expresses a positive view of Solana and a subtle jab at Ethereum, resulting in a moderately positive tone."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The specific story is unlikely to be referenced beyond a short period, making its impact short-lived."
+}
+}
+},
+{
+"tweet_id": "1458974884609019916",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "A corporate announcement about AMC accepting multiple crypto payments, combined with a striking statistic, can attract attention from both crypto fans and mainstream audiences."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides concrete information about payment options and a specific metric (14% of online transactions), offering high informational value."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The language is enthusiastic and celebratory, conveying a very positive sentiment toward the new payment options."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Policy changes at a major retailer remain relevant for months or years, giving the tweet a long-lasting impact."
+}
+}
+},
+{
+"tweet_id": "1458904167355924485",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "A performance snapshot of many crypto assets can be shared among investors and enthusiasts, but it lacks a viral hook."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet presents a detailed list of percentage gains for numerous tokens, offering substantial data for readers."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The presentation is factual and neutral, without strong emotional language."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Year‑long performance data can be referenced for weeks or months as a benchmark, giving it medium‑to‑long relevance."
+}
+}
+}
+]

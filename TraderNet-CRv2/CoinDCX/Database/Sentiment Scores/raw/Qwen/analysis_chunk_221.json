@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1744763767580442749",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Mentions specific blockchain terms which may resonate with a niche community but lacks a strong hook for broader virality."
+},
+"informative_value": {
+"score": 5,
+"justification": "Provides brief mentions of blockchain projects but lacks detailed information or context."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral tone with no strong emotional language."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevant to the blockchain community but likely to fade as new updates emerge."
+}
+}
+},
+{
+"tweet_id": "1744725267531354322",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Significant financial event with a link, likely to be shared widely within the crypto community."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides specific data and a link, offering credible information on a major financial event."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral tone with no strong emotional language."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a short period as it pertains to a specific daily event."
+}
+}
+},
+{
+"tweet_id": "1744343399417737266",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Technical update for a specific blockchain tool, likely shared within the Ethereum community."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides a useful update with a link to a reputable source."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive tone with excitement about the new feature."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Remains relevant for days as it introduces a new tool."
+}
+}
+},
+{
+"tweet_id": "1743862598259662967",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Opinion-based critique, likely shared within a niche community."
+},
+"informative_value": {
+"score": 5,
+"justification": "Offers a personal opinion without detailed information."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "Moderately negative sentiment towards a public figure."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a short period as it pertains to current events."
+}
+}
+},
+{
+"tweet_id": "1742935389776826410",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Significant financial event with a link, likely to be shared widely within the crypto community."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides specific data and a link, offering credible information on a major financial event."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral tone with no strong emotional language."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a short period as it pertains to a specific daily event."
+}
+}
+},
+{
+"tweet_id": "1742915310272041059",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Announcement of a significant change in blockchain platform, likely to be shared within the community."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides detailed information on a strategic move with a link."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive tone with enthusiasm about the change."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Remains relevant for weeks as it's a long-term strategic move."
+}
+}
+},
+{
+"tweet_id": "1742556449601949833",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Update on collaborations, likely shared within a niche community."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides information on distribution strategies without detailed context."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral tone with no strong emotional language."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a short period as it pertains to current actions."
+}
+}
+},
+{
+"tweet_id": "1742531614306124268",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Compares fees, a common pain point, likely to be shared within the crypto community."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides a comparison with a link, offering useful information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive tone with criticism towards high fees."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a short period as it pertains to a specific issue."
+}
+}
+},
+{
+"tweet_id": "1742344805664084232",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Strong endorsement of a blockchain platform, likely to be shared widely."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides detailed information on features and benefits with a link."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "Extremely positive tone with enthusiasm."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Remains relevant for weeks as it's a new development."
+}
+}
+},
+{
+"tweet_id": "1741821074239615181",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "List of competitors, likely to be shared within the crypto community."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides a list of projects without detailed analysis."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral tone with a call to action."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Remains relevant for weeks as it's about future trends."
+}
+}
+}
+]

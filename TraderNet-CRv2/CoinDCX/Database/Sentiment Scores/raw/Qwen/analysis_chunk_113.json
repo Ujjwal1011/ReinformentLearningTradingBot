@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1549062850517372934",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet provides timely information about Ethereum's market cap, which is likely to be shared within the crypto community."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet offers factual information about Ethereum's market performance."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The sentiment is neutral, simply stating a fact."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is short-term, tied to the current market status."
+}
+}
+},
+{
+"tweet_id": "1548790535875399681",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Similar to the first tweet, it's likely to be shared within the crypto community."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides factual information about Ethereum's market cap."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment, stating a fact."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Short-term relevance due to current market status."
+}
+}
+},
+{
+"tweet_id": "1548743057188724749",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Targets a specific community interested in Polygon and Ethereum."
+},
+"informative_value": {
+"score": 8,
+"justification": "Details achievements and future plans, providing substantial information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment with excitement about future developments."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevance extends as it discusses ongoing efforts and future plans."
+}
+}
+},
+{
+"tweet_id": "1548737661950521344",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Targets a specific audience interested in airdrops and Ethereum."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides clear instructions and information about the airdrop."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment encouraging users to claim their share."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Time-sensitive, relevant until the airdrop period ends."
+}
+}
+},
+{
+"tweet_id": "1548630128816701440",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Shares news about Ethereum's price, likely shared among crypto followers."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides factual information about price movement."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment, stating a fact."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevance is short-term, tied to the current price rally."
+}
+}
+},
+{
+"tweet_id": "1548365442393133057",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Discusses Ethereum's deflationary aspect, likely shared among crypto enthusiasts."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides insightful information about Ethereum's monetary aspects."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Positive sentiment highlighting Ethereum's potential."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevance extends as it discusses a significant aspect of Ethereum."
+}
+}
+},
+{
+"tweet_id": "1548349214274359299",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Exciting news about Ethereum's growth, likely to be widely shared."
+},
+"informative_value": {
+"score": 5,
+"justification": "Brief but impactful statement about Ethereum's explosion."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "Strong positive sentiment with excitement."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevance is short-term, tied to the current event."
+}
+}
+},
+{
+"tweet_id": "1548228260726599682",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Targets NFT and Ethereum enthusiasts."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides data on NFT growth and market trends."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment about the bull market."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevance extends as it discusses ongoing market trends."
+}
+}
+},
+{
+"tweet_id": "1548106245277564932",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Shares price movement, relevant to crypto followers."
+},
+"informative_value": {
+"score": 5,
+"justification": "Provides factual information about price increase."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment, stating a fact."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevance is very short-term, tied to the specific price alert."
+}
+}
+},
+{
+"tweet_id": "1547956163303522311",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Targets a niche audience interested in CryptoPunks and Ethereum."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides detailed transaction information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment, stating a fact."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevance is short-term, tied to the specific transaction."
+}
+}
+}
+]

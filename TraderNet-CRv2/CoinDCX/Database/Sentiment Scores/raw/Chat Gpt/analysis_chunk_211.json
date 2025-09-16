@@ -1,0 +1,107 @@
+[
+{
+    "tweet_id": "1535823281642778631",
+    "analysis": {
+        "virality_potential": {
+            "score": 7,
+            "justification": "The tweet announces a significant price drop for Ethereum, a topic of high interest within the crypto community, and uses the #Ethereum hashtag, giving it moderate to high sharing potential, though it is not a global breaking news event."
+        },
+        "informative_value": {
+            "score": 7,
+            "justification": "It provides a specific factual update about Ethereum's price and its lowest point since January 2021, offering useful information for investors, but it is not a primary source."
+        },
+        "sentiment_polarity": {
+            "score": 5,
+            "justification": "The tweet is a neutral factual statement without emotive language."
+        },
+        "duration_of_impact": {
+            "score": 4,
+            "justification": "Price updates are typically relevant for a few hours to a day as the market moves, making the impact short-term."
+        }
+    }
+},
+{
+    "tweet_id": "1535755823980457990",
+    "analysis": {
+        "virality_potential": {
+            "score": 8,
+            "justification": "The claim of taking Ethereum private at a specific price mirrors high-profile market rumors and, coming from a user with millions of followers, can attract widespread attention within crypto circles, giving it high viral potential."
+        },
+        "informative_value": {
+            "score": 3,
+            "justification": "The tweet is a personal speculation without verifiable data or sources, offering little factual information."
+        },
+        "sentiment_polarity": {
+            "score": 6,
+            "justification": "The tweet expresses confidence and optimism about a potential move, reflecting a moderately positive tone."
+        },
+        "duration_of_impact": {
+            "score": 6,
+            "justification": "Speculation about a major market move can keep the conversation alive for several days as users debate its feasibility."
+        }
+    }
+},
+{
+    "tweet_id": "1535737885433151488",
+    "analysis": {
+        "virality_potential": {
+            "score": 2,
+            "justification": "A single word plus a link provides no hook or emotional trigger, limiting its shareability."
+        },
+        "informative_value": {
+            "score": 2,
+            "justification": "The tweet offers no context or summary of the linked content, providing minimal informational value."
+        },
+        "sentiment_polarity": {
+            "score": 5,
+            "justification": "The text is neutral and does not convey any clear emotional tone."
+        },
+        "duration_of_impact": {
+            "score": 3,
+            "justification": "Without context, the tweet is likely to be relevant only briefly, if at all."
+        }
+    }
+},
+{
+    "tweet_id": "1535688312156848128",
+    "analysis": {
+        "virality_potential": {
+            "score": 8,
+            "justification": "The tweet combines strong negative statements about crypto with a provocative mention of a cocaine reference, which can spark debate and sharing across crypto and broader audiences."
+        },
+        "informative_value": {
+            "score": 6,
+            "justification": "It includes a factual claim about Ethereum's 66% price decline and discusses real-world observations, though much of the content is opinionated."
+        },
+        "sentiment_polarity": {
+            "score": 4,
+            "justification": "The bullet points convey criticism and disappointment, while the concluding line is hopeful, resulting in an overall moderately negative tone."
+        },
+        "duration_of_impact": {
+            "score": 6,
+            "justification": "The broader critique of crypto trends can remain relevant for weeks as the topics continue to be discussed, giving it medium‑term impact."
+        }
+    }
+},
+{
+    "tweet_id": "1535681099011080196",
+    "analysis": {
+        "virality_potential": {
+            "score": 6,
+            "justification": "A short hype tweet with a rocket emoji and a link can be easily retweeted within the crypto community, giving it moderate viral potential."
+        },
+        "informative_value": {
+            "score": 2,
+            "justification": "The tweet provides no substantive information beyond enthusiasm and a link, offering very low informational value."
+        },
+        "sentiment_polarity": {
+            "score": 8,
+            "justification": "The rocket emoji and enthusiastic wording express a strong positive sentiment."
+        },
+        "duration_of_impact": {
+            "score": 4,
+            "justification": "Hype about a price move is typically short‑lived, staying relevant for only a few hours to a day."
+        }
+    }
+}
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1505954084897054730",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Humorous crypto-related content with hashtags and visual elements has medium sharing potential within crypto communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Primarily showcases a personal mishap without substantial factual content or context."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Mildly negative tone implied by 'self-owns' but tempered by humorous emoji usage."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Tied to a live moment in crypto discourse with limited lasting relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1505918543766122500",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Professional announcement from a crypto executive about platform security enhancements has high sharing potential in tech circles."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides concrete information about a leadership appointment and technical roadmap at a major blockchain platform."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Strong positive emotions expressed through words like 'thrilled' and 'stoked' about new role."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Leadership changes and security upgrades maintain relevance for weeks in blockchain communities."
+      }
+    }
+  },
+  {
+    "tweet_id": "1505763532125589504",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Price movement reporting with multiple hashtags may see moderate sharing among crypto traders."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Contains specific market data about SHIB token performance with source link."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative connotation implied by 'shudders' and value decline description."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Cryptocurrency price updates typically have short-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1505738189214035969",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Relatable generational humor about crypto investments could spread in crypto communities."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Personal anecdote without substantive information or data."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral storytelling tone without clear positive/negative emotional language."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Humor tied to specific price moment with limited lasting relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1505635016805601283",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Provocative take on developer compensation could spark debate in crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Highlights an ongoing industry discussion about developer compensation models."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Critical tone regarding current compensation practices ('work for nothing')."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Sustained relevance as open-source compensation remains a perennial topic."
+      }
+    }
+  },
+  {
+    "tweet_id": "1505611278743904256",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Hype-driven investment advice format common in crypto circles with emoji emphasis."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Promotional content without substantive information about the asset."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong positive sentiment encouraging investment enthusiasm."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Time-bound hype cycles typically have short relevance windows."
+      }
+    }
+  },
+  {
+    "tweet_id": "1505360632341794816",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Large whale transaction news often spreads rapidly in crypto markets."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific, quantifiable market-moving information from a news account."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of factual market activity."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Whale activity impacts are typically absorbed quickly by markets."
+      }
+    }
+  },
+  {
+    "tweet_id": "1505241080668774403",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Endorsement from major tech CEO carries significant weight in blockchain communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Documents professional admiration but lacks technical or news specifics."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Strong positive endorsement using superlatives ('great builders')."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Notable professional endorsements maintain relevance for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1505180310773944324",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Technical documentation from Ethereum's founder has high sharing potential among developers."
+      },
+      "informative_value": {
+        "score": 10,
+        "justification": "Primary source technical documentation about Ethereum protocol upgrades."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral technical documentation tone."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "Core protocol documentation remains relevant for years in blockchain development."
+      }
+    }
+  },
+  {
+    "tweet_id": "1505026567382073345",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Personal gratitude post likely resonates within Ethereum community circles."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Expresses personal feelings without substantive information."
+      },
+      "sentiment_polarity": {
+        "score": 10,
+        "justification": "Extreme positive sentiment with phrases like 'changed my life' and 'never be able to thank enough'."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Personal testimonials have standard engagement lifespan in communities."
+      }
+    }
+  }
+]

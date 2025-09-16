@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1575399283947290624",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Announcing a major launch from a reputable platform like Binance on a significant blockchain topic (Ethereum PoW) is likely to be widely shared among crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific, actionable information about Binance's new service, which is valuable for crypto enthusiasts and miners."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The launch of a mining pool will remain relevant as long as Ethereum PoW is active, which could be several months or more."
+      }
+    }
+  },
+  {
+    "tweet_id": "1575185947700113409",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "A unique and intriguing idea from a well-known figure in the Ethereum community, likely to generate discussion within specific circles."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Offers an interesting concept but lacks detailed information or actionable content."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Expresses curiosity and excitement about the idea."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The tweet's relevance is tied to the potential event, which may or may not happen, making its impact short-term."
+      }
+    }
+  },
+  {
+    "tweet_id": "1574841522150703105",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Announcement of a book by the Ethereum founder is significant and likely to be widely shared among crypto enthusiasts and the general public interested in blockchain."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides important information about a foundational concept in blockchain technology, authored by a leading expert."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive announcement with excitement about the release of the book."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The book will remain relevant as a key resource in the blockchain community for years to come."
+      }
+    }
+  },
+  {
+    "tweet_id": "1574813971495849984",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Discusses a significant environmental impact of Ethereum's transition, which is a hot topic in the crypto community."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides factual information about Ethereum's energy efficiency improvements, which is valuable for environmentally conscious audiences."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment highlighting the benefits of the transition."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The topic will remain relevant as long as Ethereum's energy usage is a concern, which could be several years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1574743160839806976",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "References a common crypto strategy ('buy the dip') and uses popular hashtags, likely to resonate with crypto traders."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Minimal information provided; primarily a promotional link without context."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment encouraging investment in Bitcoin and Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The tweet's relevance is tied to short-term market movements and will likely fade as market conditions change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1574399626190508032",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Announcing a significant onboarding effort for new Ethereum users, which is likely to generate interest within the crypto community."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Provides information about an initiative to expand Ethereum adoption, which is valuable for the community."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment about bringing new users into the Ethereum ecosystem."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The tweet's relevance is tied to the specific onboarding event, making its impact short-term."
+      }
+    }
+  },
+  {
+    "tweet_id": "1574251562263662594",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Critique of the Ethereum community's focus on past events, which may generate discussion among blockchain enthusiasts."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Offers a personal opinion without providing substantial information or data."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Moderately negative sentiment criticizing the community's focus."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The tweet's relevance is tied to the specific criticism and may fade as the community moves on from the topic."
+      }
+    }
+  },
+  {
+    "tweet_id": "1573727505491673088",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Proposes a technical solution to a pressing issue in the crypto space, likely to be shared among developers and researchers."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides detailed information about a potential solution to thefts on Ethereum, which is valuable for the community."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment about the proposed solution and its potential impact."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The topic will remain relevant as long as thefts are a concern in the crypto space, which could be several years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1573472350951145472",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Discusses a potential innovation in blockchain technology, which is likely to generate interest among developers and enthusiasts."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides a technical discussion about potential improvements to Ethereum, which is valuable for the community."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment about the potential for a new L1 blockchain."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The topic will remain relevant as long as there is interest in improving blockchain technology, which could be several years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1572710635044995074",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "References a potential investment opportunity in Ethereum, which may resonate with crypto traders."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Provides a personal opinion on price targets without substantial data or analysis."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment about the potential for significant gains in Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The tweet's relevance is tied to short-term market movements and will likely fade as market conditions change."
+      }
+    }
+  }
+]

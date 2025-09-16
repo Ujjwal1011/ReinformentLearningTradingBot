@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1732475474972999729",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Announcement of a time-sensitive product launch with incentives for holders creates urgency and excitement, likely to be shared within crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides details about a new platform feature and benefits for token holders, though focused on promotional content."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong positive tone with celebratory emojis and exclamation points emphasizing enthusiasm."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevance spans weeks as users explore the new platform, though tied to a specific launch event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732469774012019049",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Community-driven resolution story may resonate within crypto circles but lacks broader appeal."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Reports a resolved technical issue but lacks specific details about the problem or solution."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive resolution tone with gratitude expressed, though focused on a niche community issue."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term relevance as the resolved issue becomes obsolete after implementation."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732469330288537740",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Vietnamese-language critique of Bitcoin Core has limited engagement potential beyond specific communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Opinion-based commentary about blockchain governance without supporting data or context."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Moderately negative tone criticizing Bitcoin Core's conservatism."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Standard lifespan for opinion tweets about ongoing blockchain debates."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732467461025657283",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Analyst survey about Ethereum price lacks unique angles for broad sharing beyond market watchers."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Reports analyst activity but provides no original data or conclusions."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of market analysis without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Tied to transient market movements, relevance fades with next price change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732467445309309159",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major regulatory news from an authoritative source (SEC) with significant market implications."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides critical regulatory update about ETF approval process affecting crypto markets."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual announcement without emotional language, though contextually negative for ETF hopefuls."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Medium-term relevance as ETF decisions influence market sentiment for weeks/months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732459957654610171",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Controversial claims about institutional crypto involvement may spark debates within communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Speculative commentary without evidence to support claims about corporate-political collusion."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative tone criticizing JPMorgan and Elizabeth Warren with implied distrust."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term relevance tied to current political-crypto discourse."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732455656404156622",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High-engagement launch announcement with clear incentives and visual elements (emojis) encouraging shares."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Details platform capabilities and user benefits, though primarily promotional."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Enthusiastic tone with celebratory language and multiple exclamation points."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Medium-term relevance as users engage with the new platform post-launch."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732455168032338152",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Market performance data presented in accessible format likely to be shared among investors."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides verifiable YTD performance metrics for major cryptos with source credibility."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive framing of market gains with forward-looking engagement question."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant for weeks as reference point in market discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732445560605733091",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Cross-chain integration news appeals to multiple crypto communities, encouraging shares."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Announces platform expansion plans with specific technical goals (Bitcoin-EVM bridge)."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone highlighting ecosystem growth opportunities."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Medium-term relevance as bridge development progresses over weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732444833753743658",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Multi-chain NFT release during major art event with free minting drives cross-community engagement."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Clear details about minting process and chain availability, though promotional."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Excited announcement using celebratory emojis and emphasis on accessibility."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Remains relevant through the 7-day minting period and subsequent NFT usage."
+      }
+    }
+  }
+]

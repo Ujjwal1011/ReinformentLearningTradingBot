@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1486394992553861120",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The user's significant investment in Ethereum during a dip might spark interest within the crypto community, but it's unlikely to go viral beyond."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides context for the user's investment decision, offering insight into their perspective on Ethereum's future, making it somewhat informative."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The user expresses optimism and confidence in Ethereum's future, despite (or because of) the recent dip, showing a very positive sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The relevance of this tweet is tied to the current market conditions of Ethereum and will likely lose impact once the market stabilizes or shifts significantly."
+}
+}
+},
+{
+"tweet_id": "1486355730110242818",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "News about large Ethereum whales buying SHIB can generate significant interest and sharing within the crypto community, potentially going viral."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides newsworthy information about substantial financial activity in the crypto market, making it highly informative for those interested."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, focusing on reporting a significant event without expressing a personal emotion or bias."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is short-term, as the news will be superseded by other market developments and lose attention quickly."
+}
+}
+},
+{
+"tweet_id": "1486352276537106433",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet's mysterious tone and reference to the SHIB army might encourage sharing within the SHIB community, but its virality is somewhat limited by its ambiguity."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet hints at something without providing clear information, making it minimally informative and more speculative or intriguing."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The sentiment is neutral, as the tweet does not clearly express a positive, negative, or emotional stance, beyond a hint of intrigue."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's impact is somewhat short-lived, as its relevance depends on the immediate context of the SHIB community's discussions."
+}
+}
+},
+{
+"tweet_id": "1486080177490706433",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The topic of airdropping tokens without doxxing might interest the Ethereum development community, but it's not broadly viral."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides detailed information about a solution using Ethereum's zk-proofs, making it highly informative for those in the field."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, focusing on presenting a solution without expressing a clear emotional tone."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The relevance of this tweet is longer-term, as it discusses a technical solution that remains useful over time for Ethereum developers."
+}
+}
+},
+{
+"tweet_id": "1486001592692260870",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The introduction of Web3 Investment Clubs might generate interest within the crypto and investing communities, but its viral potential is moderate."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet informs about a new tool for social investing on Syndicate Protocol, providing useful information for potential users."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, focusing on the announcement without expressing a clear emotional tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet remains relevant for a medium term, as the interest in the new tool will last until it becomes established or superseded."
+}
+}
+},
+{
+"tweet_id": "1485932224457367553",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "A prediction about the end of a selloff from a known figure might interest the crypto community, but its viral potential is limited."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides a prediction from a notable figure, offering some insight but lacking in-depth analysis or new information."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet expresses a moderately positive sentiment, suggesting an end to a negative market trend."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "The relevance of this tweet is very short-term, as its prediction will quickly be proven or disproven by market movements."
+}
+}
+},
+{
+"tweet_id": "1485874689495150592",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "A known investor's strategy for buying Bitcoin might interest some, but it's not likely to go viral due to its specificity."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet informs about Robert Kiyosaki's investment strategy, providing some insight into his approach."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, reporting on someone's investment strategy without expressing a personal emotional tone."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is neutral, lasting as long as the mentioned investment strategy remains a topic of interest."
+}
+}
+},
+{
+"tweet_id": "1485849294171099136",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "A bold prediction about Cardano flipping Ethereum might spark some interest, but it's unlikely to go viral due to its controversial nature."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet lacks informative content, being a speculative statement without providing evidence or context."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses a very positive sentiment towards Cardano, showing confidence in its potential to overtake Ethereum."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet remains relevant for a medium term, as the prediction will be discussed and compared to Ethereum's and Cardano's market performances."
+}
+}
+},
+{
+"tweet_id": "1485800322937212928",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "A technical document about Ethereum's finality might interest developers, but it's not broadly viral due to its specialized nature."
+},
+"informative_value": {
+"score": 10,
+"justification": "The tweet provides a detailed, state-of-research document, making it extremely informative for Ethereum developers and researchers."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, focusing on sharing technical information without expressing a clear emotional tone."
+},
+"duration_of_impact": {
+"score": 9,
+"justification": "The relevance of this tweet is long-term, as the technical challenges and solutions discussed remain pertinent for Ethereum's development."
+}
+}
+},
+{
+"tweet_id": "1485788396823973888",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "A witty comparison of Ethereum's situation to a Philip K. Dick novel might amuse and be shared within the crypto and sci-fi communities."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet lacks informative content, being a humorous, subjective commentary without providing factual information."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet expresses a moderately positive sentiment, using humor to downplay the seriousness of Ethereum's situation."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is somewhat short-lived, as its humor and reference are tied to the immediate context of Ethereum's market performance."
+}
+}
+} 
+]

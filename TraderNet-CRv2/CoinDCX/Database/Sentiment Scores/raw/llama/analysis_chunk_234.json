@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1768318142466658497",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet congratulates Ethereum core devs, which might generate interest within the Ethereum community, but its reach is limited to those already invested in the topic."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet informs about a significant event (EIP-4844 shipping) but lacks detailed explanation, assuming prior knowledge from the audience."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The user expresses strong positive emotions with 'Huge shout out' and 'massive win', indicating enthusiasm and appreciation."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is tied to the immediate aftermath of the EIP-4844 shipping, fading as the news ages."
+}
+}
+},
+{
+"tweet_id": "1768313648982753629",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The announcement of a mainnet upgrade with a decentralized sequencer is significant, likely to be shared within Ethereum and broader crypto communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides substantial information about a major upgrade, including its implications and future steps, though some context is assumed."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The tone is extremely positive, with 'History has been made' and 'The future of Layer 2s has never', indicating euphoria and excitement."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet remains relevant for days or weeks as the community tests and discusses the upgrade, but its peak impact is immediate."
+}
+}
+},
+{
+"tweet_id": "1768292467739414582",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet's controversial stance on Ethereum L2s might spark engagement within the crypto community, but its reach is limited by its negative tone."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides some information about the security of L2s versus L1s, but it's presented in a biased, opinionated manner."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The user expresses strong negative emotions towards L2s, using phrases like 'you cry and cry very hard' and 'L2s are kind a joke'."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is short-term, tied to the immediate reaction to the user's provocative statement."
+}
+}
+},
+{
+"tweet_id": "1768290377382138001",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The rumor about PulseChain might generate some interest, but it's speculative and lacks broad appeal."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet provides some insight into PulseChain's potential plans, but it's based on a rumor and lacks concrete details."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tone is moderately positive, with a hint of curiosity and openness to future developments."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is short-lived, dependent on the confirmation or denial of the rumor."
+}
+}
+},
+{
+"tweet_id": "1768283768048193744",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The comparison between HEX and Ethereum might spark engagement within the crypto community, especially among those invested in either platform."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides specific examples comparing liquidity and fees, but it's presented in a promotional, biased manner for PulseChain."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The user expresses strong positive emotions towards PulseChain, with 'living the dream' and emphasizing its advantages."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet remains relevant for days as the comparison sparks discussion, but its impact diminishes as the information becomes outdated."
+}
+}
+},
+{
+"tweet_id": "1768123207700066455",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The announcement of significantly reduced gas costs on Uniswap could generate excitement within the Ethereum and broader crypto communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides concrete, newsworthy information about a significant development in Ethereum scaling."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The tone is extremely positive, with 'Let’s fucking go, we’re scaling ethereum', indicating euphoria and excitement."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet's relevance peaks immediately but remains a talking point for days as the community explores the implications."
+}
+}
+},
+{
+"tweet_id": "1768032567230394433",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The news about a memecoin surpassing an Ethereum L2 in market cap is surprising and likely to be shared within crypto communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides surprising, newsworthy information about a significant market event, though context is somewhat assumed."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tone is moderately positive, with a sense of surprise and intrigue, but remains somewhat neutral in its reporting style."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is primarily immediate, with its impact fading as the market news ages."
+}
+}
+},
+{
+"tweet_id": "1767983026443579448",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The update on zkSync and Ethereum's 4844 blob might generate interest within the crypto and Ethereum communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides technical, newsworthy information about a significant development in Ethereum's layer 2 solutions."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tone is moderately positive, with a sense of anticipation for the future impact of the 4844 blob on zkSync."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet remains relevant for days as the community awaits the full impact of the 4844 blob on transaction fees."
+}
+}
+},
+{
+"tweet_id": "1767978094143418864",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The speculative price prediction for Ethereum might generate some interest, but it's a common type of tweet and lacks unique appeal."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet provides minimal information, essentially being a link to external content with a brief, speculative statement."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tone is very positive, with a bold, optimistic prediction for Ethereum's price, indicating confidence."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is short-term, tied to the immediate reaction to the price prediction."
+}
+}
+},
+{
+"tweet_id": "1767974564514910362",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The announcement of a retro cross-chain rewards program, especially one that reaches back to 2017, could generate significant interest within NFT and Ethereum communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides substantial information about a unique program, including how to participate and its retroactive nature."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The tone is extremely positive, with 'going retro' and an invitation to claim rewards, indicating excitement and inclusivity."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet remains relevant for weeks as participants claim their rewards and the program's uniqueness is discussed."
+}
+}
+}
+]

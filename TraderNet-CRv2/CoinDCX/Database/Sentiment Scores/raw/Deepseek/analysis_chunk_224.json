@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1760666731859833048",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major funding announcement from prominent crypto players (Eigen Labs and a16z) likely to generate significant interest in blockchain communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific financial details about a key development team in the Ethereum ecosystem with official funding information."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong positive sentiment conveyed through words like 'excited' and celebratory emojis/formatting."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Funding news typically remains relevant for weeks in tech circles, though superseded by subsequent developments."
+      }
+    }
+  },
+  {
+    "tweet_id": "1760353219740672439",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Actionable investment advice about upcoming Ethereum upgrade likely to spread within crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides educational content about EIP-4844 and specific altcoin analysis, though lacks primary sources."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral informative tone with implied optimism through phrases like 'massive impact'."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevance tied to upgrade implementation timeline (weeks/months)."
+      }
+    }
+  },
+  {
+    "tweet_id": "1760269845642498392",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Cryptic message with image relies entirely on existing community knowledge for interpretation."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Lacks substantive content beyond a hashtag and image link without context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral/ambiguous tone with no clear emotional valence."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Meme-style content typically has short lifespan without ongoing discussion hooks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1760167113702924662",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Provocative price prediction with visual content from a prominent NFT artist drives engagement."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "No substantive information beyond speculative price commentary."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Extremely bullish sentiment conveyed through all-caps and moon imagery."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Price speculation tweets lose relevance quickly as markets fluctuate."
+      }
+    }
+  },
+  {
+    "tweet_id": "1759971295943385464",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Comparative analysis from institutional player (Fidelity) sparks debate in crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "References formal report from credible financial institution about key crypto assets."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of report findings with implied Bitcoin advocacy."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Institutional analyses remain reference points for months in crypto discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1759968692098457639",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Large stablecoin minting alerts are closely watched by crypto traders and analysts."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific financial data about market-moving event with transaction details."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of factual event without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance limited to immediate market reactions (hours/days)."
+      }
+    }
+  },
+  {
+    "tweet_id": "1759942567225864648",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Major price milestone announcement likely to be widely shared across crypto media."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Reports verifiable market data about ETH price movement."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive sentiment implied through celebration of price achievement."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Price milestones become historical data points but lose topical relevance quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1759917566691004595",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Controversial comparison between ETH and BTC airdrops sparks community discussion."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Makes claims about ecosystem distributions without supporting data sources."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral comparative statement without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Airdrop discussions remain relevant through implementation phases."
+      }
+    }
+  },
+  {
+    "tweet_id": "1759477483882361022",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Counter-narrative to 'Bitcoin only' thesis engages ongoing crypto market debates."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides market observation about ETH price action and investor sentiment."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Optimistic tone about Ethereum's potential despite perceived skepticism."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Price commentary becomes outdated with market movements, though narrative persists longer."
+      }
+    }
+  },
+  {
+    "tweet_id": "1759369749887332577",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Insight from Ethereum's creator about fundamental technical challenges drives widespread discussion."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "High-value technical commentary from primary source about core blockchain security issues."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive outlook on AI's potential while acknowledging current risks."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Discussions about formal verification in blockchain remain relevant for years as security priority."
+      }
+    }
+  }
+]

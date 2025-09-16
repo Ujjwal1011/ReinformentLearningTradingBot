@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1543240782433468418",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Contains an interesting financial statistic about Ethereum that could resonate within crypto communities, but lacks strong emotional hooks for broader virality."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific, verifiable financial data about blockchain network revenue with clear context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of factual information without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Monthly revenue figures typically have short-term relevance until next reporting cycle."
+      }
+    }
+  },
+  {
+    "tweet_id": "1542949819223662592",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news about major platform integrating blockchain technology with meme reference ('1D = 1B') increases shareability."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Announces significant development in mainstream tech adoption of NFTs from a credible source."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual announcement with implied positive sentiment through meme reference."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Platform integration news will remain relevant through implementation phases."
+      }
+    }
+  },
+  {
+    "tweet_id": "1542810351691087873",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "CEO announcement with excited tone and link generates community engagement."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Announcement of development progress but lacks specific details without clicking link."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Enthusiastic tone with celebratory language ('happeninggggg')."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Project milestones maintain relevance through implementation phases."
+      }
+    }
+  },
+  {
+    "tweet_id": "1565098693904179205",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major exchange support for critical network upgrade will drive crypto community engagement."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides essential information about infrastructure support for major blockchain event."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement of exchange policy."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Relevant through merge implementation and post-upgrade analysis period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1565031323894353920",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Memetic content combining crypto culture with humor has high shareability potential."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "No substantive information beyond meme content."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Playful tone with community in-joke reference."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Memes typically have short cultural relevance cycles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1565030915348303873",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Major network upgrade completion announcement with celebratory elements (emojis, gratitude)."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Confirms completion of critical infrastructure migration affecting network users."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive tone with celebratory emojis and expressions of gratitude."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Network upgrades have long-term technical implications."
+      }
+    }
+  },
+  {
+    "tweet_id": "1564841463736782848",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Announcement from blockchain's founder about new content generates inherent interest."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Teases upcoming educational content but lacks concrete details."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement of future publication."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevance lasts through book release and initial reception period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1564607992548540422",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Massive engagement numbers suggest strong community resonance despite simple content."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Personal reflection without substantive information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral statement of contemplation."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Personal thoughts typically have short relevance windows."
+      }
+    }
+  },
+  {
+    "tweet_id": "1564458813616295937",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Critical technical reminder from blockchain's creator about major network upgrade."
+      },
+      "informative_value": {
+        "score": 10,
+        "justification": "Provides essential, time-sensitive technical guidance from primary source."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral instructional content."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "Hard fork dates have permanent historical significance in blockchain timelines."
+      }
+    }
+  },
+  {
+    "tweet_id": "1564339850735718406",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Celebrity NFT news attracts attention but lacks broader cultural hooks."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Announces specific NFT transaction without broader context or analysis."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Excited tone indicated by emojis and capitalization."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Single NFT transactions have very short news cycles."
+      }
+    }
+  }
+]

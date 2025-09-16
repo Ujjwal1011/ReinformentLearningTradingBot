@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1500960097794621442",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet critiques multiple projects, likely to resonate within crypto communities, but not a global viral meme."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet expresses opinions about various projects without providing verifiable facts or data."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The tweet expresses negative sentiment towards the projects."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet is relevant for a few days to a week as it references current projects."
+}
+}
+},
+{
+"tweet_id": "1500868552366202880",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "The tweet is a personal question, unlikely to go viral."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet asks a question and does not provide new information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is a neutral question."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet is relevant for a short period until answered."
+}
+}
+},
+{
+"tweet_id": "1500820362954690562",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet may be shared within developer communities but is not a global viral meme."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet gives specific job information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet offers a job opportunity, expressing positive sentiment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The tweet remains relevant for weeks until the position is filled."
+}
+}
+},
+{
+"tweet_id": "1500649538675113984",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet is a meme-like anecdote that could spread widely."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet is a personal anecdote."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses positive humor."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet is relevant for a few days to a week."
+}
+}
+},
+{
+"tweet_id": "1500410899558981634",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet provides useful comparative data that may be shared."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet offers credible, comparative data."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is factual."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet remains relevant for weeks or months."
+}
+}
+}
+]

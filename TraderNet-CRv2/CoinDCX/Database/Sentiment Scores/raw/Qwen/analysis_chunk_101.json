@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1540240792333295616",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "A major announcement from a government about adopting Ethereum is likely to be widely shared within crypto communities and beyond."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides factual information about a government's adoption of Ethereum for a specific use case, which is newsworthy."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment as it's an announcement of a significant development."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "This announcement could have long-term effects on Ethereum's adoption and usage."
+}
+}
+},
+{
+"tweet_id": "1540122390079934464",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Discusses a significant topic in the crypto space, likely to be shared within Ethereum and Solana communities."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides analysis and insights into the competition between Solana and Ethereum."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Moderately negative as it critiques Ethereum's position."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The discussion of ecosystem competition is relevant for a medium-term period."
+}
+}
+},
+{
+"tweet_id": "1540089073305518084",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "A ranking of cryptocurrencies by followers is somewhat shareable but not highly viral."
+},
+"informative_value": {
+"score": 5,
+"justification": "Provides a snapshot of social media presence but lacks depth."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral as it's a factual listing."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short-term relevance as rankings can change frequently."
+}
+}
+},
+{
+"tweet_id": "1539738034807214082",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "A high-profile crypto transaction is likely to be shared within crypto communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides specific transaction details, which is informative for the crypto community."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment as it highlights a significant transaction."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a short period as it's a specific transaction."
+}
+}
+},
+{
+"tweet_id": "1539606196927225856",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "A personal decision to buy Ethereum is unlikely to go viral beyond a niche audience."
+},
+"informative_value": {
+"score": 3,
+"justification": "Minimal information provided; it's a personal action."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive sentiment as it's a decision to invest."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "Very short-term relevance as it's a one-time action."
+}
+}
+},
+{
+"tweet_id": "1539392566994644992",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "A fun fact about Vitalik Buterin is likely to be shared within Ethereum communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides historical context about Ethereum's founder."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment as it's a light-hearted fact."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Long-term relevance as it's a historical fact about Ethereum's origins."
+}
+}
+},
+{
+"tweet_id": "1539292126105706496",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Announcing a significant event like Arbitrum's Odyssey is likely to be widely shared."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides information about a major event in the Ethereum ecosystem."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment as it's an exciting announcement."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for the duration of the event, which is several weeks."
+}
+}
+},
+{
+"tweet_id": "1539189397446344706",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "A minor social note about Twitter follows is unlikely to go viral."
+},
+"informative_value": {
+"score": 3,
+"justification": "Minimal information provided; it's a social observation."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral sentiment as it's a factual observation."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "Very short-term relevance as it's a specific social action."
+}
+}
+},
+{
+"tweet_id": "1539090118182674433",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "A sensational claim about Vitalik Buterin is likely to be widely shared."
+},
+"informative_value": {
+"score": 4,
+"justification": "The claim is unverified and lacks credible sources."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment as it's a claim about Vitalik's activity."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Short-term relevance as it's a specific claim that may be debunked."
+}
+}
+},
+{
+"tweet_id": "1538926926068338688",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "A significant metric about Ethereum adoption is likely to be widely shared."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides important data on Ethereum's adoption growth."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment as it's a positive development for Ethereum."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Long-term relevance as it's a trend indicator for Ethereum's growth."
+}
+}
+}
+]

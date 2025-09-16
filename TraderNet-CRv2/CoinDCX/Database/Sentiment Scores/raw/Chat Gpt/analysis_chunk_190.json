@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1524395228995764225",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet references Bloomberg coverage of UST and claims it runs on Ethereum, which is a notable news hook for the crypto community. The mention of a mainstream outlet adds credibility, and the excitement ('We're so early') can encourage sharing among enthusiasts, though it is unlikely to break beyond niche circles."
+},
+"informative_value": {
+"score": 6,
+"justification": "It informs followers that Bloomberg covered UST and that it runs on Ethereum, providing a news update but without original data or primary source. The information is useful for those tracking UST developments, but it remains secondary."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses optimism with the phrase 'We're so early', indicating a moderately positive tone toward the news."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The relevance is tied to the specific Bloomberg story about UST; it will stay pertinent for a few days to weeks as the discussion evolves, but it is not evergreen."
+}
+}
+},
+{
+"tweet_id": "1524393617611182082",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet is a self‑promotional message from Richard Heart praising himself and HEX, likely to be shared within the HEX community but not beyond, giving it medium virality within a niche."
+},
+"informative_value": {
+"score": 4,
+"justification": "The content consists mainly of hype and promotional claims about HEX performance and a free airdrop, offering little verifiable information."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The language is highly positive and boastful ('I am the best person', 'best community'), reflecting a very positive emotional tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Promotional tweets about a specific airdrop have short relevance, typically lasting only while the airdrop is active, resulting in a short‑term impact."
+}
+}
+},
+{
+"tweet_id": "1524327678005809152",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet comments on major crypto events—Luna's collapse, Solana issues, and Ethereum's upcoming merge—topics that attract attention across the crypto community, giving it high sharing potential within that niche."
+},
+"informative_value": {
+"score": 6,
+"justification": "It summarizes current events (Luna of Luna, Solana problems, Ethereum price and merge) providing useful context, though it is not original reporting."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet mixes negative remarks about Luna and Solana with positive remarks about Ethereum, resulting in an overall neutral tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Discussion around the Ethereum merge and ongoing issues with Luna/Solana can persist for weeks, giving the tweet medium‑term relevance."
+}
+}
+},
+{
+"tweet_id": "1524232105118642178",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet presents a striking statistic ('Over 33% of Ethereum investors are at loss') with a 'JUST IN' lead, which can attract wide attention and retweets across the crypto audience."
+},
+"informative_value": {
+"score": 6,
+"justification": "It provides a specific figure about investor losses, which is informative, but lacks a cited source, limiting its credibility."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The content conveys a negative sentiment by highlighting investor losses, reflecting a very negative emotional tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Such market‑related statistics are typically relevant for a short period until market conditions change, giving it short‑term impact."
+}
+}
+},
+{
+"tweet_id": "1524203797051891713",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet makes a provocative claim that Ethereum is a 'more complicated and obfuscated version of Luna', likely to spark debate and be shared within crypto circles, though its reach beyond that is limited."
+},
+"informative_value": {
+"score": 2,
+"justification": "The statement is an opinion without supporting evidence, offering little factual information."
+},
+"sentiment_polarity": {
+"score": 1,
+"justification": "The language is strongly negative toward Ethereum, expressing a very negative sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Controversial opinions may be referenced in ongoing debates, but the specific claim is tied to current sentiment and will likely fade as discussions evolve, resulting in short‑term impact."
+}
+}
+}
+]

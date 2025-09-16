@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1491260864632360963",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Cryptocurrency names with a link lack engagement hooks. Limited appeal beyond crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No contextual information provided beyond mentioning two cryptocurrencies."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Mere name references without substance become irrelevant immediately."
+      }
+    }
+  },
+  {
+    "tweet_id": "1491253833414201346",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "High-value NFT transaction details attract crypto community attention."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific transaction data with dollar amounts and participant addresses."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual reporting without emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Notable NFT sales remain reference points for weeks in crypto circles."
+      }
+    }
+  },
+  {
+    "tweet_id": "1490847890746458113",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Influential account's call-to-action generates excitement in crypto communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Generic investment advice without supporting data or context."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Optimistic tone encouraging action."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Generic advice loses relevance quickly as market conditions change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1490804215102509063",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Major financial milestone presented with attention-grabbing emoji."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Newsworthy comparison of market capitalizations."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive surprise indicated by the shocked emoji."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Market cap comparisons remain relevant for weeks in financial discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1490795297118822401",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Celebrity opinion on crypto rivalry sparks debates."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Personal opinion without supporting arguments."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive stance favoring Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Celebrity opinions drive short-term engagement spikes."
+      }
+    }
+  },
+  {
+    "tweet_id": "1490769708924104704",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Relatable technical frustrations resonate with crypto users."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Highlights real-world Ethereum network issues."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Frustration evident through emoji and failed transaction narrative."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant until network congestion issues are resolved."
+      }
+    }
+  },
+  {
+    "tweet_id": "1490759688039899136",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major financial milestone from a credible source."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Concrete market data comparison."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of factual information."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Market cap milestones remain reference points in financial analysis."
+      }
+    }
+  },
+  {
+    "tweet_id": "1490730531625082885",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Major corporate adoption news from influential figure."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Specific institutional investment details."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive 'game on' framing indicates approval."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Corporate treasury allocations set long-term industry precedents."
+      }
+    }
+  },
+  {
+    "tweet_id": "1490728332345987078",
+    "analysis": {
+      "virality_potential": {
+        "score": 10,
+        "justification": "Primary source announcement of major corporate crypto adoption."
+      },
+      "informative_value": {
+        "score": 10,
+        "justification": "Detailed official statement with investment specifics and ESG considerations."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Professional announcement tone without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "Landmark corporate action likely referenced for years in crypto adoption timelines."
+      }
+    }
+  },
+  {
+    "tweet_id": "1490724594407428101",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Concise announcement of corporate crypto adoption attracts attention."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Clear statement of treasury allocation without full details."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting style."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Corporate crypto adoption news maintains relevance in financial discourse."
+      }
+    }
+  }
+]

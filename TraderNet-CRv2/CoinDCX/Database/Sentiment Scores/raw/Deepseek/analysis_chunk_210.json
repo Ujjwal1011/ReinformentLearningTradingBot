@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1732045659300299005",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Targets crypto communities with cross-chain staking solution but lacks broad emotional appeal for wider virality."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific details about staking mechanics and timeline but focuses on promotional content."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement tone without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for weeks due to ongoing staking program launch."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732043618704031784",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major financial institution adoption news with inherent shareability in crypto circles."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Newsworthy announcement about institutional crypto adoption from verified source."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Positive tone emphasized by rocket emoji and celebratory context."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Significant development that will be referenced in crypto discussions for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732043497514139968",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Niche industry commentary using insider jargon with limited audience appeal."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Summarizes current crypto discussions but lacks concrete information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral observational tone without clear positive/negative stance."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Time-bound snapshot of current crypto discourse with short relevance window."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732043388382507343",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Practical DAO-building tutorial likely to circulate within Web3 communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides actionable guidance with link to educational resource."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive encouragement for builders with emoji reinforcement."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Evergreen educational content with medium-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732040781907824790",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Addresses common pain point with practical solutions, encouraging shares."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides value through optimization tips for persistent Ethereum issue."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral problem/solution framing without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Content remains relevant as long as gas fees remain an issue."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732040600994894279",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Expresses common frustration but lacks unique elements for wide sharing."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Pure opinion without data or actionable information."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Strong negative sentiment ('asco' translates to 'disgusting')."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Immediate complaint with no lasting relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732039488443203722",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Niche technical discussion with low engagement metrics."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Documents project's multi-chain strategy but lacks context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral factual reporting without emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Specific platform update with limited long-term significance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732037876152672693",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major UX development in crypto likely to spark widespread discussion."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Reports significant wallet security innovation from known entity."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral news reporting style without opinion."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Could influence wallet design standards for months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732037175573979154",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Partnership announcement with moderate engagement potential in Web3 circles."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Details collaboration benefits but lacks concrete metrics."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive announcement tone with 'big' emphasis."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant through partnership implementation phase."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732035587593711864",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Hype-driven content with urgent calls to action and multiple engagement triggers."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Speculative claims without verifiable sources or data."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Extremely positive speculative excitement with multiple emojis."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Time-sensitive predictions with expiration after mentioned events."
+      }
+    }
+  }
+]

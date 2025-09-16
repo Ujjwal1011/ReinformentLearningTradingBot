@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1737634168937517274",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Catchy crypto comparison format likely to be shared within blockchain communities, but lacks broader emotional hooks."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No factual information - purely subjective statements about blockchain platforms."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Extremely positive endorsement of Solana with 'is life' phrasing."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Memorable phrasing may circulate in crypto circles for 1-2 weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1737601874847478142",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Relatable financial compliment format with moderate engagement drivers."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Pure opinion without any data or news value."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong positive sentiment using 'amazing' and endorsement language."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance limited to current portfolio performance context."
+      }
+    }
+  },
+  {
+    "tweet_id": "1737529035906064428",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Provocative comparison between blockchain platforms with strong emotional language likely to drive engagement."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Contains multiple verifiable metrics about market performance."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative tone toward Ethereum community ('mental asylum' metaphor)."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Market comparison metrics remain relevant for ongoing crypto discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1737499299192217775",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Meme format about blockchain tribalism has strong sharing potential in crypto communities."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "No factual content - purely humorous inter-community rivalry."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Mildly negative implication about maximalist attitudes."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Meme lifespan typical for crypto humor (1-3 days)."
+      }
+    }
+  },
+  {
+    "tweet_id": "1737155968868524187",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High engagement incentives (points/rewards) combined with educational hook drive sharing."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides structured learning opportunity about key Ethereum technology."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive, encouraging tone with celebratory emojis."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Time-bound event but promotes lasting educational content."
+      }
+    }
+  },
+  {
+    "tweet_id": "1736755903246799081",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Historic milestone announcement in crypto space with strong news value."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific, verifiable market data about NFT sales volumes."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting style despite platform comparison."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Market milestones remain reference points in industry analysis."
+      }
+    }
+  },
+  {
+    "tweet_id": "1736089522822148579",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Controversial fee comparison between major chains drives engagement."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific cost data and promotes a solution."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative framing of legacy chains' performance."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Fee structures remain perennial discussion topic in crypto."
+      }
+    }
+  },
+  {
+    "tweet_id": "1735945871605264821",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Data-packed thread format optimized for crypto community sharing."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Multiple verifiable metrics about decentralized exchange performance."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative conclusion ('It's over') regarding competition."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Benchmark data remains relevant for market analysis."
+      }
+    }
+  },
+  {
+    "tweet_id": "1735858544291832174",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Counter-narrative messaging about platform activity drives engagement."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Specific 24-hour metric about decentralized exchange volumes."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of metric despite implied rivalry."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Daily metrics feed into longer-term market trends analysis."
+      }
+    }
+  },
+  {
+    "tweet_id": "1735842380257869974",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Breaking news format about historic market flip with exceptionally high engagement metrics."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific, impactful market data point with industry significance."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting style despite implied platform competition."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Historic firsts remain reference points in crypto market analysis."
+      }
+    }
+  }
+]

@@ -1,0 +1,191 @@
+[
+{
+"tweet_id": "1472696060351025154",
+"analysis": {
+"virality_potential": {
+"score": 2,
+"justification": "Link-only tweet with no context or hook, unlikely to be shared widely."
+},
+"informative_value": {
+"score": 2,
+"justification": "No verifiable information provided; just links without explanation."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral; no emotional tone expressed."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Irrelevant quickly as links may not be contextually relevant."
+}
+}
+},
+{
+"tweet_id": "1472579126657749011",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Motivational quote referencing a well-known figure, likely to be shared within specific communities."
+},
+"informative_value": {
+"score": 4,
+"justification": "Minimal information; a personal opinion without factual content."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive sentiment encouraging success."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a short period, tied to the specific advice given."
+}
+}
+},
+{
+"tweet_id": "1472523191029481476",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Announces significant price milestones, likely to be shared among crypto communities."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides factual updates on cryptocurrency prices."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive outlook on the future of cryptocurrencies."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Remains relevant for days as price milestones are discussed."
+}
+}
+},
+{
+"tweet_id": "1472476159166144512",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Critique of blockchain advice, likely to engage specific communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "Educational content about blockchain and minting processes."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Negative critique of the advice given."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for weeks as discussions about blockchain practices continue."
+}
+}
+},
+{
+"tweet_id": "1472398851835248644",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Meme comparing Ethereum's owner to Axie battles, highly shareable."
+},
+"informative_value": {
+"score": 3,
+"justification": "Minimal information; focuses on humor rather than facts."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Negative sentiment towards Ethereum's owner."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days as meme trends."
+}
+}
+},
+{
+"tweet_id": "1472298805643071488",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Meme contrasting Ethereum's creator with Bitcoin holdings, highly shareable."
+},
+"informative_value": {
+"score": 3,
+"justification": "Minimal information; focuses on humor rather than facts."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Negative sentiment towards Bitcoin holdings."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days as meme trends."
+}
+}
+},
+{
+"tweet_id": "1472269145840386057",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Interview with a notable figure, likely to be shared among crypto communities."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides insights into blockchain technology and crypto."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment about blockchain opportunities."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Remains relevant for months as discussions about blockchain continue."
+}
+}
+},
+{
+"tweet_id": "1472231452058267655",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Meme comparing fiat currencies to Turkish Lira, likely to be shared."
+},
+"informative_value": {
+"score": 4,
+"justification": "Minimal information; focuses on humor rather than facts."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Negative sentiment towards fiat currencies."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days as meme trends."
+}
+}
+},
+{
+"tweet_id": "1472203747644346372",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Announces historical price data, likely to be shared among crypto communities."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides historical price information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral factual statement."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for days as discussions about price history occur."
+}
+}
+}
+]

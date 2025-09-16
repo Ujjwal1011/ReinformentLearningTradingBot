@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1587250775075364864",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "High engagement elements like cash prizes, multiple platform mentions, and emojis make this campaign announcement shareable within crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides clear instructions for participation but focuses primarily on promotion rather than educational content."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Excited tone with celebratory emojis and urgency indicators like rocket symbols convey positive anticipation."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Campaign period relevance likely spans weeks, with ongoing engagement during the trading competition."
+      }
+    }
+  },
+  {
+    "tweet_id": "1607185371531706368",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Motivational message for crypto builders could resonate within industry circles but lacks viral hooks for broader appeal."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Contains opinion-based advice about market strategy rather than concrete information."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Cautiously optimistic tone encouraging focus on growth despite market conditions."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "General philosophy about bear markets could remain relevant through the crypto winter."
+      }
+    }
+  },
+  {
+    "tweet_id": "1607156858019794944",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major platform migration announcement for a prominent NFT project likely to generate significant community engagement."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Concrete information about cross-chain expansion with specific timeline (Q1 2023)."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive forward-looking statement about project development roadmap."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Bridge implementation will remain relevant through launch and initial adoption phase."
+      }
+    }
+  },
+  {
+    "tweet_id": "1606679358898307077",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Statistically significant environmental achievement presented as 'fun fact' makes it highly shareable."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides verifiable, impactful data about Ethereum's energy consumption reduction post-Merge."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of factual information without overt emotional language."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Landmark sustainability metric will remain reference point for years in blockchain environmental discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1605588113027485697",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Controversial conspiracy angle about WEF connections could drive engagement in crypto-skeptic communities."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Expresses personal distrust without providing verifiable evidence or specific claims."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Clear negative sentiment expressed through phrases like 'very off' and 'don't trust it'."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance depends on subsequent developments regarding alleged connections."
+      }
+    }
+  },
+  {
+    "tweet_id": "1605532011136880643",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Breaking news format about platform policy change likely to spread quickly in crypto trading circles."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific information about exchange delisting with proper 'BREAKING' context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting style without explicit commentary on the action."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Primarily relevant until next news cycle or official exchange statement."
+      }
+    }
+  },
+  {
+    "tweet_id": "1605529289054527488",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Provocative announcement combining platform policy change with challenge to others ('Who is next?') encourages engagement."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Explains delisting decision rationale ('Integrity over revenue') while announcing concrete action."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative framing of Ethereum through removal action and 'safer' implication."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Immediate controversy might fade unless followed by additional platform removals."
+      }
+    }
+  },
+  {
+    "tweet_id": "1605068397544235008",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major financial institution's blockchain innovation has cross-industry appeal beyond crypto-native audiences."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific technical development in payment infrastructure from reputable source (Visa)."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive framing of technological advancement in payment systems."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Potential long-term relevance if implementation leads to wider crypto payment adoption."
+      }
+    }
+  },
+  {
+    "tweet_id": "1605042810280939522",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Strong emotional language ('Holy Shit') combined with major company news increases shareability."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Explains technical proposal's implications for crypto adoption, though with informal language."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Enthusiastic tone celebrating potential mainstream adoption breakthrough."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Relevance persists through Visa's development timeline and potential implementation."
+      }
+    }
+  },
+  {
+    "tweet_id": "1604627098299256833",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Meme coin popularity update likely to engage SHIB community and crypto watchers."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides platform-specific metric about asset popularity with verifiable basis (Binance data)."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive framing of SHIB's market position through 'most watched' status."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevance tied to current year's metrics, likely superseded by future annual reports."
+      }
+    }
+  }
+]

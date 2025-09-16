@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1732202880030097812",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet discusses a potential influx of capital into Ethereum due to ETF, which might generate interest within specific cryptocurrency communities."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides insightful information about Ethereum's value proposition and the impact of ETF, citing a notable figure in the space."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The overall tone is moderately positive, indicating optimism about Ethereum's future based on its developer activity."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevance is expected to last for days or weeks, as the impact of ETF on Ethereum's price and ecosystem unfolds."
+}
+}
+},
+{
+"tweet_id": "1732201499688829176",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet's content is standard for cryptocurrency discussions, lacking a strong hook for widespread sharing."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides some useful information about Ethereum's significance in altcoin growth and includes a chart for context."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, focusing on market analysis without expressing strong emotions."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevance is typical for a market analysis tweet, generating discussion for a day or two."
+}
+}
+},
+{
+"tweet_id": "1732200685494575453",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Large transactions, especially to well-known platforms like Coinbase, can generate significant interest and sharing within cryptocurrency communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides specific, verifiable information about a substantial Ethereum transaction, including its value in USD."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, simply reporting on a transaction without emotional leaning."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is short-term, as the transaction's immediate impact is its main focus."
+}
+}
+},
+{
+"tweet_id": "1732200647129211287",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "High-value transactions can attract attention, but the technical nature might limit broader sharing."
+},
+"informative_value": {
+"score": 9,
+"justification": "Detailed information about a significant Ethereum transaction, including sender, receiver, and values in ETH and USDT."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, as the tweet is a factual report on a transaction without emotional tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Similar to other transaction reports, its relevance is primarily short-term."
+}
+}
+},
+{
+"tweet_id": "1732200461569053059",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "The tweet's content, while enthusiastic, is more of a personal update and less likely to be widely shared."
+},
+"informative_value": {
+"score": 2,
+"justification": "Provides minimal information, mainly expressing excitement for a project without substantial context."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Expresses strong positive emotions with 'Lesgooooo' and bullish sentiments."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevance is short, tied to the immediate announcement or event of Portal Season 2."
+}
+}
+},
+{
+"tweet_id": "1732199869668786543",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Sales of specific NFTs might attract niche attention but are unlikely to go viral broadly."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides specific, verifiable information about an NFT sale, including its value in ETH and USD."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, as the tweet simply reports on a sale without expressing emotion."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is short-term, primarily of interest immediately after the sale."
+}
+}
+},
+{
+"tweet_id": "1732199202892165569",
+"analysis": {
+"virality_potential": {
+"score": 2,
+"justification": "A call for transparency in Telegram permissions is niche and unlikely to be widely shared."
+},
+"informative_value": {
+"score": 3,
+"justification": "Provides a minimal, somewhat subjective viewpoint on Ethereum alignment and Telegram settings."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Moderately negative, as it critiques those not fully open on Telegram, but the tone is not aggressive."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevance is short, as the statement's impact is immediate and not foundational."
+}
+}
+},
+{
+"tweet_id": "1732199197825261918",
+"analysis": {
+"virality_potential": {
+"score": 1,
+"justification": "A personal, somewhat humorous response to another user is very unlikely to be shared widely."
+},
+"informative_value": {
+"score": 1,
+"justification": "Provides no informative content, being a light, personal interaction."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Moderately positive, with a playful comment about someone's demeanor."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "Instantly irrelevant, as the context is fleeting and personal."
+}
+}
+},
+{
+"tweet_id": "1732198994208571583",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Announcements of new content series, especially in niche areas like cryptocurrency, can attract community sharing."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides useful information about an upcoming YouTube series, including its topic and release time."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Expresses enthusiasm and positive anticipation for the series' launch."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevance is expected to last for days, leading up to and immediately after the video's release."
+}
+}
+},
+{
+"tweet_id": "1732198918178451754",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Market updates are standard and might attract some sharing within cryptocurrency communities but lack broad appeal."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides analysis on Bitcoin, Ethereum, and specific altcoins, offering some depth to readers."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Moderately positive, indicating optimism about the mentioned cryptocurrencies' performance."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Typical relevance for market analysis, generating interest for a day or two."
+}
+}
+}
+]

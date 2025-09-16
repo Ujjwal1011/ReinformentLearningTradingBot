@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1732223460452249885",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Targets crypto communities with project promotion, but lacks universal appeal for global virality."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Explains Maverick Protocol's purpose and token utility, though lacks primary-source links."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone promoting the project with phrases like 'xịn xò' (high-quality) and 'bay tung nóc' (skyrocket)."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevance depends on ZkSync's adoption timeline, giving it weeks/months of potential discussion."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732220976518324625",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking regulatory news about Ethereum ETF likely to spread rapidly in crypto circles."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides critical updates about SEC actions affecting institutional crypto products."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting tone without overt emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Remains relevant until January decision, with ongoing implications for crypto ETFs."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732218144733970691",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Niche tutorial content with limited appeal beyond DeFi enthusiasts."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Offers actionable guidance for using Bebop DEX across multiple chains."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive encouragement with fire emoji and focus on user benefits."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Usefulness persists as long as Bebop remains operational, but subject to platform changes."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732216252448518616",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High engagement metrics and poll format encourage community participation."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Asks speculative price questions without providing factual data or analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral inquiry framed as a community discussion prompt."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevance limited to immediate token distribution phase."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732215259472302140",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "NFT collection announcement with moderate appeal to crypto art communities."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Describes collection structure but lacks release dates or minting details."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive framing of collaborative art project."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-term relevance unless collection gains significant cultural traction."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732213042912583814",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Regulatory news with importance to Ethereum investors, though less engagement than similar tweets."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Reports SEC action verbatim but lacks original analysis or context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting style without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant until next regulatory update, likely weeks of discussion."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732209466810970538",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Concise breaking news format with high retweet potential in crypto markets."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Clear timeline update about critical ETF decision from authoritative account."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Factual delivery without emotional bias."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Sets market expectations for January, maintaining relevance for 6-8 weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732207773893398881",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Technical market analysis appeals to crypto traders but lacks mass appeal."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides timestamped analysis segments but requires video watch for full context."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Optimistic predictions using phrases like 'power play' and 'break huge milestone'."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Tied to immediate market conditions that may change rapidly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732206835019698487",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Vietnamese-language regulatory update with regional virality potential."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Accurate translation of SEC delay news for Vietnamese-speaking audience."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting despite explosive emojis in headline."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Mirrors English-language tweets' relevance timeline for local markets."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732203852940935399",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Urgent call-to-action creates sharing incentive among token claimants."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides time-sensitive instructions for crypto token distribution."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive urgency with snowflake emojis and exclamation points."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Immediate relevance expiring after KYC phase completion."
+      }
+    }
+  }
+]

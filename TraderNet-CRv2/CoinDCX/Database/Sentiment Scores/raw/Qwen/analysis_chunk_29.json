@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1447871565417357317",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet poses a question about two popular cryptocurrencies, which can spark discussions and attract attention from crypto enthusiasts."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet is a question without detailed information, but it touches on relevant cryptocurrencies."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply asking a question without expressing emotion."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is time-sensitive but may remain relevant for a few days."
+}
+}
+},
+{
+"tweet_id": "1447721446977978375",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet is a specific correction, likely only relevant to a niche audience."
+},
+"informative_value": {
+"score": 6,
+"justification": "Clarifies a technical issue, providing useful information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral tone, correcting misinformation."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant until the issue is resolved."
+}
+}
+},
+{
+"tweet_id": "1447680004137967619",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Negative experience with Ethereum can engage NFT communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "Explains a technical issue with a link for context."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Expresses frustration."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant until the issue is addressed."
+}
+}
+},
+{
+"tweet_id": "1447557417575895049",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Quotes Vitalik, a notable figure, which can attract attention."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides insights into Ethereum upgrades and Bitcoin's adoption."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, presenting facts."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Relevant for weeks as upgrades are discussed."
+}
+}
+},
+{
+"tweet_id": "1447230445976907776",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Price prediction can attract crypto investors."
+},
+"informative_value": {
+"score": 5,
+"justification": "Speculative prediction without detailed analysis."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive outlook on Ethereum."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant until Q1 2022."
+}
+}
+},
+{
+"tweet_id": "1446946050116227073",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Discusses NFTs, a trending topic."
+},
+"informative_value": {
+"score": 6,
+"justification": "Explains the value of on-chain NFTs."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "Positive and enthusiastic."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for weeks as NFTs are discussed."
+}
+}
+},
+{
+"tweet_id": "1446516207159582743",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Announces a significant Ethereum update."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides important technical information."
+},
+"sentiment_polarity": {
+"score": 10,
+"justification": "Excited and positive."
+},
+"duration_of_impact": {
+"score": 9,
+"justification": "Long-term relevance as it's a major update."
+}
+}
+},
+{
+"tweet_id": "1446133641176698886",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Compares physical art with NFTs, sparking debate."
+},
+"informative_value": {
+"score": 6,
+"justification": "Raises awareness about NFT ownership."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral observation."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevant for a few days."
+}
+}
+},
+{
+"tweet_id": "1445905599858806786",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Discusses SEC's actions, relevant to crypto community."
+},
+"informative_value": {
+"score": 6,
+"justification": "Updates on legal issues affecting XRP."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "Negative sentiment towards SEC."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Relevant for weeks as legal battle continues."
+}
+}
+},
+{
+"tweet_id": "1445857060424347649",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Shares performance data, which can engage investors."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides detailed performance metrics."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral presentation of data."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a short period as past performance."
+}
+}
+}
+]

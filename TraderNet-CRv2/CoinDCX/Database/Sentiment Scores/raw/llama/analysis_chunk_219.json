@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1746532626683613280",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet provides useful information about bridging tokens between Ethereum and Solana, which could generate interest within the crypto community, but its reach might be limited to those already familiar with the topic."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet informs users about a specific, actionable piece of information regarding token bridging, providing a link for further details, making it highly informative for those interested in crypto."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet maintains a neutral tone, focusing on providing information without expressing any strong emotions."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The relevance of the tweet will last as long as the bridging feature is new and of interest to the crypto community, potentially generating engagement for several days or weeks."
+}
+}
+},
+{
+"tweet_id": "1746209199758180753",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet sparks engagement by asking a question related to a significant financial news item (Larry Fink's intentions), likely to be shared within financial and crypto circles."
+},
+"informative_value": {
+"score": 7,
+"justification": "While the tweet mentions a newsworthy item, its primary focus is on eliciting a response rather than providing in-depth information, hence a medium to high informative score."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet's tone is neutral, aiming to provoke discussion rather than express a sentiment."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is tied to the immediate interest in Larry Fink's statement, making its impact relatively short-lived, around a few days."
+}
+}
+},
+{
+"tweet_id": "1746168387070230827",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet's provocative language and reference to a significant figure (Larry Fink) and assets (Bitcoin, Ethereum) could generate shares within the crypto community."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet is more opinion-based, with minimal new information provided, focusing on the author's perspective rather than factual content."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The tweet expresses a somewhat negative sentiment towards those fearful of market fluctuations, while also being somewhat positive about the potential for Bitcoin and Ethereum."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is short-term, tied to immediate reactions to market news and sentiments."
+}
+}
+},
+{
+"tweet_id": "1746055088429556032",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The tweet generates excitement for an upcoming event (Ethereum's Genesis NFT collaboration), likely to be shared widely within the Ethereum and NFT communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "While the tweet announces an event, it lacks detailed information, serving more as a teaser than an informative post."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses a very positive sentiment, using enthusiastic language to build anticipation for the event."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet's impact will last until the event occurs, potentially generating engagement for several days leading up to it."
+}
+}
+},
+{
+"tweet_id": "1745903962568704140",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet discusses the future of crypto in the US, referencing a significant figure (Coinbase CEO), which could spark interest and shares within the crypto community."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides some context but primarily serves as a teaser for more information, making it moderately informative."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet maintains a neutral tone, focusing on presenting information without expressing a strong sentiment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The relevance of the tweet will last as long as the discussion about the future of US crypto regulations and ETFs remains topical, potentially several days or weeks."
+}
+}
+},
+{
+"tweet_id": "1745884941102235915",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Announcing a potential BlackRock Ethereum ETF is significant news, likely to be shared widely within financial and crypto communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet informs users about a significant development in the crypto space, referencing a major financial player (BlackRock)."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses a very positive sentiment, implying excitement about the potential ETF."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The tweet's relevance will last as long as the news about the potential ETF is topical, potentially generating engagement for weeks or even months."
+}
+}
+},
+{
+"tweet_id": "1745805579095056648",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet's question about Ethereum's price potential might generate some engagement, but its reach is likely limited to the author's followers and those already interested in Ethereum."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet is more speculative, asking a question without providing new or factual information."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet expresses a moderately positive sentiment by implying potential for growth in Ethereum's value."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is short-term, tied to immediate discussions about Ethereum's price speculation."
+}
+}
+},
+{
+"tweet_id": "1745778861583819124",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet discusses a significant figure's (Larry Fink) actions, which could generate interest within the crypto community, but its reach might be somewhat limited."
+},
+"informative_value": {
+"score": 7,
+"justification": "The tweet provides some insight into market dynamics and a significant player's (Larry Fink) actions, making it somewhat informative."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses a moderately positive sentiment, implying a positive outlook on the 'rotation' mentioned."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is tied to the immediate interest in Larry Fink's actions and their short-term implications."
+}
+}
+},
+{
+"tweet_id": "1745777713544143241",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "The breaking news about BlackRock's CEO expressing interest in an Ethereum ETF is highly significant, likely to be widely shared across financial and crypto platforms."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides direct, newsworthy information from a primary source (BlackRock's CEO), making it highly informative."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet expresses a very positive sentiment, implying excitement about the potential ETF and its implications."
+},
+"duration_of_impact": {
+"score": 9,
+"justification": "The tweet's relevance will last as long as the news about the potential ETF is topical, potentially generating engagement for weeks or even months."
+}
+}
+},
+{
+"tweet_id": "1745769388177842359",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The breaking news about BlackRock's interest in an Ethereum ETF, as reported by a reputable source (RTRS), is likely to be shared widely."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet provides direct, newsworthy information from a reputable secondary source, making it highly informative."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet maintains a neutral tone, focusing on reporting the news without expressing a sentiment."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The relevance of the tweet will last as long as the news about the potential ETF remains topical, potentially generating engagement for weeks."
+}
+}
+} 
+]

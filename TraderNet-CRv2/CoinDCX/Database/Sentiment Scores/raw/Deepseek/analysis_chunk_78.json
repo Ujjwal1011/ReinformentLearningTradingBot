@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1503343966057545729",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Surprising comparison between traditional finance and crypto could drive shares within financial/tech communities, but lacks emotional hooks for broader virality."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides specific, verifiable transaction volume figures comparing two major payment systems."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral presentation of factual data without overt emotional language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Statistic may be referenced in crypto discussions for months but could be superseded by newer data."
+}
+}
+},
+{
+"tweet_id": "1503328775915937793",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Elon Musk's name and crypto hashtag create strong sharing potential, though lacks evidence/source."
+},
+"informative_value": {
+"score": 3,
+"justification": "Makes an unsubstantiated claim without links or context about Musk's holdings."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive excitement implied through capitalization and crypto rocket/moon emoji."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevance depends on Musk's next move - likely short-term unless formally confirmed."
+}
+}
+},
+{
+"tweet_id": "1503327146135244800",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Direct Elon Musk quote about crypto holdings has high sharing potential in financial circles."
+},
+"informative_value": {
+"score": 7,
+"justification": "Reports Musk's stated position on crypto assets with linked source."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral statement of ownership without emotional language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Will remain relevant until Musk's portfolio changes, potentially months of discussion."
+}
+}
+},
+{
+"tweet_id": "1503299334942740487",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Technical Ethereum upgrade details appeal strongly to crypto community but less to general audiences."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides specific emission statistics and economic impacts of network changes."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Factual presentation of technical data without emotional bias."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Fundamental protocol changes will be referenced for years in crypto economics discussions."
+}
+}
+},
+{
+"tweet_id": "1503259076628987905",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Elon Musk crypto claims from verified account drive high sharing potential."
+},
+"informative_value": {
+"score": 3,
+"justification": "Lacks evidence/sources beyond assertion, though from semi-authoritative account."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive excitement implied through exclamation and crypto hashtag."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Short-term relevance unless followed by official confirmation from Musk."
+}
+}
+},
+{
+"tweet_id": "1503248493527252992",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Breaking-style announcement about high-profile figure boosts sharing potential."
+},
+"informative_value": {
+"score": 3,
+"justification": "Repeats unverified claim without supporting evidence or context."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Alarm emoji and capitalization suggest positive excitement about news."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Impact limited to current news cycle unless substantiated."
+}
+}
+},
+{
+"tweet_id": "1503222294277197829",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Direct financial advice from Elon Musk with crypto implications guarantees massive engagement."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides substantive investment philosophy and confirms personal crypto holdings."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral tone discussing investment strategy despite crypto advocacy."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Philosophical financial advice and billionaire's portfolio disclosure will be referenced for years."
+}
+}
+},
+{
+"tweet_id": "1503215507931115525",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Interesting crypto fact likely shared within community but lacks broader appeal."
+},
+"informative_value": {
+"score": 6,
+"justification": "States verifiable fact about Vitalik Buterin's status with context."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral presentation of biographical information."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Evergreen fact about prominent figure but limited ongoing discussion potential."
+}
+}
+},
+{
+"tweet_id": "1502870586753957888",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Niche NFT content with multiple hashtags but no compelling hook for broad sharing."
+},
+"informative_value": {
+"score": 5,
+"justification": "Links to article about NFT prices but tweet itself lacks specific data."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral reporting style without emotional language."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "NFT floor prices change rapidly - relevance lasts days at most."
+}
+}
+},
+{
+"tweet_id": "1502446923747262466",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Inside joke comparing blockchain platforms might spread in crypto circles."
+},
+"informative_value": {
+"score": 2,
+"justification": "Metaphorical statement without factual content or explanation."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral comparison without clear positive/negative tone."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Humor tied to current crypto ecosystem dynamics - short relevance window."
+}
+}
+}
+]

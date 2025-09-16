@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1772684084436713720",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking regulatory news about major cryptocurrencies from an account with 3.4M followers has high sharing potential in crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides verifiable information about a legal classification from an official regulatory body (CFTC)."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of factual information without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Regulatory classifications have long-term implications for cryptocurrency markets."
+      }
+    }
+  },
+  {
+    "tweet_id": "1772521834228981842",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "NFT community-focused content with some engagement drivers but limited mainstream appeal."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Details project development phases but lacks concrete data or external verification."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Enthusiastic tone about project expansion using all-caps emphasis."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant until the next phase completion, with moderate evergreen potential for NFT collectors."
+      }
+    }
+  },
+  {
+    "tweet_id": "1772302304571425000",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Major financial institution adoption news likely to be widely shared across investment communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Specific details about institutional crypto product launches from a reputable source."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement format without explicit sentiment indicators."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Market infrastructure changes have lasting implications for crypto adoption."
+      }
+    }
+  },
+  {
+    "tweet_id": "1772298085500113151",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Sensational formatting and $3T figure attention-grabbing for crypto audiences."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Adds specific timeline (April 8) and scale context to ETN news."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Explicit bullish sentiment indicated by emojis and capitalization."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Specific launch date creates sustained interest leading up to event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1772296480511959258",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Repeats major news but with less engagement than similar tweets from larger accounts."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Confirms ETN trading timeline with source link despite repetitive content."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting style despite alarm-style formatting."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Same long-term relevance as other LSE ETN announcements."
+      }
+    }
+  },
+  {
+    "tweet_id": "1772132683679682746",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Controversial opinion about Ethereum leadership could spark community debate."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Personal opinion about platform strategy without new information."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Criticizes leadership decisions with 'sequester' and 'island' metaphors."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to current leadership activity patterns, not lasting topics."
+      }
+    }
+  },
+  {
+    "tweet_id": "1771959743428411515",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Technical appreciation post primarily relevant to Ethereum developers."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Details specific technological progress in scaling solutions."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Expresses gratitude and pride in team accomplishments."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Technical foundations remain relevant until next major protocol upgrade."
+      }
+    }
+  },
+  {
+    "tweet_id": "1771924891631034867",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Niche legal discussion primarily relevant to crypto lawyers and developers."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Raises specific legal questions about decentralized platforms with case details."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Analytical tone discussing legal strategy without clear positive/negative slant."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Case outcome could set precedents with medium-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1771908169905885562",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Major brand adoption news likely to spread beyond crypto communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Reports verifiable merchant adoption though requires confirmation of scope."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Exclamation point and celebratory tone indicate strong positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Significant until next major merchant adoption news, potentially weeks/months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1771677802607079828",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Controversial Bitcoin/Ethereum comparison likely to generate debates."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Explains technical differences through analogy but lacks neutral perspective."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative framing of Ethereum's design choices compared to Bitcoin."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Evergreen crypto protocol debates maintain moderate relevance."
+      }
+    }
+  }
+]

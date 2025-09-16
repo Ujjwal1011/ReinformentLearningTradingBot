@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1732701250972749910",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet discusses a significant blockchain partnership, which is likely to be shared within the crypto community but may not reach a global audience."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides specific details about Flipkart's adoption of Polygon CDK and the success metrics of FireDrops."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral tone, presenting factual information without strong emotion."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The information is relevant for weeks as it pertains to ongoing blockchain developments."
+}
+}
+},
+{
+"tweet_id": "1732674019647013118",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Written in Japanese, it targets a niche audience, limiting its virality."
+},
+"informative_value": {
+"score": 5,
+"justification": "Lists several tokens but lacks detailed analysis, making it somewhat informative."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, presenting information without strong emotion."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a short period as token prices can fluctuate quickly."
+}
+}
+},
+{
+"tweet_id": "1732661921134817775",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Bold claims about Solana's potential could attract attention within crypto circles."
+},
+"informative_value": {
+"score": 6,
+"justification": "Compares two major blockchains but is opinionated."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive outlook on Solana's future."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for a few weeks as market trends evolve."
+}
+}
+},
+{
+"tweet_id": "1732643406374183243",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "High engagement suggests it's widely shared among crypto enthusiasts."
+},
+"informative_value": {
+"score": 8,
+"justification": "Links to a discussion on Bitcoin and Ethereum by political candidates."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, presenting a news item."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Remains relevant for weeks as political implications unfold."
+}
+}
+},
+{
+"tweet_id": "1732615911637704759",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Targets Japanese NFT users, limiting its reach."
+},
+"informative_value": {
+"score": 7,
+"justification": "Explains a new service with practical benefits."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, factual information."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant until the service evolves or becomes obsolete."
+}
+}
+},
+{
+"tweet_id": "1732613495336702069",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Strong claims about Ethereum's future could attract attention."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides data on Bitcoin and Ethereum supply changes."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive outlook on Ethereum's price."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for weeks as market reactions unfold."
+}
+}
+},
+{
+"tweet_id": "1732600716060225999",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Scam allegations may circulate but not widely."
+},
+"informative_value": {
+"score": 3,
+"justification": "Lacks credible information, promoting a scam."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "Negative, promoting distrust."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "Irrelevant once the scam is exposed."
+}
+}
+},
+{
+"tweet_id": "1732595457660981580",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Criticism of SEC could attract attention in crypto circles."
+},
+"informative_value": {
+"score": 8,
+"justification": "Quotes a significant political figure on crypto regulation."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "Negative view of SEC's handling."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for weeks as regulatory issues evolve."
+}
+}
+},
+{
+"tweet_id": "1732585205926694985",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "A simple link with no hook, limited virality."
+},
+"informative_value": {
+"score": 5,
+"justification": "Links to Ethereum content without context."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral, no emotion expressed."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant only while the linked content is current."
+}
+}
+},
+{
+"tweet_id": "1732574363025887629",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Giveaway attracts attention, especially in crypto communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "Announces a giveaway with clear instructions."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive, promoting excitement."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant until the giveaway ends in 48 hours."
+}
+}
+}
+]

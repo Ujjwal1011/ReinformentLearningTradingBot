@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1557445405289365505",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet offers actionable steps ahead of a major Ethereum hard fork, a timely topic likely to be shared within the crypto community, but not necessarily across broader audiences."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides concrete, actionable advice on how to prepare for the hard fork, making it informative for users."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is primarily informational, with no strong emotional language."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The content is time-sensitive and will lose relevance after the hard fork, making its impact short to medium."
+}
+}
+},
+{
+"tweet_id": "1557434161392193541",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet shares a data visualization that may interest the crypto community, but its technical nature limits broader viral potential."
+},
+"informative_value": {
+"score": 8,
+"justification": "It presents a data-driven analysis of gas consumption with a link to a visualization, providing valuable insights."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is factual and does not express strong emotions."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Gas consumption trends are ongoing, so the content can be referenced for weeks or months."
+}
+}
+},
+{
+"tweet_id": "1557404287151521793",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "While the tweet may be shared by many, its brevity and lack of additional content limit viral reach."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet expresses anticipation but does not provide new information."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet conveys excitement and anticipation, reflecting a strong positive tone."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The excitement is tied to a future event and will likely fade once the event occurs."
+}
+}
+},
+{
+"tweet_id": "1557356188504915972",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The tweet announces a significant development from a major exchange, likely to be widely shared across the crypto community."
+},
+"informative_value": {
+"score": 8,
+"justification": "It provides a direct announcement from Binance about supporting Ethereum's merge, which is newsworthy."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is a factual statement without emotional language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The news remains relevant for weeks as the merge progresses, but its urgency diminishes over time."
+}
+}
+},
+{
+"tweet_id": "1557292798734376960",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet contains a provocative claim that may resonate with certain audiences, potentially leading to shares within niche communities."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet offers a vague claim without supporting evidence or context, providing little factual information."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The tweet expresses a negative, conspiratorial tone about a powerful group."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The statement may spark discussion for a few days but will likely lose relevance as new topics emerge."
+}
+}
+}
+]

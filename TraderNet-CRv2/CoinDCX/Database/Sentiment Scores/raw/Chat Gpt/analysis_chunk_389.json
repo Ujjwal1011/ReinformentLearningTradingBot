@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1732171811255930937",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Contains technical info that may interest crypto community, but limited to niche audience."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific predictions and technical details, but not from primary source."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive tone, excitement about scaling."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for days or weeks as people discuss scaling."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732170760301531627",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Basic price comparison, may get some traction but not highly viral."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Provides a factual observation but no deep analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevant for a few hours to a day."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732170634057162804",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The claim is provocative and may spark discussion within crypto community."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific data and a claim, but not primary source."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral factual tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for days or weeks as people discuss decentralization."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732170336592941304",
+    "analysis": {
+      "virality_potential": {
+        "score": 2,
+        "justification": "Minimal content, unlikely to be shared."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "No content, just a link."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Very short-lived."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732170303118422033",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Contains many hashtags but limited audience, moderate potential."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Provides a specific number but not much context."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive excitement."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Standard lifespan for a meme or promotional tweet."
+      }
+    }
+  }
+]

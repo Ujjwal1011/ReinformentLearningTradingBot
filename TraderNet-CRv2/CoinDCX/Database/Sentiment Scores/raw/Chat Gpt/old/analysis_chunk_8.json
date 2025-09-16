@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1349106848834744325",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet poses a provocative question about a rumored pump involving a celebrity, which can spark debate within the crypto community. The user has a large following and the engagement metrics (192 retweets, 154 quotes) indicate moderate shareability, but it is not a breaking news event, so it is unlikely to go global."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet merely asks a question about a rumor and does not provide verifiable facts or sources, offering little new information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral with a hint of sarcasm, but overall it does not express strong positive or negative emotions."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The rumor is time-sensitive and likely to lose relevance once the story is resolved or clarified, so the tweet's impact is short-lived."
+      }
+    }
+  },
+  {
+    "tweet_id": "1348472223884046342",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "The rant about Ethereum and Uniswap may resonate with users who have experienced high fees, but it is a personal complaint rather than a news story, limiting its spread beyond the existing audience."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet shares a personal anecdote about transaction failures but lacks verifiable data or broader context, providing limited informational value."
+      },
+      "sentiment_polarity": {
+        "score": 1,
+        "justification": "The tweet expresses strong negative emotions, labeling Ethereum as the worst blockchain and criticizing users, which aligns with the very negative category."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The issue of high fees may remain relevant for a while, but the specific rant will likely fade as users move on to other topics."
+      }
+    }
+  },
+  {
+    "tweet_id": "1348428636521701376",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Erik Voorhees' critique of crypto hype can spark discussion among followers and the broader community, but it is a subjective opinion rather than breaking news, so its reach is moderate."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet is a personal opinion about the state of crypto, offering little factual information or data."
+      },
+      "sentiment_polarity": {
+        "score": 1,
+        "justification": "The tweet contains strong negative language and profanity, indicating a very negative sentiment."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The critique of hype may remain relevant for some time as the crypto market continues to evolve, but it is not a timeless statement."
+      }
+    }
+  },
+  {
+    "tweet_id": "1348300030289928193",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Balaji's optimistic statement about Bitcoin and Ethereum's future value is likely to resonate widely within the crypto community and beyond, especially given his influence, making it highly shareable."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "The tweet provides valuation claims and a vision for decentralized services, but it lacks citations or detailed data, offering moderate informational content."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tweet expresses strong positive emotions and enthusiasm about crypto, fitting the very positive category."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The claim about long-term superiority of blockchain services is an evergreen topic that can remain relevant for years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1348080652751495169",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The promotional announcement of a token presale, combined with high engagement metrics and the use of multiple hashtags, can drive widespread sharing among crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "The tweet offers basic details about the presale but does not provide in-depth information or verification, so its informational value is limited."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The tone is neutral to mildly positive, encouraging participation in the presale."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The presale is time-bound, so the tweet's relevance will diminish after the event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1348033695911976960",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Tyler Winklevoss' succinct meme-like statement is likely to be widely shared within the crypto community, especially given his large following and the high engagement metrics."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "The tweet does not convey new information; it is a short, generic statement."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The tweet is neutral to mildly positive, reflecting confidence in Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The statement may remain relevant for a while as Ethereum continues to be a topic of discussion."
+      }
+    }
+  },
+  {
+    "tweet_id": "1347540303494979586",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The news about Flare integrating Litecoin is a significant development that can attract attention from both Flare and Litecoin communities, leading to moderate to high shareability."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "The tweet provides specific details about the integration, including the benefits and the timeline, offering substantial informational content."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral, simply reporting the news."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The interoperability news is relevant for months as the network launch approaches and beyond."
+      }
+    }
+  },
+  {
+    "tweet_id": "1346871303295430659",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The prediction about Ethereum reaching $3000 is a speculative statement that may attract shares from those interested in price forecasts, but it is not a breaking news event."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet is a personal prediction, lacking factual data or analysis, so its informational value is low."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet expresses positive anticipation and excitement about a future price milestone."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The prediction is time-bound to Q2 2021, so its relevance will fade after that period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1346241883601776640",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The OCC announcement about treating blockchains like traditional payment systems is a regulatory development that can be widely shared across the financial and crypto communities, especially given the user's large following."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet conveys a significant regulatory change with clear implications, providing high informational value."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet expresses optimism about the regulatory alignment, fitting a moderately positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The regulatory change is a long-term development that will remain relevant for years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1345986347128008705",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "The tweet is a brief price update in Turkish, with moderate engagement and a large following, but it is not a news story and may not spread beyond the existing audience."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "The tweet states a factual price increase, providing some informational content but lacking context or sources."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral, simply reporting the price movement."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The price update is short-lived and will lose relevance quickly."
+      }
+    }
+  }
+]

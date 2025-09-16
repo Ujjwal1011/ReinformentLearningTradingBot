@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1732198913120293073",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet is a market sentiment update from a crypto AI account and includes many popular crypto hashtags, which can attract retweets within the crypto community, but it lacks a strong hook or breaking news to drive broader viral spread."
+},
+"informative_value": {
+"score": 5,
+"justification": "It only states the market mood is bullish without providing data, analysis, or links to detailed information, offering minimal factual content."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The use of the word \"Bullish\" conveys a positive outlook, indicating moderate positivity."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Market sentiment updates are typically relevant for a short period (hours to a day) before new data supersedes them."
+}
+}
+},
+{
+"tweet_id": "1732198784069738776",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Announcing that a major Brazilian bank (Itau) has entered the crypto market is newsworthy within Brazil and the crypto community, likely to be shared widely in that region, though not globally viral."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides concrete details about Itau's launch of Bitcoin and Ethereum buying/selling on a specific date, offering credible, newsworthy information."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tweet uses enthusiastic language and multiple exclamation marks, expressing strong positive excitement about the bank's entry into crypto."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The announcement will remain relevant for several days to weeks as users discuss the new service and its implications."
+}
+}
+},
+{
+"tweet_id": "1732198742852554918",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "A personal comment praising DCA holding of BTC and ETH, with limited appeal beyond a small crypto audience, is unlikely to be widely shared."
+},
+"informative_value": {
+"score": 2,
+"justification": "The tweet expresses an opinion without providing factual data or actionable information."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The word \"đẹp\" (beautiful) conveys a positive sentiment, indicating moderate positivity."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "As a brief personal remark, its relevance fades quickly, likely within a few hours."
+}
+}
+},
+{
+"tweet_id": "1732198672115339414",
+"analysis": {
+"virality_potential": {
+"": 7,
+"justification": "The tweet highlights a potential surge in Ethereum ETF inflows, a topic of interest to both crypto and finance audiences, giving it medium-to-high sharing potential."
+},
+"informative_value": {
+"score": 7,
+"justification": "It conveys a news claim that experts anticipate trillions in inflows, providing useful information though without a direct source link."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The mention of \"hopes surge\" and large inflows suggests optimism, reflecting moderate positive sentiment."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "ETF-related news tends to stay relevant for several days to weeks as investors monitor developments."
+}
+}
+},
+{
+"tweet_id": "1732198545245999298",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "A personal, humorous comment about not bridging Sol to ETH and a private trade is unlikely to attract broad attention beyond a niche audience."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet shares a personal trading anecdote without broader market insight, offering limited of informational value."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The use of \"hahaha\" and excitement about the purchase conveys a lighthearted, moderately positive tone."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "Personal trading updates are short-lived and lose relevance quickly, typically within a few hours."
+}
+}
+}
+]

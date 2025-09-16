@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1524178921029345283",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet shares an interesting trivia about a well-known figure, which can spark curiosity and shares among crypto enthusiasts and general audiences. While not breaking news, the fun fact format encourages retweets, giving it moderate virality potential."
+},
+"informative_value": {
+"score": 7,
+"justification": "It provides a factual detail about Vitalik Buterin's age when writing the Ethereum whitepaper, which is a verifiable piece of information. The tweet offers educational content about the origins of Ethereum."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tweet uses 'FUN FACT' and a neutral tone, conveying mild positive excitement without strong emotion."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The fact about Vitalik's age is evergreen and will remain relevant indefinitely, making it a long-lasting piece of information."
+}
+}
+},
+{
+"tweet_id": "1524056940136964096",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet announces support for multiple blockchains and wallets, targeting the crypto community. It is informative but not emotionally charged, so it is likely to be shared within niche communities, giving it medium virality."
+},
+"informative_value": {
+"score": 7,
+"justification": "It lists specific blockchains and wallet integrations, providing concrete, actionable information for users. The content is factual and useful."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral and factual, with no overt emotional language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The announcement remains relevant until the supported blockchains or wallets change, which could be weeks or months. It is not a fleeting moment."
+}
+}
+},
+{
+"tweet_id": "1524056673136136192",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Featuring a popular character (Mr Bean) and an NFT launch, the tweet taps into celebrity hype and the growing NFT market, making it highly shareable across both entertainment and crypto audiences."
+},
+"informative_value": {
+"score": 6,
+"justification": "It announces the launch date, quantity, and platform for the NFT collection, providing clear details for interested buyers."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet expresses excitement and enthusiasm, using words like 'excited' and emojis, indicating a moderately positive tone."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The hype is tied to the launch date; after the launch, interest may wane, so the tweet's relevance is limited to the launch period."
+}
+}
+},
+{
+"tweet_id": "1523988705672941568",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Breaking news about new Bitcoin and Ethereum ETFs in Australia is highly newsworthy and likely to be widely shared by investors and crypto communities."
+},
+"informative_value": {
+"score": 9,
+"justification": "It delivers a specific, verifiable announcement about ETF listings, which is critical information for investors."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply stating the fact without emotional language."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The news remains relevant for a period after the listing date, but its impact will diminish as the market adjusts, giving it a moderate lifespan."
+}
+}
+},
+{
+"tweet_id": "1523587012162318338",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Announcing Instagram's support for NFTs across major blockchains is a notable feature update that can attract attention from both social media users and crypto enthusiasts, leading to moderate sharing."
+},
+"informative_value": {
+"score": 7,
+"justification": "It provides a clear, factual statement about a new platform capability, which is useful for users interested in NFTs."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply informing about the new feature."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The announcement will remain relevant for some time as users adopt the feature, but it may not be evergreen; it will gradually fade as the feature becomes standard."
+}
+}
+}
+]

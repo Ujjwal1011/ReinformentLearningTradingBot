@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1531771109602799617",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "A useful tip from a prominent figure, likely to be shared within the Ethereum developer community but not expected to go globally viral."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides actionable, factual advice on testing dapps with non-Metamask wallets, backed by a credible source."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone, purely informational with no strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for developers for several months, though may become outdated as new wallets and standards evolve."
+      }
+    }
+  },
+  {
+    "tweet_id": "1531606091599159297",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news about the Ethereum Merge, a major event likely to be widely shared across the crypto community."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides key factual information about the merge schedule from a credible source."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting tone with no emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant primarily for the days leading up to and immediately after the merge; relevance fades quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1531369111938138112",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking announcement about the Ropsten testnet moving to PoS, a significant development likely to be widely shared."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Detailed information about the testnet transition, including a link to the source, making it highly informative."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Slightly positive tone due to emojis and excitement about the dress rehearsal."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant mainly for the short period around the testnet transition; relevance diminishes after the event."
+      }
+    }
+  },
+  {
+    "tweet_id": "1531234031492550656",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "An intriguing question about market bottoms that may resonate within the crypto community but lacks a breaking news hook."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Provides a link to an article but offers minimal context or summary, limiting immediate informativeness."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone; the tweet poses a question without expressing strong emotions."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The topic may generate discussion for weeks as market cycles evolve."
+      }
+    }
+  },
+  {
+    "tweet_id": "1531157443157315584",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Breaking news about a significant donation from Vitalik Buterin, likely to attract attention within the crypto and academic communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific, verifiable details about the donation amount and recipient institution."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting tone with no overt emotional language."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Relevant for a few weeks as the donation is noted, but not a long-term evergreen topic."
+      }
+    }
+  }
+]

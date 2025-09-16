@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1434342205510995968",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "The tweet is a simple price speculation that may resonate with crypto followers but lacks a strong hook or breaking news, so it has moderate virality potential."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides current price levels for Bitcoin and Ethereum, giving factual information to readers."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet presents a factual statement without strong emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The tweet references current price levels, which may become outdated quickly as markets move."
+      }
+    }
+  },
+  {
+    "tweet_id": "1434298571633926144",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet is a humorous statement that could resonate with a niche audience, but it lacks a broader hook for widespread sharing."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "The tweet is a personal statement with no factual or informative content."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet conveys a lighthearted, positive tone."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The tweet may generate discussion for a few days or weeks but will eventually fade."
+      }
+    }
+  },
+  {
+    "tweet_id": "1434063085229150216",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet highlights a notable event in Ethereum's history, likely to be shared within the crypto community."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet reports a significant event in Ethereum's history, providing factual information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet presents a factual statement without strong emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tweet references a specific event that may remain relevant for days or weeks within the crypto community."
+      }
+    }
+  },
+  {
+    "tweet_id": "1433951228145266690",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet offers an opinion that may resonate with crypto enthusiasts, but lacks a strong hook for widespread sharing."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "The tweet shares observations about Solana's growth and a broader perspective on crypto, providing some useful context."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet expresses a positive view of Solana's growth and a hopeful outlook for crypto."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tweet discusses ongoing growth and a broader perspective, which may remain relevant for weeks or months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1433945101835845638",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet presents a strong opinion that may spark debate within the crypto community, leading to moderate sharing."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "The tweet offers an opinion but lacks verifiable data or sources."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "The tweet expresses a negative viewpoint about Ethereum being replaced."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tweet addresses a broader debate that may remain relevant for weeks or months."
+      }
+    }
+  }
+]

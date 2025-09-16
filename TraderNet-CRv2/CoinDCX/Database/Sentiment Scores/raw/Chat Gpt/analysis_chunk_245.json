@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1557549548012068864",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet announces a notable Ethereum price point with moderate engagement (3,313 likes, 411 retweets) and a 'JUST IN' hook, giving it medium potential to be shared within the crypto community but limited broader appeal."
+},
+"informative_value": {
+"score": 6,
+"justification": "It provides a concrete price figure for Ethereum, offering factual information but without context or analysis, making it moderately informative."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet simply states a price without emotive language, resulting in a neutral tone."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Price points quickly become outdated, so the tweet's relevance is limited to a few hours or a day."
+}
+}
+},
+{
+"tweet_id": "1557546343052230656",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Labelled 'BREAKING' and reporting a significant technical milestone, the tweet attracted high engagement (5,112 likes, 871 retweets), giving it strong sharing potential within the crypto community."
+},
+"informative_value": {
+"score": 7,
+"justification": "It reports a specific, verifiable event—the Goerli testnet switching to PoS—providing useful news for developers and investors, though not from an official source."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The language highlights a successful switch, conveying optimism and a moderately positive tone."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "The testnet merge is a step toward the mainnet transition, keeping the tweet relevant for several days to weeks as discussions continue."
+}
+}
+},
+{
+"tweet_id": "1557544104031973377",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Combining a factual update with enthusiastic language and an emoji, the tweet garnered notable engagement (4,408 likes, 767 retweets), likely to be shared widely within crypto circles."
+},
+"informative_value": {
+"score": 7,
+"justification": "It confirms the testnet's PoS status and hints at the upcoming mainnet merge, providing valuable context for the community."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Words like 'finally' and the celebratory panda emoji express clear positive excitement, resulting in a moderately positive tone."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Discussion around the testnet merge and the impending mainnet transition can persist for several days to weeks, maintaining relevance."
+}
+}
+},
+{
+"tweet_id": "1557543521875140615",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The concise 'BREAKING' headline and very high engagement (15,955 likes, 3,155 retweets) give this tweet strong viral potential within the crypto community and potential spillover to broader tech audiences."
+},
+"informative_value": {
+"score": 8,
+"justification": "It delivers a clear, verifiable announcement of a key technical milestone, serving as a concise news item."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The wording emphasizes a successful merge, reflecting a positive tone."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The significance of the testnet merge keeps the tweet relevant for several days to weeks as the community prepares for the mainnet merge."
+}
+}
+},
+{
+"tweet_id": "1557533155480969216",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The 'JUST IN' hook and notable market cap figure generated moderate interest, reflected in 3,753 likes and 499 retweets, leading to medium relevance within finance and crypto circles."
+},
+"informative_value": {
+"score": 6,
+"justification": "It provides a specific market‑cap number, offering factual data but lacking deeper analysis, making it moderately informative."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The term 'reclaimed' implies a positive recovery, giving the tweet a moderately positive tone."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Market‑cap figures fluctuate frequently; the tweet's relevance is limited to a short period, likely a few hours to a day."
+}
+}
+}
+]

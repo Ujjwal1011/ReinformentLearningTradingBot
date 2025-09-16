@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1757143332231565663",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Major asset manager filing for an Ethereum ETF is a significant event in crypto finance, likely to be shared widely across the community and beyond."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides factual, primary-source news about a $1.5 trillion asset manager's ETF filing, which is highly relevant and credible."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is a neutral, factual announcement with no emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The ETF filing will remain relevant for weeks or months as the approval process unfolds, sustaining engagement over time."
+      }
+    }
+  },
+  {
+    "tweet_id": "1757142599016616334",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Announcing Franklin Templeton's entry into the Ethereum ETF race is a noteworthy development that will attract attention from investors and crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Shares a concise update about a major asset manager joining the ETF market, offering useful information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet maintains a neutral tone, simply reporting the news."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The relevance of the announcement will persist for days or weeks as the ETF process continues."
+      }
+    }
+  },
+  {
+    "tweet_id": "1757140029426606493",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "A launchpad mint announcement targets a specific community, encouraging shares within that niche but unlikely to go mainstream."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Provides basic details about the upcoming mint and partnership, but lacks in-depth context."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tweet expresses excitement and positivity, using enthusiastic language."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The tweet's relevance is tied to the mint date and will fade after the event, lasting a few days."
+      }
+    }
+  },
+  {
+    "tweet_id": "1756654977445953932",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "A brief compliment on charts is likely to generate some engagement but is not expected to spread widely beyond the immediate audience."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Offers minimal factual content, mainly a subjective opinion about chart aesthetics."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet conveys a positive tone, praising the charts."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The comment is relevant for a short period, likely a few hours to a day."
+      }
+    }
+  },
+  {
+    "tweet_id": "1756337671318695941",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "An informative overview of Wormhole's history and impact can resonate with blockchain enthusiasts, leading to moderate sharing within the community."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Delivers credible data about Wormhole's origins, growth, and message volume, making it highly informative."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet presents neutral, factual information without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The historical and technical details remain relevant for an extended period, making it a long-lasting reference."
+      }
+    }
+  }
+]

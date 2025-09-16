@@ -1,0 +1,1052 @@
+[
+  {
+    "tweet_id": "1732191100524171353",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "This is a niche personal promotion for an NFT, likely only relevant to a small, existing community. It lacks broader appeal or strong emotional drivers for wide sharing."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "It provides specific information about an NFT listing (type, price, link), which is useful for interested buyers or followers of the artist/project."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet expresses positive sentiment through 'Thanks for posting this! Love this' and promotes an item with enthusiasm."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "An NFT listing on a 'first come, first serve' basis has a very short lifespan. Once sold or if interest quickly fades, the tweet becomes irrelevant."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732190739948544470",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Generic crypto project hype using common hashtags. While it targets a community, it lacks unique content or a strong hook to go widely viral beyond immediate enthusiasts."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "This tweet offers very little factual or newsworthy information, acting primarily as a promotional statement for a crypto project."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The phrase 'It's time to show the world!' implies excitement and positive anticipation for the project."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Crypto hype tweets typically have a very short impact, quickly being overshadowed by newer projects or price movements."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732190722500002011",
+    "analysis": {
+      "virality_potential": {
+        "score": 1,
+        "justification": "This tweet consists only of generic crypto hashtags and an image, offering no context, opinion, or call to action to prompt sharing."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "It provides no actual information, just a list of popular crypto terms. Its primary purpose isn't to inform."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "With just hashtags and an image, there is no discernible emotional tone, making it neutral or irrelevant in terms of sentiment."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "This tweet is instantly forgettable and loses any potential relevance almost immediately after being posted due to lack of substance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732190695316652256",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Links to an article about crypto projects, which might be shared within the crypto community, but isn't groundbreaking enough for wider virality."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "It provides a clear topic ('Exploring 8 Outstanding Real World Crypto Asset Projects') and a link to an article, offering useful educational content for its target audience."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The title 'Exploring 8 Outstanding...' implies a positive and optimistic outlook on the listed projects."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "An article about promising crypto projects for an upcoming bull market can remain relevant for weeks, as the market trends unfold and people look for investment ideas."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732190681110655184",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "This is a personal trading update with specific crypto assets and common hashtags. While relevant to crypto traders, it lacks broader appeal for viral sharing."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "It provides a brief update on a trading position but lacks context, justification, or verifiable data to be broadly informative beyond the trader's personal log."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral and factual, simply stating a trading action ('Adjust my SL, now waiting patiently.') without strong emotional expression."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "A personal trading update is highly time-sensitive and will lose relevance quickly as market conditions change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732190576764764519",
+    "analysis": {
+      "virality_potential": {
+        "score": 2,
+        "justification": "This is a direct reply asking a specific technical question within a niche crypto discussion. It has no virality potential beyond the immediate conversation participants."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "It's a question seeking information about a specific crypto project's payout mechanism, which is informative for the user asking and potentially others with the same query."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is a neutral, direct question seeking clarification, with no strong emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The relevance of this question is short-term, primarily until an answer is received or the specific project's mechanism becomes widely understood."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732190434221490594",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "A book review about Bitcoin-themed fiction might get shared within crypto literary circles but isn't likely to go broadly viral."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "It reviews a specific book, providing context about its content ('Bitcoin themed fictional short stories') and author, linking to more detailed information. This is valuable for readers interested in crypto literature."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is a factual announcement of a book review. While reviews can contain sentiment, the tweet itself is presented neutrally."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "A book review, especially for a niche topic, can retain relevance for months or even years as new readers discover the book."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732190345968955744",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Breaking news about SEC delays for a major crypto ETF (Ethereum Spot ETF) is highly relevant to a large crypto audience and has strong potential for widespread sharing within that community."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "This is newsworthy, factual information from a primary source (SEC decision) and is critical for investors and industry participants. It includes a link to further details."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Presented as 'BREAKING' news, the tweet conveys information factually, without expressing overt positive or negative emotions from the poster, though the news itself might elicit negative reactions from some."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The news of an SEC delay for an ETF will remain a topic of discussion and speculation until the new decision date (January 25, 2024), lasting for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732190340835070372",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "A 'giveaway' combined with promotion of a privacy-focused decentralized AI integrated with blockchain technology is highly engaging and likely to be shared broadly, especially with an existing follower base (53 likes, 20 retweets)."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "It informs about a specific decentralized AI project, highlighting its key privacy features and how to engage with it (holding tokens). While promotional, it contains useful information for those interested in AI/crypto."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet expresses excitement around a 'giveaway' and promotes the AI positively ('you need to try it!!')."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Giveaways typically have a medium impact, lasting for the duration of the contest (days to weeks). The discussion around the AI tool might last longer, but the giveaway itself is time-bound."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732190302616641582",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "An announcement of an imminent launch of a 'highly-anticipated 3D Collection' on Ethereum, with specific mint event details, will generate significant buzz and sharing within the NFT and crypto art communities (42 likes, 23 retweets, 10 quotes)."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "It provides concrete, actionable details about an upcoming NFT mint event, including the collection name, network, and details for joining a main chat, which is highly informative for potential participants."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Phrases like 'delighted to announce,' 'highly-anticipated,' and 'Phoenix Odyssey' convey strong positive excitement and enthusiasm for the launch."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The impact will be high leading up to and immediately following the mint event, likely lasting for days to weeks as the collection is released and traded."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732190298120331710",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "A 'Just Launched!' announcement for a new crypto gem, using exciting language and specific hashtags, is likely to be shared within speculative crypto communities, though it lacks broader appeal."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "While it announces a new token, the information is largely promotional and lacks verifiable details beyond its existence and network. It encourages early investment rather than providing in-depth knowledge."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Very positive and exciting, using terms like '🚀 Just Launched!', 'newest gem,' '🌈 Dive into a world of digital fortune,' and 'Get in early!'"
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "New token launches often have a short burst of relevance. Without significant ongoing development or news, interest can quickly fade in the volatile crypto market."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732190168587894903",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Speculation about Ethereum's price surge based on a potential BlackRock ETF approval is a significant topic within crypto and financial communities, likely to be shared among investors."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "It provides a clear market projection related to a specific event (BlackRock ETF approval) and quantifies the potential impact ('exceeding 10 times its current value'). This is valuable speculative information for investors."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet expresses optimism and strong positive anticipation regarding Ethereum's future price potential."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The relevance will last until the SEC makes a decision on the BlackRock ETF, and then for some time as the market reacts to that decision, potentially months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732190150476574964",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "This tweet provides detailed information about a specific Ethereum L2 project in Spanish. It's likely to be shared widely within Spanish-speaking crypto and developer communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It offers in-depth, specific information about 'tenprotocol' (formerly Obscuro), describing its function (privacy-focused Ethereum L2), its technical position (between Optimistic and ZK rollups), funding, and ongoing campaigns. This is highly educational."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The tone is generally positive, describing the project as 'mejorada' (improved) and noting its successful funding, suggesting optimism about its development."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Detailed information about a significant Layer 2 project, including its funding and technical characteristics, can remain relevant for months as the project develops and its community grows."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732190121540374918",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Explaining the foundational role of Risk Labs and its projects (UMA, Across Protocol) within the Ethereum ecosystem is valuable and likely to be shared by developers and informed crypto investors."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "This tweet provides excellent educational value, explaining the relationship between Risk Labs, UMA protocol (history, TVL), and Across Protocol (function). It clarifies complex ecosystem components concisely."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The description of UMA as 'crypto's first optimistic oracle' and Across as 'best-in-class cross-chain bridge' indicates strong positive regard and confidence in these projects."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Information about foundational projects like UMA and Across Protocol, which are key infrastructure, remains highly relevant for years as they underpin the broader ecosystem."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732190048487952723",
+    "analysis": {
+      "virality_potential": {
+        "score": 1,
+        "justification": "This is a direct reply with only an image link, providing no context or general appeal for sharing beyond the immediate conversation."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "Without context, an image link offers no verifiable information. Its purpose is unknown from this tweet alone."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "A standalone image link in a reply typically has a neutral or ambiguous sentiment without further context."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Its relevance is confined to the immediate interaction and loses meaning instantly thereafter."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732189792589484051",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "A reply suggesting a specific token burn mechanism within a technical crypto discussion is very niche and unlikely to go viral."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "It offers a specific suggestion for a mechanism ('Use IBC tx fee to buy and burn $atom') which, if implemented, would have an impact. It's an opinion but an informed one within a technical context."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The phrase 'I will be bullish' indicates a positive outlook if the suggestion were adopted."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The suggestion's relevance lasts as long as the underlying debate or proposal is active, likely a few days or weeks at most."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732189748796457215",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Automated alerts for large crypto transfers can be of interest to traders and analysts, but they are common and not inherently viral without additional context or analysis."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "This tweet provides highly specific and verifiable data about a large crypto transfer (amount, tokens, 'from' and 'to' addresses, transaction ID). This is valuable raw data for market watchers."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "This is a factual, automated alert of a transaction, presenting data without any emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "While the data is factual, its immediate impact is short-lived. New transactions happen constantly, and this specific transfer quickly gets superseded by other market movements."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732189744497356813",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Hype for a new crypto season and associated bullish sentiment with major cryptocurrencies is often shared enthusiastically within the crypto community, especially with an existing following (7 likes, 5 retweets)."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "This is primarily a hype tweet for 'Season 2' of a project and general bullish sentiment for Bitcoin and Ethereum, lacking concrete new information or educational value."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tweet is highly positive and enthusiastic, using phrases like 'Lesgooooo,' '🚀,' '🔥,' and '#Bullish 🚀🚀🚀🚀'."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Hype around a 'season' in crypto tends to last a few days or weeks, depending on the project's updates and market conditions, then fades as new trends emerge."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732189626620649859",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "A comparative argument for Solana's superiority over Ethereum for new users is a contentious and engaging topic within the crypto community, likely to spark debate and shares."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "It proposes a hypothetical experiment to compare user experience between Ethereum and Solana and makes a direct claim of Solana being 'simply better.' While an opinion, it provokes thought and discussion about user experience, which is informative."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The tweet is moderately positive towards Solana ('It's simply better') and implicitly critical of Ethereum's user experience for new users."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The debate over which blockchain is 'better' or more user-friendly is an ongoing, evergreen discussion. This tweet could be referenced or debated for weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732189497423708407",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "This is a brief, one-sentence update about an Ethereum transfer. While potentially interesting to some, it lacks context or broader appeal to go viral."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "It informs about a large Ethereum transfer to Kraken. It's factual but lacks further analysis or context to make it highly informative beyond the raw data point."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The 'Rất thú vị!' (Very interesting!) indicates a moderately positive or intrigued sentiment about the transfer."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Information about a specific large transfer is very short-lived in relevance, as market movements constantly occur."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732189458324451702",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "This tweet summarizes multiple positive crypto news items (Bitcoin surge, PayPal stablecoin, Ethereum's rise). Such compilations are highly valued and shared within the crypto community for quick updates (68 likes, 80 replies)."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides a concise summary of multiple significant, newsworthy events in the crypto space (Bitcoin reaching 44k, PayPal's stablecoin, Ethereum nearing $3k). This is highly valuable and up-to-date information."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The overall tone is very positive and optimistic, highlighting price increases and 'game-changer' developments. The use of '🤩🤩' reinforces excitement."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "This is a daily news update. While the individual stories might have longer impact, the compilation as a 'today's news' item is relevant for only a day."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732189373062377900",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "A reply expressing a personal desire for lower gas fees on Ethereum is a common sentiment but not novel enough to go viral beyond general agreement within a specific conversation."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "It indirectly informs about a common pain point with Ethereum (high gas fees) and expresses a desire for a solution, which is a known issue but not new information."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "The sentiment is moderately negative, expressing a desire to avoid 'enormous gas fees' and implicitly criticizing the current state of Ethereum in this regard."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "High gas fees are an ongoing, long-standing issue for Ethereum users. This tweet reflects a perennial concern, giving it a moderate, recurring relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732189363130282085",
+    "analysis": {
+      "virality_potential": {
+        "score": 1,
+        "justification": "This is a very niche, personal, and somewhat abstract comment in French about an artist's name, unlikely to be understood or shared broadly."
+      },
+      "informative_value": {
+        "score": 0,
+        "justification": "The tweet offers no factual, newsworthy, or educational information. It's a personal, somewhat rambling opinion about a name."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "The phrase 'c’est une dinguerie' (it's crazy) suggests a negative or critical assessment of the artist's name choice."
+      },
+      "duration_of_impact": {
+        "score": 1,
+        "justification": "This tweet is instantly irrelevant due to its highly subjective, niche, and fleeting comment nature."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732189360466895049",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Complaints about high Ethereum gas fees and advocacy for Cardano are common within crypto debates. While engaging for some, it's not a novel take that would achieve widespread virality."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "It provides a specific example of high gas fees on Ethereum ($5.08 jumping to $24.58 for a $500 swap) and advocates for Cardano as an alternative, offering concrete information about a user experience issue and a proposed solution."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "The tweet expresses frustration and disappointment with Ethereum's gas fees, using the word 'demoralizing,' indicating a moderately negative sentiment."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The issue of high gas fees on Ethereum and the comparison with other blockchains like Cardano is an ongoing, long-term debate within the crypto space, giving this tweet sustained relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732189157424771274",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Describing 'Ethscriptions' as a potential key to unlocking ETH's untapped potential, combined with the allure of '10K punks' inscribed on the blockchain, is highly engaging for crypto/NFT enthusiasts and has strong sharing potential (49 likes, 16 retweets)."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "It explains the concept of 'Ethscriptions' in relation to 'Ethpunks' and suggests their significance for Ethereum, providing useful insight into a specific development within the ecosystem."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet is highly optimistic about Ethscriptions, describing them as 'the key to unlocking ETH's untapped potential,' indicating strong positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Discussion about new protocols or ways of inscribing data on a blockchain (like Ethscriptions) and their potential impact can remain relevant for months or even years as these technologies develop and gain adoption."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732189094317334639",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "A news article about the resurgence of the Ethereum NFT market is relevant to a specific community and can generate moderate shares."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "It announces a news article addressing a specific market trend ('Ethereum NFT market sees resurgence') and poses a question ('What prompted the boom?'), making it informative and engaging for those interested in NFTs."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The 'resurgence' of the NFT market implies positive news for the sector, giving the tweet a moderately positive tone, even if presented as a news item."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Market trend analyses like this can remain relevant for weeks, as people track and discuss the trajectory of the NFT market."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732188930559139956",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "A technical chart analysis for a specific crypto asset, while relevant for traders, is too niche to achieve broad virality."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "It provides a technical analysis snippet for OSMO/USDT on a 1h timeframe, noting its position 'Near resistance zone,' which is specific and useful information for traders."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet presents factual technical analysis without overt emotional language, making its sentiment neutral."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Technical analyses, especially on short timeframes (1h), are highly time-sensitive and lose relevance quickly as market conditions change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732188922963464438",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "A morning greeting combined with a promotional link to an NFT collection. It's standard content for an NFT enthusiast and unlikely to go viral beyond a dedicated following."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "It informs about the existence of an NFT collection on OpenSea and provides a link. Beyond that, it offers little additional context or educational value."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Starts with 'Good morning!' and promotes the NFT positively, suggesting a moderately positive sentiment."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Promotions of NFT collections have a relatively short lifespan, as market attention shifts quickly to new projects and trends."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732188906064621763",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Highlighting a highly secure hardware wallet (EAL7 certification) is of significant interest to the crypto community, particularly those concerned with security. This type of information is valuable and shared."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It provides specific, verifiable information about a hardware wallet's security feature ('EAL7 security certification') and how it benefits users ('access their wallets without compromising security'), making it highly informative for crypto holders."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet frames the product very positively, emphasizing its 'impressive' design and calling it 'one of the most secure wallets available,' indicating strong endorsement."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Information about high-security hardware wallets for crypto is evergreen. Security concerns are persistent, and reliable solutions like this have long-term relevance for years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732188831355637773",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "News about the SEC extending a decision date for a major Ethereum ETF proposal is highly important and engaging for the crypto and financial markets, with good potential for sharing."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It provides critical, time-sensitive information about the SEC's decision on Grayscale's Ethereum ETF, including the new extended date and interpretation of the regulator's stance. This is newsworthy and factual."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet reports factual news neutrally, though the event itself (a delay) might be viewed negatively by some investors. The language is objective ('The SEC extends the decision date')."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The impact will last for weeks until the new decision date in 2024, as the market anticipates and speculates on the outcome."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732188685326541012",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "A speculative prediction about crypto market cycles (Bitcoin correcting, Ethereum leading, altcoins bleeding) is highly engaging for traders and investors but is a common type of content, unlikely to go globally viral."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "It presents a detailed, speculative forecast of crypto market movements. While it's an opinion, it's a specific and somewhat educational outlook for those following market analysis."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "The prediction culminates in 'altcoins will bleed, then we'll go back to hell,' indicating a moderately negative or pessimistic outlook on the long-term cycle after initial gains."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "A market cycle prediction like this can remain relevant for weeks or months as people watch to see if the forecast plays out. Its impact depends on the accuracy and ongoing discussion."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732188669061091471",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "An automated alert for a high-value transaction, while interesting to some, is a common occurrence in crypto and not inherently viral without additional context or commentary."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides highly specific and verifiable data about a large ETH transaction (value in ETH and USDT, from/to addresses). This is valuable raw data for market analysis and whale tracking."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "This is a purely factual, automated alert, presenting data without any emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The relevance of a single transaction alert is very short-lived, quickly getting overshadowed by new market activity and transactions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732188555890319603",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "A personal update on a trading position, while relevant to the trader's followers, lacks broader appeal for viral sharing."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "It's a brief update on a personal 'long position' in CRV/USDT. It informs about a trading action but lacks broader educational or newsworthy content."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is a neutral, factual update on a trading strategy ('Tutmaya devam ediyorum' - I continue to hold), without strong emotional expression."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "A personal trading update is highly time-sensitive and loses relevance quickly as market conditions and the trader's position evolve."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732188428949713311",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "A news snippet recommending crypto to accumulate before a bull run is a common topic in crypto and financial circles and will be shared within that community, but not likely broadly viral."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "It summarizes an article about '5 Crypto to Accumulate Before 2024 Bull Run,' categorizing it and mentioning specific cryptocurrencies. This provides useful, actionable information for investors."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet has a positive and optimistic sentiment, focusing on 'bull run' and recommending assets for accumulation."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Advice on crypto accumulation before a bull run can remain relevant for months, or until the bull run is perceived to have started or ended."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732188353511014492",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "A factual list of top crypto movers and their percentages is useful for traders but not inherently viral content, as it's a common daily update."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides clear, factual, and quantitative data on the 'Top 5 Crypto Movers in the Last 24 Hours,' including prices and percentage changes for major cryptocurrencies. This is highly informative for market watchers."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "This is a purely factual report of market data, presented neutrally without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "As a 'Last 24 Hours' report, its relevance is short-lived, valid only for approximately one day before new data emerges."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732188341406248989",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Similar to the previous tweet, this is a factual list of top crypto movers. Useful but not designed for widespread virality."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides clear, factual, and quantitative data on the 'Top 5 Crypto Movers in the Last 24 Hours,' including prices and percentage changes for major cryptocurrencies. This is highly informative for market watchers."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "This is a purely factual report of market data, presented neutrally without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "As a 'Last 24 Hours' report, its relevance is short-lived, valid only for approximately one day before new data emerges."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732188339896304118",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Highlighting a secure hardware wallet designed to meet a critical need for security is of significant interest to the crypto community, making it shareable among those concerned with asset protection."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It provides specific information about a hardware wallet's design purpose ('address the need for a secure and reliable crypto wallet') and its importance in the field, making it highly informative for crypto holders."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet frames the product very positively, emphasizing its effectiveness in addressing a 'need' and its reliability."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Information about high-security hardware wallets for crypto is evergreen. Security concerns are persistent, and reliable solutions like this have long-term relevance for years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732188334334562605",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Hype for a new crypto season and associated bullish sentiment with major cryptocurrencies is often shared enthusiastically within the crypto community, with good engagement (8 likes, 7 retweets)."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "This is primarily a hype tweet for 'Season 2' of a project and general bullish sentiment for Bitcoin and Ethereum, lacking concrete new information or educational value."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tweet is highly positive and enthusiastic, using phrases like 'Lesgooooo,' '🚀,' '🔥,' and '#Bullish'."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Hype around a 'season' in crypto tends to last a few days or weeks, depending on the project's updates and market conditions, then fades as new trends emerge."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732188262024781969",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "An automated bot tweeting gas price predictions is a utility for a niche audience (Ethereum users). It's not designed for virality, but for practical information dissemination."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "This tweet provides highly specific, quantitative, and time-sensitive predictions for Ethereum gas prices, which is critical information for users interacting with the network."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "This is a purely factual, automated report of technical data, presenting numbers neutrally."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Gas price predictions are extremely time-sensitive, relevant only for a matter of minutes or hours, making the impact very short-lived."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732188115517792652",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "A Spanish news outlet reporting on Ethereum gaining value and an upward trend is relevant news for Spanish-speaking crypto investors and enthusiasts, leading to moderate shares within that community."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "It informs about Ethereum's positive price movement and a clear bullish trend, linking to a source for more details. This is useful market news."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet implies a positive outlook for Ethereum, noting it's 'ganando valor' (gaining value) and indicating a 'clara tendencia alcista' (clear upward trend)."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Market trend news is relevant for a few days to a week, or as long as the trend holds, before new market dynamics take over."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732188108542623982",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Explaining the interconnected roles of Ethereum, Chainlink, and The Graph is valuable and shareable for anyone trying to understand the Web3 ecosystem's infrastructure."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "This tweet provides excellent educational value by concisely explaining the distinct yet complementary functions of three major components (Ethereum, Chainlink, The Graph) in the blockchain ecosystem. It clarifies their fundamental roles."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The tweet is generally positive in its educational tone, highlighting the effective interplay of these technologies, implicitly endorsing their value with 'Don’t get got 😉'."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "The foundational roles of Ethereum, Chainlink, and The Graph in the blockchain space mean this information is highly evergreen and will be relevant for many years as fundamental knowledge."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732188075311169742",
+    "analysis": {
+      "virality_potential": {
+        "score": 1,
+        "justification": "This is a single-word reply, providing no context or content to be shared virally."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "As a standalone word in a reply, it offers no verifiable or educational information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "A single word 'Ethereum' in a reply is neutral without the context of the original tweet."
+      },
+      "duration_of_impact": {
+        "score": 1,
+        "justification": "Its relevance is confined to the immediate interaction and loses meaning instantly thereafter."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732187998765126121",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "A provocative and informal suggestion to invest heavily in Ethereum is likely to resonate within specific crypto speculative circles but is too niche and specific to go broadly viral."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "This tweet offers highly speculative and anecdotal 'financial advice' without any factual basis or educational content. It's an opinion, not information."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The advice to 'spend everything you got on ethereum' implies a strong, albeit informal, positive and confident sentiment about Ethereum's potential."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Such informal investment advice might be relevant for a few days or weeks during a bullish market, but its impact is short-term as market conditions change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732187917551075768",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Introducing the 'first fully decentralized EVM layer 2 on Bitcoin' is a significant technical development that would attract considerable interest and sharing within the crypto and blockchain development communities (35 likes, 40 replies)."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "This tweet provides highly valuable and specific technical information about Botanix Labs as the 'first fully decentralized EVM layer 2 on Bitcoin,' explaining its hybrid approach. This is critical for developers and informed investors."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet is positive and enthusiastic about the new technology, highlighting its potential and distinguishing it from Ethereum L2s, implying innovation and progress."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "A foundational development like the first decentralized EVM L2 on Bitcoin has long-term relevance, potentially shaping future blockchain architecture and discussions for years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732187818880077940",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "A speculative, highly optimistic prediction about Bitcoin's bull run surpassing previous highs without needing a halving, and being 'much bigger' than others, is very engaging for crypto investors and likely to be shared within the community."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "It offers a bold, speculative market prediction. While opinion-based, it frames a significant outlook ('logaritmik olarak diğer boğalardan çok daha büyük olacağa benziyor' - looks like it will be logarithmically much bigger than other bull runs) which is informative for market sentiment."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tweet expresses extremely high optimism and excitement for the upcoming crypto bull market, anticipating it to be 'logarithmically much bigger'."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Such a bold prediction about a major market cycle can remain relevant for months, or until the market decisively proves or disproves the prediction."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732187739288953339",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "A technical discussion in a reply, referencing a Vitalik Buterin post and suggesting implementation for current issues, is highly niche and only relevant to a specific developer/researcher audience."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "It references a specific, important post by Vitalik Buterin and suggests applying its concepts to mitigate current issues ('too many applications,' 'having to lobby individual badgeholders'), offering a technical solution and context."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The sentiment is generally positive and constructive, suggesting an improvement ('We should test this soon') to existing issues."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Referencing a foundational post by a key figure (Vitalik Buterin) and applying it to ongoing technical challenges gives this discussion a long-term relevance for blockchain development."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732187707550679214",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "News about the SEC delaying a major Ethereum spot ETF proposal is critical for the crypto market and will be widely shared within investor and crypto communities (78 likes, 91 replies)."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "This tweet provides critical, time-sensitive, and factual information about the SEC's decision to delay Grayscale's Ethereum spot ETF, including the new deadline. This is vital news for market participants."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet reports factual news neutrally ('SEC trì hoãn đề xuất ETF Ethereum spot của Grayscale' - SEC delays Grayscale's Ethereum spot ETF proposal), though the news itself might be viewed negatively by investors."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The impact will last for weeks, leading up to the new decision date (January 25, 2024), as market participants continue to speculate and discuss the implications."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732187665834123481",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Highlighting a hardware wallet's impressive design and security qualifications for safeguarding crypto assets is of significant interest to the crypto community, making it shareable among those prioritizing security."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "It provides specific information about a hardware wallet's design and qualifications, emphasizing its security ('one of the most secure wallets available on the market today'), making it highly informative for crypto holders."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet frames the product very positively, emphasizing its 'impressive' design and robust security, indicating strong endorsement."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Information about high-security hardware wallets for crypto is evergreen. Security concerns are persistent, and reliable solutions like this have long-term relevance for years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732187450293055568",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "A reply suggesting technical solutions for Ethereum scaling (batch settlement layer, 'mooing') is highly niche and only relevant to developers or deeply technical crypto users."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "It proposes theoretical technical solutions ('batch settlement layer for Ethereum') for existing problems, which is informative for the technical discussion it is part of."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral and inquisitive, posing possibilities rather than expressing strong emotion. The 'moo' part is humorous but doesn't change overall neutrality."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Discussions around Ethereum scaling solutions are ongoing and fundamental to the network's future, giving such suggestions a medium-to-long term relevance in the technical community."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732187354809454990",
+    "analysis": {
+      "virality_potential": {
+        "score": 2,
+        "justification": "A personal, lighthearted remark about being nervous when Bitcoin/Saylor are praised, tied to personal crypto losses, is very niche and unlikely to go viral."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "It's a personal opinion about market sentiment ('macht mich nervös' - makes me nervous) and personal financial situation ('brauche noch weitere BTC Gains, um Ethereum-Verluste auszugleichen' - need more BTC gains to offset Ethereum losses). Not broadly informative."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "The tweet expresses a mix of slight anxiety ('nervös') and a desire to recover losses, leaning towards moderately negative in its underlying sentiment."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "A personal market commentary like this is relevant for only a short period, as market conditions and individual emotions constantly shift."
+      }
+    }
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1437862296827613188",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Controversial statement about crypto projects could drive engagement within blockchain communities, though lacks universal appeal."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Opinion-based claim without supporting data or context about Solana's performance."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Moderately negative tone dismissing Solana's capabilities compared to Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to current crypto market conditions rather than lasting discussion."
+      }
+    }
+  },
+  {
+    "tweet_id": "1437847825572892672",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Engaging comparison from a major brand with high retweet count shows strong sharing potential."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Poll-style question without substantive information about the compared technologies."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of a consumer choice question."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Tied to specific product launch cycle with time-limited relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1437774633969885189",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Price predictions may circulate within crypto communities but lack broader appeal."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Speculative forecasts without methodology or sources provided."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral listing of numerical predictions without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Market-dependent predictions with relevance tied to short-term price movements."
+      }
+    }
+  },
+  {
+    "tweet_id": "1437445755472601090",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Casual offer in Spanish may engage niche audiences but lacks broad appeal."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "Personal joke/offer contains no verifiable information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral transaction proposal without clear emotional valence."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Immediate-timeframe offer with no lasting relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1437411853961936896",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Humorous corporate meme format could spread in crypto circles."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Fictional dialogue provides no actual business insights."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral parody without positive/negative positioning."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Joke relevance tied to current crypto popularity trends."
+      }
+    }
+  },
+  {
+    "tweet_id": "1437281199731449856",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Intra-community commentary likely to generate discussion but limited broader appeal."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Personal portfolio commentary without new information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Analytical comparison without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Standard lifespan for community meta-discussion."
+      }
+    }
+  },
+  {
+    "tweet_id": "1437271588429258755",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Provocative question format with high engagement metrics shows strong sharing potential."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Simple comparison prompt without informational content."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral question format without implied preference."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Ongoing debate in crypto communities gives extended relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1437135725611393029",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Regulatory criticism likely to drive engagement in crypto circles."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Raises substantive questions about regulatory fairness with industry references."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Critical tone questioning regulatory consistency."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Tied to ongoing regulatory discussions with medium-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1436949520835911683",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Technical critique may spread among blockchain developers."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Makes claims about network capacity without supporting data."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral statement of technical opinion."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Ongoing relevance to blockchain scalability discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1436742655724167181",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Contrarian take from industry insider likely to generate discussion."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Personal opinion about NFTs without technical analysis."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Moderately negative skepticism about NFT value proposition."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Contributes to ongoing NFT skepticism discussions with medium-term relevance."
+      }
+    }
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1538804424478445568",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Significant crypto market update likely to be shared within blockchain communities, though limited to niche audiences."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific, verifiable data about cryptocurrency transaction volumes on a major blockchain network."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement without explicit emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Daily transaction metrics have short-term relevance but may be referenced in weekly market analyses."
+      }
+    }
+  },
+  {
+    "tweet_id": "1538706290553327618",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Engaging origin story about Ethereum's creation combines gaming and tech, appealing to multiple communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides historical context about Ethereum's creation but lacks primary source verification."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of a historical fact without emotional tone."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Evergreen backstory content likely to be referenced in future crypto education materials."
+      }
+    }
+  },
+  {
+    "tweet_id": "1538627103339565060",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Price update format is standard for crypto communities but lacks unique engagement hooks."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides clear 24-hour performance data for multiple cryptocurrencies with proper tickers."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Implied positive sentiment through emphasis on percentage gains."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Price data becomes outdated quickly in volatile crypto markets."
+      }
+    }
+  },
+  {
+    "tweet_id": "1538536940269490178",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Bullish analysis likely to be shared within Ethereum communities but lacks broad appeal."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Combines price data with ecosystem development updates and technical roadmap information."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Strong positive sentiment expressed through phrases like 'fundamentals could not be stronger'."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Discusses both current market conditions and long-term network developments."
+      }
+    }
+  },
+  {
+    "tweet_id": "1538432374643609600",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "All-time high metric announcement has strong sharing potential in crypto circles."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific, verifiable data point about Ethereum network development with clear figures."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Implied positive sentiment through highlighting network growth."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Record metrics remain relevant until surpassed but lack inherent longevity."
+      }
+    }
+  },
+  {
+    "tweet_id": "1538348857825828864",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Controversial market manipulation claim likely to spark debates and shares."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Presents speculative analysis without supporting evidence beyond price observations."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative tone regarding market conditions and alleged manipulation."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Tied to current market cycle but could influence future discussions about market structure."
+      }
+    }
+  },
+  {
+    "tweet_id": "1538336919033094144",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Provocative criticism of industry experts likely to generate engagement."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Opinion piece about industry bias without concrete examples or data."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Strong negative sentiment using terms like 'shills' and questioning credibility."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Timely critique tied to current market conditions but lacks lasting relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1538316619717353472",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Common investment advice format with moderate sharing potential in crypto circles."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Combines market data with generic investment strategy without novel insights."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Cautiously optimistic tone advocating long-term positions."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Standard market cycle advice with typical relevance period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1538302000202391552",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Humorous take on crypto market crash has high meme/sharing potential."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Satirical content without substantive information."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Negative sentiment masked by humor regarding Ethereum's price drop."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Humor tied to specific price level with fleeting relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1538253890906247173",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major price milestone announcement likely to be widely shared in financial/crypto circles."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Specific price data with historical context comparison."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Implied negative sentiment through emphasis on price decline."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Price level significance lasts until market conditions change."
+      }
+    }
+  }
+]

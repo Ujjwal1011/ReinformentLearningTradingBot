@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1725513725187166439",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Breaking news about a significant blockchain bridge feature between Ethereum and Solana, which is a major development in the crypto space, likely to be shared widely among enthusiasts."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides credible, newsworthy information about a potential bridge feature, which is a significant technical advancement."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment due to the excitement around the potential bridge feature."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Remains relevant for weeks as the bridge feature is a significant development with long-term implications."
+}
+}
+},
+{
+"tweet_id": "1725227252189704569",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Promotional tweet with emojis and calls to action, likely to be shared within the specific community interested in PFP collections."
+},
+"informative_value": {
+"score": 4,
+"justification": "Minimal information; primarily promotional with a link but no detailed context."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment with excitement about the free mint opportunity."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days as it's tied to a specific event (free mint)."
+}
+}
+},
+{
+"tweet_id": "1725225075480154133",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Breaking news about significant recordings detailing Ethereum corruption, which is a major story in the crypto community."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides credible, newsworthy information about potential corruption in Ethereum's history."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "Negative sentiment due to allegations of corruption."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Remains relevant for weeks as the story unfolds and is discussed in the community."
+}
+}
+},
+{
+"tweet_id": "1725118908984648175",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Comparative analysis of transaction costs, which is informative but may not go viral beyond crypto enthusiasts."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides useful information comparing transaction costs between Ethereum, Bitcoin, and PulseChain."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment towards PulseChain's affordability."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Remains relevant for a few weeks as transaction costs are a ongoing topic in crypto."
+}
+}
+},
+{
+"tweet_id": "1725113878596424059",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Breaking news about BlackRock filing for an Ethereum ETF, which is a significant financial move."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides critical, verifiable information about a major financial institution's move."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment about the potential of Ethereum in institutional markets."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Remains relevant for weeks as the ETF application is reviewed and discussed."
+}
+}
+},
+{
+"tweet_id": "1725112879429406851",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Breaking news about BlackRock's S-1 application for an Ethereum ETF, which is a major development."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides critical information about a significant financial move."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment about the potential impact on Ethereum's adoption."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Remains relevant for weeks as the application is processed and discussed."
+}
+}
+},
+{
+"tweet_id": "1725063403948097604",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Opinion-based tweet about Ethereum and Cardano, which may resonate within the crypto community."
+},
+"informative_value": {
+"score": 3,
+"justification": "Primarily opinion-based with minimal verifiable information."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "Negative sentiment towards Ethereum."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days as it's a personal opinion on a current topic."
+}
+}
+},
+{
+"tweet_id": "1724651439069282800",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Meme about Ethereum's state, likely to be shared within the crypto community."
+},
+"informative_value": {
+"score": 3,
+"justification": "Minimal information; primarily a meme without detailed context."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "Negative sentiment towards Ethereum."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days as it's a meme tied to current events."
+}
+}
+},
+{
+"tweet_id": "1724588794387612138",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Personal experience about onboarding friends to Solana vs Ethereum, which may resonate within the crypto community."
+},
+"informative_value": {
+"score": 5,
+"justification": "Provides some useful information about user experience with wallets."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment towards Solana and Phantom wallet."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevant for a few weeks as it's a niche topic."
+}
+}
+},
+{
+"tweet_id": "1724452398276477003",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Breaking news about a significant financial move involving Bitcoin and Ethereum, likely to be widely shared."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides critical, verifiable information about a major acquisition."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive sentiment about the adoption of cryptocurrencies."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "Remains relevant for weeks as the acquisition is discussed and analyzed."
+}
+}
+}
+]

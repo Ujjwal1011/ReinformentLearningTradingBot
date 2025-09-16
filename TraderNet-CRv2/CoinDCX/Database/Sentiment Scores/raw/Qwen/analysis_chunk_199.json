@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1732143110518603784",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "The tweet is a personal update about an NFT image, which may be shared within a niche community but lacks broader appeal."
+},
+"informative_value": {
+"score": 4,
+"justification": "Provides information about the availability of an NFT image but lacks depth or context."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral tone, simply stating facts without strong emotion."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant only to those interested in the specific NFT, with short-term interest."
+}
+}
+},
+{
+"tweet_id": "1732142593100874142",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "News about an ETF delay may be shared among crypto enthusiasts but not widely beyond that."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides specific information about the SEC's decision, though not from a primary source."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral presentation of facts."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days as news about ETFs is time-sensitive."
+}
+}
+},
+{
+"tweet_id": "1732140926275883467",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Announcement of a major product launch with relevant hashtags, likely to be shared widely within the crypto community."
+},
+"informative_value": {
+"score": 7,
+"justification": "Informs about a significant launch with potential future impact."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive and exciting tone about the launch."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Remains relevant for days as the launch is a notable event."
+}
+}
+},
+{
+"tweet_id": "1732139873182585292",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "Discussion about crypto platforms, likely shared within a niche audience."
+},
+"informative_value": {
+"score": 5,
+"justification": "Provides an opinion on crypto platforms without detailed information."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral discussion of opinions."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant only to those interested in the specific platforms discussed."
+}
+}
+},
+{
+"tweet_id": "1732139278594126336",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Market analysis that may be shared among crypto traders."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides specific price targets and market analysis."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive outlook on Ethereum's price."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for weeks as market trends evolve."
+}
+}
+},
+{
+"tweet_id": "1732138394132554213",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "News about ETF delays, shared among crypto investors but not widely beyond."
+},
+"informative_value": {
+"score": 6,
+"justification": "Informs about a significant market event."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive spin on the delay's impact."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevant for a few days as news about ETFs is time-sensitive."
+}
+}
+},
+{
+"tweet_id": "1732138363438694540",
+"analysis": {
+"virality_potential": {
+"score": 3,
+"justification": "Discussion about Ethereum's fundamentals, shared within a niche audience."
+},
+"informative_value": {
+"score": 5,
+"justification": "Provides an opinion on Ethereum's valuation."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral discussion of opinions."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevant only to those interested in Ethereum's valuation."
+}
+}
+},
+{
+"tweet_id": "1732136389066543454",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Predictions about ETFs may be shared among crypto enthusiasts."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides a prediction about future ETFs."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "Positive tone about upcoming ETFs."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevant for a few weeks as it's a prediction for 2024."
+}
+}
+},
+{
+"tweet_id": "1732135996471509502",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Same prediction as above but with higher engagement, indicating potential for wider sharing."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides a prediction with a link to more information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive and confident tone about ETFs."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Relevant for weeks as it's a prediction for 2024."
+}
+}
+},
+{
+"tweet_id": "1732134555711353219",
+"analysis": {
+"virality_potential": {
+"score": 2,
+"justification": "Sale announcement with low engagement, unlikely to be widely shared."
+},
+"informative_value": {
+"score": 4,
+"justification": "Provides information about a specific NFT sale."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral announcement of a sale."
+},
+"duration_of_impact": {
+"score": 2,
+"justification": "Immediately relevant only to those tracking this specific NFT."
+}
+}
+}
+]

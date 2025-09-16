@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1549711356668026882",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet poses a question that could spark discussion within the cryptocurrency community, but it's not likely to go viral beyond that niche."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet is a personal opinion without providing any new information or educational content."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, expressing a preference without strong positive or negative emotions."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is limited to the cryptocurrency community and may generate discussion for a few days."
+}
+}
+},
+{
+"tweet_id": "1549558331517259776",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The thread provides valuable information for new users, which could be shared within Ethereum and crypto communities."
+},
+"informative_value": {
+"score": 9,
+"justification": "The tweet offers comprehensive advice on avoiding scams, which is highly informative and useful."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The sentiment is positive, as the user is helping others by providing educational content."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "The thread addresses a timeless topic, making it relevant for a long time."
+}
+}
+},
+{
+"tweet_id": "1549518634690699265",
+"analysis": {
+"virality_potential": {
+"score": 9,
+"justification": "Announcing a major milestone for Ethereum could attract significant attention and engagement."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides important information about an upcoming announcement, which is valuable for the Ethereum community."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The sentiment is very positive, expressing excitement and anticipation."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet's impact will last for several days as people discuss the upcoming announcement."
+}
+}
+},
+{
+"tweet_id": "1549299822947192832",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The poll format encourages engagement, but the topic is speculative and may not go viral beyond Ethereum enthusiasts."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet is a poll without providing any new information or educational content."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, presenting a question without expressing a strong opinion."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is tied to the short-term price movement of Ethereum."
+}
+}
+},
+{
+"tweet_id": "1549268276152500225",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The announcement of a pre-alpha version could attract attention within the Ethereum and developer communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "The tweet provides important information about a new product release, which is valuable for developers and enthusiasts."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The sentiment is positive, expressing excitement about the release."
+},
+"duration_of_impact": {
+"score": 7,
+"justification": "The tweet's impact will last for several weeks as people discuss and test the new product."
+}
+}
+},
+{
+"tweet_id": "1549176605792256002",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet is a news update that could be shared within the cryptocurrency community."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides factual information about Ethereum's market cap, which is useful for investors."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The sentiment is positive, celebrating Ethereum's performance."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to the short-term market movement of Ethereum."
+}
+}
+},
+{
+"tweet_id": "1549144549762662409",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet is a link without much context, which may not drive significant engagement."
+},
+"informative_value": {
+"score": 5,
+"justification": "The tweet provides a link to information about Ethereum pre-mine, which is somewhat informative."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tweet is neutral, simply sharing a link without expressing a strong opinion."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The tweet's relevance is tied to the specific event mentioned, which may be discussed for a few days."
+}
+}
+},
+{
+"tweet_id": "1549085077036056583",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The tweet is a personal opinion that may not drive significant engagement beyond Ethereum enthusiasts."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet is a personal opinion without providing any new information or educational content."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The sentiment is positive, expressing optimism about Ethereum's price."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is tied to the short-term price movement of Ethereum."
+}
+}
+},
+{
+"tweet_id": "1549070709816688644",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet is a reaction to a public figure's statement, which could drive engagement within the cryptocurrency community."
+},
+"informative_value": {
+"score": 4,
+"justification": "The tweet provides context about Jim Cramer's comments but lacks detailed information."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The sentiment is positive, celebrating Ethereum's performance despite criticism."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to the specific event mentioned, which may be discussed for a few days."
+}
+}
+},
+{
+"tweet_id": "1549065009128681472",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet is a strong opinion that could spark debate within the cryptocurrency community."
+},
+"informative_value": {
+"score": 3,
+"justification": "The tweet is an opinion without providing any new information or educational content."
+},
+"sentiment_polarity": {
+"score": 4,
+"justification": "The sentiment is moderately negative, expressing frustration with regulatory involvement."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to the ongoing debate about cryptocurrency regulation."
+}
+}
+}
+]

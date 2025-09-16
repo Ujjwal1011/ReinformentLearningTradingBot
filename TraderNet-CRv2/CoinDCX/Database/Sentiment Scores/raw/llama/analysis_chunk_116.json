@@ -1,0 +1,212 @@
+[
+{
+"tweet_id": "1544064502269988865",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet combines a specific event (Eid-Al-Adha) with a unique aspect (5,555 Saudis coming to the Ethereum blockchain), making it moderately to highly shareable within specific communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "The tweet provides some useful information about an event related to Ethereum, but its primary focus is promotional, reducing its informative score."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The overall tone is positive and anticipatory, with the use of 'coming' and the audio element, indicating excitement."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The tweet's relevance is tied to the event on July 9th, making its impact relatively short-term."
+}
+}
+},
+{
+"tweet_id": "1544016872445820928",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The giveaway format, with clear instructions and a time limit, is highly engaging and likely to be shared within the NFT and Ethereum communities."
+},
+"informative_value": {
+"score": 5,
+"justification": "While the tweet informs about a giveaway, its primary purpose is promotional, providing neutral informative value."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "The tone is very positive, using celebratory language ('FIRST', 'Lucky Winner', 'Awesome roadmap') and enthusiastic emojis."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "The tweet's relevance is limited to the 24-hour giveaway period."
+}
+}
+},
+{
+"tweet_id": "1543900052703219712",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The 'FUN FACT' is moderately interesting but lacks a strong hook for widespread sharing."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides a specific, verifiable piece of historical information about Ethereum's price."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, simply presenting a fact without emotional leaning."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "While the fact itself is timeless, its presentation as a '5 years ago today' event limits its long-term engagement potential."
+}
+}
+},
+{
+"tweet_id": "1543684139697819648",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet's provocative nature, comparing the author's success to others' failures, might generate shares within crypto communities."
+},
+"informative_value": {
+"score": 3,
+"justification": "Primarily expresses the author's sentiment rather than providing informative content."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The tone is very negative towards others ('gone into hiding'), contrasting with the author's positive stance on themselves."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevance is tied to the current state of the mentioned projects, limiting its long-term impact."
+}
+}
+},
+{
+"tweet_id": "1543634759716200448",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The comparison, while visually engaging, lacks a strong narrative for widespread sharing."
+},
+"informative_value": {
+"score": 8,
+"justification": "Provides a clear, data-driven comparison between Ethereum and Solana's NFT volumes."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, presenting data without emotional leaning."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The data's relevance depends on the frequency of updates to the NFT volumes."
+}
+}
+},
+{
+"tweet_id": "1543605088916324354",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The relatable, humorous take on Ethereum's price drop could generate shares within the crypto community."
+},
+"informative_value": {
+"score": 2,
+"justification": "Primarily a personal, emotional response rather than informative content."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "The tone is moderately negative, reflecting on a personal loss due to Ethereum's price drop."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevance is tied to the current and near-future state of Ethereum's price."
+}
+}
+},
+{
+"tweet_id": "1543591384602533888",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "The unexpected connection between a crypto music video and a well-known figure (Mark Zuckerberg's sister) is highly shareable."
+},
+"informative_value": {
+"score": 4,
+"justification": "Provides some context but is primarily focused on the surprising connection rather than informative content."
+},
+"sentiment_polarity": {
+"score": 6,
+"justification": "The tone is moderately positive, with a hint of sarcasm ('and you didnt sell??'), but overall playful."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The novelty of the connection gives it a moderate duration of relevance."
+}
+}
+},
+{
+"tweet_id": "1543493578927656960",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "The update on Ethereum's transfer fee, while useful, lacks a strong hook for widespread sharing."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides specific, up-to-date, and verifiable information about Ethereum's transfer fee."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, presenting factual information without emotional leaning."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevance is tied to the immediacy of the fee update."
+}
+}
+},
+{
+"tweet_id": "1543432135989727234",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The statistic about Ethereum investors might generate some shares within crypto communities due to its surprising nature."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides a specific, verifiable statistic about Ethereum investors."
+},
+"sentiment_polarity": {
+"score": 2,
+"justification": "The tone is very negative, highlighting a significant percentage of investors being in loss."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Relevance is tied to the current state of Ethereum and its investors."
+}
+}
+},
+{
+"tweet_id": "1543269443341623296",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The ranking of cryptocurrencies by Twitter followers is moderately interesting and could generate shares within the crypto community."
+},
+"informative_value": {
+"score": 9,
+"justification": "Provides a clear, data-driven ranking of cryptocurrencies based on Twitter followers."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "The tone is neutral, presenting data without emotional leaning."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "The data's relevance depends on the frequency of updates to the follower counts."
+}
+}
+} 
+]

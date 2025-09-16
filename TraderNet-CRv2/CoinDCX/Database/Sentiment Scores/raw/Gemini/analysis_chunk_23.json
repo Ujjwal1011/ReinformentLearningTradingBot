@@ -1,0 +1,1052 @@
+[
+  {
+    "tweet_id": "1545985708858302464",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet discusses the highly anticipated Ethereum Merge, presented as an engaging thread (0/11), which has strong potential to be widely shared within the crypto community due to its significance."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "It promises detailed information (10 important characteristics) about a major upcoming event (Ethereum Merge) that will significantly impact a vast number of users and investors."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The language 'most powerful catalysts' and the anticipation around the Merge convey a very positive and optimistic outlook."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "The Ethereum Merge is a monumental and foundational event for the crypto world. Discussions and the tweet's relevance will extend for years as its implications unfold."
+      }
+    }
+  },
+  {
+    "tweet_id": "1545900968600129541",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Presents an intriguing 'FUN FACT' with a comparison to traditional financial institutions, sparking interest and sharing within and beyond the crypto community."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific, verifiable comparative market cap data, which is highly informative for the target audience interested in crypto and finance."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The term 'FUN FACT' implies a positive and celebratory tone regarding Ethereum's performance and significant market cap."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "While a 'fun fact,' market caps are dynamic. The specific comparison might become outdated, but the general strength of Ethereum as a topic remains relevant for a medium term."
+      }
+    }
+  },
+  {
+    "tweet_id": "1545891360993075200",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High-value NFT bids generate significant excitement and discussion within the NFT and crypto art communities, often leading to broad sharing due to the eye-catching dollar amount."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific, real-time data about an NFT transaction, including the asset, bid amount in ETH and USD, and the bidder, making it highly informative for market trackers."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet is largely factual but implies excitement and significance around the high bid, which is generally seen as positive within the NFT community."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "NFT bids are newsworthy for a short period. While the sale might be referenced later, the immediate impact of a 'new bid' is fleeting as new bids and sales occur."
+      }
+    }
+  },
+  {
+    "tweet_id": "1545839937853050881",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "A controversial and strong statement from a well-known figure (Michael Saylor) about a major cryptocurrency's regulatory status will inevitably spark intense debate and widespread sharing."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Reports a significant opinion/statement from an influential CEO regarding the regulatory classification of Ethereum, which is newsworthy and has implications for the market."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "The quoted statement ('Ethereum is a security, it’s pretty obvious') has a moderately negative implication for Ethereum's status, even if presented factually by the tweeter."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The debate around whether cryptocurrencies are securities is an ongoing, long-term discussion, and influential statements like this will be referenced for weeks or months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1545751305687293954",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "'JUST IN' and a 'new all-time high' for a key metric like addresses signals significant growth and positive news, making it highly shareable within the crypto community."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides specific, verifiable, and highly relevant data ('new all-time high' for total Ethereum addresses), making it a strong piece of informative content for crypto enthusiasts."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Reaching an 'all-time high' for a positive metric like addresses is universally viewed as positive news in the crypto space."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "While a new all-time high is significant, it's a snapshot. Its immediate impact lasts for days, but it contributes to an ongoing narrative of growth over weeks to months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1545568324276391938",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Highly relatable meme content within the crypto community, tapping into common experiences of market volatility and advising family members, making it very shareable."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "This is a meme conveying a personal anecdote, providing no factual or newsworthy information, beyond implicitly referencing a past market condition."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Expresses a sense of regret or irony associated with poor investment timing, which is a moderately negative/self-deprecating sentiment."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Meme-based content usually has a standard lifespan, generating discussion for a day or two before fading, though the underlying sentiment is evergreen in crypto."
+      }
+    }
+  },
+  {
+    "tweet_id": "1545264376994844672",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "'JUST IN' and the reclaiming of a significant market cap milestone is positive news for the crypto community, encouraging shares."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides a specific and newsworthy market statistic, informing the audience about Ethereum's recent performance."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Reclaiming a significant market cap figure is generally perceived as positive news, indicating recovery or strength in the market."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Market cap figures are highly dynamic. This news is relevant for a few hours to a day, as the market constantly fluctuates."
+      }
+    }
+  },
+  {
+    "tweet_id": "1545173135367888896",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Announcing a new product with significant benefits ('VPN for Ethereum,' 'complete privacy,' 'huge cost savings,' 'ridiculously bullish') taps into major user needs and generates high interest and shares, especially with a link."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides detailed information about a new technological launch (Aztec Connect), its benefits, a personal use case, and links to further details, making it highly informative for tech-savvy users."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Extremely positive language ('complete privacy,' 'huge cost savings,' 'ridiculously bullish') expresses strong excitement and optimism for the new product and its impact on Ethereum."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "The launch of a new, impactful technology like a 'VPN for Ethereum' has long-term relevance. It will be discussed for months as adoption grows and its implications are understood."
+      }
+    }
+  },
+  {
+    "tweet_id": "1544709397858947073",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Significant progress towards the highly anticipated Ethereum Merge is major news for the crypto community, generating high interest and sharing among investors and developers."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides critical, factual updates on the technical progress of the Ethereum Merge, detailing a successful testnet transition and the remaining steps."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The news of a 'successfully transitions' and only '1 more test left' creates a highly positive and anticipatory sentiment around the Merge."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "This is a major milestone for the Ethereum Merge, a foundational change. Its significance will be remembered and referenced for a very long time as part of the Merge's history."
+      }
+    }
+  },
+  {
+    "tweet_id": "1544346244876754945",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "NFT giveaway/free mints, especially tied to a cultural event (Eid) and boasting permanence on Ethereum, are highly viral within the NFT and crypto communities, evidenced by high engagement."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Informs about an upcoming free NFT mint, its platform (Ethereum), and occasion. It's project-specific marketing, but provides actionable information for interested parties."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Highly positive due to the announcement of a 'free Eid mint' and the strong language like 'live forever,' creating excitement and perceived value."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The immediate buzz around a free mint and specific event is short-lived. While the NFTs themselves might persist, the tweet's active relevance fades quickly after the mint."
+      }
+    }
+  },
+  {
+    "tweet_id": "1544064502269988865",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "This is a strong promotional push for an NFT project launch, leveraging a cultural event and clear numbers, making it highly shareable for anticipation, with very high engagement metrics."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides details about an NFT project launch, including date, quantity, and blockchain. It's primarily promotional but offers useful information for potential participants."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The tweet is highly promotional and builds excitement for the NFT launch, implying positive sentiment and anticipation among the target audience."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Tied to a specific launch date. Its primary impact will be around that day, quickly fading as the event passes."
+      }
+    }
+  },
+  {
+    "tweet_id": "1544016872445820928",
+    "analysis": {
+      "virality_potential": {
+        "score": 10,
+        "justification": "NFT giveaways with clear entry requirements (follow, retweet, tag friends) and a short deadline are designed for explosive, immediate virality, especially when promoting a 'free mint' project with an 'awesome roadmap' and 'crazy community.' Very high engagement confirms this."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific details about an NFT giveaway, including prizes, entry rules, and some promotional information about the project itself (free mint, roadmap, community)."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Extremely positive, using celebratory emojis (🎉🎊), promising 'Lucky Winner,' highlighting 'free mint,' 'awesome roadmap,' and 'crazy community' to generate excitement."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Explicitly limited to '24 HOURS,' making its direct impact and relevance extremely short-lived, fading quickly after the giveaway period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1543900052703219712",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "A 'FUN FACT' about historical crypto prices often garners significant interest and shares, especially when highlighting substantial growth or change over time, appealing to nostalgia or FOMO."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific, verifiable historical price data for Ethereum, which is highly informative for investors and crypto enthusiasts tracking long-term trends."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Highlighting past lower prices compared to current often evokes a positive/nostalgic sentiment for early investors or regret for those who missed out, but generally positive in the context of growth."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "While a historical data point, its 'today in history' relevance is fleeting. The specific price point becomes less relevant quickly, though the general trend can be discussed longer."
+      }
+    }
+  },
+  {
+    "tweet_id": "1543684139697819648",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "A provocative and controversial statement from a crypto founder during a market downturn, directly referencing failed projects and rival founders, is highly likely to generate significant debate and sharing."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "While it references specific events and individuals, it's primarily an opinionated, self-congratulatory statement rather than factual reporting or educational content."
+      },
+      "sentiment_polarity": {
+        "score": 1,
+        "justification": "The sentiment is largely negative, gloating over the failures of others ('other founders have gone into hiding,' referencing #Celsius, #Luna, #Blockfi failures), despite the self-proclaimed 'glory.'"
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The tweet's impact is tied to ongoing discussions about the crypto market downturn and the failures of specific projects, which can remain relevant for weeks to months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1543634759716200448",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "A direct comparison of two major NFT ecosystems' volumes often sparks interest and discussion within the NFT community, encouraging shares, especially with a visual aid."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Presents comparative data (presumably visualized in the linked image) on NFT volume for two major blockchains, offering useful insights for market analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is presented factually, simply comparing data without expressing a strong emotional bias, allowing readers to draw their own conclusions."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "NFT volume is a dynamic metric. While the comparison is interesting, its immediate relevance fades as new data emerges, though the general rivalry is ongoing."
+      }
+    }
+  },
+  {
+    "tweet_id": "1543605088916324354",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Highly relatable and self-deprecating meme content for crypto investors experiencing a bear market, likely to resonate widely within the community and generate shares."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "A personal reaction to market conditions, not providing new factual or educational content, though it implicitly references a verifiable market downturn."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Expresses personal disappointment or resignation related to financial loss ('down 80%'), indicating a moderately negative, self-deprecating sentiment."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Meme's relevance lasts a few days, especially during an ongoing market trend, but the specific tweet eventually fades as new memes or market conditions arise."
+      }
+    }
+  },
+  {
+    "tweet_id": "1543591384602533888",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Highly critical, sarcastic, and relatable content targeting peak market euphoria and subsequent regret, tapping into strong emotions and likely to be widely shared."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Mentions historical price points and a cultural reference, but primarily to frame a critical opinion, not to provide new factual information."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Sarcastic and critical tone, implying disappointment and regret for not selling at market peaks, which is a moderately negative sentiment."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "While tied to specific past events, the underlying theme of market bubbles, hype, and regret is evergreen in crypto and will resonate for months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1543493578927656960",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "'JUST IN' and news of significantly lower fees ('19-month low') for Ethereum is highly positive and shareable for its user base, as it directly impacts usability."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides specific, verifiable, and highly relevant data point (transfer fee, 19-month low, date) about a critical aspect of Ethereum's usability."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "A drop in transfer fees to a multi-month low is overwhelmingly positive news for users and the ecosystem, indicating improved affordability."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Fee data is dynamic. While a 19-month low is notable, its 'low' status can change quickly, making its immediate relevance somewhat short-lived, but the general trend can be discussed longer."
+      }
+    }
+  },
+  {
+    "tweet_id": "1543432135989727234",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "A striking and negative statistic about a major cryptocurrency's investor base (80% in loss) will generate strong reactions and widespread sharing due to fear, uncertainty, or schadenfreude."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides a specific and potentially verifiable statistic about the financial status of a large segment of Ethereum investors, which is highly informative for market watchers."
+      },
+      "sentiment_polarity": {
+        "score": 1,
+        "justification": "The information conveyed ('Over 80% of investors... are currently in loss') is extremely negative for investors and the asset itself."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "While market conditions change, a statistic like '80% in loss' reflects a significant downturn whose implications and discussions can persist for weeks or months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1543269443341623296",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Lists and ranks popular cryptocurrencies by a social metric (Twitter followers), which is highly engaging and shareable for crypto enthusiasts, especially if their preferred coin is high on the list."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides a detailed, factual list of top cryptocurrencies by Twitter followers with specific numbers and date, making it highly informative and verifiable social metric data."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Presents factual data (a list and ranking) without a strong emotional tone, though followers might have positive feelings for higher-ranked coins."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Ranking by followers is a snapshot for a specific date. Its relevance will diminish quickly as follower counts change and new rankings are published."
+      }
+    }
+  },
+  {
+    "tweet_id": "1543240782433468418",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "An interesting 'FUN FACT' about a specific financial metric for Ethereum miners can generate some shares, particularly within the mining and investment communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides specific, verifiable financial data (miner revenue for a specific month) for Ethereum, making it highly informative for those interested in the ecosystem's economics."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Presented as a 'FUN FACT,' the revenue figure is generally positive for the mining community, though the tweet itself is factual and objective."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "A monthly revenue figure is time-sensitive. Its relevance diminishes quickly as new monthly reports are released, though it contributes to historical data."
+      }
+    }
+  },
+  {
+    "tweet_id": "1542949819223662592",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "'BREAKING' news about a major mainstream platform (Facebook) integrating NFTs from two major blockchains is a huge story for crypto, signifying mainstream adoption and generating massive interest and shares. The second line adds humor and relatability."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides critical, newsworthy information about a significant development in NFT and social media integration from a major company, with high impact potential."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The news itself is very positive for the crypto and NFT space, indicating mainstream adoption. The playful second line also adds a positive, humorous tone."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "A major platform's integration of NFTs represents a significant shift and will be discussed for months or years as it rolls out and impacts the broader adoption of Web3."
+      }
+    }
+  },
+  {
+    "tweet_id": "1542810351691087873",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "A short, enthusiastic announcement from a key figure ('CEO, Polygon Foundation') about a significant event (implied by the link) will generate strong excitement and sharing within the Polygon and broader crypto community."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "While vague in text, it signals an important event and links to a source, providing crucial context for those who follow Polygon and prompting them to click."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Extremely positive and excited ('It's happeninggggg'), conveying strong anticipation and good news, particularly for the 'Polygon fam.'"
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The impact depends on the linked content. If it's a major development, its relevance could last for weeks, but the tweet itself is a pre-announcement which quickly leads to the content."
+      }
+    }
+  },
+  {
+    "tweet_id": "1565098693904179205",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "'JUST IN' news about a major exchange supporting the Ethereum Merge is critical for investors and traders, ensuring a high level of sharing due to its direct impact on their assets."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides a highly important, verifiable, and actionable piece of information directly from a major exchange regarding its support for a foundational blockchain event."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "A major exchange's confirmation of support for the Merge is overwhelmingly positive news, reducing uncertainty and fostering confidence in the ecosystem."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "While a 'JUST IN' announcement, the support from Binance US for the Merge is an important, sustained factor for market stability and will be referenced for weeks/months as the Merge approaches and executes."
+      }
+    }
+  },
+  {
+    "tweet_id": "1565031323894353920",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Explicit, humorous, and provocative content (especially with the implied image) can gain traction and spread within niche communities for its shock value and humor, but not broadly."
+      },
+      "informative_value": {
+        "score": 0,
+        "justification": "This is purely a crude, opinion-based joke, providing no factual or educational content whatsoever."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "While crude, it's intended as humor rather than pure negativity or positivity; it's more irrelevant than overtly positive/negative in its impact on the general audience."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Humorous/meme content usually has a short lifespan, relevant for a few hours to a day, before quickly fading from public attention."
+      }
+    }
+  },
+  {
+    "tweet_id": "1565030915348303873",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Important update from a major scaling solution (Arbitrum) about a successful migration that impacts Ethereum users, generating relief and positive engagement within the community."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides clear, verifiable, and crucial information about the completion of a technical migration and the resumption of service, important for users and developers."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Extremely positive tone, announcing successful completion ('complete,' 'resumed! 🚀✅'), expressing gratitude ('thank the community'), and using positive emojis, indicating relief and progress."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The completion of a major migration has relevance for days to weeks as users verify and discuss the new state, and the migration contributes to the platform's long-term history."
+      }
+    }
+  },
+  {
+    "tweet_id": "1564841463736782848",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "'JUST IN' news from a highly influential figure (Vitalik Buterin) announcing a book on a critical topic (Proof-of-Stake) will generate significant interest and sharing within the crypto and tech communities."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides clear, newsworthy information about a significant upcoming publication from a primary source, relevant to the future of Ethereum and PoS."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The announcement of a new book from Vitalik on an important topic is generally met with positive anticipation and interest from the community."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The book's release and its content will be discussed for weeks and months, especially given the ongoing significance of the Proof-of-Stake topic for Ethereum."
+      }
+    }
+  },
+  {
+    "tweet_id": "1564607992548540422",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "A seemingly simple, relatable statement from a user whose handle 'vatilik.eth' implies a parody/meme account for Vitalik. The high engagement despite its simplicity suggests it resonated as a humorous, understated comment on a major, widely anticipated event."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "This is a personal, abstract thought, providing no new factual or educational information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Ambiguous sentiment; it could be neutral, pensive, or even slightly humorous in its understatement, especially coming from a meme account."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "As a fleeting thought/meme, its immediate virality is high, but the specific tweet's relevance will quickly fade, though the 'Ethereum Merge' topic itself has a long impact."
+      }
+    }
+  },
+  {
+    "tweet_id": "1564458813616295937",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "A critical 'Reminder' from Vitalik Buterin, the founder, about essential actions (updating clients) before major, time-sensitive events (hard fork, Merge) directly affecting users' assets, will be shared broadly and urgently."
+      },
+      "informative_value": {
+        "score": 10,
+        "justification": "Provides critical, actionable, and time-sensitive instructions directly from the founder for maintaining network participation and asset security during the Ethereum Merge."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Primarily factual and instructional, but the urgency ('Make sure to update') and the importance of the event create a moderately serious and helpful positive tone."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The information is crucial for a specific, imminent period (weeks leading up to and during the Merge), after which its direct actionability declines, but it will be referenced for a while regarding merge preparedness."
+      }
+    }
+  },
+  {
+    "tweet_id": "1564339850735718406",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Uses '🚨🚨' for urgency, names a celebrity (Steve Aoki), and talks about 'profit on an NFT,' which creates significant buzz and sharing within the celebrity, NFT, and crypto trading communities."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Alerts to a specific NFT transaction involving a celebrity but lacks broader context or educational value beyond that specific event. It's more sensational than informative."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The tone is exciting and sensational, focusing on potential profit, which is generally positive in a speculative market."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Tied to a specific, short-lived event (an NFT transaction). While celebrity involvement can extend the discussion slightly, its relevance fades quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1564288006898458627",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "An official and urgent announcement from the official Ethereum account about critical dates and actions for the highly anticipated Merge ensures widespread dissemination and attention."
+      },
+      "informative_value": {
+        "score": 10,
+        "justification": "Provides extremely high-value, precise, and actionable technical information (upgrade schedule, TTD value, expected dates, official link) directly from the primary source about the Ethereum Merge."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Primarily factual and urgent, but the overall context of the Merge's progress implies a strong positive and anticipatory sentiment for the community."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "This information is crucial and highly relevant for the weeks leading up to the Merge, serving as a primary reference point during this significant transition period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1563955156743438336",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "'JUST IN' news with a massive, tangible number ($3.86 billion burned Ethereum) is a highly significant and positive metric for the crypto community, driving strong sharing."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides specific, verifiable, and highly relevant data (amount and value of Ethereum burned) related to a major protocol upgrade (EIP-1559)."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "The burning of a large amount of Ethereum is widely viewed as a very positive development for the asset's scarcity and value."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "While the number updates, this cumulative statistic is a long-term indicator of EIP-1559's impact, remaining relevant for months or even years as a key metric."
+      }
+    }
+  },
+  {
+    "tweet_id": "1563815413707833345",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "A generic greeting with an image/link. While a large account might get some likes, it lacks intrinsic drivers for widespread sharing."
+      },
+      "informative_value": {
+        "score": 0,
+        "justification": "A simple social greeting, providing no factual or educational content."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "A 'Good morning' is a common positive social greeting, conveying a pleasant tone."
+      },
+      "duration_of_impact": {
+        "score": 1,
+        "justification": "Purely a social greeting tied to a specific time of day, losing all relevance instantly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1563713718902558720",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Major news from a highly influential figure (CZ Binance) about mainstream financial institutions (Visa, Mastercard) enabling crypto payments is a massive story for the entire crypto space, guaranteeing very high virality."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides highly significant, verifiable information about major financial players enabling cryptocurrency payments, with a link to a detailed article, indicating a major shift."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Extremely positive language ('The Future Is Here,' 'Making ... Payments A Reality') signals a massive step forward for crypto adoption, eliciting strong excitement."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Mainstream adoption by Visa and Mastercard is a foundational shift that will be discussed and have long-term implications for years to come."
+      }
+    }
+  },
+  {
+    "tweet_id": "1563556579768938496",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "News about two massive, potentially market-moving events (Mt. Gox BTC release and Ethereum ICO unlocks) happening on the same day creates extreme anticipation, fear, and excitement, leading to very high virality. The '👀' emojis amplify this."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides critical, time-sensitive, and highly impactful information about two major events that could significantly affect crypto markets and investor holdings."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The information itself is neutral, but the implications are mixed – potential for market impact could be negative (sell-off pressure) or positive (new funds entering). The tweet hints at the significance rather than explicitly positive/negative."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Highly relevant for the days surrounding 'tomorrow,' as the market reacts to these events. The aftermath will be discussed for weeks, but the direct impact of the announcement is short-term."
+      }
+    }
+  },
+  {
+    "tweet_id": "1563366682697281536",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "From a famous digital artist (beeple). While short, his tweets often generate significant engagement due to his reputation and the implied art/concept linked, especially if it's provocative or visually striking."
+      },
+      "informative_value": {
+        "score": 1,
+        "justification": "The text provides no factual information; it's an artistic statement, likely referring to the linked image, and requires external context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Ambiguous. It's an artistic statement, not inherently positive or negative without context of the linked image or further explanation."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "An art piece by a famous artist can generate discussion for a few days, potentially longer if it becomes iconic, but the tweet itself is likely short-lived."
+      }
+    }
+  },
+  {
+    "tweet_id": "1562873091234996224",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "A positive endorsement from a high-profile billionaire (Mark Cuban) about a major crypto event (Ethereum Merge) lends credibility and generates significant interest and sharing within and beyond crypto circles."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Reports a newsworthy statement from a public figure about his stance on a significant technological transition in crypto."
+      },
+      "sentiment_polarity": {
+        "score": 8,
+        "justification": "Mark Cuban being a 'fan' unequivocally expresses a very positive sentiment towards the Ethereum Merge and its implications."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "While a celebrity endorsement, its direct impact might last for days to weeks. The Merge itself is long-term, but this specific comment's news cycle is shorter."
+      }
+    }
+  },
+  {
+    "tweet_id": "1562627394820722689",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "'FUN FACT' about a critical, time-sensitive milestone (final upgrade before the Merge) for Ethereum generates significant interest and sharing, especially for those involved in the ecosystem."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides specific, verifiable, and highly important information about the schedule of a critical upgrade leading up to the Ethereum Merge."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The 'FUN FACT' frames the news positively, and the progress towards the Merge is a very positive development for the community."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The information is highly relevant for the weeks leading up to September 6th, and then becomes a historical milestone of the Merge, referenced in future discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1561666150991335431",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "A direct comparison of two global brands' NFT performance on Ethereum, especially with stark figures, creates high interest and competitive discussion, driving strong sharing."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides specific, verifiable, and highly relevant financial data comparing two major brands' NFT revenues, citing a source, making it valuable market analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Presents factual comparative data. While some might feel positive about Nike's performance or negative about Adidas', the tweet itself is neutral."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Comparative brand performance data remains relevant for weeks or months, becoming a benchmark for discussion on brand strategy in NFTs."
+      }
+    }
+  },
+  {
+    "tweet_id": "1561115106703921152",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Addresses a common misconception about the Ethereum Merge, and the slightly negative/disappointing news ('will not reduce gas fees :(') can spark debate and widespread sharing among a large user base."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides an important clarification about the technical capabilities and limitations of the Ethereum Merge, correcting a widespread misunderstanding."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "The information conveyed (no gas fee reduction) is disappointing for many users, indicated by the ':(' emoji, making it moderately negative."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "This clarification will be relevant for months as the Merge approaches and executes, as people continue to discuss its impacts."
+      }
+    }
+  },
+  {
+    "tweet_id": "1560683605206220800",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "A dramatic, personal announcement of selling all ETH due to significant concerns (insider control, government intervention) will ignite strong debate, fear, and widespread sharing among the crypto community."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Expresses a personal opinion and action based on perceived issues, but the 'information' about 'changing rules' and 'government intervention' is presented as a personal interpretation rather than verified news."
+      },
+      "sentiment_polarity": {
+        "score": 1,
+        "justification": "Expresses strong negative sentiment, distrust, and despair ('threatening to abandon,' 'not waiting any longer,' 'selling all my ETH') regarding Ethereum's future."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "A strong, public exit from a major crypto asset, particularly citing specific concerns, can fuel ongoing debates about Ethereum's decentralization and regulatory risks for weeks or months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1560665770816081920",
+    "analysis": {
+      "virality_potential": {
+        "score": 10,
+        "justification": "Classic giveaway mechanics (like, RT, follow, tag friends) are designed for maximum, immediate virality, especially when offering desirable NFTs. The high engagement confirms this."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides clear, actionable information about participating in a giveaway, including entry rules and specific prizes, which is useful for interested participants."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Highly positive and exciting, explicitly stating 'A good day for a giveaway 😌' and listing attractive prizes to generate enthusiasm and participation."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "A giveaway has a very short, time-limited impact. Once the winners are announced, its relevance quickly diminishes."
+      }
+    }
+  },
+  {
+    "tweet_id": "1560643202025136128",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Expressing a provocative 'unpopular opinion' about a major asset's price bottom, especially a significantly lower one, will generate intense debate and sharing among traders and investors."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "This is a speculative price prediction and opinion, not verifiable factual information, though it pertains to a highly relevant topic for investors."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Predicting a significantly lower price bottom ($300 vs $1000) for ETH suggests a moderately negative outlook for the asset in the short term."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Price predictions, especially 'unpopular' ones, can fuel ongoing market discussions for weeks or months, until the market proves or disproves the prediction."
+      }
+    }
+  },
+  {
+    "tweet_id": "1560570981738958855",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "A highly critical, controversial, and in-depth analysis (implied by '🧵👇') from a well-known figure accusing Ethereum of fundamental flaws and predicting 'regulatory capture' will spark massive debate and sharing."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Presents a detailed critical analysis and argument about Ethereum's design choices and the potential negative consequences of the Merge, offering a counter-narrative to mainstream views."
+      },
+      "sentiment_polarity": {
+        "score": 0,
+        "justification": "Expresses intense negative sentiment, accusing Ethereum of 'problems,' 'regulatory capture,' and declaring 'no way out,' indicating a highly critical and pessimistic outlook."
+      },
+      "duration_of_impact": {
+        "score": 9,
+        "justification": "Fundamental critiques about a blockchain's design, decentralization, and regulatory risks, especially concerning a major event like the Merge, are evergreen topics that will be debated for months and years."
+      }
+    }
+  },
+  {
+    "tweet_id": "1560340754077306880",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Similar to previous ranking tweets, a list of top cryptocurrencies by social media presence is highly engaging and shareable for crypto enthusiasts who follow these assets."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides specific, verifiable data on the Twitter follower counts of top cryptocurrencies, dated clearly, offering valuable social metric insights for the crypto community."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Presents factual ranking data without a strong emotional tone, though followers will naturally feel positive about their coin's position on the list."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "A ranking based on dynamic follower counts for a specific date has a short lifespan. Its immediate relevance fades as new data emerges."
+      }
+    }
+  },
+  {
+    "tweet_id": "1560271759328260130",
+    "analysis": {
+      "virality_potential": {
+        "score": 10,
+        "justification": "Combines strong giveaway mechanics (follow, like, RT, tag friends), promotional language ('Revolutionary,' 'World 1st'), and clear incentives, making it highly effective for immediate, explosive virality. Very high engagement metrics."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides details about an NFT giveaway, including mint date, unique features of the NFT, and specific entry requirements, offering useful information for interested participants."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Extremely positive, using celebratory emojis (🏆🎟), highlighting 'Revolutionary,' 'World 1st' features, and offering prizes to generate strong excitement and enthusiasm."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Primarily driven by the giveaway, which has a very short, time-limited relevance around the mint date. The innovative features might be discussed longer, but the tweet's active impact is brief."
+      }
+    }
+  },
+  {
+    "tweet_id": "1560068622621491201",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "A highly controversial and inflammatory statement attributed to Vitalik Buterin, explicitly wishing harm upon another crypto community ('deserve to be wrecked'), will generate massive outrage, debate, and widespread sharing."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Reports a significant and controversial quote/opinion attributed to a major figure, providing newsworthy information about inter-crypto community dynamics and Vitalik's stance."
+      },
+      "sentiment_polarity": {
+        "score": 0,
+        "justification": "The attributed quote ('deserve to be wrecked by the government') is extremely negative, hateful, and divisive. The tweeter also expresses disappointment, reinforcing the negative tone."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Controversial statements from prominent figures, especially those that spark inter-community feuds, can remain relevant and be referenced in debates for months."
+      }
+    }
+  },
+  {
+    "tweet_id": "1560049658457513985",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "A tweet from Vitalik Buterin about regulatory fairness and pushing back against privilege, especially concerning Ethereum, will be highly influential and shared widely across the crypto policy and ethics communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides insight into Vitalik Buterin's stance on regulatory issues affecting Ethereum and other cryptocurrencies, which is newsworthy and contributes to policy discussions."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Expresses positive sentiment ('Glad to see') towards efforts for regulatory fairness and against privilege, indicating support for broader crypto equality and a principled stance."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Regulatory debates and principles of fairness are fundamental and long-term issues in the crypto space. A statement from Vitalik on this will be referenced for months or years in policy discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1560035176562016262",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "An official statement from a major NFT entity (Yuga Labs) about its stance on a potential Ethereum PoW fork and its implications for NFT utility is critical news for the NFT and Ethereum communities, ensuring widespread sharing."
+      },
+      "informative_value": {
+        "score": 10,
+        "justification": "Provides crucial, official, and actionable information directly from a leading NFT developer (Yuga Labs) regarding its policy on the Ethereum Merge and potential forks, which has direct financial and operational impact for NFT holders."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "While it addresses a potential split, the clear stance provides certainty and aligns with the PoS Merge, which is generally seen as a positive and unifying move for the main Ethereum ecosystem."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Yuga Labs' policy decision on the Ethereum PoW fork will have long-term implications for the value and utility of NFTs, and will be discussed and referenced for months or years as a precedent."
+      }
+    }
+  },
+  {
+    "tweet_id": "1559972466402988037",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Reaching a significant milestone ('surpassed 2 million') for a key Ethereum ecosystem project (ENS) is positive news that will be shared widely within the community interested in Web3 identity."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides a specific, verifiable, and highly relevant growth metric ('surpassed 2 million') for the Ethereum Name Service, indicating significant adoption and ecosystem health."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Reaching a major milestone in registrations is a clear positive indicator of growth and adoption for ENS and the Ethereum ecosystem."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "While a specific milestone, it contributes to an ongoing narrative of ENS growth and its increasing importance, relevant for weeks to months as the project continues to develop and achieve new milestones."
+      }
+    }
+  }
+]

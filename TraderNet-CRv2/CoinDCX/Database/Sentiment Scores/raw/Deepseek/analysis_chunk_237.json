@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1767243677825458295",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Meme-style commentary about blockchain transactions could resonate within crypto communities, but lacks universal appeal for broader virality."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "Contains no factual information - purely a humorous remark about Ethereum transaction costs."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral tone with implied criticism through sarcasm, but no overt emotional language."
+      },
+      "duration_of_impact": {
+        "score": 2,
+        "justification": "Joke-based content with very short relevance window tied to current gas fee discussions."
+      }
+    }
+  },
+  {
+    "tweet_id": "1767221258759045387",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Technical breakdown of major Ethereum upgrade likely to be widely shared within crypto communities ahead of implementation."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides substantive information about network upgrades with clear educational value for Ethereum users."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral explanatory tone without positive/negative framing of the upgrade details."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Will remain relevant through upgrade implementation and subsequent performance analysis period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1767212277285969979",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Major funding announcement combined with technical claims about blockchain performance has high share potential in crypto circles."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Newsworthy funding information with specific technical details about blockchain architecture."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive tone through words like 'excited' and emphasis on technological achievements."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Funding news will drive discussion through product development cycle, but may fade after initial announcement."
+      }
+    }
+  },
+  {
+    "tweet_id": "1767177208869839307",
+    "analysis": {
+      "virality_potential": {
+        "score": 9,
+        "justification": "Major regulatory development from traditional financial institution will drive widespread sharing across crypto/finance communities."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Concrete information about institutional crypto adoption with clear market implications."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting style without explicit positive/negative framing."
+      },
+      "duration_of_impact": {
+        "score": 8,
+        "justification": "Will remain relevant through ETN approval process and subsequent market impacts."
+      }
+    }
+  },
+  {
+    "tweet_id": "1767133352266506543",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Breaking news format about institutional crypto adoption ensures high shareability despite being duplicate information."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Repeats critical information about traditional finance integration with crypto assets."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement style without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Similar impact duration to related ETN announcements, though slightly diminished by being second report."
+      }
+    }
+  },
+  {
+    "tweet_id": "1767100835929128990",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Concise announcement format suitable for retweets, but lacks exclusive information for higher virality."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Repeats key regulatory development information but without additional context or analysis."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral statement of fact without emotional content."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Third repetition of same news reduces its individual impact duration."
+      }
+    }
+  },
+  {
+    "tweet_id": "1767044294710538269",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Controversial take on Ethereum scaling solutions likely to drive engagement within crypto communities."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific comparison data about transaction costs between networks."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative framing of Ethereum's limitations contrasted with promotion of alternative solution."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Contribution to ongoing debate about layer 2 solutions gives it medium-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1767010626684256555",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Emotional appeal about Ethereum fees could resonate but lacks novel information for broader sharing."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Uses anecdotal examples but lacks concrete data about actual fee structures."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Strong negative language ('how much it must suck') criticizing network costs."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Part of ongoing fee discussion with standard relevance window."
+      }
+    }
+  },
+  {
+    "tweet_id": "1766956377719861335",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Engagement-bait question format about topical issue could drive replies/retweets within crypto community."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Poses speculative question without providing any factual information."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Implied negative perspective through focus on high fees as inevitable problem."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevance tied to current gas fee levels rather than lasting discussion."
+      }
+    }
+  },
+  {
+    "tweet_id": "1766956138065703067",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Engagement-driven format ('click like') combined with topical issue could drive significant interaction."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Promotes alternative solution but lacks technical details about implementation."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Negative framing of Ethereum's current state through focus on high costs."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "Adds to ongoing layer 2 discussion but without unique long-term value."
+      }
+    }
+  }
+]

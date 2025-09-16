@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1450259807831617543",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Personal investment strategy shared by a well-followed crypto influencer; likely to resonate within the crypto community but not expected to go globally viral."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet shares a personal viewpoint rather than verifiable facts or data."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The user expresses confidence in altcoins, indicating a positive tone."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The statement may remain relevant for crypto traders over the medium term but will eventually fade as market conditions change."
+      }
+    }
+  },
+  {
+    "tweet_id": "1450244524694024196",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Bold prediction that could spark discussion among crypto enthusiasts, potentially leading to shares within the community."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "The tweet offers a speculative opinion rather than verifiable information."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet conveys optimism about the future of these assets."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The claim may be relevant for a period as the market develops but will eventually become outdated."
+      }
+    }
+  },
+  {
+    "tweet_id": "1450082988046393355",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "A strong call to action that may resonate with traders, but lacks broader news context."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "The tweet offers a speculative recommendation without supporting evidence."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The tweet encourages action, reflecting a positive tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "The relevance is tied to a specific event, making it short-lived."
+      }
+    }
+  },
+  {
+    "tweet_id": "1449864478451912706",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "The tweet makes a provocative claim that could generate discussion within the crypto community."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "The tweet highlights a real issue (high gas fees) but does not provide data or sources."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "The tweet expresses frustration and a negative view of high gas fees."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "High gas fees remain a recurring concern, keeping the tweet relevant for an extended period."
+      }
+    }
+  },
+  {
+    "tweet_id": "1449862975129407490",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet offers a perspective that may resonate with NFT holders and spark discussion."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "The tweet expresses an opinion about NFT value rather than providing factual data."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "The tweet expresses mild criticism but overall remains neutral."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The discussion about long-term value vs. short-term trading remains relevant for the foreseeable future."
+      }
+    }
+  }
+]

@@ -1,0 +1,107 @@
+[
+{
+"tweet_id": "1732059889109745673",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "The tweet promotes a service that wraps ETH and BTC with lower fees and uses popular hashtags (#Ethereum #Bitcoin). While it may attract interest within the crypto community, it lacks a strong emotional hook or breaking news, giving it medium virality potential."
+},
+"informative_value": {
+"score": 6,
+"justification": "It provides factual information about a new wrapping service and lower fees, including a link for more details. The content is promotional rather than in-depth, placing it in the medium range."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tone is upbeat and encouraging, using positive language like \"lower fees\" and \"Join us\", indicating a moderately positive sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "As a promotional tweet about a specific service, its relevance is likely limited to a short period (hours to a few days) before it becomes outdated."
+}
+}
+},
+{
+"tweet_id": "1732059631776592275",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet uses a rhetorical question, emojis, and hashtags (#Ethereum #BTC #PulseChain) to attract attention, but it is primarily a promotional message without a broader hook, giving it neutral virality potential."
+},
+"informative_value": {
+"score": 3,
+"justification": "It claims PulseChain is \"way cheaper\" but provides no data or context, offering minimal factual information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The tweet conveys enthusiasm about cheaper fees, using positive emojis and language, reflecting a moderately positive sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "The promotional nature means its relevance will likely fade within a day or two as newer offers appear."
+}
+}
+},
+{
+"tweet_id": "1732059252217582003",
+"analysis": {
+"virality_potential": {
+"score": 2,
+"justification": "The tweet announces a niche NFT adoption with specific transaction details, appealing mainly to collectors, resulting in very low virality potential."
+},
+"informative_value": {
+"score": 6,
+"justification": "It provides concrete data: token ID, price in ETH and USD, and buyer address, which is useful for tracking the NFT market."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The use of emojis like \"💥\" and enthusiastic phrasing conveys a positive tone."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Transaction announcements are typically relevant only for a short window (hours to a day) before they become historical."
+}
+}
+},
+{
+"tweet_id": "1732056942703481312",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "The tweet announces an AI art sale with relevant hashtags (#AIart #AIartist) and an emoji, which may attract the AI art community but lacks a broader viral hook."
+},
+"informative_value": {
+"score": 6,
+"justification": "It shares specific details about the sale: item number, buyer, and price in ETH, offering useful factual information."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "The celebratory language and emoji \"🎨\" indicate a moderately positive sentiment."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "While of interest to collectors, the relevance of a single sale is short-lived, likely lasting a few days."
+}
+}
+},
+{
+"tweet_id": "1732054073921228809",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "The tweet provides a thoughtful commentary on Ethereum's role versus Bitcoin, using strong language that could resonate within crypto debates, giving it medium‑high virality potential."
+},
+"informative_value": {
+"score": 6,
+"justification": "It offers analysis about Ethereum's decentralized app layer and L2s, delivering useful insight beyond a simple opinion, placing it in the medium range."
+},
+"sentiment_polarity": {
+"score": 8,
+"justification": "The tone is strongly positive toward Ethereum, praising its unique value and framing it as a win, reflecting very positive sentiment."
+},
+"duration_of_impact": {
+"score": 8,
+"justification": "Discussions about Ethereum's strategic position are evergreen and may be referenced for months, giving the tweet a long duration of impact."
+}
+}
+}
+]

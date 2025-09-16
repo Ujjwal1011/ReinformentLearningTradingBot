@@ -1,0 +1,128 @@
+[
+{
+"tweet_id": "1764439614448869747",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Bold analogy comparing crypto assets to gold/oil with a dramatic wealth transfer claim likely to generate excitement within crypto communities."
+},
+"informative_value": {
+"score": 5,
+"justification": "Opinion-based statement about crypto's role rather than providing new factual information."
+},
+"sentiment_polarity": {
+"score": 9,
+"justification": "Strong positive sentiment expressed through superlatives like 'greatest wealth transfer in history'."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Crypto comparison debates have medium-term relevance but may fade with market cycles."
+}
+}
+},
+{
+"tweet_id": "1764379331290436018",
+"analysis": {
+"virality_potential": {
+"score": 4,
+"justification": "Technical update primarily relevant to Ethereum developers with limited mass appeal."
+},
+"informative_value": {
+"score": 6,
+"justification": "Provides specific software version information and RPC improvements for developers."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral technical announcement without emotional language."
+},
+"duration_of_impact": {
+"score": 3,
+"justification": "Relevance limited until next software update supersedes this version."
+}
+}
+},
+{
+"tweet_id": "1764237667309326461",
+"analysis": {
+"virality_potential": {
+"score": 7,
+"justification": "Large USDT transaction amount attracts attention in crypto tracking communities."
+},
+"informative_value": {
+"score": 8,
+"justification": "Specific, verifiable on-chain transaction data with blockchain explorer link."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral reporting of transaction data without emotional context."
+},
+"duration_of_impact": {
+"score": 4,
+"justification": "Transaction alerts typically remain relevant for 24-48 hours in crypto markets."
+}
+}
+},
+{
+"tweet_id": "1763602745720775005",
+"analysis": {
+"virality_potential": {
+"score": 6,
+"justification": "Limited-time promotion could drive engagement within NFT communities."
+},
+"informative_value": {
+"score": 6,
+"justification": "Announces specific platform policy changes and feature extensions."
+},
+"sentiment_polarity": {
+"score": 7,
+"justification": "Positive tone emphasizing user experience improvements and extended benefits."
+},
+"duration_of_impact": {
+"score": 5,
+"justification": "Relevance tied to promotion duration and subsequent platform updates."
+}
+}
+},
+{
+"tweet_id": "1763585856189702325",
+"analysis": {
+"virality_potential": {
+"score": 8,
+"justification": "Controversial financial personality's ETF endorsement likely to spark debates."
+},
+"informative_value": {
+"score": 7,
+"justification": "Reports newsworthy commentary about potential financial product development."
+},
+"sentiment_polarity": {
+"score": 3,
+"justification": "Mocking tone through phrases like 'Sorry .eth dudes... it's over' indicates negative sentiment toward subject."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "ETF-related discussions maintain relevance until regulatory decisions occur."
+}
+}
+},
+{
+"tweet_id": "1763576465428521076",
+"analysis": {
+"virality_potential": {
+"score": 5,
+"justification": "Technical bridge information primarily relevant to existing token holders."
+},
+"informative_value": {
+"score": 7,
+"justification": "Provides practical information about multi-chain accessibility and fee reduction options."
+},
+"sentiment_polarity": {
+"score": 5,
+"justification": "Neutral instructional content without emotional language."
+},
+"duration_of_impact": {
+"score": 6,
+"justification": "Bridge information remains relevant as long as network congestion persists."
+}
+}
+}
+]

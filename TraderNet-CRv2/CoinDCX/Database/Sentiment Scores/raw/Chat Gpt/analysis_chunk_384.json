@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1732181119800615210",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet offers a concise crypto performance comparison that may resonate within the crypto community, but it lacks a hook or breaking news element that would drive mass viral sharing."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "It provides factual data on several cryptocurrencies’ performance over a year, giving readers a quick snapshot of market trends."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The tone is mildly positive, highlighting a good opportunity for certain tokens, but overall remains neutral and informational."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The relevance of the performance data will fade after a few weeks as new market data emerges, giving it a short to medium lifespan."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732181091572719713",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "A news update about NFT creators facing a threat can spark interest within the NFT community, but it is not a universal hook for broader audiences."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "It alerts followers to a specific threat and links to further details, providing useful information for those following the NFT space."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tweet is neutral, simply stating a fact without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The threat may remain relevant for weeks as the situation develops, giving it a medium-term impact."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732181048015098351",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "A Vietnamese guide to a specific DEX will attract a niche audience, but it lacks a universal hook for widespread sharing."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet offers a detailed tutorial and overview of Bebop, providing substantial educational content."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral, focusing on information rather than emotion."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The guide will remain useful for a longer period as users continue to use the platform, giving it a medium to long lifespan."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732180705411555725",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "The tweet’s hook about saving thousands on IPFS migration may attract interest, but it is a niche marketing message."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "It claims a cost advantage but lacks verifiable data, providing limited factual information."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "The message is positively framed, encouraging readers to consider the service."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The relevance will diminish as the migration trend evolves, giving it a short to medium lifespan."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732180228162584635",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "A crypto news update about ckETH can generate interest within the crypto community, but it is not a universal viral trigger."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "It provides details on transaction speed, collateral ratio, and milestones, offering useful information to followers."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "The tweet is positively framed, highlighting a major milestone and potential."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The update will remain relevant for weeks as the technology develops, giving it a medium-term impact."
+      }
+    }
+  }
+]

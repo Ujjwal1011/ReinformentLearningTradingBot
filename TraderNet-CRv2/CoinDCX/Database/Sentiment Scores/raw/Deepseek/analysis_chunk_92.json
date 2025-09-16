@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1526724640994906113",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Market cap milestones are newsworthy in crypto communities and likely to be shared, but limited to niche audiences."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides a clear factual update about Ethereum's market performance with specific figures."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral announcement without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Market cap figures fluctuate daily; relevance lasts until next major market movement."
+      }
+    }
+  },
+  {
+    "tweet_id": "1526681603010871296",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Surprising industry commentary likely to spark discussion among crypto enthusiasts."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Speculative statement about Vitalik's focus without verifiable evidence."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral observation with implied criticism through irony."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Tied to a transient 2022 prediction with limited long-term relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1526634062944903168",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Critical take on Ethereum's technical challenges may resonate in developer communities."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Opinion-based critique with linked analysis rather than new facts."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Moderately negative tone questioning Ethereum's decentralization."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Addresses ongoing debates about blockchain scalability and decentralization."
+      }
+    }
+  },
+  {
+    "tweet_id": "1526420435897810949",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "Provocative claims about blockchain hierarchy designed to spark debate and shares."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Opinionated comparison without supporting data or context."
+      },
+      "sentiment_polarity": {
+        "score": 9,
+        "justification": "Strong positive sentiment toward Cardano with celebratory language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Blockchain rivalries persist, but specific price claims may age quickly."
+      }
+    }
+  },
+  {
+    "tweet_id": "1526413115621052416",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Controversial hot-take format listing multiple criticisms likely to be shared."
+      },
+      "informative_value": {
+        "score": 5,
+        "justification": "Mix of opinion and unverified claims about various blockchain projects."
+      },
+      "sentiment_polarity": {
+        "score": 2,
+        "justification": "Very negative tone criticizing multiple crypto projects."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Snapshot critique of May 2022 market conditions with transient relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1526398917461835776",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Comparative price analysis with moderate engagement potential."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides specific percentage changes in crypto prices with timeframe context."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral presentation of investment performance data."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Price comparisons become outdated with market fluctuations."
+      }
+    }
+  },
+  {
+    "tweet_id": "1526378791898992640",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "High-profile developer's critical introspection likely to drive significant discussion."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Important technical insight about Ethereum's security assumptions from its creator."
+      },
+      "sentiment_polarity": {
+        "score": 4,
+        "justification": "Moderately negative tone highlighting protocol design concerns."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Fundamental protocol design discussions remain relevant long-term."
+      }
+    }
+  },
+  {
+    "tweet_id": "1526339577069375489",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Major exchange feature update relevant to Ethereum ecosystem participants."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific announcement about product development from a known entity."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral reporting of product testing."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Feature releases influence user behavior until superseded by new updates."
+      }
+    }
+  },
+  {
+    "tweet_id": "1526317789480423428",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Provocative comparison between blockchains likely to spark reactions."
+      },
+      "informative_value": {
+        "score": 3,
+        "justification": "Opinionated statement without supporting arguments."
+      },
+      "sentiment_polarity": {
+        "score": 3,
+        "justification": "Moderately negative implication about Ethereum's direction."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Short-lived meme-style commentary."
+      }
+    }
+  },
+  {
+    "tweet_id": "1526314566879158282",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Major corporate partnership news with broad crypto industry implications."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Specific announcement about infrastructure development from a tech company."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Moderately positive tone about Ethereum ecosystem growth."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "Corporate blockchain participation has medium-term relevance for network development."
+      }
+    }
+  }
+]

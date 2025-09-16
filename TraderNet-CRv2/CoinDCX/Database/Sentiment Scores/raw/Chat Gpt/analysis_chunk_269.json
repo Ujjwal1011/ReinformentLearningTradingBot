@@ -1,0 +1,107 @@
+[
+  {
+    "tweet_id": "1567591882208706563",
+    "analysis": {
+      "virality_potential": {
+        "score": 8,
+        "justification": "The tweet poses a provocative question comparing a popular smartphone to a major blockchain event, likely to spark debate and shares among a broad audience. The large Binance account and high engagement metrics further indicate strong viral potential."
+      },
+      "informative_value": {
+        "score": 2,
+        "justification": "The tweet is a rhetorical question with no new factual information, offering little educational or news value."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral, simply posing a question without strong emotional language."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "The relevance is tied to a specific event (Ethereum merge) and a product release (iPhone 14), making it most relevant for a few days to weeks."
+      }
+    }
+  },
+  {
+    "tweet_id": "1567498603169554432",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "News about Binance US adding Ethereum staking is of interest to the crypto community and may be shared within that niche, but the account size is moderate, so viral reach is limited."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "The tweet provides a factual update about a new feature, giving readers concrete information about Binance US's offerings."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The statement is neutral, presenting information without emotional language."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The new staking support will remain relevant for weeks or months as users adopt the feature."
+      }
+    }
+  },
+  {
+    "tweet_id": "1567422312336736256",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Announcement of SEBA Bank launching Ethereum staking for institutional clients targets a specific audience; shares may be limited to institutional and crypto circles."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "The tweet delivers a factual update about a new institutional service, providing useful information to stakeholders."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral, simply reporting the development."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "The service introduction will stay relevant for a significant period as institutional clients evaluate and use it."
+      }
+    }
+  },
+  {
+    "tweet_id": "1567220827757707264",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Highlighting the environmental impact of Ethereum's merge can attract broad attention, especially among eco-conscious audiences, increasing share potential."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "The tweet offers a specific claim (99.91% emission reduction) backed by a source, making it highly informative."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral, presenting data without emotive language."
+      },
+      "duration_of_impact": {
+        "score": 7,
+        "justification": "The environmental benefit of the merge will be a lasting point of discussion for months, sustaining relevance."
+      }
+    }
+  },
+  {
+    "tweet_id": "1567114938992463873",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "A technical update about the Bellatrix upgrade is likely to be shared mainly within the Ethereum community, giving it moderate viral potential."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "The tweet informs readers that the upgrade went live and the merge is imminent, providing timely factual information."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "The tone is neutral, simply stating facts."
+      },
+      "duration_of_impact": {
+        "score": 5,
+        "justification": "The upgrade and upcoming merge are short-term events, so the tweet's relevance will fade after a few days to weeks."
+      }
+    }
+  }
+]

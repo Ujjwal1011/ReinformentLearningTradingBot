@@ -1,0 +1,212 @@
+[
+  {
+    "tweet_id": "1732035257380319427",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Promotional content targeting a specific community with emojis and hashtags, likely to be shared within the Ethereum and NFT communities."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Provides information about an ongoing event but is primarily promotional."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive sentiment with encouraging language and emojis."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant until December 13th, with limited long-term impact."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732033817668419636",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Job opportunity tweet, likely shared within specific professional circles."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides a job lead with a direct link."
+      },
+      "sentiment_polarity": {
+        "score": 6,
+        "justification": "Positive and encouraging tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevant until the job is filled."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732026089424167184",
+    "analysis": {
+      "virality_potential": {
+        "score": 7,
+        "justification": "Announcement for a specific audience with a clear call to action."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Clear and relevant information about a Layer 2 solution."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive and anticipatory tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for days as it's a product launch."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732025880023535939",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Technical details about Kaspa, likely shared within the crypto community."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides detailed information about Kaspa's features."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive and factual tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for weeks as it's about project features."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732022554670288915",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "Promotional giveaway with specific steps, likely shared within the Traverse community."
+      },
+      "informative_value": {
+        "score": 4,
+        "justification": "Provides information about a giveaway but is promotional."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive and encouraging tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevant until the giveaway ends."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732020881579282556",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Promotional content in Spanish, relevant to a specific audience."
+      },
+      "informative_value": {
+        "score": 6,
+        "justification": "Provides information about a developer pack with a link."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive and encouraging tone."
+      },
+      "duration_of_impact": {
+        "score": 3,
+        "justification": "Relevant for a short period as it's a promotional offer."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732019183775359153",
+    "analysis": {
+      "virality_potential": {
+        "score": 5,
+        "justification": "News about a notable company's crypto investments, likely shared within financial circles."
+      },
+      "informative_value": {
+        "score": 8,
+        "justification": "Provides news about crypto investments with a link."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment, informative without strong emotion."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for days as it's about investments."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732010903942598972",
+    "analysis": {
+      "virality_potential": {
+        "score": 3,
+        "justification": "Technical discussion about charts, likely shared within crypto communities."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides context about a chart comparison."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment, informative without strong emotion."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a short period as it's about a specific chart."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732009566039138792",
+    "analysis": {
+      "virality_potential": {
+        "score": 4,
+        "justification": "Hypothetical discussion, likely shared within crypto regulatory circles."
+      },
+      "informative_value": {
+        "score": 7,
+        "justification": "Provides a thought-provoking hypothetical scenario."
+      },
+      "sentiment_polarity": {
+        "score": 5,
+        "justification": "Neutral sentiment, informative without strong emotion."
+      },
+      "duration_of_impact": {
+        "score": 4,
+        "justification": "Relevant for a short period as it's a discussion starter."
+      }
+    }
+  },
+  {
+    "tweet_id": "1732008606277484825",
+    "analysis": {
+      "virality_potential": {
+        "score": 6,
+        "justification": "Announcement about a new project on Tezos, likely shared within the Ethereum community."
+      },
+      "informative_value": {
+        "score": 9,
+        "justification": "Provides clear information about Etherlink's features."
+      },
+      "sentiment_polarity": {
+        "score": 7,
+        "justification": "Positive and anticipatory tone."
+      },
+      "duration_of_impact": {
+        "score": 6,
+        "justification": "Relevant for weeks as it's about a future launch."
+      }
+    }
+  }
+]
